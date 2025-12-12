@@ -2,6 +2,7 @@ import pandas as pd
 import numpy as np
 import json
 import random
+import time
 from datetime import datetime as dt
 from tensorflow import keras
 from tensorflow.keras import layers
@@ -440,8 +441,59 @@ def simulateSeason(df):
         matches[row["matchFile"]] = matchArray
     return matches
 
+def monteCarlo(df, numIterations=10000, iterOutputNumber=0,loadFile=False):
+    CLEAN_SHEET_JSON_NAME = "monteCarlo_CS.json"
+    PLAYER_GOALS_JSON_NAME = "monteCarlo_PG.json"
+    if loadFile:
+        with open(CLEAN_SHEET_JSON_NAME, "r") as f:
+            cleanSheets = json.load(f)
+        with open(PLAYER_GOALS_JSON_NAME, "r") as f:
+            playerGoals = json.load(f)
+    else:
+        startTime = time.time()
+        cleanSheets = {}
+        playerGoals = {}
+        for iter in range(numIterations):
+            matches = simulateSeason(df)
+            for fixture, matchArray in matches.items():
+                home = fixture[:3]
+                away = fixture[3:]
 
+                data = cleanSheets.get(fixture, {home:0,away:0})
 
+                data[home] += len(list(filter(lambda obj: obj["team"] == home,matchArray))) == 0
+                data[away] += len(list(filter(lambda obj: obj["team"] == away,matchArray))) == 0
+
+                cleanSheets[fixture] = data
+
+                for entry in matchArray:
+                    data = playerGoals.get(entry["name"], {})
+                    data[fixture] = data.get(fixture,0) + entry["goalsScored"]
+                    playerGoals[entry["name"]] = data
+                
+            if iterOutputNumber != 0 and (iter+1) % iterOutputNumber == 0:
+                currentTime = time.time()
+                secondsTaken = currentTime - startTime
+                fractionComplete = (iter+1)/numIterations
+                predictedSeconds = secondsTaken/fractionComplete
+                print(f"We have completed {iter+1} iterations in {secondsTaken} seconds ({fractionComplete*100}%). Predicted completed in {predictedSeconds-secondsTaken} seconds ({(predictedSeconds-secondsTaken)/60} minutes)")
+        
+        cleanSheets = {fixture:{teamName:value/numIterations for teamName, value in dataObj.items()} for fixture, dataObj in cleanSheets.items()}
+        playerGoals = {playerName:{matchFixture: value/numIterations for matchFixture, value in dataObj.items()} for playerName, dataObj in playerGoals.items()}
+
+        with open(CLEAN_SHEET_JSON_NAME,"w") as f:
+            json.dump(cleanSheets,f)
+        with open(PLAYER_GOALS_JSON_NAME,"w") as f:
+            json.dump(playerGoals,f)
+
+    return cleanSheets, playerGoals
+            
+
+NUM_CARLO_ITERS = 10000
+cs, pg = monteCarlo(df,NUM_CARLO_ITERS,int(NUM_CARLO_ITERS/100))
+print(cs)
+print(pg)
+exit()
 
 gameStats = sorted(gameStats,key=lambda obj: dt.strptime(obj["date"],"%b %d, %Y").timestamp())
 X_CS, y_CS, indexLookup_CS = buildInputsCS(gameStats)
