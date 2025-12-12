@@ -195,6 +195,8 @@ def trainModelPG(X,y):
 
     xTrain, xTest, yTrain, yTest = train_test_split(X,y,test_size=0.2,random_state=RANDOM_SEED)
     
+    indexes = getTestSequence(X, xTest)
+
     model_PG = keras.Sequential([
         layers.Dense(400, activation='relu', input_shape=(X.shape[1],)),
         layers.Dense(400, activation='relu'),
@@ -219,7 +221,7 @@ def trainModelPG(X,y):
         model_PG.save_weights(f"fpl_wdl_model_pg.weights.h5")'''
     
     model_PG.load_weights(f"fpl_wdl_model_pg.weights.h5")
-    return model_PG
+    return model_PG, indexes
     diffs = []
     for i, prediction in enumerate(predictions):
         diffs.append([abs(y[i][j] - pred) for j, pred in enumerate(prediction)])
@@ -244,7 +246,14 @@ def trainModelPG(X,y):
     plt.title("The Average Difference between each predicted Metric and the true metric")
     plt.hist(averageDiffs,10, density=True)
     plt.show()
-    
+
+def getTestSequence(unsplitArray: np.ndarray, testArray: np.ndarray):
+    unsplitArray = unsplitArray.tolist()
+    testArray = testArray.tolist()
+    indexes = []
+    for item in testArray:
+        indexes.append(unsplitArray.index(item))
+    return indexes
 
 def trainModelCS(X,y):
 
@@ -253,6 +262,8 @@ def trainModelCS(X,y):
 
 
     xTrain, xTest, yTrain, yTest = train_test_split(X,y,test_size=0.2,random_state=RANDOM_SEED)
+
+    indexes = getTestSequence(X, xTest)
 
     model_CS = keras.Sequential([
         layers.Dense(400, activation='relu', input_shape=(X.shape[1],)),
@@ -279,7 +290,7 @@ def trainModelCS(X,y):
     model.save_weights(f"fpl_wdl_model_cs.weights.h5")'''
     MARGIN_OF_ERROR = 0.1
     model_CS.load_weights(f"fpl_wdl_model_cs.weights.h5")
-    return model_CS
+    return model_CS, indexes
     predictions = model_CS.predict(xTest)
     count = 0
     boxWhiskersInput = []
@@ -312,7 +323,8 @@ def buildInputsPG(playerNames):
 
     MAX_BENCH_PLAYER_TRAINS = 0
     benchPlayers = 0
-
+    count = 0
+    globalIndexLookup = {}
     for player in playerNames:
         dfPlayer = df[df["name"] == player].sort_values(by=["GW"])
         dfPlayer["isHome"] = dfPlayer.apply(lambda row: DATA_TO_MY_ABBRV[row["team"]] == row["matchFile"][:3], axis=1)
@@ -340,17 +352,21 @@ def buildInputsPG(playerNames):
                 continue
             playerXInputs.append(obj["X"])
             playerYInputs.append(obj["y"])
+            globalIndexLookup[count] = {"name":player,"match":row["matchFile"]}
+            count += 1
 
         
         X_PG += playerXInputs
         y_PG += playerYInputs
-    return X_PG, y_PG
+    return X_PG, y_PG, globalIndexLookup
 
-def buildInputsCS():
+def buildInputsCS(gameStats):
     ROLLING_SIZE_CS = 11
 
     X_CS = []
     y_CS = []
+    count = 0
+    globalIndexLookup = {}
     for team in MY_ABBRV_TO_DATA:
         teamStats = list(filter(lambda obj: obj["home"] == team or obj["away"] == team,gameStats))
         teamID = TEAM_IDS[MY_ABBRV_TO_DATA[team]]
@@ -377,10 +393,12 @@ def buildInputsCS():
                 obj["X"] += data
             teamXInputs.append(obj["X"])
             teamYInputs.append(obj["y"])
+            globalIndexLookup[count] = game["home"]+game["away"]
+            count += 1
         X_CS += teamXInputs
         y_CS += teamYInputs
     
-    return X_CS, y_CS
+    return X_CS, y_CS, globalIndexLookup
 
 #sanitiseDf()
 
@@ -395,7 +413,7 @@ with open(SCRAPED_GAMES,"r", encoding="UTF-8") as f:
         obj["home_cleanSheet"] = obj["distribution"]["awayXG"][0]
         obj["away_cleanSheet"] = obj["distribution"]["homeXG"][0]
         gameStats.append(obj)
-gameStats = sorted(gameStats,key=lambda obj: dt.strptime(obj["date"],"%b %d, %Y").timestamp())
+
 
 #for each input
 #10 prior game data - elo diff, home or not, probability of keeping a clean sheet
@@ -408,16 +426,38 @@ def getEloData(teamID):
         eloData = [eloObj["teamElo"] for eloObj in obj["matches"]]
     return eloData
 
+def simulateSeason(df):
+    matches = {}
+
+    df = df[df["goals_scored_distribution"].str["0"] != 1]
+
+    for i, row in df.iterrows():
+        playerDistribution = row["goals_scored_distribution"]
+        goalsScored = int(random.choices(list(playerDistribution.keys()), weights=list(playerDistribution.values()))[0])
+        matchArray = matches.get(row["matchFile"], [])
+        if goalsScored != 0:
+            matchArray.append({"name":row["name"], "goalsScored":goalsScored, "team": DATA_TO_MY_ABBRV[row["team"]]})
+        matches[row["matchFile"]] = matchArray
+    return matches
 
 
-#trainModelCS(X_CS,y_CS)
+
+
+gameStats = sorted(gameStats,key=lambda obj: dt.strptime(obj["date"],"%b %d, %Y").timestamp())
+X_CS, y_CS, indexLookup_CS = buildInputsCS(gameStats)
+
+model_CS, indexes_CS = trainModelCS(X_CS,y_CS)
+
+for index in indexes_CS:
+    print(index, indexLookup_CS[index])
+
+
 
 playerNames = set(df["name"])
-#X_PG, y_PG = buildInputsPG(playerNames)
-#X_CS, y_CS = buildInputsCS()
+X_PG, y_PG, indexLookup_PG = buildInputsPG(playerNames)
 
-#model_CS = trainModelCS(X_CS,y_CS)
-#model_PG = trainModelPG(X_PG,y_PG)
+model_PG, indexes_PG = trainModelPG(X_PG,y_PG)
+
 
 '''testNames = list(set(df["name"]))
 
