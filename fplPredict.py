@@ -296,6 +296,91 @@ def trainModelCS(X,y):
     plt.legend()
     plt.show()
 
+def buildInputsPG(playerNames):
+    ROLLING_SIZE_PG = 11
+    MAX_MINS_PER_GAME = 90
+
+    X_PG = []
+    y_PG = []
+
+    #predicting goals scored
+    #position (isGk, isDef, isMid, isFwd)
+    #team elos diff
+    #history of expected goals scored (0,1,2,3+) + team elos
+    #percentage mins played
+    #isHome
+
+    MAX_BENCH_PLAYER_TRAINS = 0
+    benchPlayers = 0
+
+    for player in playerNames:
+        dfPlayer = df[df["name"] == player].sort_values(by=["GW"])
+        dfPlayer["isHome"] = dfPlayer.apply(lambda row: DATA_TO_MY_ABBRV[row["team"]] == row["matchFile"][:3], axis=1)
+        dfPlayer["minutes"] = dfPlayer.apply(lambda row: row["minutes"]/MAX_MINS_PER_GAME, axis=1)
+        dfPlayer["eloHomeData"] = dfPlayer.apply(lambda row: getEloData(TEAM_IDS[MY_ABBRV_TO_DATA[row["matchFile"][:3]]]), axis=1)
+        dfPlayer["eloAwayData"] = dfPlayer.apply(lambda row: getEloData(TEAM_IDS[MY_ABBRV_TO_DATA[row["matchFile"][3:]]]), axis=1)
+        
+        
+        playerXInputs = []
+        playerYInputs = []
+        for i in range(ROLLING_SIZE_PG,len(dfPlayer)+1):
+            currentSlice = dfPlayer[i-ROLLING_SIZE_PG:i].reset_index()
+
+            obj = {"X":[dfPlayer["position"].iloc[0] == "GK", dfPlayer["position"].iloc[0] == "DEF", dfPlayer["position"].iloc[0] == "MID", dfPlayer["position"].iloc[0] == "FWD"],"y":[]}
+
+            for j, row in currentSlice.iterrows():
+                obj["X"] += [row["isHome"], (row["eloAwayData"][row["GW"]-1] - row["eloHomeData"][row["GW"]-1])*-1**(row["isHome"])]
+                if j + 1 < len(currentSlice):
+                    obj["X"] += [row["minutes"], *row["goals_scored_distribution"].values()]
+                else:
+                    obj["y"] += row["goals_scored_distribution"].values()
+            
+            benchPlayers += obj["y"][0] == 1
+            if benchPlayers > MAX_BENCH_PLAYER_TRAINS and obj["y"][0] == 1:
+                continue
+            playerXInputs.append(obj["X"])
+            playerYInputs.append(obj["y"])
+
+        
+        X_PG += playerXInputs
+        y_PG += playerYInputs
+    return X_PG, y_PG
+
+def buildInputsCS():
+    ROLLING_SIZE_CS = 11
+
+    X_CS = []
+    y_CS = []
+    for team in MY_ABBRV_TO_DATA:
+        teamStats = list(filter(lambda obj: obj["home"] == team or obj["away"] == team,gameStats))
+        teamID = TEAM_IDS[MY_ABBRV_TO_DATA[team]]
+        eloData = getEloData(teamID)
+        teamXInputs = []
+        teamYInputs = []
+        for rollValue in range(ROLLING_SIZE_CS,max(df["GW"])+1):
+            games = teamStats[rollValue-ROLLING_SIZE_CS:rollValue]
+            obj = {"X":[],"y":None}
+            for i,game in enumerate(games):
+                if game["home"] == team:
+                    isHome = True
+                    otherTeamID = TEAM_IDS[MY_ABBRV_TO_DATA[game["away"]]]
+                else:
+                    isHome = False
+                    otherTeamID = TEAM_IDS[MY_ABBRV_TO_DATA[game["home"]]]
+                otherTeamElo = getEloData(otherTeamID)
+                data = [eloData[rollValue-ROLLING_SIZE_CS+i] - otherTeamElo[rollValue-ROLLING_SIZE_CS+i], isHome]
+                cleanSheet = game["home_cleanSheet"] if isHome else game["away_cleanSheet"]
+                if i+1 < len(games):
+                    data.append(cleanSheet)
+                else:
+                    obj["y"] = cleanSheet
+                obj["X"] += data
+            teamXInputs.append(obj["X"])
+            teamYInputs.append(obj["y"])
+        X_CS += teamXInputs
+        y_CS += teamYInputs
+    
+    return X_CS, y_CS
 
 #sanitiseDf()
 
@@ -312,8 +397,6 @@ with open(SCRAPED_GAMES,"r", encoding="UTF-8") as f:
         gameStats.append(obj)
 gameStats = sorted(gameStats,key=lambda obj: dt.strptime(obj["date"],"%b %d, %Y").timestamp())
 
-
-ROLLING_SIZE_CS = 11
 #for each input
 #10 prior game data - elo diff, home or not, probability of keeping a clean sheet
 #this games elo diff, home or not, y value is probability of keeping a clean sheet
@@ -325,88 +408,13 @@ def getEloData(teamID):
         eloData = [eloObj["teamElo"] for eloObj in obj["matches"]]
     return eloData
 
-X_CS = []
-y_CS = []
-for team in MY_ABBRV_TO_DATA:
-    teamStats = list(filter(lambda obj: obj["home"] == team or obj["away"] == team,gameStats))
-    teamID = TEAM_IDS[MY_ABBRV_TO_DATA[team]]
-    eloData = getEloData(teamID)
-    teamXInputs = []
-    teamYInputs = []
-    for rollValue in range(ROLLING_SIZE_CS,max(df["GW"])+1):
-        games = teamStats[rollValue-ROLLING_SIZE_CS:rollValue]
-        obj = {"X":[],"y":None}
-        for i,game in enumerate(games):
-            if game["home"] == team:
-                isHome = True
-                otherTeamID = TEAM_IDS[MY_ABBRV_TO_DATA[game["away"]]]
-            else:
-                isHome = False
-                otherTeamID = TEAM_IDS[MY_ABBRV_TO_DATA[game["home"]]]
-            otherTeamElo = getEloData(otherTeamID)
-            data = [eloData[rollValue-ROLLING_SIZE_CS+i] - otherTeamElo[rollValue-ROLLING_SIZE_CS+i], isHome]
-            cleanSheet = game["home_cleanSheet"] if isHome else game["away_cleanSheet"]
-            if i+1 < len(games):
-                data.append(cleanSheet)
-            else:
-                obj["y"] = cleanSheet
-            obj["X"] += data
-        teamXInputs.append(obj["X"])
-        teamYInputs.append(obj["y"])
-    X_CS += teamXInputs
-    y_CS += teamYInputs
+
 
 #trainModelCS(X_CS,y_CS)
 
 playerNames = set(df["name"])
-ROLLING_SIZE_PG = 11
-MAX_MINS_PER_GAME = 90
-
-X_PG = []
-y_PG = []
-
-#predicting goals scored
-#position (isGk, isDef, isMid, isFwd)
-#team elos diff
-#history of expected goals scored (0,1,2,3+) + team elos
-#percentage mins played
-#isHome
-
-MAX_BENCH_PLAYER_TRAINS = 0
-benchPlayers = 0
-
-for player in playerNames:
-    dfPlayer = df[df["name"] == player].sort_values(by=["GW"])
-    dfPlayer["isHome"] = dfPlayer.apply(lambda row: DATA_TO_MY_ABBRV[row["team"]] == row["matchFile"][:3], axis=1)
-    dfPlayer["minutes"] = dfPlayer.apply(lambda row: row["minutes"]/MAX_MINS_PER_GAME, axis=1)
-    dfPlayer["eloHomeData"] = dfPlayer.apply(lambda row: getEloData(TEAM_IDS[MY_ABBRV_TO_DATA[row["matchFile"][:3]]]), axis=1)
-    dfPlayer["eloAwayData"] = dfPlayer.apply(lambda row: getEloData(TEAM_IDS[MY_ABBRV_TO_DATA[row["matchFile"][3:]]]), axis=1)
-    
-    
-    playerXInputs = []
-    playerYInputs = []
-    for i in range(ROLLING_SIZE_PG,len(dfPlayer)+1):
-        currentSlice = dfPlayer[i-ROLLING_SIZE_PG:i].reset_index()
-
-        obj = {"X":[dfPlayer["position"].iloc[0] == "GK", dfPlayer["position"].iloc[0] == "DEF", dfPlayer["position"].iloc[0] == "MID", dfPlayer["position"].iloc[0] == "FWD"],"y":[]}
-
-        for j, row in currentSlice.iterrows():
-            obj["X"] += [row["isHome"], (row["eloAwayData"][row["GW"]-1] - row["eloHomeData"][row["GW"]-1])*-1**(row["isHome"])]
-            if j + 1 < len(currentSlice):
-                obj["X"] += [row["minutes"], *row["goals_scored_distribution"].values()]
-            else:
-                obj["y"] += row["goals_scored_distribution"].values()
-        
-        benchPlayers += obj["y"][0] == 1
-        if benchPlayers > MAX_BENCH_PLAYER_TRAINS and obj["y"][0] == 1:
-            continue
-        playerXInputs.append(obj["X"])
-        playerYInputs.append(obj["y"])
-
-    
-    X_PG += playerXInputs
-    y_PG += playerYInputs
-
+#X_PG, y_PG = buildInputsPG(playerNames)
+#X_CS, y_CS = buildInputsCS()
 
 #model_CS = trainModelCS(X_CS,y_CS)
 #model_PG = trainModelPG(X_PG,y_PG)
