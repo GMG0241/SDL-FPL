@@ -7,6 +7,7 @@ from datetime import datetime as dt
 from tensorflow import keras
 from tensorflow.keras import layers
 from sklearn.model_selection import train_test_split
+from scipy.stats import bootstrap
 import matplotlib.pyplot as plt
 
 FILE = r"C:\Users\gabeg\Documents\Uni Work\Strategic Leadership\merged_gw.csv"
@@ -216,7 +217,7 @@ def trainModelPG(X,y):
     loss, accuracy = model_PG.evaluate(xTest, yTest)
 
     predictions = model_PG.predict(xTest)
-    print(predictions)
+    print(f"Out of {len(xTest)} pieces of data, {len(list(filter(lambda l: round(sum([i*val for i, val in enumerate(l)])) >= 1 , predictions)))} are predicted to score")
     print(f"Model Player Goals was trained using {len(xTrain)} pieces of data, and tested on {len(xTest)} pieces of data. The results of the test were a test loss (MSE) of {loss} (RMSE: {loss**0.5}), and a test MAE of {accuracy}")
     '''if input("Would you like to save model?\n").lower() == "yes":
         model_PG.save_weights(f"fpl_wdl_model_pg.weights.h5")'''
@@ -286,7 +287,6 @@ def trainModelCS(X,y):
 
     predictions = model_CS.predict(xTest)
     print(f"Model Clean Sheets was trained using {len(xTrain)} pieces of data, and tested on {len(xTest)} pieces of data. The results of the test were a test loss (MSE) of {loss} (RMSE: {loss**0.5}), and a test MAE of {accuracy}")
-    
     '''if input("Would you like to save model?\n").lower() == "yes":
     model.save_weights(f"fpl_wdl_model_cs.weights.h5")'''
     MARGIN_OF_ERROR = 0.1
@@ -394,31 +394,12 @@ def buildInputsCS(gameStats):
                 obj["X"] += data
             teamXInputs.append(obj["X"])
             teamYInputs.append(obj["y"])
-            globalIndexLookup[count] = game["home"]+game["away"]
+            globalIndexLookup[count] = f"{game["home"]}{game["away"]}_{team}"
             count += 1
         X_CS += teamXInputs
         y_CS += teamYInputs
     
     return X_CS, y_CS, globalIndexLookup
-
-#sanitiseDf()
-
-df = pd.read_csv("sanitised_gws.csv")
-df["goals_scored_distribution"] = df.apply(lambda row: json.loads(row["goals_scored_distribution"]),axis=1)
-SCRAPED_GAMES = r"C:\Users\gabeg\Documents\Accurate xG\OptaScrape\xgDataScraped_pl.txt"
-gameStats = []
-with open(SCRAPED_GAMES,"r", encoding="UTF-8") as f:
-    for line in f.readlines():
-        obj = json.loads(line)
-        obj["distribution"] = calculateStatsFromLines(obj["xGdata"].split(";"))
-        obj["home_cleanSheet"] = obj["distribution"]["awayXG"][0]
-        obj["away_cleanSheet"] = obj["distribution"]["homeXG"][0]
-        gameStats.append(obj)
-
-
-#for each input
-#10 prior game data - elo diff, home or not, probability of keeping a clean sheet
-#this games elo diff, home or not, y value is probability of keeping a clean sheet
 
 def getEloData(teamID):
     eloFileLocation = ELO_FILE_LOCATIONS.format(teamID=teamID)
@@ -441,9 +422,33 @@ def simulateSeason(df):
         matches[row["matchFile"]] = matchArray
     return matches
 
-def monteCarlo(df, numIterations=10000, iterOutputNumber=0,loadFile=False):
+def modelInterpret(modelType,value):
+    CLEAN_SHEET_MIN_PREDICT = 0.45
+    prediction = None
+    modelType = modelType.lower()
+    if modelType == "cs":
+        prediction = value >= CLEAN_SHEET_MIN_PREDICT # 1 or 0
+    elif modelType == "pg":
+        #value = [1..4] where value in the ith position is the probability of scoring i goals, unless i is the last value in which case it is the probability of scoring i or more goals
+        value = list(value)
+        #calculate the expected value:
+        index = round(sum([i*val for i, val in enumerate(value)])) #bounded by 0 and 3 inclusive
+
+        prediction = value[index]
+
+
+    else:
+        raise Exception(f"Unknown model type '{modelType}'")
+    return prediction
+
+def monteCarlo(df, modelInfos: dict, numIterations=10000, iterOutputNumber=0,loadFile=False):
+    
+    csInfo: dict = modelInfos["cs"] #csInfo = {"model":modelObj,"indexes":[testDataIndexesInX...], "indexLookup":{testDataIndex:matchFixtureName}, "X":[trainedXData...]}
+    pgInfo: dict = modelInfos["pg"]
+
     CLEAN_SHEET_JSON_NAME = "monteCarlo_CS.json"
     PLAYER_GOALS_JSON_NAME = "monteCarlo_PG.json"
+    MODEL_PREDICT_BLIND = 0.2647
     if loadFile:
         with open(CLEAN_SHEET_JSON_NAME, "r") as f:
             cleanSheets = json.load(f)
@@ -451,26 +456,63 @@ def monteCarlo(df, numIterations=10000, iterOutputNumber=0,loadFile=False):
             playerGoals = json.load(f)
     else:
         startTime = time.time()
-        cleanSheets = {}
-        playerGoals = {}
+        cs = {"cs":[],"csB":[]}
+        pg = []
+        
+        yCs = csInfo["model"].predict(np.array(csInfo["X"]))
+        yPg = pgInfo["model"].predict(np.array(pgInfo["X"]))
         for iter in range(numIterations):
+            cleanSheets = {}
+            playerGoals = {}
             matches = simulateSeason(df)
             for fixture, matchArray in matches.items():
                 home = fixture[:3]
                 away = fixture[3:]
 
-                data = cleanSheets.get(fixture, {home:0,away:0})
+                data = {}
 
-                data[home] += len(list(filter(lambda obj: obj["team"] == home,matchArray))) == 0
-                data[away] += len(list(filter(lambda obj: obj["team"] == away,matchArray))) == 0
+                data[home] = len(list(filter(lambda obj: obj["team"] == home,matchArray))) == 0
+                data[away] = len(list(filter(lambda obj: obj["team"] == away,matchArray))) == 0
 
                 cleanSheets[fixture] = data
 
                 for entry in matchArray:
                     data = playerGoals.get(entry["name"], {})
-                    data[fixture] = data.get(fixture,0) + entry["goalsScored"]
+                    data[fixture] = entry["goalsScored"]
                     playerGoals[entry["name"]] = data
-                
+
+            csAvg = 0
+            csBAvg = 0
+            
+            for index in csInfo["indexes"]:
+                y = yCs[index][0]
+                predictedCleanSheet = modelInterpret("cs",y)
+
+
+                predictedCleanSheetBlind = random.random() >= 1- MODEL_PREDICT_BLIND
+
+                matchDetails = csInfo["indexLookup"][index]
+                matchFixture, teamPlayed = matchDetails.split("_")           
+                simulatedCleanSheet = cleanSheets[matchFixture][teamPlayed]
+                csAvg += predictedCleanSheet == simulatedCleanSheet
+                csBAvg += predictedCleanSheetBlind == simulatedCleanSheet
+            
+            csAvg /= len(csInfo["indexes"])
+            csBAvg /= len(csInfo["indexes"])
+            cs["cs"].append(csAvg)
+            cs["csB"].append(csBAvg)
+
+            gs = []
+            
+            for index in pgInfo["indexes"]:
+                y = yPg[index]
+                predictedGoalScored = modelInterpret("pg",y) 
+
+                playerDetails = pgInfo["indexLookup"][index]
+                simulatedGoalScored = playerGoals.get(playerDetails["name"],{}).get(playerDetails["match"],0)
+                gs.append(predictedGoalScored-simulatedGoalScored)
+            pg.append(sum(gs)/len(gs))
+
             if iterOutputNumber != 0 and (iter+1) % iterOutputNumber == 0:
                 currentTime = time.time()
                 secondsTaken = currentTime - startTime
@@ -478,31 +520,52 @@ def monteCarlo(df, numIterations=10000, iterOutputNumber=0,loadFile=False):
                 predictedSeconds = secondsTaken/fractionComplete
                 print(f"We have completed {iter+1} iterations in {secondsTaken} seconds ({fractionComplete*100}%). Predicted completed in {predictedSeconds-secondsTaken} seconds ({(predictedSeconds-secondsTaken)/60} minutes)")
         
-        cleanSheets = {fixture:{teamName:value/numIterations for teamName, value in dataObj.items()} for fixture, dataObj in cleanSheets.items()}
         playerGoals = {playerName:{matchFixture: value/numIterations for matchFixture, value in dataObj.items()} for playerName, dataObj in playerGoals.items()}
 
         with open(CLEAN_SHEET_JSON_NAME,"w") as f:
-            json.dump(cleanSheets,f)
+            json.dump(cs,f)
         with open(PLAYER_GOALS_JSON_NAME,"w") as f:
-            json.dump(playerGoals,f)
+            json.dump(pg,f)
 
     return cleanSheets, playerGoals
+
+
+#sanitiseDf()
+
+df = pd.read_csv("sanitised_gws.csv")
+df["goals_scored_distribution"] = df.apply(lambda row: json.loads(row["goals_scored_distribution"]),axis=1)
+SCRAPED_GAMES = r"C:\Users\gabeg\Documents\Accurate xG\OptaScrape\xgDataScraped_pl.txt"
+gameStats = []
+with open(SCRAPED_GAMES,"r", encoding="UTF-8") as f:
+    for line in f.readlines():
+        obj = json.loads(line)
+        obj["distribution"] = calculateStatsFromLines(obj["xGdata"].split(";"))
+        obj["home_cleanSheet"] = obj["distribution"]["awayXG"][0]
+        obj["away_cleanSheet"] = obj["distribution"]["homeXG"][0]
+        gameStats.append(obj)
+
+
+#for each input
+#10 prior game data - elo diff, home or not, probability of keeping a clean sheet
+#this games elo diff, home or not, y value is probability of keeping a clean sheet
+
             
 
-NUM_CARLO_ITERS = 10000
-cs, pg = monteCarlo(df,NUM_CARLO_ITERS,int(NUM_CARLO_ITERS/100))
-print(cs)
-print(pg)
-exit()
+
 
 gameStats = sorted(gameStats,key=lambda obj: dt.strptime(obj["date"],"%b %d, %Y").timestamp())
+csPercs = sum([[matchObj["distribution"]["homeXG"][0],matchObj["distribution"]["awayXG"][0]] for matchObj in gameStats],[])
+plt.title("Histogram of the percentage of cleansheets both home and away")
+plt.hist(csPercs,10,density=True)
+#plt.show()
+avgCSVal = sum(csPercs)/len(csPercs)
+print(avgCSVal)
+res = bootstrap((np.array(csPercs),),lambda data: sum(data)/len(data), confidence_level=0.99,random_state=RANDOM_SEED)
+print(res.confidence_interval.low, res.confidence_interval.high)
+
 X_CS, y_CS, indexLookup_CS = buildInputsCS(gameStats)
 
 model_CS, indexes_CS = trainModelCS(X_CS,y_CS)
-
-for index in indexes_CS:
-    print(index, indexLookup_CS[index])
-
 
 
 playerNames = set(df["name"])
@@ -510,6 +573,11 @@ X_PG, y_PG, indexLookup_PG = buildInputsPG(playerNames)
 
 model_PG, indexes_PG = trainModelPG(X_PG,y_PG)
 
+NUM_CARLO_ITERS = 10000
+cs, pg = monteCarlo(df,{"cs":{"model":model_CS,"indexes":indexes_CS,"indexLookup":indexLookup_CS,"X":X_CS},"pg":{"model":model_PG,"indexes":indexes_PG,"indexLookup":indexLookup_PG,"X":X_PG}},NUM_CARLO_ITERS,max(int(NUM_CARLO_ITERS/100),1),True)
+print(sum(cs["cs"])/len(cs["cs"])) #bounded by 0.5 and 0.75. The higher the better
+print(sum(cs["csB"])/len(cs["csB"])) #bounded by 0.5 and 0.75. The higher the better
+print(sum(pg)/len(pg)) #average of how far away we are when predicting goals
 
 '''testNames = list(set(df["name"]))
 
