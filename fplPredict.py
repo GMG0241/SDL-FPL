@@ -191,7 +191,7 @@ def sanitiseDf():
     df["goals_scored_distribution"] = df.apply(lambda row: json.dumps(playerStats[FPL_TO_OPTA_PLAYERS.get(row["name"],row["name"])][row["matchFile"]]), axis=1)
     df.to_csv("sanitised_gws.csv",index=False)
 
-def trainModelPG(X,y):
+def trainModelPG(X,y, graph=False):
     X = np.array(X)
     y = np.array(y)
 
@@ -205,7 +205,7 @@ def trainModelPG(X,y):
         layers.Dense(400, activation='relu'),
         layers.Dense(400, activation='relu'),
         layers.Dense(400, activation='relu'),
-        layers.Dense(4, activation='sigmoid')  # Ensure output is a probability
+        layers.Dense(1, activation='sigmoid')  # Ensure output is a probability
     ])
 
     model_PG.compile(optimizer='adam', loss='mean_squared_error', metrics=['mae'])
@@ -217,37 +217,33 @@ def trainModelPG(X,y):
     loss, accuracy = model_PG.evaluate(xTest, yTest)
 
     predictions = model_PG.predict(xTest)
-    print(f"Out of {len(xTest)} pieces of data, {len(list(filter(lambda l: round(sum([i*val for i, val in enumerate(l)])) >= 1 , predictions)))} are predicted to score")
+    print(predictions)
+    print(f"Out of {len(xTest)} pieces of data, the average predicted probability is {sum(predictions)/len(predictions)}. The max value is {max(predictions)} and the min value is {min(predictions)}")
     print(f"Model Player Goals was trained using {len(xTrain)} pieces of data, and tested on {len(xTest)} pieces of data. The results of the test were a test loss (MSE) of {loss} (RMSE: {loss**0.5}), and a test MAE of {accuracy}")
     '''if input("Would you like to save model?\n").lower() == "yes":
         model_PG.save_weights(f"fpl_wdl_model_pg.weights.h5")'''
     
     model_PG.load_weights(f"fpl_wdl_model_pg.weights.h5")
+
+    MARGIN_OF_ERROR = 0.1
+    predictions = model_PG.predict(xTest)
+    if graph:
+        count = 0
+        boxWhiskersInput = []
+        for i, prediction in enumerate(predictions):
+            if abs(prediction[0] - yTest[i]) <= MARGIN_OF_ERROR:
+                count += 1
+            boxWhiskersInput.append(prediction[0] - yTest[i])
+        print(count/len(predictions))
+
+        plt.boxplot(boxWhiskersInput, vert=False)
+        plt.title("Boxplot of 'Model Predicted Player Scores - Actual Player Scores Probability'")
+        plt.xlabel("Probability difference between model prediction and actual player scores probabilities")
+        plt.vlines([0],0.925,1.074, label="Target Value", colors=["r"])
+        plt.legend()
+        plt.show()
+    
     return model_PG, indexes
-    diffs = []
-    for i, prediction in enumerate(predictions):
-        diffs.append([abs(y[i][j] - pred) for j, pred in enumerate(prediction)])
-    
-    fig, axs = plt.subplots(2,2) #hard coding because it's visualisation. It's impossible to make dynamic
-    xDiff = {i:[l[i] for l in diffs] for i in range(4)}
-    for i in range(2):
-        for j in range(2):
-            axs[i,j].hist(xDiff[i*2+j],10,density=True)
-            axs[i,j].set_title(f"The difference between the predicted prob of {i*2+j} goals and the true value")
-    
-    for ax in axs.flat:
-        ax.set(xlabel='x-label', ylabel='y-label')
-
-    # Hide x labels and tick labels for top plots and y ticks for right plots.
-    for ax in axs.flat:
-        ax.label_outer()
-    plt.show()
-
-    averageDiffs = [sum(l)/len(l) for l in diffs]
-
-    plt.title("The Average Difference between each predicted Metric and the true metric")
-    plt.hist(averageDiffs,10, density=True)
-    plt.show()
 
 def getTestSequence(unsplitArray: np.ndarray, testArray: np.ndarray):
     unsplitArray = unsplitArray.tolist()
@@ -339,17 +335,17 @@ def buildInputsPG(playerNames):
         for i in range(ROLLING_SIZE_PG,len(dfPlayer)+1):
             currentSlice = dfPlayer[i-ROLLING_SIZE_PG:i].reset_index()
 
-            obj = {"X":[dfPlayer["position"].iloc[0] == "GK", dfPlayer["position"].iloc[0] == "DEF", dfPlayer["position"].iloc[0] == "MID", dfPlayer["position"].iloc[0] == "FWD"],"y":[]}
+            obj = {"X":[dfPlayer["position"].iloc[0] == "GK", dfPlayer["position"].iloc[0] == "DEF", dfPlayer["position"].iloc[0] == "MID", dfPlayer["position"].iloc[0] == "FWD"],"y":None}
 
             for j, row in currentSlice.iterrows():
                 obj["X"] += [row["isHome"], (row["eloAwayData"][row["GW"]-1] - row["eloHomeData"][row["GW"]-1])*-1**(row["isHome"])]
                 if j + 1 < len(currentSlice):
-                    obj["X"] += [row["minutes"], *row["goals_scored_distribution"].values()]
+                    obj["X"] += [row["minutes"], 1 - row["goals_scored_distribution"]["0"]]
                 else:
-                    obj["y"] += row["goals_scored_distribution"].values()
+                    obj["y"] = 1 - row["goals_scored_distribution"]["0"]
             
-            benchPlayers += obj["y"][0] == 1
-            if benchPlayers > MAX_BENCH_PLAYER_TRAINS and obj["y"][0] == 1:
+            benchPlayers += obj["y"] == 0
+            if benchPlayers > MAX_BENCH_PLAYER_TRAINS and obj["y"] == 0:
                 continue
             playerXInputs.append(obj["X"])
             playerYInputs.append(obj["y"])
@@ -424,19 +420,13 @@ def simulateSeason(df):
 
 def modelInterpret(modelType,value):
     CLEAN_SHEET_MIN_PREDICT = 0.45
+    PLAYER_GOALS_MIN_PREDICT = 0.55
     prediction = None
     modelType = modelType.lower()
     if modelType == "cs":
         prediction = value >= CLEAN_SHEET_MIN_PREDICT # 1 or 0
     elif modelType == "pg":
-        #value = [1..4] where value in the ith position is the probability of scoring i goals, unless i is the last value in which case it is the probability of scoring i or more goals
-        value = list(value)
-        #calculate the expected value:
-        index = round(sum([i*val for i, val in enumerate(value)])) #bounded by 0 and 3 inclusive
-
-        prediction = value[index]
-
-
+        prediction = value >= PLAYER_GOALS_MIN_PREDICT
     else:
         raise Exception(f"Unknown model type '{modelType}'")
     return prediction
@@ -448,7 +438,12 @@ def monteCarlo(df, modelInfos: dict, numIterations=10000, iterOutputNumber=0,loa
 
     CLEAN_SHEET_JSON_NAME = "monteCarlo_CS.json"
     PLAYER_GOALS_JSON_NAME = "monteCarlo_PG.json"
-    MODEL_PREDICT_BLIND = 0.2647
+    
+    CS_MODEL_PREDICT_BLIND = 0.2647
+    PG_MODEL_PREDICT_BLIND = 0.1847
+
+    MODEL_PREDICT_UNIFORM = 0.5
+
     if loadFile:
         with open(CLEAN_SHEET_JSON_NAME, "r") as f:
             cleanSheets = json.load(f)
@@ -456,8 +451,8 @@ def monteCarlo(df, modelInfos: dict, numIterations=10000, iterOutputNumber=0,loa
             playerGoals = json.load(f)
     else:
         startTime = time.time()
-        cs = {"cs":[],"csB":[]}
-        pg = []
+        cs = {"cs":[],"csB":[], "csU":[]}
+        pg = {"pg":[], "pgB":[],"pgU":[]}
         
         yCs = csInfo["model"].predict(np.array(csInfo["X"]))
         yPg = pgInfo["model"].predict(np.array(pgInfo["X"]))
@@ -483,35 +478,53 @@ def monteCarlo(df, modelInfos: dict, numIterations=10000, iterOutputNumber=0,loa
 
             csAvg = 0
             csBAvg = 0
+            csUAvg = 0
             
             for index in csInfo["indexes"]:
                 y = yCs[index][0]
                 predictedCleanSheet = modelInterpret("cs",y)
 
 
-                predictedCleanSheetBlind = random.random() >= 1- MODEL_PREDICT_BLIND
+                predictedCleanSheetBlind = random.random() >= 1- CS_MODEL_PREDICT_BLIND
+                predictedCleanSheetUniform = random.random() >= 1 - MODEL_PREDICT_UNIFORM
 
                 matchDetails = csInfo["indexLookup"][index]
                 matchFixture, teamPlayed = matchDetails.split("_")           
                 simulatedCleanSheet = cleanSheets[matchFixture][teamPlayed]
                 csAvg += predictedCleanSheet == simulatedCleanSheet
                 csBAvg += predictedCleanSheetBlind == simulatedCleanSheet
+                csUAvg += predictedCleanSheetUniform == simulatedCleanSheet
             
             csAvg /= len(csInfo["indexes"])
             csBAvg /= len(csInfo["indexes"])
+            csUAvg /= len(csInfo["indexes"])
             cs["cs"].append(csAvg)
             cs["csB"].append(csBAvg)
-
-            gs = []
+            cs["csU"].append(csUAvg)
             
+            pgAvg = 0
+            pgUAvg = 0
+            pgBAvg = 0
             for index in pgInfo["indexes"]:
-                y = yPg[index]
+                y = yPg[index][0]
                 predictedGoalScored = modelInterpret("pg",y) 
+                predictedGoalScoredBlind = random.random() >= 1- PG_MODEL_PREDICT_BLIND
+                predictedGoalScoredUniform = random.random() >= 1- MODEL_PREDICT_UNIFORM
 
                 playerDetails = pgInfo["indexLookup"][index]
                 simulatedGoalScored = playerGoals.get(playerDetails["name"],{}).get(playerDetails["match"],0)
-                gs.append(predictedGoalScored-simulatedGoalScored)
-            pg.append(sum(gs)/len(gs))
+                
+                pgAvg += predictedGoalScored == simulatedGoalScored
+                pgUAvg += predictedGoalScoredUniform == simulatedGoalScored
+                pgBAvg += predictedGoalScoredBlind == simulatedGoalScored
+            
+            pgAvg /= len(pgInfo["indexes"])
+            pgUAvg /= len(pgInfo["indexes"])
+            pgBAvg /= len(pgInfo["indexes"])
+
+            pg["pg"].append(pgAvg)
+            pg["pgU"].append(pgUAvg)
+            pg["pgB"].append(pgBAvg)
 
             if iterOutputNumber != 0 and (iter+1) % iterOutputNumber == 0:
                 currentTime = time.time()
@@ -529,6 +542,17 @@ def monteCarlo(df, modelInfos: dict, numIterations=10000, iterOutputNumber=0,loa
 
     return cleanSheets, playerGoals
 
+def percentages(percs, graph=False):
+    
+    if graph:
+        plt.title("Histogram of the percentage chance of an event occuring")
+        plt.hist(percs,10,density=True)
+        plt.show()
+    avgVal = sum(percs)/len(percs)
+    print(avgVal)
+    res = bootstrap((np.array(percs),),lambda data: sum(data)/len(data), confidence_level=0.99,random_state=RANDOM_SEED)
+    print(res.confidence_interval.low, res.confidence_interval.high)
+    return res.confidence_interval
 
 #sanitiseDf()
 
@@ -554,14 +578,14 @@ with open(SCRAPED_GAMES,"r", encoding="UTF-8") as f:
 
 
 gameStats = sorted(gameStats,key=lambda obj: dt.strptime(obj["date"],"%b %d, %Y").timestamp())
+
+
+
 csPercs = sum([[matchObj["distribution"]["homeXG"][0],matchObj["distribution"]["awayXG"][0]] for matchObj in gameStats],[])
-plt.title("Histogram of the percentage of cleansheets both home and away")
-plt.hist(csPercs,10,density=True)
-#plt.show()
-avgCSVal = sum(csPercs)/len(csPercs)
-print(avgCSVal)
-res = bootstrap((np.array(csPercs),),lambda data: sum(data)/len(data), confidence_level=0.99,random_state=RANDOM_SEED)
-print(res.confidence_interval.low, res.confidence_interval.high)
+pgPercs = sum([[1 - playerObj[0] for playerObj in matchObj["distribution"]["playerData"].values()] for matchObj in gameStats], [])
+
+csIntervals = percentages(csPercs)
+pgIntervals = percentages(pgPercs)
 
 X_CS, y_CS, indexLookup_CS = buildInputsCS(gameStats)
 
@@ -572,9 +596,8 @@ playerNames = set(df["name"])
 X_PG, y_PG, indexLookup_PG = buildInputsPG(playerNames)
 
 model_PG, indexes_PG = trainModelPG(X_PG,y_PG)
-
 NUM_CARLO_ITERS = 10000
-cs, pg = monteCarlo(df,{"cs":{"model":model_CS,"indexes":indexes_CS,"indexLookup":indexLookup_CS,"X":X_CS},"pg":{"model":model_PG,"indexes":indexes_PG,"indexLookup":indexLookup_PG,"X":X_PG}},NUM_CARLO_ITERS,max(int(NUM_CARLO_ITERS/100),1),True)
+cs, pg = monteCarlo(df,{"cs":{"model":model_CS,"indexes":indexes_CS,"indexLookup":indexLookup_CS,"X":X_CS},"pg":{"model":model_PG,"indexes":indexes_PG,"indexLookup":indexLookup_PG,"X":X_PG}},NUM_CARLO_ITERS,max(int(NUM_CARLO_ITERS/100),1))
 print(sum(cs["cs"])/len(cs["cs"])) #bounded by 0.5 and 0.75. The higher the better
 print(sum(cs["csB"])/len(cs["csB"])) #bounded by 0.5 and 0.75. The higher the better
 print(sum(pg)/len(pg)) #average of how far away we are when predicting goals
