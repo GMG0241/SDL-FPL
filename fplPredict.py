@@ -446,9 +446,9 @@ def monteCarlo(df, modelInfos: dict, numIterations=10000, iterOutputNumber=0,loa
 
     if loadFile:
         with open(CLEAN_SHEET_JSON_NAME, "r") as f:
-            cleanSheets = json.load(f)
+            cs = json.load(f)
         with open(PLAYER_GOALS_JSON_NAME, "r") as f:
-            playerGoals = json.load(f)
+            pg = json.load(f)
     else:
         startTime = time.time()
         cs = {"cs":[],"csB":[], "csU":[]}
@@ -540,7 +540,7 @@ def monteCarlo(df, modelInfos: dict, numIterations=10000, iterOutputNumber=0,loa
         with open(PLAYER_GOALS_JSON_NAME,"w") as f:
             json.dump(pg,f)
 
-    return cleanSheets, playerGoals
+    return cs, pg
 
 def percentages(percs, graph=False):
     
@@ -597,10 +597,11 @@ X_PG, y_PG, indexLookup_PG = buildInputsPG(playerNames)
 
 model_PG, indexes_PG = trainModelPG(X_PG,y_PG)
 NUM_CARLO_ITERS = 10000
-cs, pg = monteCarlo(df,{"cs":{"model":model_CS,"indexes":indexes_CS,"indexLookup":indexLookup_CS,"X":X_CS},"pg":{"model":model_PG,"indexes":indexes_PG,"indexLookup":indexLookup_PG,"X":X_PG}},NUM_CARLO_ITERS,max(int(NUM_CARLO_ITERS/100),1))
-print(sum(cs["cs"])/len(cs["cs"])) #bounded by 0.5 and 0.75. The higher the better
-print(sum(cs["csB"])/len(cs["csB"])) #bounded by 0.5 and 0.75. The higher the better
-print(sum(pg)/len(pg)) #average of how far away we are when predicting goals
+cs, pg = monteCarlo(df,{"cs":{"model":model_CS,"indexes":indexes_CS,"indexLookup":indexLookup_CS,"X":X_CS},"pg":{"model":model_PG,"indexes":indexes_PG,"indexLookup":indexLookup_PG,"X":X_PG}},NUM_CARLO_ITERS,max(int(NUM_CARLO_ITERS/100),1), True)
+
+print(f"The clean sheet model was simulated and the percentage of the clean sheets that were, on average, accurately predicted were as follows:\nmodel - {sum(cs["cs"])/len(cs["cs"])*100}%\nBlind guess - {sum(cs["csB"])/len(cs["csB"])*100}% assuming the average value of the data lies between {csIntervals.low*100}% and {csIntervals.high*100}%\nUniform - {sum(cs["csU"])/len(cs["csU"])*100}% assuming the data follows a uniform distribution")
+
+print(f"The player goals model was simulated and the percentage of the players that were, on average, accurately predicted to have scored at least 1 goal or not were as follows:\nmodel - {sum(pg["pg"])/len(pg["pg"])*100}%\nBlind guess - {sum(pg["pgB"])/len(pg["pgB"])*100}% assuming the average value of the data lies between {pgIntervals.low*100}% and {pgIntervals.high*100}%\nUniform - {sum(pg["pgU"])/len(pg["pgU"])*100}% assuming the data follows a uniform distribution")
 
 '''testNames = list(set(df["name"]))
 
