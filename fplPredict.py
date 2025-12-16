@@ -217,7 +217,6 @@ def trainModelPG(X,y, graph=False):
     loss, accuracy = model_PG.evaluate(xTest, yTest)
 
     predictions = model_PG.predict(xTest)
-    print(predictions)
     print(f"Out of {len(xTest)} pieces of data, the average predicted probability is {sum(predictions)/len(predictions)}. The max value is {max(predictions)} and the min value is {min(predictions)}")
     print(f"Model Player Goals was trained using {len(xTrain)} pieces of data, and tested on {len(xTest)} pieces of data. The results of the test were a test loss (MSE) of {loss} (RMSE: {loss**0.5}), and a test MAE of {accuracy}")
     '''if input("Would you like to save model?\n").lower() == "yes":
@@ -602,6 +601,10 @@ cs, pg = monteCarlo(df,{"cs":{"model":model_CS,"indexes":indexes_CS,"indexLookup
 print(f"The clean sheet model was simulated and the percentage of the clean sheets that were, on average, accurately predicted were as follows:\nmodel - {sum(cs["cs"])/len(cs["cs"])*100}%\nBlind guess - {sum(cs["csB"])/len(cs["csB"])*100}% assuming the average value of the data lies between {csIntervals.low*100}% and {csIntervals.high*100}%\nUniform - {sum(cs["csU"])/len(cs["csU"])*100}% assuming the data follows a uniform distribution")
 
 print(f"The player goals model was simulated and the percentage of the players that were, on average, accurately predicted to have scored at least 1 goal or not were as follows:\nmodel - {sum(pg["pg"])/len(pg["pg"])*100}%\nBlind guess - {sum(pg["pgB"])/len(pg["pgB"])*100}% assuming the average value of the data lies between {pgIntervals.low*100}% and {pgIntervals.high*100}%\nUniform - {sum(pg["pgU"])/len(pg["pgU"])*100}% assuming the data follows a uniform distribution")
+
+#check how well the pg model deals with people who I have currently filtered out. 
+#determine how well the pg model does at predicting clean sheets vs the cs model
+#try and perform some analysis on how people from different teams get assists. Currently I have in my head that I argue this as 'different tactics will cause different people to get assists'. Therefore, we can algorithmically determine the top candidates per team for gathering assists given a particular player is going to score (perhaps using some sort of data mining technique?)
 
 '''testNames = list(set(df["name"]))
 
