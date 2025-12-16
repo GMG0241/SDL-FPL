@@ -557,6 +557,9 @@ def percentages(percs, graph=False):
 
 df = pd.read_csv("sanitised_gws.csv")
 df["goals_scored_distribution"] = df.apply(lambda row: json.loads(row["goals_scored_distribution"]),axis=1)
+
+assistDf2425 = pd.read_excel("Soccer-Stats-Premier-League-2024-2025.xlsx")
+
 SCRAPED_GAMES = r"C:\Users\gabeg\Documents\Accurate xG\OptaScrape\xgDataScraped_pl.txt"
 gameStats = []
 with open(SCRAPED_GAMES,"r", encoding="UTF-8") as f:
