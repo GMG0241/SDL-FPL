@@ -3,11 +3,14 @@ import numpy as np
 import json
 import random
 import time
+import re
 from datetime import datetime as dt
 from tensorflow import keras
 from tensorflow.keras import layers
 from sklearn.model_selection import train_test_split
 from scipy.stats import bootstrap
+from mlxtend.frequent_patterns import apriori, association_rules
+from mlxtend.preprocessing import TransactionEncoder
 import matplotlib.pyplot as plt
 
 FILE = r"C:\Users\gabeg\Documents\Uni Work\Strategic Leadership\merged_gw.csv"
@@ -553,13 +556,66 @@ def percentages(percs, graph=False):
     print(res.confidence_interval.low, res.confidence_interval.high)
     return res.confidence_interval
 
+def assistsApriori(assistDf:pd.DataFrame):
+    teams = set(assistDf["Home Team"])
+    teamRules = {}
+    total = 0
+    for team in teams:
+        df = assistDf[(assistDf["Home Team"] == team) | (assistDf["Away Team"] == team)]["assists"]
+        l = []
+        count = 0
+        for row in df:
+            scorer,assister,goalTeam = row.split("_")
+            if not(goalTeam in teams) and goalTeam != "Brighton and Hove Albion" and goalTeam != "Bournemouth":
+                print(goalTeam, row)
+            
+            if team.replace("&","and") != goalTeam.replace("&","and") and not(goalTeam in team):
+                continue
+            
+            if not assister:
+                count += 1
+            l.append([scorer, assister])
+        te = TransactionEncoder()
+        teArray = te.fit(l).transform(l)
+        encodedDf = pd.DataFrame(teArray,columns=te.columns_)
+        frequentItems = apriori(encodedDf, min_support=2/len(l), use_colnames=True)
+        rules = association_rules(frequentItems, metric="confidence", min_threshold=0.1)
+        rules = rules[rules['antecedents'].apply(lambda x: len(x) >= 1) & rules['consequents'].apply(lambda x: len(x) >= 1)]
+        rules = rules.rename(columns={"antecedents":"scorer","consequents":"assister"})
+        print(f"Team {team} has {len(rules)} rules. ({count}/{len(l)} had no assister) {rules.sort_values(by="confidence", ascending=False).head(5)}")
+        teamRules[team] = {"rules":rules,"direction":l}
+        total += len(l)
+    if total != len(assistDf):
+        raise Exception(f"Expected {len(assistDf)} total goals but actually used {total} goals")
+    
+    return teamRules
 #sanitiseDf()
 
 df = pd.read_csv("sanitised_gws.csv")
 df["goals_scored_distribution"] = df.apply(lambda row: json.loads(row["goals_scored_distribution"]),axis=1)
 
-assistDf2425 = pd.read_excel("Soccer-Stats-Premier-League-2024-2025.xlsx")
+assistDf2425 = pd.read_excel("Soccer-Stats-Premier-League-2024-2025_20250526.xlsx",sheet_name="PlaysExport")
+assistDf2425 = assistDf2425.drop_duplicates(subset=["Play Description"])
+assistDf2425["assists"] = assistDf2425.apply(lambda row: re.sub(rf"Goal\! .*? \d+, .*? \d+\. (.*?\s?.*?) \((.*?)\).*?\.(?:\sAssisted by (.*?)(?:[\.]|Goal.*|\s[a-z].*))?(?:Goal awarded following VAR Review.)?",r"\1_\3_\2",row["Play Description"]) if "Goal!" in row["Play Description"] else None, axis=1)
+assistDf2425 = assistDf2425[~assistDf2425["assists"].isnull()]
+print(len(assistDf2425))
+'''goals = {}
+DELIMITER = "___"
+for i in range(len(assistDf2425)):
+    row = assistDf2425.iloc[i]
+    if "Goal!" in row["Play Description"] or "Own Goal" in row["Play Description"]:
+        fixture = row["Home Team"]+DELIMITER+row["Away Team"]
+        goals[fixture] = goals.get(fixture,0) + 1
+for fixture in goals:
+    home, away = fixture.split(DELIMITER)
+    df = assistDf2425[(assistDf2425["Home Team"] == home) & (assistDf2425["Away Team"] == away)]
+    if df["Home Goal"].iloc[0] + df["Away Goal"].iloc[0] != goals[fixture]:
+        print(fixture.replace(DELIMITER," vs "))'''
 
+teamRules = assistsApriori(assistDf2425)
+
+print(teamRules)
+exit()
 SCRAPED_GAMES = r"C:\Users\gabeg\Documents\Accurate xG\OptaScrape\xgDataScraped_pl.txt"
 gameStats = []
 with open(SCRAPED_GAMES,"r", encoding="UTF-8") as f:
