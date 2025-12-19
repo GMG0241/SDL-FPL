@@ -59,10 +59,10 @@ def extract_goal_info(urls):
                                 scorerInfo = event[0].children
                                 team = "Home"
                             }
-                            let scorer = scorerInfo[0].innerHTML;
+                            let scorer = scorerInfo[0].innerHTML.replace(/[\u200E]/g, "");;
                             let assister = scorerInfo[1];
                             if (assister) {
-                                assister = assister.innerHTML.split("(Assist: ")[1].split(")")[0];
+                                assister = assister.innerHTML.split("(Assist: ")[1].split(")")[0].replace(/[\u200E]/g, "");;
                             }
                             goalInfo[team].push({"goal": scorer, "assist": assister});
                         }
@@ -88,5 +88,7 @@ if __name__ == "__main__":
 
     goal_information = extract_goal_info(full_links)
     print(goal_information)
-    with open("2526Assists.json","w") as f:
-        json.dump(goal_information,f)
+    with open("2526Assists.json","w",encoding="utf-8") as f:
+        string = json.dumps(goal_information)
+        string = string.encode().decode("unicode_escape")
+        f.write(string)
