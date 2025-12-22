@@ -4,6 +4,7 @@ import json
 import random
 import time
 import re
+import unidecode
 from datetime import datetime as dt
 from tensorflow import keras
 from tensorflow.keras import layers
@@ -34,7 +35,10 @@ MY_ABBRV_TO_DATA = {"CHE":"Chelsea",
                     "CRY":"Crystal Palace",
                     "NEW":"Newcastle",
                     "IPS":"Ipswich",
-                    "NOT":"Nott'm Forest"}
+                    "NOT":"Nott'm Forest",
+                    "LEE":"Leeds",
+                    "BUR":"Burnley",
+                    "SUN":"Sunderland"}
 DATA_TO_MY_ABBRV = {value:key for key, value in MY_ABBRV_TO_DATA.items()}
 OPPONENT_TEAM_TO_NAME = {i+1:name for i, name in enumerate(sorted(list(DATA_TO_MY_ABBRV)))} 
 GAMES_LOCATION = r"C:\Users\gabeg\Documents\Accurate xG\accuratexG\local"
@@ -132,7 +136,7 @@ def calculateStatsFromLines(lineContents):
     return {"homeXG":homeTeamXg,"awayXG":awayTeamXg, "playerData":playerData}
 
 #fixFile()
-def sanitiseDf():
+def sanitise2425Df():
     df = pd.read_csv(FILE)
     df = df[["name", "position", "team", "clean_sheets", "goals_conceded", "goals_scored", "minutes", "opponent_team", "own_goals", "penalties_missed", "penalties_saved", "red_cards", "team_a_score", "team_h_score", "total_points", "value", "was_home", "yellow_cards", "GW"]]
     df["matchFile"] = df.apply(lambda row: DATA_TO_MY_ABBRV[row["team"]] + DATA_TO_MY_ABBRV[OPPONENT_TEAM_TO_NAME[row["opponent_team"]]] if row["was_home"] else DATA_TO_MY_ABBRV[OPPONENT_TEAM_TO_NAME[row["opponent_team"]]] + DATA_TO_MY_ABBRV[row["team"]], axis=1)
@@ -193,6 +197,58 @@ def sanitiseDf():
     print(playerStats.keys())
     df["goals_scored_distribution"] = df.apply(lambda row: json.dumps(playerStats[FPL_TO_OPTA_PLAYERS.get(row["name"],row["name"])][row["matchFile"]]), axis=1)
     df.to_csv("sanitised_gws.csv",index=False)
+
+def sanitise2526Df(df2425:pd.DataFrame, df2526:pd.DataFrame, updatePlayerFile=False):
+
+    ID_TO_POSITION = {i+1:elm for i, elm in enumerate(["GK","DEF","MID","FWD"])}
+    PLAYER_FILE = r"C:\Users\gabeg\Documents\Uni Work\Strategic Leadership\FPL Code\2526NamesTo2425.json"
+
+    df2526 = df2526.rename(columns={"element_type":"position","web_name":"name","team_name":"team","opponent_team_name":"opponent_team","gameweek":"GW"})
+    df2526["position"] = df2526.apply(lambda row: ID_TO_POSITION[row["position"]], axis=1)
+    df2526["matchFile"] = df2526.apply(lambda row: DATA_TO_MY_ABBRV[row["team"]] + DATA_TO_MY_ABBRV[row["opponent_team"]] if row["was_home"] else DATA_TO_MY_ABBRV[row["opponent_team"]] + DATA_TO_MY_ABBRV[row["team"]], axis=1)
+    df2526["GW"] = df2526.apply(lambda row: row["GW"]+38, axis=1)
+    with open(PLAYER_FILE,"r", encoding="utf-8") as f:
+        nameConversion = json.load(f) 
+
+    if updatePlayerFile:
+        playerNames2425 = set(df2425["name"])
+        playerNames2526 = set(df2526["name"])
+        for name in playerNames2526:
+            infoDf = df2526[df2526["name"] == name].iloc[0]
+            team = infoDf["team"]
+            if name in playerNames2425:
+                nameConversion[name] = name
+            else:
+                candidateNames = list(filter(lambda n2425: name in n2425 or unidecode.unidecode(name,"utf-8") in n2425 or (unidecode.unidecode(''.join(name.split(".")[1:]),"utf-8") in n2425 and unidecode.unidecode(''.join(name.split(".")[1:]),"utf-8")),playerNames2425))
+                if len(candidateNames) == 1:
+                    nameConversion[name] = candidateNames[0]
+                elif len(candidateNames) == 0:
+                    print(name,team)
+                else:
+                    '''for n in candidateNames:
+                        print(n,team)
+                        print(df2425[df2425["team"] == MY_ABBRV_TO_DATA[team]])
+                        print(df2425[df2425["name"] == n])
+                        print(df2425[(df2425["name"] == n) & (df2425["team"] == MY_ABBRV_TO_DATA[team])]["name"])'''
+                    candidateTeamNames = list(filter(lambda n: len(df2425[(df2425["name"] == n) & (df2425["team"] == team)]["name"]) != 0,candidateNames))
+                    if len(candidateTeamNames) == 1:
+                        nameConversion[name] = candidateNames[0]
+                    else:
+                        print(name, team)
+                        print(candidateNames)
+                        print(candidateTeamNames)
+                        assignment = input("Enter the array (0 or 1) and the index of the arra (0..) to indicate the correct name in the format x,y or NO to indicate no correct option\n")
+                        if assignment != "NO":
+                            x,y = assignment.split(",")
+                            nameConversion[name] = [candidateNames,candidateTeamNames][int(x)][int(y)]
+        with open(PLAYER_FILE,"w",encoding="utf-8") as f:
+            string = json.dumps(nameConversion)
+            string = string.encode().decode("unicode_escape")
+            f.write(string)
+
+    df2526["name"] = df2526.apply(lambda row: nameConversion.get(row["name"],row["name"]), axis=1)
+
+    return df2526
 
 def trainModelPG(X,y, graph=False):
     X = np.array(X)
@@ -326,6 +382,7 @@ def buildInputsPG(playerNames):
     globalIndexLookup = {}
     for player in playerNames:
         dfPlayer = df[df["name"] == player].sort_values(by=["GW"])
+        print(dfPlayer)
         dfPlayer["isHome"] = dfPlayer.apply(lambda row: DATA_TO_MY_ABBRV[row["team"]] == row["matchFile"][:3], axis=1)
         dfPlayer["minutes"] = dfPlayer.apply(lambda row: row["minutes"]/MAX_MINS_PER_GAME, axis=1)
         dfPlayer["eloHomeData"] = dfPlayer.apply(lambda row: getEloData(TEAM_IDS[MY_ABBRV_TO_DATA[row["matchFile"][:3]]]), axis=1)
@@ -368,7 +425,10 @@ def buildInputsCS(gameStats):
     globalIndexLookup = {}
     for team in MY_ABBRV_TO_DATA:
         teamStats = list(filter(lambda obj: obj["home"] == team or obj["away"] == team,gameStats))
-        teamID = TEAM_IDS[MY_ABBRV_TO_DATA[team]]
+        teamID = TEAM_IDS.get(MY_ABBRV_TO_DATA[team])
+        if teamID is None:
+            print(f"{team} does not appear in the 2425 season")
+            continue
         eloData = getEloData(teamID)
         teamXInputs = []
         teamYInputs = []
@@ -580,19 +640,29 @@ def assistsApriori(assistDf:pd.DataFrame):
         encodedDf = pd.DataFrame(teArray,columns=te.columns_)
         frequentItems = apriori(encodedDf, min_support=2/len(l), use_colnames=True)
         rules = association_rules(frequentItems, metric="confidence", min_threshold=0.1)
-        rules = rules[rules['antecedents'].apply(lambda x: len(x) >= 1) & rules['consequents'].apply(lambda x: len(x) >= 1)]
+        rules = rules[(rules["antecedents"].apply(lambda row: len(list(row)[0]) > 0))] #remove rules where there is no scorer
         rules = rules.rename(columns={"antecedents":"scorer","consequents":"assister"})
-        print(f"Team {team} has {len(rules)} rules. ({count}/{len(l)} had no assister) {rules.sort_values(by="confidence", ascending=False).head(5)}")
+        #print(f"Team {team} has {len(rules)} rules. ({count}/{len(l)} had no assister) {rules.sort_values(by="confidence", ascending=False).head(5)}")
         teamRules[team] = {"rules":rules,"direction":l}
         total += len(l)
     if total != len(assistDf):
         raise Exception(f"Expected {len(assistDf)} total goals but actually used {total} goals")
     
     return teamRules
-#sanitiseDf()
+#sanitise2425Df()
 
 df = pd.read_csv("sanitised_gws.csv")
 df["goals_scored_distribution"] = df.apply(lambda row: json.loads(row["goals_scored_distribution"]),axis=1)
+
+fpl2526Data = pd.read_csv("fpl-data-stats.csv")
+with open("2526Assists.json","r") as f:
+    assist2526Json = json.load(f)
+
+df2526 = sanitise2526Df(df,fpl2526Data)
+dfCombined = pd.concat([df.copy(),df2526],axis=0).reset_index()
+
+buildInputsPG(dfCombined)
+exit()
 
 assistDf2425 = pd.read_excel("Soccer-Stats-Premier-League-2024-2025_20250526.xlsx",sheet_name="PlaysExport")
 assistDf2425 = assistDf2425.drop_duplicates(subset=["Play Description"])
@@ -614,8 +684,6 @@ for fixture in goals:
 
 teamRules = assistsApriori(assistDf2425)
 
-print(teamRules)
-exit()
 SCRAPED_GAMES = r"C:\Users\gabeg\Documents\Accurate xG\OptaScrape\xgDataScraped_pl.txt"
 gameStats = []
 with open(SCRAPED_GAMES,"r", encoding="UTF-8") as f:
@@ -625,7 +693,6 @@ with open(SCRAPED_GAMES,"r", encoding="UTF-8") as f:
         obj["home_cleanSheet"] = obj["distribution"]["awayXG"][0]
         obj["away_cleanSheet"] = obj["distribution"]["homeXG"][0]
         gameStats.append(obj)
-
 
 #for each input
 #10 prior game data - elo diff, home or not, probability of keeping a clean sheet
@@ -663,7 +730,11 @@ print(f"The player goals model was simulated and the percentage of the players t
 
 #check how well the pg model deals with people who I have currently filtered out. 
 #determine how well the pg model does at predicting clean sheets vs the cs model
-#try and perform some analysis on how people from different teams get assists. Currently I have in my head that I argue this as 'different tactics will cause different people to get assists'. Therefore, we can algorithmically determine the top candidates per team for gathering assists given a particular player is going to score (perhaps using some sort of data mining technique?)
+#for each player in the team, calculate their goal scoring chance, and their assist chance
+
+
+
+
 
 '''testNames = list(set(df["name"]))
 
