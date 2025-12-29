@@ -99,14 +99,44 @@ def PoiBin(data):
     xi = {i:float(item.real) for i,item in enumerate(xi)}
     return xi
 
-def readRxgFile(fileLocation):
+def readRxgFile(fileLocation,startLine2=False):
     with open(fileLocation,"r",encoding="UTF-8") as targetFile:
         data = []
-        for lineContents in targetFile.readlines():
+        for lineContents in targetFile.readlines()[startLine2:]:
             lineContents = lineContents.replace("\n", "")
             data.append(lineContents)
         return data
-        
+
+def calculateStatsFromFiles(gameLocation, df, startLine2=False):
+    gameStats = {}
+    playerStats = {}
+
+    for game in set(df["matchFile"]):
+        stats = calculateStatsFromLines(readRxgFile(gameLocation.format(game=game),startLine2))
+        gameStats[game] = stats
+        playerData = stats["playerData"]
+        for player, distribution in playerData.items():
+            playerGames = playerStats.get(player,{})
+            if not playerGames:
+                playerStats[player] = playerGames
+            playerGames[game] = distribution
+            played = playerGames.get("gamesPlayed", [])
+            played.append(game)
+            playerGames["gamesPlayed"] = played
+    
+    print(len(playerStats))
+    for i, row in df.iterrows():
+        player = FPL_TO_OPTA_PLAYERS.get(row["name"],row["name"])
+        game = row["matchFile"]
+        playerGames = playerStats.get(player,{})
+        if not playerGames.get(game):
+            playerGames[game] = {i:0 if i != 0 else 1 for i in range(ML_MAX_GOALS_SCORED+1)} 
+        playerStats[player] = playerGames
+    print(len(playerStats))
+    print(playerStats.keys())
+
+    return gameStats, playerStats
+
 def calculateStatsFromLines(lineContents):
     teamXg = {0:[],1:[]}
     playerData = {}
@@ -142,21 +172,7 @@ def sanitise2425Df():
     df["matchFile"] = df.apply(lambda row: DATA_TO_MY_ABBRV[row["team"]] + DATA_TO_MY_ABBRV[OPPONENT_TEAM_TO_NAME[row["opponent_team"]]] if row["was_home"] else DATA_TO_MY_ABBRV[OPPONENT_TEAM_TO_NAME[row["opponent_team"]]] + DATA_TO_MY_ABBRV[row["team"]], axis=1)
     df["homeTeamID"] = df.apply(lambda row: TEAM_IDS[row["team"]],axis=1)
     df["awayTeamID"] = df.apply(lambda row: row["opponent_team"]-1,axis=1)
-    gameStats = {}
-    playerStats = {}
-
-    for game in set(df["matchFile"]):
-        stats = calculateStatsFromLines(readRxgFile(f"{GAMES_LOCATION}/{game}2425.txt"))
-        gameStats[game] = stats
-        playerData = stats["playerData"]
-        for player, distribution in playerData.items():
-            playerGames = playerStats.get(player,{})
-            if not playerGames:
-                playerStats[player] = playerGames
-            playerGames[game] = distribution
-            played = playerGames.get("gamesPlayed", [])
-            played.append(game)
-            playerGames["gamesPlayed"] = played
+    gameStats, playerStats = calculateStatsFromFiles(GAMES_LOCATION+"/{game}2425.txt",df)
 
     
     r'''
@@ -185,16 +201,6 @@ def sanitise2425Df():
                 else:
                     playerTeam = match1[3:]
             print(f"{playerTeam} Selected {reducedName}: {value} from {linkedNames[reducedName]}")'''
-    print(len(playerStats))
-    for i, row in df.iterrows():
-        player = FPL_TO_OPTA_PLAYERS.get(row["name"],row["name"])
-        game = row["matchFile"]
-        playerGames = playerStats.get(player,{})
-        if not playerGames.get(game):
-            playerGames[game] = {i:0 if i != 0 else 1 for i in range(ML_MAX_GOALS_SCORED+1)} 
-        playerStats[player] = playerGames
-    print(len(playerStats))
-    print(playerStats.keys())
     df["goals_scored_distribution"] = df.apply(lambda row: json.dumps(playerStats[FPL_TO_OPTA_PLAYERS.get(row["name"],row["name"])][row["matchFile"]]), axis=1)
     df.to_csv("sanitised_gws.csv",index=False)
 
@@ -202,10 +208,11 @@ def sanitise2526Df(df2425:pd.DataFrame, df2526:pd.DataFrame, updatePlayerFile=Fa
 
     ID_TO_POSITION = {i+1:elm for i, elm in enumerate(["GK","DEF","MID","FWD"])}
     PLAYER_FILE = r"C:\Users\gabeg\Documents\Uni Work\Strategic Leadership\FPL Code\2526NamesTo2425.json"
+    GAME_STATS_LOCATION = r"C:\Users\gabeg\Documents\Accurate xG\OptaScrape\exampleEnv\updateResultApp\competitionFolders\0\2526\games\\"
 
     df2526 = df2526.rename(columns={"element_type":"position","web_name":"name","team_name":"team","opponent_team_name":"opponent_team","gameweek":"GW"})
+    df2526["matchFile"] = df2526.apply(lambda row: f"{TEAM_IDS[row["team"]]}_{TEAM_IDS[row["opponent_team"]]}" if row["was_home"] else f"{TEAM_IDS[row["opponent_team"]]}_{TEAM_IDS[row["team"]]}", axis=1)
     df2526["position"] = df2526.apply(lambda row: ID_TO_POSITION[row["position"]], axis=1)
-    df2526["matchFile"] = df2526.apply(lambda row: DATA_TO_MY_ABBRV[row["team"]] + DATA_TO_MY_ABBRV[row["opponent_team"]] if row["was_home"] else DATA_TO_MY_ABBRV[row["opponent_team"]] + DATA_TO_MY_ABBRV[row["team"]], axis=1)
     df2526["GW"] = df2526.apply(lambda row: row["GW"]+38, axis=1)
     with open(PLAYER_FILE,"r", encoding="utf-8") as f:
         nameConversion = json.load(f) 
@@ -248,7 +255,11 @@ def sanitise2526Df(df2425:pd.DataFrame, df2526:pd.DataFrame, updatePlayerFile=Fa
 
     df2526["name"] = df2526.apply(lambda row: nameConversion.get(row["name"],row["name"]), axis=1)
 
-    return df2526
+    gameStats, playerStats = calculateStatsFromFiles(GAME_STATS_LOCATION+"{game}.rxg", df2526, True)
+    df2526["goals_scored_distribution"] = df2526.apply(lambda row: json.dumps(playerStats[FPL_TO_OPTA_PLAYERS.get(row["name"],row["name"])][row["matchFile"]]), axis=1)
+
+    df2526["matchFile"] = df2526.apply(lambda row: DATA_TO_MY_ABBRV[row["team"]] + DATA_TO_MY_ABBRV[row["opponent_team"]] if row["was_home"] else DATA_TO_MY_ABBRV[row["opponent_team"]] + DATA_TO_MY_ABBRV[row["team"]], axis=1)
+    df2526.to_csv("sanitised_gws_2526.csv", index=False)
 
 def trainModelPG(X,y, graph=False):
     X = np.array(X)
@@ -362,7 +373,7 @@ def trainModelCS(X,y):
     plt.legend()
     plt.show()
 
-def buildInputsPG(playerNames):
+def buildInputsPG(playerNames, df):
     ROLLING_SIZE_PG = 11
     MAX_MINS_PER_GAME = 90
 
@@ -375,14 +386,12 @@ def buildInputsPG(playerNames):
     #history of expected goals scored (0,1,2,3+) + team elos
     #percentage mins played
     #isHome
-
     MAX_BENCH_PLAYER_TRAINS = 0
     benchPlayers = 0
     count = 0
     globalIndexLookup = {}
     for player in playerNames:
         dfPlayer = df[df["name"] == player].sort_values(by=["GW"])
-        print(dfPlayer)
         dfPlayer["isHome"] = dfPlayer.apply(lambda row: DATA_TO_MY_ABBRV[row["team"]] == row["matchFile"][:3], axis=1)
         dfPlayer["minutes"] = dfPlayer.apply(lambda row: row["minutes"]/MAX_MINS_PER_GAME, axis=1)
         dfPlayer["eloHomeData"] = dfPlayer.apply(lambda row: getEloData(TEAM_IDS[MY_ABBRV_TO_DATA[row["matchFile"][:3]]]), axis=1)
@@ -416,16 +425,17 @@ def buildInputsPG(playerNames):
         y_PG += playerYInputs
     return X_PG, y_PG, globalIndexLookup
 
-def buildInputsCS(gameStats):
+def buildInputsCS(df, gameStats):
     ROLLING_SIZE_CS = 11
 
     X_CS = []
     y_CS = []
     count = 0
     globalIndexLookup = {}
-    for team in MY_ABBRV_TO_DATA:
-        teamStats = list(filter(lambda obj: obj["home"] == team or obj["away"] == team,gameStats))
-        teamID = TEAM_IDS.get(MY_ABBRV_TO_DATA[team])
+    for team in set(df["team"]):
+        teamStats = list(filter(lambda obj: obj["home"] == DATA_TO_MY_ABBRV[team] or obj["away"] == DATA_TO_MY_ABBRV[team],gameStats))
+        teamID = TEAM_IDS.get(team)
+        team = DATA_TO_MY_ABBRV[team]
         if teamID is None:
             print(f"{team} does not appear in the 2425 season")
             continue
@@ -658,11 +668,11 @@ fpl2526Data = pd.read_csv("fpl-data-stats.csv")
 with open("2526Assists.json","r") as f:
     assist2526Json = json.load(f)
 
-df2526 = sanitise2526Df(df,fpl2526Data)
+#sanitise2526Df(df,fpl2526Data)
+df2526 = pd.read_csv("sanitised_gws_2526.csv")
+df2526["goals_scored_distribution"] = df2526.apply(lambda row: json.loads(row["goals_scored_distribution"]), axis=1)
 dfCombined = pd.concat([df.copy(),df2526],axis=0).reset_index()
 
-buildInputsPG(dfCombined)
-exit()
 
 assistDf2425 = pd.read_excel("Soccer-Stats-Premier-League-2024-2025_20250526.xlsx",sheet_name="PlaysExport")
 assistDf2425 = assistDf2425.drop_duplicates(subset=["Play Description"])
@@ -712,13 +722,18 @@ pgPercs = sum([[1 - playerObj[0] for playerObj in matchObj["distribution"]["play
 csIntervals = percentages(csPercs)
 pgIntervals = percentages(pgPercs)
 
-X_CS, y_CS, indexLookup_CS = buildInputsCS(gameStats)
-
+X_CS, y_CS, indexLookup_CS = buildInputsCS(df,gameStats)
+print(len(X_CS))
+length = 0
+for array in X_CS:
+    if len(array) != length:
+        print(len(array), length, array)
+        length = len(array)
 model_CS, indexes_CS = trainModelCS(X_CS,y_CS)
 
 
 playerNames = set(df["name"])
-X_PG, y_PG, indexLookup_PG = buildInputsPG(playerNames)
+X_PG, y_PG, indexLookup_PG = buildInputsPG(playerNames, df)
 
 model_PG, indexes_PG = trainModelPG(X_PG,y_PG)
 NUM_CARLO_ITERS = 10000
@@ -732,8 +747,22 @@ print(f"The player goals model was simulated and the percentage of the players t
 #determine how well the pg model does at predicting clean sheets vs the cs model
 #for each player in the team, calculate their goal scoring chance, and their assist chance
 
+validateDf = dfCombined[dfCombined["GW"] >= 29].copy()
 
-
+X_validate_pg, y_validate_pg, indexLookup_validate_pg = buildInputsPG(set(validateDf["name"]), validateDf)
+y = model_PG.predict(np.array(X_validate_pg))
+absoluteError = 0
+squaredError = 0
+count = 0
+for i,prediction in enumerate(y):
+    prediction = prediction[0]
+    if modelInterpret("pg",prediction) == modelInterpret("pg",y_validate_pg[i]):
+        count += 1
+    absoluteError += abs(prediction - y_validate_pg[i])
+    squaredError += prediction**2 - y_validate_pg[i]**2
+mae = absoluteError/len(y)
+mse = absoluteError/len(y)
+print(f"We validated our PG model on {len(y)} pieces of data. We found that the model accurately decided to predict at least one goal {count/len(y)*100}% of the time. The actual probability accuracy was a loss (MSE) of {mse} (RMSE: {mse**0.5}), and a MAE of {mae}")
 
 
 '''testNames = list(set(df["name"]))
