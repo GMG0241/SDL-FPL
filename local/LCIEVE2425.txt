@@ -1,0 +1,29 @@
+1,0.29528164863586426,Miss,3:35,Right footed,J. Lindstrøm
+0,0.21446870267391205,Goal,72:43,Right footed,S. Mavididi
+1,0.1234443411231041,Miss,49:56,Left footed,I. Ndiaye
+1,0.09675472974777222,Miss,20:26,Right footed,J. Lindstrøm
+1,0.08724550902843475,Goal,11:30,Right footed,I. Ndiaye
+1,0.08686747401952744,Miss,64:44,Right footed,D. Calvert-Lewin
+0,0.08237668126821518,Miss,67:47,Header,C. Okoli
+1,0.08203274011611938,Miss,90+3:30,Right footed,D. Calvert-Lewin
+1,0.07505939900875092,Miss,43:29,Left footed,D. McNeil
+0,0.06173306703567505,Miss,67:06,Header,W. Faes
+0,0.05962739512324333,Miss,51:43,Right footed,J. Ayew
+1,0.0594128780066967,Miss,20:24,Right footed,D. Calvert-Lewin
+1,0.05019664019346237,Miss,40:58,Right footed,J. Lindstrøm
+0,0.043291788548231125,Miss,87:05,Left footed,F. Buonanotte
+0,0.0383506640791893,Miss,14:16,Right footed,S. Mavididi
+0,0.03460460156202316,Miss,85:48,Right footed,S. Mavididi
+1,0.03131254017353058,Miss,11:14,Right footed,J. Lindstrøm
+0,0.031187715008854866,Miss,78:12,Right footed,W. Ndidi
+0,0.026952600106596947,Miss,45:55,Left footed,J. Ayew
+0,0.02445903979241848,Miss,8:49,Other body part,W. Ndidi
+1,0.023277979344129562,Miss,75:54,Right footed,D. Calvert-Lewin
+0,0.022764157503843307,Miss,55:05,Right footed,H. Winks
+0,0.02245025523006916,Miss,19:57,Right footed,W. Ndidi
+1,0.022080454975366592,Miss,5:35,Right footed,A. Doucouré
+1,0.021849412471055984,Miss,68:29,Left footed,D. McNeil
+1,0.02137630246579647,Miss,2:44,Header,D. McNeil
+1,0.01272307988256216,Miss,40:10,Left footed,D. McNeil
+1,0.007175693288445473,Miss,15:58,Header,D. Calvert-Lewin
+1,0.006451677531003952,Miss,68:43,Right footed,J. Garner

@@ -1,0 +1,21 @@
+1,0.15941423177719116,Miss,4:11,Right footed,M. Rashford
+1,0.12048844248056412,Miss,67:50,Left footed,Antony
+1,0.10479341447353363,Miss,90+4:29,Header,J. Evans
+0,0.08900030702352524,Miss,90+2:34,Left footed,J. Philogene
+0,0.08171819895505905,Miss,90+7:10,Right footed,M. Rogers
+0,0.05673345550894737,Miss,7:27,Right footed,M. Rogers
+0,0.053477007895708084,Miss,31:29,Right footed,Y. Tielemans
+0,0.04803859069943428,Miss,75:25,Left footed,L. Digne
+0,0.037667687982320786,Miss,55:42,Right footed,Y. Tielemans
+1,0.03680954501032829,Miss,48:01,Right footed,M. Rashford
+1,0.035631462931632996,Miss,67:47,Right footed,Bruno Fernandes
+1,0.032932404428720474,Miss,48:46,Right footed,A. Garnacho
+0,0.030718140304088593,Miss,50:36,Right footed,M. Cash
+0,0.030101513490080833,Miss,56:53,Right footed,O. Watkins
+0,0.02852473594248295,Miss,62:38,Right footed,O. Watkins
+0,0.027995405718684196,Miss,19:31,Right footed,J. Philogene
+1,0.02600833587348461,Miss,76:24,Left footed,Antony
+1,0.020003048703074455,Miss,38:05,Right footed,A. Garnacho
+0,0.01989658921957016,Miss,39:19,Left footed,L. Bailey
+1,0.018645135685801506,Miss,85:30,Right footed,A. Garnacho
+1,0.013479665853083134,Miss,47:49,Right footed,K. Mainoo

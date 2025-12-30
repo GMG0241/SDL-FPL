@@ -1,0 +1,21 @@
+0,0.4229770302772522,Miss,18:18,Left footed,M. Rogers
+0,0.30268824100494385,Goal,58:35,Right footed,E. Konsa
+1,0.22386713325977325,Miss,15:25,Left footed,W. Odobert
+0,0.09370668977499008,Miss,60:10,Right footed,O. Watkins
+0,0.08306001871824265,Miss,28:20,Right footed,O. Watkins
+0,0.06986123323440552,Goal,72:25,Left footed,B. Kamara
+0,0.06770071387290955,Miss,26:37,Left footed,Marco Asensio
+0,0.06541164219379425,Miss,6:35,Left footed,J. McGinn
+0,0.058283481746912,Miss,69:50,Right footed,M. Cash
+0,0.058082882314920425,Miss,37:34,Header,E. Konsa
+1,0.05712338164448738,Miss,14:03,Right footed,Son Heung-Min
+0,0.05649290606379509,Miss,90+4:39,Left footed,Marco Asensio
+0,0.05201414227485657,Miss,5:56,Left footed,O. Watkins
+0,0.04740952327847481,Miss,74:41,Right footed,J. McGinn
+1,0.04172714427113533,Miss,65:05,Left footed,Sergio Reguilón
+0,0.03539418801665306,Miss,68:34,Left footed,J. McGinn
+0,0.03394463658332825,Miss,35:22,Left footed,Marco Asensio
+0,0.0323629155755043,Miss,90+4:04,Right footed,M. Rogers
+0,0.030125726014375687,Miss,9:49,Right footed,I. Maatsen
+0,0.028053803369402885,Miss,69:06,Right footed,Marco Asensio
+0,0.026673315092921257,Miss,58:03,Left footed,I. Maatsen

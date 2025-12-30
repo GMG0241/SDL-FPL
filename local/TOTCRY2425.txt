@@ -1,0 +1,31 @@
+1,0.8624640107154846,Goal,44:54,Right footed,E. Eze
+1,0.5340135097503662,Miss,67:10,Header,I. Sarr
+0,0.3724544942378998,Miss,54:50,Header,P. Sarr
+1,0.3001997172832489,Miss,42:51,Header,M. Lacroix
+1,0.2766159474849701,Goal,47:31,Right footed,E. Eze
+1,0.23198583722114563,Miss,24:52,Left footed,J. Mateta
+1,0.17431625723838806,Miss,50:02,Right footed,J. Mateta
+1,0.17204998433589935,Miss,90+2:11,Right footed,E. Nketiah
+1,0.10810497403144836,Miss,33:42,Right footed,J. Mateta
+0,0.10689035803079605,Miss,88:45,Left footed,Son Heung-Min
+1,0.10379248112440109,Miss,78:12,Header,E. Nketiah
+1,0.10245546698570251,Miss,14:06,Left footed,D. Muñoz
+1,0.08166397362947464,Miss,2:33,Left footed,T. Mitchell
+1,0.06933803111314774,Miss,32:51,Right footed,J. Mateta
+1,0.0621139258146286,Miss,30:47,Header,J. Lerma
+1,0.05974911153316498,Miss,28:02,Right footed,D. Muñoz
+0,0.05362078547477722,Miss,72:22,Right footed,W. Odobert
+0,0.0401453822851181,Miss,47:19,Right footed,Pedro Porro
+1,0.039728324860334396,Miss,78:06,Left footed,W. Hughes
+1,0.0396064929664135,Miss,33:35,Right footed,D. Muñoz
+1,0.038058679550886154,Miss,31:51,Header,C. Richards
+0,0.038011372089385986,Miss,12:15,Right footed,D. Kulusevski
+1,0.03711158409714699,Miss,51:22,Header,I. Sarr
+0,0.03494708985090256,Miss,45+3:23,Right footed,Pedro Porro
+1,0.03467313572764397,Miss,31:07,Right footed,I. Sarr
+1,0.0282834954559803,Miss,66:27,Left footed,I. Sarr
+0,0.018784351646900177,Miss,12:59,Header,P. Sarr
+0,0.01856483891606331,Miss,13:04,Header,K. Danso
+1,0.01692431978881359,Miss,41:44,Right footed,E. Eze
+1,0.008533879183232784,Miss,25:51,Right footed,E. Eze
+1,0.008402272127568722,Miss,38:55,Right footed,J. Lerma

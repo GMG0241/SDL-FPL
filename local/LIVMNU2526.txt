@@ -1,0 +1,31 @@
+0,0.8706451058387756,Goal,77:32,Right footed,C. Gakpo
+0,0.527119517326355,Miss,86:06,Header,C. Gakpo
+1,0.2687613368034363,Goal,1:02,Right footed,B. Mbeumo
+1,0.26393499970436096,Miss,87:54,Header,M. de Ligt
+0,0.2519874572753906,Miss,64:28,Left footed,Mohamed Salah
+0,0.24004097282886505,Miss,34:13,Right footed,A. Isak
+1,0.1594686359167099,Miss,23:20,Right footed,Bruno Fernandes
+0,0.14309683442115784,Miss,13:07,Header,V. van Dijk
+1,0.1308003067970276,Miss,26:36,Left footed,B. Mbeumo
+1,0.1306542158126831,Miss,26:07,Right footed,M. Mount
+1,0.12480460852384567,Goal,83:11,Header,H. Maguire
+0,0.09966184198856354,Miss,28:21,Right footed,A. Isak
+0,0.09924143552780151,Miss,53:15,Left footed,Mohamed Salah
+0,0.07921701669692993,Miss,20:03,Right footed,C. Gakpo
+0,0.07150097191333771,Miss,32:12,Header,Mohamed Salah
+0,0.0566558763384819,Miss,77:31,Left footed,F. Chiesa
+0,0.054060157388448715,Miss,75:09,Left footed,C. Jones
+1,0.054004404693841934,Miss,82:24,Left footed,Matheus Cunha
+0,0.049984101206064224,Miss,59:47,Right footed,A. Mac Allister
+0,0.04576968029141426,Miss,68:26,Right footed,H. Ekitiké
+0,0.04556863382458687,Miss,76:52,Header,C. Gakpo
+1,0.04040079563856125,Miss,62:17,Left footed,Bruno Fernandes
+0,0.0392097532749176,Miss,25:37,Right footed,A. Mac Allister
+1,0.031629011034965515,Miss,41:45,Left footed,Matheus Cunha
+1,0.02598235383629799,Miss,26:38,Left footed,M. Mount
+0,0.024090996012091637,Miss,38:26,Header,V. van Dijk
+0,0.02373538911342621,Miss,49:08,Right footed,C. Gakpo
+1,0.023150751367211342,Miss,83:07,Left footed,B. Mbeumo
+0,0.021895240992307663,Miss,63:42,Right footed,H. Ekitiké
+0,0.011623047292232513,Miss,90+1:24,Header,I. Konaté
+1,0.006276278290897608,Miss,66:11,Header,B. Šeško

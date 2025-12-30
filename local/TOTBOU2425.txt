@@ -1,0 +1,29 @@
+0,0.7884,Goal,83:52,Right footed,Son Heung-Min
+1,0.5824535489082336,Goal,64:08,Left footed,Evanilson
+1,0.31952595710754395,Miss,3:44,Right footed,J. Kluivert
+1,0.27379000186920166,Goal,41:03,Right footed,M. Tavernier
+1,0.2581788897514343,Miss,0:16,Right footed,Evanilson
+0,0.24161909520626068,Miss,5:54,Right footed,K. Danso
+0,0.11093580722808838,Miss,62:41,Right footed,P. Sarr
+1,0.11024519801139832,Miss,18:19,Left footed,M. Tavernier
+0,0.09565050899982452,Miss,5:53,Header,D. Solanke
+1,0.0905500128865242,Miss,73:19,Header,Dean Huijsen
+0,0.08623792976140976,Miss,9:12,Right footed,Y. Bissouma
+1,0.082081139087677,Miss,33:27,Right footed,T. Adams
+1,0.06897292286157608,Miss,90:37,Header,A. Scott
+1,0.0650160163640976,Miss,3:49,Header,M. Tavernier
+1,0.05776651203632355,Miss,18:21,Right footed,A. Semenyo
+1,0.055032879114151,Miss,78:24,Header,Dean Huijsen
+1,0.051009584218263626,Miss,59:23,Header,J. Hill
+1,0.04943506047129631,Miss,72:26,Right footed,J. Kluivert
+1,0.04892835021018982,Miss,72:35,Right footed,D. Ouattara
+0,0.039251819252967834,Miss,90+5:56,Right footed,J. Maddison
+0,0.03679783269762993,Miss,65:52,Right footed,L. Bergvall
+1,0.03671870008111,Miss,58:44,Left footed,A. Semenyo
+1,0.03550029546022415,Miss,18:32,Right footed,Evanilson
+0,0.028848102316260338,Miss,54:15,Header,C. Romero
+0,0.028750406578183174,Miss,47:27,Left footed,W. Odobert
+0,0.026045337319374084,Goal,66:35,Right footed,P. Sarr
+0,0.022574087604880333,Miss,53:41,Right footed,Son Heung-Min
+0,0.020701104775071144,Miss,21:52,Header,D. Solanke
+1,0.015822073444724083,Miss,61:13,Left footed,M. Kerkez

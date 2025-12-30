@@ -1,0 +1,29 @@
+0,0.6068138480186462,Goal,40:20,Right footed,D. Welbeck
+1,0.24832472205162048,Miss,45+5:24,Header,N. Woltemade
+1,0.18591398000717163,Miss,87:26,Right footed,N. Woltemade
+1,0.14480914175510406,Miss,87:28,Right footed,N. Woltemade
+1,0.13148672878742218,Miss,5:41,Right footed,Bruno Guimarães
+1,0.13050933182239532,Miss,77:54,Left footed,Bruno Guimarães
+1,0.12849754095077515,Goal,75:59,Right footed,N. Woltemade
+0,0.10304692387580872,Goal,83:39,Right footed,D. Welbeck
+1,0.073725126683712,Miss,52:31,Right footed,A. Gordon
+1,0.07169798761606216,Miss,60:55,Right footed,Bruno Guimarães
+1,0.06851201504468918,Miss,64:45,Left footed,J. Murphy
+0,0.06657182425260544,Miss,49:34,Right footed,Y. Ayari
+0,0.06126982718706131,Miss,17:40,Left footed,Y. Minteh
+1,0.05142571032047272,Miss,89:34,Header,M. Thiaw
+1,0.05056684464216232,Miss,31:18,Header,S. Botman
+0,0.03138503059744835,Miss,51:38,Left footed,M. De Cuyper
+0,0.026952112093567848,Miss,19:15,Right footed,G. Rutter
+0,0.026581736281514168,Miss,8:10,Left footed,Y. Minteh
+1,0.02645142935216427,Miss,73:40,Left footed,J. Murphy
+1,0.025355547666549683,Miss,90+5:26,Right footed,H. Barnes
+1,0.024882057681679726,Miss,73:33,Right footed,Bruno Guimarães
+0,0.02354408986866474,Miss,83:37,Right footed,M. Wieffer
+0,0.022915871813893318,Miss,45+1:30,Header,L. Dunk
+0,0.019673075526952744,Miss,19:36,Left footed,G. Rutter
+1,0.019260704517364502,Miss,54:21,Right footed,S. Tonali
+0,0.01880134828388691,Miss,11:59,Left footed,C. Baleba
+0,0.01835479773581028,Miss,42:46,Right footed,Y. Ayari
+1,0.008808120153844357,Miss,88:17,Right footed,J. Murphy
+0,0.006083395332098007,Miss,45+1:53,Right footed,C. Baleba

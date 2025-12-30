@@ -1,0 +1,40 @@
+1,0.940233588218689,Miss,7:30,Left footed,M. Tavernier
+1,0.6316412091255188,Goal,86:31,Header,E. Ünal
+1,0.4818131625652313,Goal,90+4:08,Right footed,D. Ouattara
+0,0.3170642554759979,Miss,2:43,Right footed,L. Delap
+1,0.2479000985622406,Miss,90+4:06,Left footed,D. Brooks
+0,0.2148130089044571,Goal,20:47,Left footed,C. Chaplin
+1,0.1682983785867691,Miss,54:29,Right footed,J. Kluivert
+1,0.15299884974956512,Miss,66:24,Header,E. Ünal
+1,0.13363328576087952,Miss,86:29,Left footed,D. Ouattara
+0,0.13210417330265045,Miss,70:09,Right footed,S. Szmodics
+1,0.10345108807086945,Miss,51:11,Right footed,L. Cook
+1,0.081047922372818,Miss,35:03,Left footed,J. Kluivert
+0,0.07565243542194366,Miss,28:01,Left footed,C. Chaplin
+0,0.0724155381321907,Miss,85:55,Left footed,C. Chaplin
+1,0.07017488777637482,Miss,27:40,Right footed,M. Tavernier
+1,0.07008596509695053,Miss,55:45,Right footed,Evanilson
+0,0.06957291066646576,Miss,81:19,Left footed,C. Chaplin
+0,0.06783491373062134,Miss,19:35,Left footed,O. Hutchinson
+0,0.06694047152996063,Miss,72:00,Right footed,S. Szmodics
+0,0.052447229623794556,Miss,63:34,Right footed,L. Delap
+0,0.0519552081823349,Miss,25:25,Left footed,J. Taylor
+1,0.04759573936462402,Miss,41:06,Right footed,A. Semenyo
+1,0.044331274926662445,Miss,39:40,Header,Evanilson
+0,0.04426160082221031,Miss,73:12,Left footed,C. Chaplin
+1,0.03905776888132095,Miss,11:03,Right footed,Evanilson
+1,0.03446240723133087,Miss,58:17,Left footed,A. Semenyo
+0,0.03354744240641594,Miss,30:36,Right footed,S. Szmodics
+0,0.028835853561758995,Miss,18:17,Header,C. Burgess
+0,0.027697578072547913,Miss,81:11,Header,J. Clarke
+1,0.027490884065628052,Miss,33:49,Right footed,A. Semenyo
+1,0.023368408903479576,Miss,90+2:06,Left footed,P. Billing
+1,0.022560782730579376,Miss,77:36,Left footed,A. Semenyo
+1,0.0215492844581604,Miss,34:07,Right footed,J. Kluivert
+1,0.02045433782041073,Miss,90+7:07,Left footed,D. Brooks
+1,0.019370144233107567,Miss,55:50,Left footed,J. Kluivert
+0,0.0187733992934227,Miss,85:49,Right footed,J. Taylor
+0,0.018608374521136284,Miss,43:59,Right footed,S. Szmodics
+1,0.0177860539406538,Miss,68:59,Left footed,R. Christie
+0,0.01664155162870884,Miss,3:57,Right footed,J. Taylor
+0,0.006238024681806564,Miss,14:31,Right footed,J. Taylor

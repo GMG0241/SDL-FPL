@@ -1,0 +1,17 @@
+1,0.46599650382995605,Goal,86:39,Left footed,Mikel Merino
+1,0.27716174721717834,Goal,80:11,Header,Mikel Merino
+1,0.22490453720092773,Miss,8:01,Right footed,L. Trossard
+1,0.12250363826751709,Miss,15:40,Header,D. Rice
+0,0.0695885643362999,Miss,9:06,Left footed,W. Ndidi
+1,0.06441796571016312,Miss,90+1:40,Left footed,E. Nwaneri
+1,0.059260740876197815,Miss,60:09,Left footed,E. Nwaneri
+1,0.050665054470300674,Miss,57:53,Left footed,M. Ødegaard
+0,0.04500262811779976,Miss,45+3:39,Header,W. Ndidi
+1,0.0382566973567009,Miss,12:11,Right footed,T. Partey
+0,0.03652014210820198,Miss,89:04,Header,F. Buonanotte
+1,0.033211302012205124,Miss,65:44,Left footed,E. Nwaneri
+0,0.031206363812088966,Miss,66:25,Right footed,B. De Cordova-Reid
+1,0.024578973650932312,Miss,75:44,Right footed,E. Nwaneri
+0,0.023353107273578644,Miss,45+2:59,Right footed,B. El Khannouss
+1,0.022067897021770477,Miss,34:35,Right footed,R. Sterling
+0,0.014401497319340706,Miss,90+3:57,Right footed,S. Mavididi

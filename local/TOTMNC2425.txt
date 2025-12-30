@@ -1,0 +1,23 @@
+1,0.4820132553577423,Miss,6:51,Right footed,E. Haaland
+1,0.46144038438796997,Goal,11:33,Left footed,E. Haaland
+1,0.41094455122947693,Miss,29:16,Left footed,E. Haaland
+1,0.3855554163455963,Miss,26:56,Left footed,Savinho
+0,0.257487416267395,Miss,54:52,Left footed,W. Odobert
+0,0.21674497425556183,Miss,68:35,Right footed,P. Sarr
+0,0.16280347108840942,Miss,66:48,Header,B. Johnson
+0,0.1299203634262085,Miss,83:43,Right footed,Son Heung-Min
+0,0.09078321605920792,Miss,90+7:26,Header,P. Sarr
+0,0.09031656384468079,Miss,62:27,Header,R. Bentancur
+1,0.07210178673267365,Miss,64:27,Left footed,Savinho
+1,0.06926801055669785,Miss,31:59,Left footed,Savinho
+1,0.062103066593408585,Miss,20:03,Right footed,J. Doku
+0,0.048652950674295425,Miss,59:01,Header,K. Danso
+0,0.046589501202106476,Miss,5:07,Right footed,M. Tel
+0,0.04297955334186554,Miss,61:56,Header,R. Bentancur
+1,0.04142788052558899,Miss,87:19,Left footed,Savinho
+1,0.039038363844156265,Miss,53:28,Left footed,Savinho
+1,0.03755924478173256,Miss,34:07,Right footed,Omar Marmoush
+0,0.023186786100268364,Miss,60:31,Right footed,W. Odobert
+1,0.012852441519498825,Miss,50:19,Right footed,J. Doku
+1,0.011585550382733345,Miss,82:16,Left footed,Savinho
+0,0.010336709208786488,Miss,44:33,Header,K. Danso

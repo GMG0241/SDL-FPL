@@ -1,0 +1,23 @@
+0,0.6817243099212646,Goal,48:44,Left footed,C. Jones
+0,0.3702912926673889,Miss,3:32,Right footed,Mohamed Salah
+1,0.2448061853647232,Goal,5:51,Right footed,J. Ayew
+0,0.12779054045677185,Miss,46:31,Right footed,D. Núñez
+0,0.1182,Miss,61:48,Right footed,D. Núñez
+0,0.11481329053640366,Miss,44:40,Left footed,Mohamed Salah
+0,0.08633637428283691,Miss,11:56,Header,D. Núñez
+0,0.08042266964912415,Miss,28:47,Left footed,C. Jones
+0,0.058041565120220184,Miss,78:01,Left footed,Mohamed Salah
+0,0.04661368578672409,Miss,62:40,Header,C. Gakpo
+0,0.04634038731455803,Goal,81:56,Left footed,Mohamed Salah
+0,0.04360485449433327,Miss,23:47,Right footed,Mohamed Salah
+0,0.03785337507724762,Miss,47:41,Left footed,T. Alexander-Arnold
+1,0.03707614913582802,Miss,9:45,Right footed,B. El Khannouss
+0,0.036351077258586884,Miss,74:09,Right footed,T. Alexander-Arnold
+0,0.03499975800514221,Miss,24:33,Header,A. Robertson
+0,0.03473571315407753,Miss,21:50,Left footed,D. Núñez
+0,0.03227293863892555,Goal,45:51,Right footed,C. Gakpo
+1,0.031026115640997887,Miss,9:43,Header,J. Justin
+0,0.03061019629240036,Miss,40:57,Right footed,T. Alexander-Arnold
+1,0.02869356796145439,Miss,9:01,Right footed,J. Justin
+0,0.026819216087460518,Miss,23:00,Right footed,C. Gakpo
+0,0.0227772556245327,Miss,53:18,Header,A. Mac Allister

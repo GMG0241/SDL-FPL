@@ -1,0 +1,20 @@
+1,0.7964034676551819,Goal,37:37,Right footed,Evanilson
+1,0.777944028377533,Goal,78:24,Right footed,Evanilson
+1,0.1858154982328415,Miss,42:23,Header,I. Zabarnyi
+0,0.14583633840084076,Goal,60:22,Header,N. Füllkrug
+0,0.13914945721626282,Miss,63:47,Left footed,J. Bowen
+1,0.1206054762005806,Miss,1:04,Header,Evanilson
+1,0.11127985268831253,Miss,81:35,Left footed,A. Semenyo
+0,0.09525998681783676,Miss,73:26,Left footed,J. Bowen
+0,0.08822354674339294,Goal,67:48,Header,J. Bowen
+0,0.06512296199798584,Miss,85:07,Left footed,Luis Guilherme
+0,0.05115020275115967,Miss,88:55,Left footed,J. Bowen
+1,0.03806433454155922,Miss,44:52,Left footed,A. Semenyo
+1,0.036633528769016266,Miss,90+3:09,Header,Dean Huijsen
+1,0.0325474739074707,Miss,57:00,Right footed,D. Ouattara
+0,0.030062668025493622,Miss,23:31,Left footed,Lucas Paquetá
+1,0.028344644233584404,Miss,90+1:12,Left footed,A. Semenyo
+1,0.023591522127389908,Miss,37:36,Right footed,A. Semenyo
+1,0.020733453333377838,Miss,90+2:34,Left footed,A. Semenyo
+0,0.020264174789190292,Miss,4:07,Header,T. Souček
+0,0.011406244710087776,Miss,64:47,Right footed,Carlos Soler

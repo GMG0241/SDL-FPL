@@ -1,0 +1,30 @@
+0,0.597801685333252,Miss,66:44,Right footed,A. Smith
+1,0.3989977240562439,Miss,90+2:41,Left footed,E. Haaland
+0,0.37024733424186707,Goal,63:17,Right footed,Evanilson
+0,0.3176002502441406,Goal,8:26,Right footed,A. Semenyo
+0,0.29241740703582764,Miss,1:27,Right footed,J. Kluivert
+1,0.246519073843956,Miss,49:57,Left footed,P. Foden
+1,0.2131866067647934,Miss,90+2:39,Header,E. Haaland
+1,0.16150031983852386,Miss,79:15,Left footed,E. Haaland
+0,0.14867576956748962,Miss,1:25,Left footed,A. Semenyo
+1,0.13968610763549805,Miss,48:56,Header,E. Haaland
+0,0.09644792973995209,Miss,45:35,Right footed,Evanilson
+0,0.09504801034927368,Miss,77:54,Right footed,D. Brooks
+1,0.08542715013027191,Miss,30:03,Left footed,Bernardo Silva
+1,0.06437841802835464,Goal,81:22,Header,J. Gvardiol
+0,0.06209898367524147,Miss,59:19,Right footed,A. Semenyo
+0,0.055918142199516296,Miss,66:42,Left footed,M. Tavernier
+1,0.04764514043927193,Miss,37:29,Left footed,E. Haaland
+1,0.04497595503926277,Miss,90+3:59,Header,J. Gvardiol
+1,0.039566945284605026,Miss,90+5:43,Left footed,P. Foden
+1,0.035861361771821976,Miss,88:58,Right footed,J. Doku
+0,0.032972730696201324,Miss,69:10,Right footed,J. Kluivert
+1,0.03272971883416176,Miss,76:37,Left footed,P. Foden
+1,0.02818024903535843,Miss,75:25,Left footed,P. Foden
+0,0.027395278215408325,Miss,28:24,Right footed,J. Kluivert
+1,0.026246439665555954,Miss,26:07,Right footed,M. Kovačić
+0,0.023936476558446884,Miss,10:21,Left footed,A. Semenyo
+1,0.02189418487250805,Miss,62:38,Right footed,M. Kovačić
+1,0.020800061523914337,Miss,12:36,Left footed,N. Aké
+1,0.019486522302031517,Miss,90+1:50,Right footed,M. Kovačić
+1,0.01848282478749752,Miss,86:13,Left footed,J. Gvardiol

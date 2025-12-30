@@ -1,0 +1,19 @@
+1,0.9335640668869019,Miss,28:48,Header,I. Sarr
+1,0.7884,Goal,20:40,Right footed,J. Mateta
+0,0.5591934323310852,Miss,40:07,Right footed,O. Watkins
+1,0.5150407552719116,Goal,77:40,Header,I. Sarr
+1,0.3591369092464447,Miss,90:37,Left footed,J. Lerma
+0,0.14470787346363068,Miss,72:44,Right footed,D. Malen
+0,0.08589429408311844,Miss,72:42,Left footed,I. Maatsen
+0,0.06847423315048218,Miss,23:32,Right footed,E. Guessand
+1,0.0498599074780941,Goal,67:37,Right footed,M. Guéhi
+0,0.046899259090423584,Miss,70:00,Header,O. Watkins
+0,0.04472992941737175,Miss,58:24,Right footed,M. Rogers
+0,0.042218271642923355,Miss,1:37,Header,Y. Tielemans
+0,0.036682385951280594,Miss,81:19,Right footed,D. Malen
+0,0.03659762442111969,Miss,40:52,Header,Y. Tielemans
+0,0.030346620827913284,Miss,47:43,Right footed,O. Watkins
+1,0.024454506114125252,Miss,90+2:56,Right footed,Yeremy Pino
+0,0.013664822094142437,Miss,53:24,Right footed,Y. Tielemans
+0,0.009217104874551296,Miss,83:47,Right footed,E. Buendía
+0,0.008580668829381466,Miss,58:54,Right footed,M. Cash

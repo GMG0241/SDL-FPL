@@ -1,0 +1,28 @@
+1,0.7884,Goal,65:10,Left footed,B. Mbeumo
+0,0.32102182507514954,Goal,84:22,Right footed,R. Esse
+0,0.15100982785224915,Miss,46:09,Left footed,M. Lacroix
+1,0.10336313396692276,Miss,48:06,Right footed,Y. Wissa
+0,0.08585076779127121,Miss,77:12,Left footed,E. Nketiah
+0,0.07932987064123154,Miss,90+7:30,Right footed,E. Eze
+0,0.06930458545684814,Miss,30:56,Right footed,E. Eze
+1,0.06351851671934128,Goal,79:29,Header,K. Schade
+0,0.058283481746912,Miss,70:13,Left footed,E. Eze
+1,0.05521409586071968,Miss,39:21,Header,S. van den Berg
+0,0.05062437057495117,Miss,0:14,Left footed,E. Eze
+0,0.04726177826523781,Miss,29:19,Header,M. Lacroix
+0,0.0471324548125267,Miss,56:42,Right footed,E. Eze
+1,0.0467696338891983,Miss,24:57,Left footed,B. Mbeumo
+0,0.04029134288430214,Miss,54:32,Right footed,J. Lerma
+1,0.03914596140384674,Miss,69:09,Header,K. Schade
+1,0.03421438857913017,Miss,43:46,Right footed,B. Mbeumo
+1,0.03410562500357628,Miss,21:04,Right footed,Y. Wissa
+0,0.03304394707083702,Miss,6:36,Left footed,J. Mateta
+1,0.02783670648932457,Miss,88:01,Right footed,M. Roerslev
+0,0.027527181431651115,Miss,74:58,Left footed,W. Hughes
+1,0.026953361928462982,Miss,58:53,Right footed,K. Lewis-Potter
+1,0.024946551769971848,Miss,37:43,Right footed,Y. Wissa
+0,0.023141449317336082,Miss,56:48,Left footed,D. Muñoz
+0,0.02285570651292801,Miss,58:17,Header,C. Richards
+1,0.015918681398034096,Miss,22:10,Header,K. Schade
+0,0.010994800366461277,Miss,35:29,Header,J. Lerma
+0,0.010454479604959488,Miss,73:58,Left footed,W. Hughes

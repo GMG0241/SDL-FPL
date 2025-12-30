@@ -1,0 +1,20 @@
+1,0.8851017951965332,Miss,53:38,Left footed,C. Palmer
+0,0.7884,Goal,90+4:52,Right footed,J. Ayew
+1,0.7477125525474548,Goal,74:35,Header,E. Fernández
+1,0.3776848316192627,Miss,43:28,Right footed,N. Madueke
+1,0.22903016209602356,Goal,14:50,Right footed,N. Jackson
+0,0.21803225576877594,Miss,41:33,Right footed,W. Ndidi
+1,0.16056621074676514,Miss,74:33,Header,N. Jackson
+1,0.08311965316534042,Miss,23:29,Right footed,M. Caicedo
+1,0.07458247989416122,Miss,12:17,Right footed,E. Fernández
+1,0.05623531714081764,Miss,79:28,Left footed,N. Madueke
+1,0.05452314764261246,Miss,90:16,Right footed,C. Nkunku
+1,0.052261434495449066,Miss,53:36,Right footed,N. Jackson
+0,0.050429753959178925,Miss,81:12,Left footed,P. Daka
+1,0.04740142077207565,Miss,12:51,Right footed,João Félix
+1,0.04385720193386078,Miss,63:42,Right footed,E. Fernández
+0,0.04227134585380554,Miss,37:56,Left footed,K. McAteer
+1,0.037062641233205795,Miss,14:00,Right footed,João Félix
+1,0.032720934599637985,Miss,28:19,Left footed,N. Madueke
+1,0.026085596531629562,Miss,51:10,Right footed,João Félix
+1,0.008250459097325802,Miss,7:29,Left footed,C. Palmer

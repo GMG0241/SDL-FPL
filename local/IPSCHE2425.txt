@@ -1,0 +1,29 @@
+0,0.7884,Goal,11:21,Right footed,L. Delap
+1,0.717021644115448,Miss,20:54,Right footed,C. Nkunku
+0,0.3906206786632538,Miss,3:02,Right footed,N. Broadhead
+1,0.1767028570175171,Miss,46:44,Header,João Félix
+1,0.16353528201580048,Miss,41:11,Right footed,E. Fernández
+0,0.12832842767238617,Goal,52:52,Left footed,O. Hutchinson
+1,0.11517444252967834,Miss,35:37,Right footed,João Félix
+1,0.10247880220413208,Miss,69:21,Left footed,N. Madueke
+1,0.09233210235834122,Miss,34:12,Left footed,M. Caicedo
+0,0.09095951914787292,Miss,73:33,Right footed,L. Delap
+1,0.0874251127243042,Miss,90+2:27,Right footed,E. Fernández
+1,0.07238773256540298,Miss,29:06,Left footed,Marc Cucurella
+1,0.06867522746324539,Miss,69:17,Left footed,C. Palmer
+1,0.06706947088241577,Miss,29:04,Right footed,João Félix
+1,0.06695329397916794,Miss,45:30,Left footed,C. Palmer
+1,0.05726824700832367,Miss,49:11,Right footed,N. Madueke
+0,0.0542902946472168,Miss,38:54,Left footed,D. O'Shea
+0,0.05346670001745224,Miss,12:58,Right footed,L. Delap
+1,0.04012118652462959,Miss,46:50,Left footed,C. Palmer
+1,0.0381481871008873,Miss,56:01,Right footed,A. Disasi
+0,0.03778737783432007,Miss,38:01,Right footed,L. Delap
+1,0.03430141136050224,Miss,20:52,Left footed,C. Palmer
+1,0.03358624875545502,Miss,45+5:12,Header,João Félix
+1,0.030620425939559937,Miss,1:39,Left footed,N. Madueke
+1,0.022839603945612907,Miss,83:49,Right footed,J. Sancho
+0,0.022790631279349327,Miss,62:02,Right footed,L. Delap
+1,0.022300435230135918,Miss,81:12,Left footed,Pedro Neto
+1,0.020456550642848015,Miss,85:14,Right footed,N. Jackson
+0,0.015820758417248726,Miss,66:45,Right footed,N. Broadhead

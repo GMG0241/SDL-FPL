@@ -1,0 +1,19 @@
+1,0.2984699010848999,Goal,30:11,Right footed,D. Welbeck
+0,0.20518001914024353,Miss,9:12,Header,M. Lacroix
+1,0.16874262690544128,Miss,90+12:32,Right footed,Y. Ayari
+1,0.15299679338932037,Miss,12:49,Right footed,D. Welbeck
+0,0.11271999031305313,Miss,63:10,Header,M. Lacroix
+0,0.1010970026254654,Goal,2:19,Left footed,J. Mateta
+1,0.07283695787191391,Miss,90+4:23,Left footed,M. Wieffer
+0,0.06985566020011902,Miss,8:25,Left footed,E. Eze
+1,0.06721293181180954,Miss,90+1:58,Header,Y. Ayari
+0,0.04559256136417389,Goal,54:07,Right footed,D. Muñoz
+1,0.0408598855137825,Miss,41:19,Right footed,P. Estupiñán
+1,0.037396591156721115,Miss,4:19,Left footed,P. Estupiñán
+1,0.03690376877784729,Miss,90+4:37,Left footed,C. Baleba
+1,0.03561854735016823,Miss,11:04,Right footed,K. Mitoma
+0,0.03405839949846268,Miss,90+6:45,Left footed,B. Chilwell
+0,0.029011063277721405,Miss,82:30,Left footed,J. Devenny
+1,0.01882549189031124,Miss,72:40,Right footed,J. Hinshelwood
+0,0.014708166010677814,Miss,38:53,Right footed,E. Eze
+1,0.008731634356081486,Miss,12:46,Left footed,C. Baleba

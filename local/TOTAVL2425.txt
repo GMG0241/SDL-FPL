@@ -1,0 +1,28 @@
+0,0.740837812423706,Goal,78:30,Left footed,D. Solanke
+1,0.7284622192382812,Goal,31:05,Right footed,M. Rogers
+0,0.5907986164093018,Goal,74:10,Right footed,D. Solanke
+0,0.5907537937164307,Goal,48:28,Right footed,B. Johnson
+1,0.3942102789878845,Miss,63:27,Right footed,Diego Carlos
+1,0.2809188663959503,Miss,2:52,Right footed,O. Watkins
+1,0.1833365559577942,Miss,41:53,Left footed,O. Watkins
+0,0.12090536952018738,Goal,90+5:56,Right footed,J. Maddison
+0,0.1014646515250206,Miss,50:53,Right footed,D. Solanke
+1,0.0764373168349266,Miss,29:51,Header,A. Onana
+0,0.044398386031389236,Miss,13:20,Header,D. Solanke
+0,0.03929433971643448,Miss,45:59,Right footed,D. Solanke
+1,0.03518935665488243,Miss,7:15,Left footed,J. McGinn
+1,0.031368691474199295,Miss,54:37,Left footed,J. McGinn
+1,0.03052867203950882,Miss,29:04,Right footed,J. Ramsey
+1,0.030134782195091248,Miss,77:10,Left footed,A. Onana
+0,0.029906585812568665,Miss,90+9:35,Right footed,P. Sarr
+0,0.027966542169451714,Miss,66:02,Right footed,P. Sarr
+0,0.026799466460943222,Miss,19:44,Right footed,P. Sarr
+0,0.026287803426384926,Miss,51:33,Right footed,Pedro Porro
+1,0.025060011073946953,Miss,2:16,Right footed,M. Rogers
+0,0.024633873254060745,Miss,42:45,Right footed,R. Bentancur
+0,0.024386964738368988,Miss,17:36,Right footed,R. Bentancur
+1,0.022127384319901466,Miss,63:26,Left footed,L. Digne
+1,0.02130342647433281,Miss,88:56,Left footed,L. Bailey
+0,0.019333677366375923,Miss,21:18,Right footed,P. Sarr
+0,0.019304849207401276,Miss,21:46,Right footed,R. Bentancur
+0,0.01240371074527502,Miss,5:28,Right footed,Pedro Porro

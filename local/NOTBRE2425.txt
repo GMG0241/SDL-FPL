@@ -1,0 +1,25 @@
+1,0.4795600473880768,Goal,43:27,Right footed,K. Schade
+1,0.36628517508506775,Goal,69:57,Right footed,Y. Wissa
+1,0.33927246928215027,Miss,16:50,Header,S. van den Berg
+0,0.1964160054922104,Miss,63:56,Header,C. Wood
+0,0.18460772931575775,Miss,89:39,Right footed,Jota Silva
+1,0.12211160361766815,Miss,40:54,Right footed,Y. Wissa
+0,0.1067579910159111,Miss,67:57,Header,Murillo
+1,0.0952146127820015,Miss,66:05,Left footed,B. Mbeumo
+0,0.0831686332821846,Miss,23:15,Header,Murillo
+1,0.08235480636358261,Miss,87:48,Left footed,B. Mbeumo
+0,0.08035548031330109,Miss,8:56,Right footed,M. Gibbs-White
+0,0.07143925130367279,Miss,90+1:16,Left footed,R. Sosa
+1,0.06306877732276917,Miss,2:39,Header,C. Nørgaard
+0,0.059111349284648895,Miss,27:44,Header,C. Wood
+0,0.0590914823114872,Miss,52:35,Right footed,A. Elanga
+1,0.05568062141537666,Miss,72:55,Left footed,M. Kayode
+0,0.0332709439098835,Miss,39:49,Right footed,E. Anderson
+0,0.03138716146349907,Miss,75:10,Right footed,A. Elanga
+0,0.026276465505361557,Miss,56:23,Right footed,R. Yates
+1,0.02274870127439499,Miss,45+2:03,Right footed,M. Damsgaard
+0,0.018756642937660217,Miss,68:05,Right footed,N. Williams
+0,0.017453430220484734,Miss,53:13,Header,Murillo
+1,0.015190547332167625,Miss,52:07,Left footed,B. Mbeumo
+1,0.009013641625642776,Miss,42:30,Header,N. Collins
+0,0.007632430177181959,Miss,89:36,Right footed,A. Elanga

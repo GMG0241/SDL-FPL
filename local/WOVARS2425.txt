@@ -1,0 +1,18 @@
+0,0.41814303398132324,Miss,9:41,Left footed,Pablo Sarabia
+1,0.2741852104663849,Miss,61:53,Header,K. Havertz
+1,0.169441357254982,Miss,23:54,Header,K. Havertz
+1,0.16807134449481964,Miss,39:13,Left footed,E. Nwaneri
+1,0.09690502285957336,Goal,73:34,Left footed,R. Calafiori
+1,0.08399265259504318,Miss,18:41,Header,K. Havertz
+0,0.08153146505355835,Miss,83:34,Left footed,R. Aït-Nouri
+0,0.07762791961431503,Miss,59:53,Left footed,Pablo Sarabia
+1,0.07410544157028198,Miss,39:14,Left footed,E. Nwaneri
+0,0.07107965648174286,Miss,63:16,Right footed,Matheus Cunha
+1,0.0635579451918602,Miss,49:31,Left footed,Gabriel Magalhães
+1,0.0383506640791893,Miss,52:42,Right footed,D. Rice
+1,0.028794506564736366,Miss,25:21,Right footed,T. Partey
+0,0.022001447156071663,Miss,62:42,Right footed,Matheus Cunha
+0,0.021466819569468498,Miss,85:36,Right footed,Matheus Cunha
+0,0.020616678521037102,Miss,45+3:10,Right footed,E. Agbadou
+0,0.017894502729177475,Miss,59:00,Right footed,Hwang Hee-Chan
+0,0.014261266216635704,Miss,45+6:30,Right footed,Matheus Cunha

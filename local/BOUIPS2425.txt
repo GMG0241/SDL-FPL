@@ -1,0 +1,34 @@
+0,0.6723815202713013,Goal,66:42,Left footed,Evanilson
+1,0.4487191140651703,Goal,33:07,Right footed,N. Broadhead
+1,0.28907233476638794,Goal,59:24,Right footed,L. Delap
+0,0.27804046869277954,Miss,90+7:02,Header,D. Ouattara
+0,0.21780672669410706,Miss,66:40,Left footed,L. Cook
+1,0.1919727474451065,Miss,37:08,Header,B. Johnson
+0,0.16821055114269257,Miss,55:42,Right footed,D. Ouattara
+0,0.11687751859426498,Miss,32:02,Right footed,A. Scott
+0,0.10992707312107086,Miss,55:20,Header,D. Ouattara
+1,0.09275829792022705,Miss,42:27,Left footed,J. Cajuste
+0,0.0875525027513504,Miss,89:53,Header,A. Semenyo
+1,0.053687043488025665,Miss,23:39,Left footed,J. Enciso
+0,0.04999179020524025,Miss,32:09,Left footed,A. Scott
+0,0.04644826054573059,Miss,14:04,Right footed,A. Semenyo
+0,0.03910316154360771,Miss,25:20,Right footed,Evanilson
+1,0.03261980041861534,Miss,71:05,Header,D. O'Shea
+0,0.03247956186532974,Miss,12:15,Header,A. Scott
+0,0.032355960458517075,Miss,45:38,Right footed,A. Scott
+0,0.02779136598110199,Miss,31:41,Left footed,A. Semenyo
+0,0.027170225977897644,Miss,48:36,Left footed,R. Christie
+1,0.026728224009275436,Miss,80:36,Right footed,J. Taylor
+0,0.026451293379068375,Miss,41:20,Right footed,L. Cook
+0,0.024964459240436554,Miss,63:58,Right footed,D. Brooks
+0,0.023517794907093048,Miss,12:21,Left footed,M. Kerkez
+1,0.022915871813893318,Miss,66:04,Header,J. Enciso
+0,0.021200068295001984,Miss,87:13,Left footed,A. Semenyo
+0,0.019096992909908295,Miss,22:02,Left footed,D. Ouattara
+0,0.018120182678103447,Miss,14:06,Right footed,A. Semenyo
+0,0.015500044450163841,Miss,58:45,Left footed,D. Ouattara
+1,0.014667375944554806,Miss,19:16,Left footed,B. Johnson
+0,0.013994326815009117,Miss,85:04,Left footed,D. Ouattara
+0,0.013351969420909882,Miss,77:05,Right footed,A. Semenyo
+0,0.011925164610147476,Miss,14:14,Header,Evanilson
+1,0.011035948060452938,Miss,28:22,Right footed,J. Enciso

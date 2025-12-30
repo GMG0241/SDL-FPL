@@ -1,0 +1,29 @@
+0,0.5487189292907715,Goal,36:16,Right footed,H. Ekitiké
+1,0.4547911286354065,Goal,63:07,Left footed,A. Semenyo
+0,0.3390600085258484,Miss,38:15,Header,H. Ekitiké
+1,0.28319209814071655,Miss,34:27,Right footed,M. Tavernier
+1,0.24428187310695648,Miss,5:55,Right footed,A. Semenyo
+0,0.2271331250667572,Miss,46:42,Other body part,H. Ekitiké
+1,0.20790182054042816,Goal,75:56,Left footed,A. Semenyo
+1,0.16026094555854797,Miss,70:28,Left footed,D. Brooks
+0,0.15560556948184967,Goal,87:46,Right footed,F. Chiesa
+0,0.14420850574970245,Miss,62:14,Right footed,F. Wirtz
+0,0.12759804725646973,Miss,4:27,Header,V. van Dijk
+0,0.12725938856601715,Miss,45+2:48,Left footed,Mohamed Salah
+0,0.12170810997486115,Goal,48:23,Right footed,C. Gakpo
+1,0.11539140343666077,Miss,45+3:00,Left footed,Evanilson
+0,0.10993491113185883,Goal,90+3:51,Right footed,Mohamed Salah
+1,0.10576315224170685,Miss,9:44,Header,Evanilson
+0,0.0677989274263382,Miss,79:32,Left footed,D. Szoboszlai
+1,0.0649503543972969,Miss,70:41,Header,Evanilson
+0,0.050451427698135376,Miss,30:52,Header,V. van Dijk
+0,0.049230437725782394,Miss,87:23,Right footed,C. Gakpo
+1,0.03672235831618309,Miss,45+1:51,Left footed,M. Tavernier
+0,0.03185808286070824,Miss,51:06,Right footed,A. Mac Allister
+0,0.02665684185922146,Miss,69:12,Right footed,C. Gakpo
+1,0.02539440244436264,Miss,41:40,Right footed,D. Brooks
+0,0.0248769149184227,Miss,3:39,Left footed,Mohamed Salah
+0,0.020936110988259315,Miss,2:04,Right footed,H. Ekitiké
+0,0.020017476752400398,Miss,80:23,Right footed,D. Szoboszlai
+0,0.008693811483681202,Miss,53:03,Right footed,D. Szoboszlai
+0,0.008081462234258652,Miss,52:39,Right footed,J. Frimpong

@@ -1,0 +1,19 @@
+1,0.3670981228351593,Miss,26:16,Left footed,Mikel Merino
+1,0.30051296949386597,Miss,90+2:48,Header,D. Rice
+0,0.253046452999115,Goal,11:55,Header,A. Isak
+1,0.1569303274154663,Miss,17:23,Header,B. Saka
+0,0.057230833917856216,Miss,24:29,Header,F. Schär
+1,0.04811956733465195,Miss,63:28,Right footed,D. Rice
+1,0.0481075793504715,Miss,67:35,Right footed,L. Trossard
+0,0.044810567051172256,Miss,86:19,Header,Joelinton
+0,0.04444258660078049,Miss,45:28,Right footed,J. Willock
+1,0.03919567912817001,Miss,10:40,Left footed,B. Saka
+1,0.03855152055621147,Miss,26:19,Right footed,J. Timber
+0,0.037650853395462036,Miss,62:53,Right footed,A. Isak
+1,0.034056734293699265,Miss,90:29,Left footed,E. Nwaneri
+0,0.02985355816781521,Miss,21:15,Right footed,Bruno Guimarães
+1,0.029805293306708336,Miss,1:52,Left footed,L. Trossard
+0,0.0228419192135334,Miss,52:00,Right footed,S. Longstaff
+0,0.020436273887753487,Miss,57:20,Left footed,J. Willock
+0,0.014682144857943058,Miss,4:17,Left footed,Bruno Guimarães
+1,0.006600768305361271,Miss,5:58,Left footed,Mikel Merino

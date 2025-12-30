@@ -1,0 +1,31 @@
+0,0.7434666156768799,Goal,46:51,Header,Bruno Guimarães
+0,0.5964328050613403,Goal,49:18,Header,A. Isak
+0,0.44749677181243896,Miss,36:08,Right footed,A. Isak
+0,0.24069207906723022,Miss,56:55,Right footed,A. Isak
+0,0.20000678300857544,Miss,51:18,Right footed,J. Murphy
+0,0.18912522494792938,Miss,26:20,Left footed,J. Murphy
+0,0.13547225296497345,Miss,86:06,Header,L. Hall
+0,0.13530418276786804,Miss,32:47,Left footed,A. Isak
+0,0.1283862143754959,Miss,21:17,Right footed,S. Tonali
+0,0.12018023431301117,Miss,26:19,Left footed,Joelinton
+0,0.1137547418475151,Goal,59:06,Right footed,J. Murphy
+0,0.09181033819913864,Goal,29:46,Right footed,J. Murphy
+0,0.08936323970556259,Miss,7:39,Header,D. Burn
+0,0.08668936043977737,Miss,79:00,Right footed,H. Barnes
+0,0.08637921512126923,Miss,12:12,Header,Bruno Guimarães
+1,0.06148044392466545,Miss,45+1:39,Header,J. Vardy
+1,0.0533214695751667,Miss,19:03,Right footed,B. El Khannouss
+0,0.05282370373606682,Miss,72:07,Right footed,S. Tonali
+1,0.05054785683751106,Miss,54:04,Right footed,K. McAteer
+0,0.04358379915356636,Miss,21:32,Header,D. Burn
+0,0.04004749655723572,Miss,7:03,Right footed,A. Gordon
+0,0.03737030550837517,Miss,17:32,Right footed,Joelinton
+0,0.035000529140233994,Miss,28:18,Right footed,T. Livramento
+0,0.030672015622258186,Miss,61:35,Right footed,S. Tonali
+0,0.029206588864326477,Miss,33:55,Right footed,A. Gordon
+0,0.027981726452708244,Miss,24:23,Right footed,Joelinton
+0,0.027749555185437202,Miss,84:50,Right footed,H. Barnes
+0,0.02486821822822094,Miss,69:30,Right footed,A. Gordon
+1,0.020171653479337692,Miss,45+1:09,Right footed,O. Skipp
+0,0.019411880522966385,Miss,77:52,Left footed,H. Barnes
+0,0.016414036974310875,Miss,72:01,Left footed,H. Barnes

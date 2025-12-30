@@ -1,0 +1,23 @@
+0,0.24420680105686188,Miss,67:46,Right footed,O. Aina
+1,0.24033775925636292,Miss,56:31,Left footed,B. Johnson
+0,0.20170745253562927,Miss,62:06,Header,N. Milenković
+0,0.19918103516101837,Goal,28:00,Left footed,A. Elanga
+0,0.1514388769865036,Miss,52:03,Left footed,M. Gibbs-White
+1,0.11643707007169724,Miss,4:23,Right footed,Son Heung-Min
+0,0.11279136687517166,Miss,60:08,Right footed,A. Elanga
+1,0.08753490447998047,Miss,38:13,Right footed,B. Johnson
+1,0.08106333762407303,Miss,45:41,Right footed,Son Heung-Min
+1,0.07495002448558807,Miss,25:05,Left footed,D. Solanke
+1,0.06279207020998001,Miss,25:09,Right footed,B. Johnson
+0,0.055968355387449265,Miss,12:56,Right footed,E. Anderson
+1,0.055404432117938995,Miss,56:25,Right footed,P. Sarr
+0,0.045834366232156754,Miss,10:42,Right footed,C. Hudson-Odoi
+1,0.044411201030015945,Miss,75:45,Right footed,J. Maddison
+0,0.04335571080446243,Miss,67:44,Right footed,N. Williams
+1,0.04187565669417381,Miss,66:52,Left footed,J. Maddison
+0,0.03736827149987221,Miss,25:32,Right footed,A. Elanga
+1,0.029086386784911156,Miss,90:00,Header,D. Solanke
+1,0.027439968660473824,Miss,31:11,Left footed,D. Spence
+0,0.027272377163171768,Miss,87:16,Right footed,T. Awoniyi
+1,0.023935256525874138,Miss,46:12,Left footed,D. Kulusevski
+1,0.015364520251750946,Miss,39:19,Right footed,D. Solanke

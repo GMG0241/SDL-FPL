@@ -1,0 +1,26 @@
+0,0.6667029857635498,Goal,83:27,Left footed,Mohamed Salah
+0,0.4066225290298462,Miss,31:33,Right footed,D. Núñez
+0,0.26313352584838867,Goal,19:32,Right footed,D. Núñez
+1,0.25823211669921875,Miss,37:21,Header,O. Watkins
+0,0.2463497817516327,Miss,47:51,Header,D. Núñez
+1,0.23136237263679504,Miss,37:32,Left footed,L. Digne
+1,0.1913980394601822,Miss,45:25,Right footed,M. Rogers
+1,0.17331893742084503,Miss,81:11,Right footed,J. Philogene
+1,0.15321139991283417,Miss,36:54,Header,A. Onana
+0,0.11244847625494003,Miss,70:13,Header,I. Konaté
+1,0.08294765651226044,Miss,24:33,Right footed,O. Watkins
+1,0.07788991928100586,Miss,10:58,Right footed,J. Ramsey
+1,0.06038345769047737,Miss,37:20,Header,Diego Carlos
+0,0.05797090008854866,Miss,4:58,Left footed,Mohamed Salah
+0,0.05760740116238594,Miss,60:23,Left footed,Mohamed Salah
+1,0.05463670194149017,Miss,14:59,Header,L. Bailey
+1,0.046628233045339584,Miss,87:02,Left footed,J. McGinn
+1,0.04389972612261772,Miss,31:24,Right footed,J. Ramsey
+0,0.041530948132276535,Miss,63:54,Header,L. Díaz
+0,0.03767907992005348,Miss,70:57,Right footed,C. Gakpo
+0,0.030536040663719177,Miss,14:00,Right footed,D. Núñez
+0,0.028995217755436897,Miss,40:34,Right footed,D. Núñez
+0,0.026199495419859886,Miss,42:53,Right footed,R. Gravenberch
+0,0.0261220745742321,Miss,70:16,Right footed,C. Gakpo
+1,0.022381922230124474,Miss,10:08,Right footed,O. Watkins
+0,0.019467731937766075,Miss,60:35,Right footed,D. Núñez

@@ -1,0 +1,38 @@
+1,0.38409295678138733,Miss,71:12,Right footed,F. Schär
+1,0.3651082217693329,Miss,70:13,Left footed,A. Gordon
+0,0.3116576373577118,Goal,90+1:46,Right footed,R. Nelson
+0,0.27413612604141235,Goal,21:57,Right footed,E. Smith Rowe
+0,0.26145991683006287,Miss,51:30,Right footed,A. Iwobi
+0,0.23892584443092346,Miss,27:25,Right footed,R. Jiménez
+0,0.23421643674373627,Miss,34:17,Right footed,K. Tete
+1,0.20810148119926453,Miss,87:14,Header,H. Barnes
+1,0.13267704844474792,Goal,45:30,Right footed,H. Barnes
+0,0.13110512495040894,Miss,13:53,Right footed,R. Jiménez
+0,0.10223785787820816,Miss,33:36,Right footed,Adama Traoré
+0,0.09980665147304535,Miss,90+3:30,Right footed,Rodrigo Muniz
+0,0.07522546499967575,Miss,81:20,Right footed,A. Iwobi
+0,0.07477974146604538,Goal,4:43,Right footed,R. Jiménez
+0,0.07342690229415894,Miss,58:20,Right footed,E. Smith Rowe
+1,0.06961391866207123,Miss,54:50,Header,Joelinton
+0,0.06537996232509613,Miss,14:33,Left footed,A. Robinson
+0,0.06261131912469864,Miss,6:35,Right footed,E. Smith Rowe
+0,0.05819025635719299,Miss,78:43,Right footed,K. Tete
+0,0.05764089152216911,Miss,89:06,Right footed,Rodrigo Muniz
+1,0.05589573457837105,Miss,50:13,Right footed,H. Barnes
+1,0.04997016862034798,Miss,64:49,Right footed,Bruno Guimarães
+1,0.049014411866664886,Miss,87:14,Header,A. Isak
+0,0.043363891541957855,Miss,52:14,Right footed,R. Jiménez
+1,0.04195452108979225,Miss,68:34,Right footed,A. Isak
+1,0.03799782693386078,Miss,90+4:42,Right footed,S. Tonali
+1,0.03336459398269653,Miss,32:54,Right footed,H. Barnes
+1,0.03129396587610245,Miss,70:31,Left footed,J. Murphy
+0,0.03061019629240036,Miss,59:22,Right footed,Andreas Pereira
+1,0.028625641018152237,Miss,32:22,Right footed,Joelinton
+0,0.027103757485747337,Miss,41:03,Right footed,Andreas Pereira
+1,0.025854194536805153,Miss,40:07,Right footed,A. Gordon
+0,0.024386493489146233,Miss,36:14,Right footed,J. Andersen
+0,0.020398303866386414,Miss,14:30,Header,J. Andersen
+0,0.01571393571794033,Miss,16:13,Right footed,A. Iwobi
+1,0.013584782369434834,Miss,17:50,Header,F. Schär
+0,0.012371962890028954,Miss,34:16,Header,J. Andersen
+1,0.010564690455794334,Miss,17:27,Header,D. Burn

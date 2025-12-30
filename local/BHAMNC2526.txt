@@ -1,0 +1,24 @@
+1,0.798487663269043,Goal,33:06,Left footed,E. Haaland
+0,0.7884,Goal,66:25,Right footed,J. Milner
+0,0.7111613750457764,Goal,88:34,Right footed,B. Gruda
+1,0.299644410610199,Miss,59:23,Right footed,O. Bobb
+0,0.28728437423706055,Miss,87:46,Left footed,J. van Hecke
+1,0.17393632233142853,Miss,24:46,Header,E. Haaland
+1,0.1597585380077362,Miss,8:19,Left footed,E. Haaland
+0,0.12549445033073425,Miss,70:58,Left footed,Y. Minteh
+1,0.09265807271003723,Miss,76:50,Header,E. Haaland
+1,0.08202338218688965,Miss,23:55,Left footed,E. Haaland
+0,0.07423708587884903,Miss,61:05,Left footed,Y. Minteh
+0,0.06959495693445206,Miss,80:50,Left footed,G. Rutter
+0,0.05997047200798988,Miss,87:49,Right footed,L. Dunk
+1,0.05483712628483772,Miss,25:01,Header,E. Haaland
+1,0.05458733066916466,Miss,27:58,Left footed,Omar Marmoush
+0,0.05435571074485779,Miss,18:28,Right footed,K. Mitoma
+0,0.051694102585315704,Miss,86:46,Left footed,B. Gruda
+1,0.0386473573744297,Miss,90+5:31,Left footed,E. Haaland
+0,0.028984462842345238,Miss,64:01,Right footed,L. Dunk
+1,0.02549310028553009,Miss,42:41,Left footed,Rodri
+0,0.024467360228300095,Miss,78:44,Right footed,K. Mitoma
+0,0.021816778928041458,Miss,82:22,Left footed,B. Gruda
+1,0.021678393706679344,Miss,90+7:31,Right footed,T. Reijnders
+1,0.018473420292139053,Miss,76:10,Left footed,N. O'Reilly

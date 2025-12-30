@@ -1,0 +1,25 @@
+1,0.9006782174110413,Goal,2:04,Left footed,N. Madueke
+0,0.6814050674438477,Goal,41:13,Left footed,J. Gvardiol
+0,0.36054614186286926,Miss,41:10,Right footed,Matheus Nunes
+1,0.3134554624557495,Miss,28:31,Left footed,N. Jackson
+0,0.25445106625556946,Goal,86:43,Left footed,P. Foden
+1,0.24210111796855927,Miss,8:42,Right footed,J. Sancho
+0,0.2361663579940796,Miss,39:33,Left footed,J. Gvardiol
+0,0.18421055376529694,Miss,50:37,Left footed,E. Haaland
+0,0.18075865507125854,Miss,24:03,Right footed,J. Gvardiol
+0,0.15971419215202332,Miss,31:34,Header,P. Foden
+0,0.09546671062707901,Miss,66:14,Right footed,Omar Marmoush
+0,0.08118417114019394,Goal,67:15,Left footed,E. Haaland
+1,0.0713767558336258,Miss,27:57,Left footed,C. Palmer
+1,0.06998927146196365,Miss,45+2:07,Left footed,N. Madueke
+1,0.061958059668540955,Miss,57:21,Left footed,N. Jackson
+0,0.0596468485891819,Miss,33:31,Right footed,E. Haaland
+0,0.05299637094140053,Miss,22:54,Right footed,Omar Marmoush
+0,0.04784265160560608,Miss,33:29,Right footed,M. Kovačić
+1,0.04690597206354141,Miss,90+4:31,Right footed,L. Colwill
+0,0.044411201030015945,Miss,33:35,Right footed,İ. Gündoğan
+0,0.04335329681634903,Miss,9:45,Left footed,P. Foden
+1,0.03839549422264099,Miss,51:07,Left footed,Marc Cucurella
+1,0.03563433140516281,Miss,50:22,Right footed,E. Fernández
+1,0.019742554053664207,Miss,4:25,Right footed,R. James
+0,0.019248327240347862,Miss,22:57,Right footed,A. Khusanov

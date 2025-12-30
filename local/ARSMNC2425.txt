@@ -1,0 +1,19 @@
+1,0.3579443693161011,Goal,54:14,Header,E. Haaland
+0,0.29848307371139526,Miss,25:46,Left footed,K. Havertz
+0,0.16686312854290009,Miss,67:33,Right footed,Gabriel Martinelli
+1,0.16544267535209656,Miss,22:40,Header,J. Gvardiol
+1,0.1611648052930832,Miss,32:25,Header,M. Akanji
+0,0.1321030557155609,Goal,75:51,Left footed,K. Havertz
+0,0.12197118252515793,Goal,1:44,Left footed,M. Ødegaard
+1,0.053876522928476334,Miss,23:16,Left footed,Savinho
+0,0.049618225544691086,Goal,56:00,Right footed,T. Partey
+0,0.04787340760231018,Miss,80:21,Left footed,Gabriel Magalhães
+0,0.04240266978740692,Goal,61:54,Right footed,M. Lewis-Skelly
+0,0.04226202517747879,Miss,88:46,Header,J. Timber
+0,0.04217652976512909,Miss,59:29,Left footed,K. Havertz
+1,0.026027295738458633,Miss,44:12,Right footed,M. Kovačić
+0,0.02454022690653801,Goal,90+2:13,Left footed,E. Nwaneri
+1,0.02267744578421116,Miss,43:50,Left footed,Savinho
+1,0.02103819139301777,Miss,17:15,Right footed,Omar Marmoush
+0,0.020864026620984077,Miss,0:43,Left footed,K. Havertz
+0,0.013636443763971329,Miss,27:24,Right footed,M. Ødegaard

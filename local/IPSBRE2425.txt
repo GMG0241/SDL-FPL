@@ -1,0 +1,26 @@
+0,0.3601248860359192,Miss,90+1:53,Left footed,C. Burgess
+1,0.20525521039962769,Miss,61:44,Right footed,K. Schade
+0,0.16593037545681,Miss,90+3:41,Header,G. Hirst
+0,0.15658678114414215,Miss,79:53,Right footed,G. Hirst
+1,0.12709107995033264,Miss,65:50,Header,Y. Wissa
+1,0.12635980546474457,Miss,61:42,Right footed,M. Kayode
+1,0.12407233566045761,Miss,58:04,Right footed,Y. Wissa
+1,0.11875823885202408,Goal,17:41,Header,K. Schade
+1,0.11803033947944641,Miss,69:40,Right footed,Y. Wissa
+1,0.11624240130186081,Miss,46:46,Right footed,Y. Wissa
+1,0.11093951761722565,Miss,35:26,Header,S. van den Berg
+1,0.09014718234539032,Miss,31:12,Right footed,B. Mbeumo
+1,0.07494553178548813,Miss,45:20,Left footed,M. Damsgaard
+1,0.06884299218654633,Miss,52:02,Right footed,Y. Wissa
+0,0.06563849002122879,Miss,78:59,Right footed,Sam Morsy
+1,0.04462166875600815,Miss,46:48,Right footed,M. Damsgaard
+0,0.040445148944854736,Miss,73:46,Right footed,J. Greaves
+1,0.03836991265416145,Miss,69:39,Right footed,B. Mbeumo
+1,0.03201023489236832,Miss,45:16,Left footed,B. Mbeumo
+0,0.03150071203708649,Miss,1:40,Header,L. Delap
+0,0.030746515840291977,Miss,81:23,Right footed,O. Hutchinson
+0,0.025594381615519524,Miss,28:10,Left footed,J. Taylor
+1,0.02170410193502903,Miss,65:44,Right footed,B. Mbeumo
+0,0.019023770466446877,Miss,38:38,Right footed,J. Taylor
+0,0.01769210770726204,Miss,84:05,Right footed,J. Enciso
+0,0.01690840534865856,Miss,19:29,Right footed,J. Enciso

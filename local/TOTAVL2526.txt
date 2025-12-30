@@ -1,0 +1,17 @@
+0,0.26734164357185364,Miss,52:30,Right footed,W. Odobert
+0,0.19199445843696594,Miss,90+2:29,Right footed,R. Kolo Muani
+0,0.1355084925889969,Goal,4:38,Right footed,R. Bentancur
+0,0.09942439198493958,Miss,45:59,Header,M. van de Ven
+0,0.08992395550012589,Miss,56:50,Right footed,João Palhinha
+0,0.07189369946718216,Miss,90+4:58,Right footed,B. Johnson
+1,0.07021450251340866,Miss,56:03,Left footed,D. Malen
+1,0.0634409710764885,Miss,14:25,Right footed,M. Cash
+1,0.0619395412504673,Miss,61:16,Left footed,J. McGinn
+0,0.04991958662867546,Miss,53:45,Right footed,João Palhinha
+1,0.046515192836523056,Miss,89:40,Right footed,O. Watkins
+0,0.04149700328707695,Miss,66:10,Left footed,R. Bentancur
+1,0.03861406445503235,Goal,76:50,Left footed,E. Buendía
+1,0.038485340774059296,Goal,36:53,Right footed,M. Rogers
+1,0.03438447788357735,Miss,86:23,Left footed,I. Maatsen
+0,0.023977842181921005,Miss,26:57,Right footed,W. Odobert
+1,0.017722705379128456,Miss,11:00,Right footed,M. Cash

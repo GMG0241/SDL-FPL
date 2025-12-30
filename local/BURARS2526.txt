@@ -1,0 +1,15 @@
+1,0.8711750507354736,Goal,13:09,Header,V. Gyökeres
+1,0.30253419280052185,Miss,31:11,Right footed,B. Saka
+1,0.27890804409980774,Miss,22:01,Left footed,B. Saka
+0,0.27403077483177185,Miss,72:13,Header,Florentino
+1,0.24435433745384216,Miss,31:16,Right footed,L. Trossard
+1,0.24024979770183563,Goal,34:38,Header,D. Rice
+1,0.15762180089950562,Miss,18:21,Header,J. Timber
+1,0.12077521532773972,Miss,37:10,Right footed,E. Eze
+0,0.059264592826366425,Miss,90+6:20,Left footed,M. Edwards
+1,0.057581182569265366,Miss,20:36,Left footed,R. Calafiori
+1,0.05112452059984207,Miss,90+1:39,Right footed,C. Nørgaard
+1,0.04185817390680313,Miss,81:32,Left footed,E. Nwaneri
+1,0.028436144813895226,Miss,65:06,Right footed,J. Timber
+1,0.02762095257639885,Miss,55:33,Right footed,L. Trossard
+0,0.02012997306883335,Miss,70:48,Header,Z. Flemming

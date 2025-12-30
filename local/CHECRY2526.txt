@@ -1,0 +1,30 @@
+0,0.3412514626979828,Miss,65:38,Left footed,Estêvão
+1,0.2733091711997986,Miss,18:24,Right footed,J. Mateta
+0,0.2492944896221161,Miss,90+2:13,Left footed,Andrey Santos
+0,0.22297441959381104,Miss,61:24,Header,João Pedro
+1,0.12811993062496185,Miss,45+3:27,Left footed,E. Eze
+0,0.09189960360527039,Miss,22:46,Header,J. Acheampong
+0,0.08978230506181717,Miss,29:45,Right footed,T. Chalobah
+0,0.08437801897525787,Miss,2:45,Header,Marc Cucurella
+1,0.07793481647968292,Miss,8:38,Header,C. Richards
+0,0.05945504084229469,Miss,90+3:15,Header,Andrey Santos
+0,0.0582132451236248,Miss,29:05,Left footed,João Pedro
+0,0.05331514775753021,Miss,63:52,Right footed,C. Palmer
+0,0.049955446273088455,Miss,89:41,Right footed,L. Delap
+0,0.04977653548121452,Miss,58:03,Left footed,C. Palmer
+1,0.0469525083899498,Miss,81:49,Right footed,E. Eze
+1,0.04578927159309387,Miss,45+3:32,Left footed,D. Muñoz
+0,0.04471210390329361,Miss,45+1:51,Left footed,C. Palmer
+0,0.03970160335302353,Miss,29:08,Right footed,M. Caicedo
+0,0.039042744785547256,Miss,25:20,Left footed,J. Gittens
+1,0.032361358404159546,Miss,45+3:31,Right footed,E. Eze
+0,0.02972654439508915,Miss,22:00,Left footed,Pedro Neto
+0,0.028757503256201744,Miss,45+1:52,Left footed,Marc Cucurella
+0,0.026667553931474686,Miss,29:39,Right footed,J. Gittens
+0,0.024207688868045807,Miss,20:45,Left footed,C. Palmer
+0,0.02149755135178566,Miss,88:05,Right footed,M. Gusto
+1,0.01614575833082199,Miss,68:52,Right footed,E. Eze
+1,0.012964528053998947,Miss,24:26,Right footed,E. Eze
+1,0.012486030347645283,Miss,17:57,Right footed,J. Mateta
+1,0.005697772838175297,Miss,76:43,Right footed,J. Mateta
+1,0.005524656735360622,Miss,4:27,Right footed,E. Eze

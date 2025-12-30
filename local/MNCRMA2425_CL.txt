@@ -1,0 +1,31 @@
+1,0.9637442231178284,Goal,90+1:29,Right footed,J. Bellingham
+0,0.7884,Goal,79:28,Left footed,E. Haaland
+1,0.6047996878623962,Miss,11:15,Right footed,F. Mendy
+1,0.5221821069717407,Goal,59:39,Right footed,K. Mbappé
+1,0.3253442943096161,Goal,85:48,Right footed,Brahim Díaz
+0,0.24637773633003235,Goal,18:05,Left footed,E. Haaland
+1,0.19055743515491486,Miss,65:56,Left footed,J. Bellingham
+0,0.16544267535209656,Miss,36:32,Header,M. Akanji
+1,0.1432487666606903,Miss,54:12,Right footed,K. Mbappé
+1,0.12162908166646957,Miss,52:28,Header,J. Bellingham
+0,0.1038983166217804,Miss,2:38,Header,J. Gvardiol
+0,0.07910510897636414,Miss,70:24,Other body part,E. Haaland
+1,0.07488883286714554,Miss,59:35,Right footed,F. Valverde
+0,0.0718027874827385,Miss,45:33,Left footed,E. Haaland
+1,0.06857139617204666,Miss,25:07,Left footed,Rodrygo
+1,0.06676039099693298,Miss,90+1:27,Right footed,Vinícius Júnior
+1,0.061254750937223434,Miss,45+3:10,Right footed,K. Mbappé
+0,0.049563612788915634,Miss,14:34,Left footed,Savinho
+1,0.04730086028575897,Miss,11:47,Right footed,Dani Ceballos
+1,0.04356801137328148,Miss,71:23,Left footed,E. Camavinga
+1,0.03717353194952011,Miss,10:42,Right footed,K. Mbappé
+1,0.034718066453933716,Miss,42:26,Right footed,F. Valverde
+1,0.031191391870379448,Miss,45+1:51,Right footed,K. Mbappé
+1,0.02962048351764679,Miss,62:54,Right footed,F. Valverde
+0,0.02911047264933586,Miss,49:31,Left footed,J. Gvardiol
+0,0.026989564299583435,Miss,35:53,Left footed,E. Haaland
+0,0.025980183854699135,Miss,34:54,Left footed,P. Foden
+1,0.024268316105008125,Miss,85:46,Right footed,Vinícius Júnior
+1,0.019286097958683968,Miss,28:05,Right footed,Dani Ceballos
+1,0.017133599147200584,Miss,24:37,Right footed,Vinícius Júnior
+0,0.009947838261723518,Miss,47:34,Left footed,P. Foden

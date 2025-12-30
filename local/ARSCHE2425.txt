@@ -1,0 +1,20 @@
+0,0.12659840285778046,Miss,17:17,Right footed,L. Trossard
+0,0.11646591871976852,Miss,59:07,Left footed,Mikel Merino
+1,0.10483112931251526,Miss,36:24,Right footed,C. Nkunku
+1,0.09851449728012085,Miss,84:27,Header,Marc Cucurella
+0,0.08949998021125793,Miss,63:51,Left footed,M. Ødegaard
+0,0.07269486039876938,Miss,11:04,Right footed,D. Rice
+0,0.0721253827214241,Miss,72:05,Right footed,D. Rice
+0,0.06589939445257187,Miss,2:40,Right footed,L. Trossard
+0,0.05204196646809578,Goal,19:34,Header,Mikel Merino
+1,0.03311630338430405,Miss,36:22,Left footed,Pedro Neto
+0,0.03137212619185448,Miss,33:35,Right footed,Gabriel Martinelli
+1,0.02849719673395157,Miss,24:48,Right footed,E. Fernández
+1,0.02647756040096283,Miss,48:11,Left footed,Pedro Neto
+0,0.0250520221889019,Miss,72:58,Header,Gabriel Martinelli
+1,0.024907348677515984,Miss,57:26,Left footed,Pedro Neto
+0,0.023122478276491165,Miss,61:42,Right footed,L. Trossard
+0,0.022119294852018356,Miss,8:32,Right footed,Gabriel Martinelli
+1,0.02206292934715748,Miss,36:26,Left footed,Marc Cucurella
+1,0.02047407627105713,Miss,42:51,Left footed,E. Fernández
+0,0.017746370285749435,Miss,12:27,Right footed,D. Rice

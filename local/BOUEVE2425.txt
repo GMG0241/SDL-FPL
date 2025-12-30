@@ -1,0 +1,28 @@
+1,0.36578381061553955,Miss,51:00,Header,H. Armstrong
+0,0.35991233587265015,Miss,28:19,Right footed,J. Kluivert
+0,0.3277539014816284,Miss,7:50,Right footed,D. Ouattara
+0,0.1817004680633545,Miss,28:22,Left footed,A. Semenyo
+0,0.1622200608253479,Miss,45:08,Header,A. Semenyo
+0,0.1406485140323639,Miss,46:53,Left footed,A. Semenyo
+0,0.0958424061536789,Goal,76:03,Left footed,D. Brooks
+1,0.08589846640825272,Miss,39:53,Right footed,J. Lindstrøm
+0,0.08271642029285431,Miss,23:33,Right footed,Evanilson
+0,0.07825779914855957,Miss,45+4:52,Header,Dean Huijsen
+1,0.07278665900230408,Miss,71:01,Right footed,N. Patterson
+1,0.05533870309591293,Miss,85:16,Right footed,A. Doucouré
+0,0.05504302307963371,Miss,34:30,Header,D. Ouattara
+0,0.05421305447816849,Miss,29:05,Right footed,I. Zabarnyi
+0,0.053570330142974854,Miss,82:42,Left footed,D. Brooks
+0,0.052436210215091705,Miss,73:51,Header,E. Ünal
+0,0.04544607177376747,Miss,27:04,Left footed,Evanilson
+1,0.03934729844331741,Miss,19:00,Right footed,A. Broja
+0,0.03777274861931801,Miss,39:06,Left footed,R. Christie
+0,0.03772804141044617,Miss,48:28,Header,Evanilson
+1,0.03368256241083145,Miss,42:43,Left footed,I. Gueye
+0,0.031193874776363373,Miss,62:16,Right footed,D. Ouattara
+0,0.023226309567689896,Miss,46:12,Right footed,D. Ouattara
+1,0.019832534715533257,Miss,77:47,Left footed,V. Mykolenko
+1,0.018909426406025887,Miss,0:59,Left footed,O. Mangala
+1,0.014611165039241314,Miss,12:14,Right footed,J. Lindstrøm
+0,0.01357739232480526,Miss,79:50,Right footed,A. Semenyo
+0,0.009604515507817268,Miss,24:58,Right footed,J. Hill

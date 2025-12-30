@@ -1,0 +1,26 @@
+0,0.8170181512832642,Miss,40:38,Header,Richarlison
+1,0.30952444672584534,Miss,54:11,Left footed,M. Gibbs-White
+1,0.28159716725349426,Goal,15:59,Header,C. Wood
+0,0.18847402930259705,Miss,66:00,Right footed,Richarlison
+0,0.1276090294122696,Miss,39:16,Left footed,M. Tel
+0,0.12085261195898056,Miss,43:08,Header,Richarlison
+0,0.10303463041782379,Miss,21:10,Header,C. Romero
+0,0.09455226361751556,Miss,74:25,Header,Richarlison
+0,0.0922628715634346,Miss,79:38,Header,Richarlison
+0,0.08570382744073868,Goal,86:14,Header,Richarlison
+0,0.08125881105661392,Miss,82:08,Header,Richarlison
+0,0.0680585503578186,Miss,53:13,Right footed,P. Sarr
+0,0.06596068292856216,Miss,62:39,Header,D. Kulusevski
+0,0.04408428072929382,Miss,83:29,Left footed,D. Spence
+0,0.035167496651411057,Miss,1:07,Right footed,M. Tel
+0,0.034409549087285995,Miss,19:01,Right footed,W. Odobert
+0,0.032732535153627396,Miss,13:12,Right footed,M. Tel
+0,0.029024815186858177,Miss,22:02,Header,M. Tel
+0,0.026419011875987053,Miss,90+4:00,Right footed,M. Tel
+0,0.026263749226927757,Miss,11:50,Left footed,Pedro Porro
+0,0.024571944028139114,Miss,71:45,Left footed,K. Danso
+1,0.024221863597631454,Miss,3:47,Right footed,M. Gibbs-White
+1,0.023683322593569756,Goal,4:29,Right footed,E. Anderson
+0,0.016003146767616272,Miss,23:59,Right footed,D. Kulusevski
+0,0.015587479807436466,Miss,54:36,Right footed,P. Sarr
+0,0.01272291224449873,Miss,89:19,Left footed,B. Davies

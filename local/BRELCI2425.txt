@@ -1,0 +1,20 @@
+1,0.726209819316864,Goal,20:20,Left footed,F. Buonanotte
+0,0.7232654690742493,Goal,24:11,Right footed,Y. Wissa
+0,0.6064794659614563,Goal,58:35,Left footed,K. Schade
+0,0.3208930492401123,Goal,45+7:03,Left footed,K. Schade
+0,0.1523507684469223,Goal,28:15,Right footed,K. Schade
+0,0.14355218410491943,Miss,13:06,Left footed,C. Nørgaard
+1,0.13263258337974548,Miss,80:48,Header,J. Justin
+0,0.10150571912527084,Miss,45+1:45,Right footed,K. Schade
+0,0.06489922851324081,Miss,4:27,Header,K. Schade
+0,0.05966911092400551,Miss,90+3:02,Right footed,Y. Wissa
+1,0.05782632529735565,Miss,63:06,Right footed,J. Ayew
+1,0.05480165779590607,Miss,1:47,Left footed,F. Buonanotte
+0,0.05278150737285614,Miss,13:04,Right footed,M. Damsgaard
+1,0.050264179706573486,Miss,76:09,Right footed,S. Mavididi
+0,0.04471210390329361,Miss,75:47,Right footed,Fábio Carvalho
+0,0.04409382864832878,Miss,8:20,Right footed,M. Damsgaard
+0,0.04314778372645378,Miss,30:41,Right footed,M. Damsgaard
+0,0.04059148579835892,Miss,53:50,Header,M. Damsgaard
+1,0.024240922182798386,Miss,66:30,Left footed,L. Thomas
+1,0.016906438395380974,Miss,65:40,Right footed,P. Daka

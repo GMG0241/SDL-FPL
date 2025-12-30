@@ -1,0 +1,21 @@
+1,0.7884,Goal,17:22,Right footed,M. Rashford
+1,0.3796044886112213,Miss,62:46,Right footed,M. Rashford
+0,0.36182016134262085,Goal,90+3:22,Right footed,Matheus Nunes
+1,0.21733370423316956,Miss,38:29,Right footed,M. Rashford
+0,0.21321971714496613,Goal,6:40,Right footed,Bernardo Silva
+0,0.18499557673931122,Miss,35:55,Header,Omar Marmoush
+1,0.17149415612220764,Miss,43:38,Header,A. Onana
+1,0.1055976152420044,Miss,0:17,Left footed,M. Rashford
+0,0.08131341636180878,Miss,56:08,Right footed,Rúben Dias
+0,0.07821900397539139,Miss,22:20,Header,K. De Bruyne
+0,0.0741300955414772,Miss,67:29,Header,J. Gvardiol
+1,0.0678037479519844,Miss,29:48,Right footed,E. Konsa
+0,0.06745035201311111,Miss,31:51,Header,J. Gvardiol
+0,0.06223328784108162,Miss,73:03,Right footed,Omar Marmoush
+0,0.0592070072889328,Miss,90+2:10,Header,Rúben Dias
+0,0.057344552129507065,Miss,59:56,Left footed,J. McAtee
+0,0.03362681344151497,Miss,55:07,Left footed,N. O'Reilly
+0,0.025647025555372238,Miss,56:39,Right footed,Omar Marmoush
+1,0.02535521611571312,Miss,87:00,Right footed,D. Malen
+0,0.023772774264216423,Miss,25:41,Right footed,M. Kovačić
+0,0.009018382988870144,Miss,62:20,Right footed,M. Kovačić

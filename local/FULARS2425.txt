@@ -1,0 +1,14 @@
+1,0.8573612570762634,Goal,51:52,Left footed,W. Saliba
+1,0.33476537466049194,Miss,2:53,Header,W. Saliba
+1,0.25022390484809875,Miss,69:06,Header,T. Partey
+1,0.23277048766613007,Miss,51:51,Header,K. Havertz
+0,0.11607836186885834,Miss,70:45,Left footed,Andreas Pereira
+1,0.07451038807630539,Miss,23:29,Left footed,D. Rice
+1,0.07075140625238419,Miss,24:58,Right footed,B. Saka
+1,0.06722060590982437,Miss,61:22,Left footed,K. Havertz
+0,0.044284552335739136,Goal,10:14,Right footed,R. Jiménez
+1,0.043208956718444824,Miss,58:09,Other body part,K. Havertz
+1,0.03420908749103546,Miss,77:22,Right footed,D. Rice
+1,0.024622172117233276,Miss,56:32,Right footed,L. Trossard
+1,0.02367323637008667,Miss,36:51,Right footed,B. Saka
+1,0.013429329730570316,Miss,12:17,Right footed,D. Rice

@@ -1,0 +1,23 @@
+0,0.3085261583328247,Miss,7:07,Left footed,Evanilson
+1,0.20640920102596283,Miss,6:32,Right footed,O. Skipp
+0,0.19973191618919373,Miss,12:07,Left footed,D. Brooks
+0,0.17014487087726593,Goal,73:23,Right footed,A. Semenyo
+0,0.1701086014509201,Miss,54:20,Left footed,A. Semenyo
+0,0.11510954052209854,Miss,44:18,Left footed,D. Brooks
+0,0.09928678721189499,Miss,65:23,Header,I. Zabarnyi
+0,0.09030531346797943,Miss,54:18,Header,Evanilson
+0,0.08703385293483734,Miss,82:15,Right footed,D. Jebbison
+0,0.06878019124269485,Miss,79:20,Right footed,A. Semenyo
+0,0.06131381541490555,Miss,22:04,Left footed,D. Brooks
+0,0.057047538459300995,Miss,19:38,Right footed,T. Adams
+0,0.05642905458807945,Miss,11:06,Right footed,J. Kluivert
+0,0.04882601276040077,Goal,87:17,Right footed,A. Semenyo
+1,0.04620502516627312,Miss,6:30,Header,J. Ayew
+0,0.04575414955615997,Miss,44:52,Left footed,M. Kerkez
+0,0.044500287622213364,Miss,50:28,Left footed,M. Tavernier
+0,0.04380815848708153,Miss,90+3:17,Right footed,A. Scott
+0,0.040788888931274414,Miss,59:25,Left footed,M. Tavernier
+0,0.032146621495485306,Miss,79:17,Left footed,M. Tavernier
+0,0.031769879162311554,Miss,32:38,Left footed,M. Tavernier
+0,0.021074986085295677,Miss,49:55,Left footed,M. Tavernier
+1,0.019673140719532967,Miss,85:48,Right footed,J. Ayew

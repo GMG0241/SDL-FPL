@@ -1,0 +1,15 @@
+0,0.7884,Goal,90+7:19,Right footed,João Pedro
+1,0.5409165024757385,Goal,34:43,Left footed,R. Jiménez
+0,0.20748886466026306,Miss,83:28,Header,D. Welbeck
+1,0.15119430422782898,Miss,78:22,Right footed,A. Iwobi
+0,0.13096444308757782,Miss,49:01,Right footed,João Pedro
+0,0.10312692075967789,Miss,27:12,Right footed,João Pedro
+0,0.09448857605457306,Goal,40:34,Header,J. van Hecke
+0,0.09297814965248108,Miss,82:36,Right footed,João Pedro
+1,0.08016648888587952,Miss,23:30,Left footed,E. Smith Rowe
+1,0.05828592926263809,Miss,89:08,Header,T. Castagne
+0,0.05327780917286873,Miss,12:43,Right footed,Y. Ayari
+0,0.0391097366809845,Miss,89:55,Right footed,J. van Hecke
+1,0.03661492094397545,Miss,52:52,Right footed,R. Jiménez
+1,0.035442233085632324,Miss,10:37,Right footed,T. Castagne
+0,0.02853640355169773,Miss,19:51,Right footed,Y. Minteh

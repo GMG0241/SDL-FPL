@@ -1,0 +1,24 @@
+0,0.3367483615875244,Goal,90+3:57,Header,Beto
+1,0.2735982835292816,Miss,6:30,Right footed,R. Jiménez
+1,0.25552645325660706,Miss,27:00,Left footed,E. Smith Rowe
+1,0.13148503005504608,Miss,26:50,Right footed,Adama Traoré
+1,0.12407884001731873,Miss,36:14,Right footed,R. Jiménez
+0,0.12184342741966248,Miss,34:21,Header,D. Calvert-Lewin
+1,0.08130508661270142,Miss,77:17,Right footed,E. Smith Rowe
+1,0.08123480528593063,Miss,44:26,Left footed,A. Iwobi
+1,0.07085961848497391,Goal,60:17,Right footed,A. Iwobi
+1,0.06488936394453049,Miss,42:27,Header,I. Diop
+0,0.06075448542833328,Miss,24:32,Header,A. Doucouré
+0,0.059560030698776245,Miss,40:24,Header,D. McNeil
+0,0.057995736598968506,Miss,61:42,Right footed,J. Harrison
+1,0.05609041079878807,Miss,77:19,Right footed,R. Jiménez
+1,0.04337897524237633,Miss,33:12,Right footed,K. Tete
+0,0.037438247352838516,Miss,90+2:27,Header,M. Keane
+0,0.03560546040534973,Miss,89:26,Header,Beto
+0,0.03545770049095154,Miss,31:32,Right footed,I. Gueye
+1,0.029515432193875313,Miss,54:58,Right footed,Andreas Pereira
+0,0.022715650498867035,Miss,81:54,Left footed,J. Lindstrøm
+0,0.02058897353708744,Miss,87:02,Right footed,Beto
+1,0.019559185951948166,Miss,64:49,Left footed,A. Robinson
+1,0.015162281692028046,Miss,6:03,Right footed,R. Jiménez
+1,0.014739682897925377,Miss,90+6:53,Right footed,H. Reed

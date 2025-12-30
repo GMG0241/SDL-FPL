@@ -1,0 +1,19 @@
+1,0.7884,Goal,41:33,Right footed,I. Ndiaye
+0,0.13170243799686432,Miss,62:16,Right footed,Y. Ayari
+0,0.09631048142910004,Miss,57:34,Right footed,João Pedro
+0,0.06478910893201828,Miss,26:43,Left footed,João Pedro
+0,0.060664210468530655,Miss,69:58,Right footed,T. Lamptey
+0,0.05298977717757225,Miss,68:06,Left footed,G. Rutter
+1,0.0422072634100914,Miss,75:04,Left footed,Beto
+0,0.04203438386321068,Miss,9:48,Header,João Pedro
+0,0.03447340428829193,Miss,90:25,Header,M. O'Riley
+0,0.0341092050075531,Miss,6:44,Right footed,J. Veltman
+0,0.03350666165351868,Miss,65:48,Left footed,K. Mitoma
+0,0.033469803631305695,Miss,49:16,Right footed,K. Mitoma
+0,0.031177688390016556,Miss,46:39,Right footed,J. Veltman
+0,0.030355749651789665,Miss,86:37,Right footed,D. Welbeck
+0,0.027599694207310677,Miss,45+3:37,Left footed,C. Baleba
+0,0.022038783878087997,Miss,73:25,Right footed,D. Welbeck
+0,0.01964407227933407,Miss,58:14,Left footed,C. Baleba
+0,0.018344178795814514,Miss,76:58,Right footed,C. Baleba
+1,0.016995320096611977,Miss,14:50,Right footed,O. Mangala

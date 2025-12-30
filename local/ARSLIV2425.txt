@@ -1,0 +1,18 @@
+0,0.3834189176559448,Goal,42:07,Header,Mikel Merino
+1,0.2856958508491516,Goal,80:18,Left footed,Mohamed Salah
+1,0.2524689733982086,Goal,17:17,Header,V. van Dijk
+0,0.16806526482105255,Goal,8:38,Left footed,B. Saka
+0,0.11540001630783081,Miss,30:34,Left footed,K. Havertz
+1,0.07758137583732605,Miss,45+3:27,Header,A. Mac Allister
+0,0.07166577875614166,Miss,87:11,Right footed,Gabriel Jesus
+1,0.05172394588589668,Miss,70:22,Left footed,C. Jones
+0,0.05040222406387329,Miss,34:17,Right footed,Gabriel Martinelli
+0,0.049971144646406174,Miss,76:00,Left footed,K. Havertz
+1,0.03499583527445793,Miss,13:48,Left footed,Mohamed Salah
+0,0.03407163545489311,Miss,23:08,Left footed,B. Saka
+0,0.03272661566734314,Miss,86:11,Right footed,Gabriel Jesus
+1,0.03105452097952366,Miss,59:40,Left footed,T. Alexander-Arnold
+1,0.03085903637111187,Miss,51:40,Right footed,Mohamed Salah
+1,0.027103526517748833,Miss,64:34,Right footed,R. Gravenberch
+1,0.018749022856354713,Miss,57:55,Right footed,T. Alexander-Arnold
+0,0.016125569120049477,Miss,33:49,Header,Mikel Merino

@@ -1,0 +1,26 @@
+0,0.4944899082183838,Miss,3:26,Right footed,K. Schade
+1,0.47452422976493835,Goal,13:38,Right footed,M. Mount
+0,0.45420190691947937,Goal,69:51,Header,K. Schade
+0,0.4507024884223938,Goal,73:13,Right footed,Y. Wissa
+0,0.35510510206222534,Miss,57:02,Right footed,Y. Wissa
+0,0.25900906324386597,Miss,43:28,Header,C. Nørgaard
+0,0.22073844075202942,Goal,32:42,Header,K. Schade
+1,0.19412267208099365,Miss,58:16,Right footed,C. Obi
+1,0.1616963893175125,Miss,49:50,Right footed,M. Mount
+1,0.1325099915266037,Miss,49:49,Left footed,M. Mount
+0,0.10846574604511261,Miss,90+6:25,Right footed,Y. Wissa
+1,0.08557897806167603,Miss,89:53,Left footed,C. Obi
+0,0.0834321677684784,Miss,57:01,Header,S. van den Berg
+1,0.0779966339468956,Miss,66:27,Left footed,H. Amass
+1,0.07697906345129013,Goal,81:32,Right footed,A. Garnacho
+1,0.07330823689699173,Miss,66:03,Right footed,A. Garnacho
+1,0.06039939448237419,Goal,90+4:03,Left footed,A. Diallo
+1,0.05216897651553154,Miss,58:19,Right footed,M. Ugarte
+0,0.047215044498443604,Miss,29:33,Left footed,Y. Wissa
+0,0.042841002345085144,Miss,82:56,Left footed,B. Mbeumo
+0,0.04053502529859543,Miss,40:47,Right footed,K. Schade
+1,0.03714678809046745,Miss,58:12,Right footed,C. Eriksen
+1,0.02783668041229248,Miss,62:39,Right footed,C. Eriksen
+1,0.02401241660118103,Miss,90:51,Left footed,A. Diallo
+1,0.019799433648586273,Miss,64:23,Left footed,A. Diallo
+0,0.018155626952648163,Miss,69:49,Left footed,B. Mbeumo

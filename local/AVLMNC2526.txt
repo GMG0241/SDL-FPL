@@ -1,0 +1,27 @@
+0,0.24756461381912231,Miss,68:58,Right footed,J. Sancho
+1,0.2148130089044571,Miss,82:09,Right footed,P. Foden
+1,0.1568971425294876,Miss,21:17,Left footed,E. Haaland
+0,0.1406485140323639,Miss,29:53,Left footed,J. McGinn
+0,0.13051630556583405,Miss,52:02,Left footed,J. McGinn
+1,0.1255273073911667,Miss,79:31,Header,N. O'Reilly
+1,0.09080075472593307,Miss,47:34,Header,Rúben Dias
+1,0.08163922280073166,Miss,90+2:57,Right footed,Nico González
+0,0.07037319988012314,Miss,30:53,Left footed,O. Watkins
+1,0.06835491955280304,Miss,86:25,Right footed,R. Cherki
+0,0.06103743612766266,Miss,30:51,Header,O. Watkins
+0,0.06007065251469612,Miss,16:22,Right footed,L. Digne
+0,0.0550260990858078,Goal,18:57,Left footed,M. Cash
+1,0.05423775315284729,Miss,47:09,Left footed,P. Foden
+1,0.04884412884712219,Miss,70:43,Header,E. Haaland
+1,0.04539769887924194,Miss,60:15,Header,J. Gvardiol
+1,0.04160960018634796,Miss,71:58,Right footed,Nico González
+1,0.04033038765192032,Miss,59:16,Left footed,Savinho
+1,0.04019487649202347,Miss,59:06,Header,Rúben Dias
+1,0.03685919940471649,Miss,48:54,Right footed,T. Reijnders
+0,0.036137402057647705,Miss,68:57,Right footed,J. Sancho
+1,0.033631570637226105,Miss,5:43,Right footed,T. Reijnders
+1,0.03267470747232437,Miss,90+3:03,Left footed,Matheus Nunes
+1,0.030917145311832428,Miss,59:15,Left footed,Savinho
+0,0.0210416242480278,Miss,2:07,Right footed,E. Buendía
+1,0.02066720649600029,Miss,67:49,Header,J. Gvardiol
+1,0.020215202122926712,Miss,90+5:17,Header,E. Haaland

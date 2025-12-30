@@ -1,0 +1,28 @@
+1,0.7332215905189514,Miss,33:11,Left footed,N. Milenković
+1,0.25358155369758606,Goal,69:33,Right footed,M. Gibbs-White
+1,0.1706937998533249,Miss,69:31,Header,M. Gibbs-White
+1,0.1466013789176941,Miss,25:15,Header,N. Milenković
+1,0.1311473548412323,Miss,6:30,Right footed,N. Williams
+1,0.12796100974082947,Miss,73:46,Right footed,A. Elanga
+1,0.12086597084999084,Miss,77:26,Left footed,N. Domínguez
+1,0.11585097759962082,Miss,33:10,Right footed,C. Wood
+1,0.10363351553678513,Miss,24:44,Header,N. Milenković
+1,0.09435506165027618,Miss,62:05,Left footed,A. Elanga
+1,0.08527950197458267,Miss,5:42,Right footed,C. Wood
+1,0.05891381576657295,Miss,34:42,Right footed,N. Williams
+1,0.040447868406772614,Miss,25:30,Right footed,M. Gibbs-White
+1,0.0363793820142746,Miss,77:04,Right footed,C. Hudson-Odoi
+1,0.035490598529577255,Miss,33:08,Right footed,N. Williams
+1,0.035296157002449036,Miss,15:29,Header,C. Wood
+0,0.03503543883562088,Miss,56:32,Left footed,K. Walker-Peters
+0,0.0346362367272377,Miss,37:31,Right footed,K. Walker-Peters
+1,0.030456241220235825,Miss,44:04,Right footed,N. Williams
+1,0.030033690854907036,Miss,60:07,Left footed,E. Anderson
+0,0.029656704515218735,Miss,11:26,Right footed,K. Walker-Peters
+1,0.028527716174721718,Miss,69:24,Left footed,N. Williams
+1,0.023800360038876534,Miss,60:11,Right footed,E. Anderson
+0,0.022423774003982544,Miss,12:09,Left footed,Y. Sugawara
+1,0.02023659087717533,Miss,82:50,Right footed,R. Yates
+0,0.019113807007670403,Miss,21:56,Left footed,A. Armstrong
+1,0.018731817603111267,Miss,24:00,Right footed,I. Sangaré
+1,0.009194346144795418,Miss,82:03,Right footed,M. Gibbs-White

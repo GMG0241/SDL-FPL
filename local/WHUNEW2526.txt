@@ -1,0 +1,27 @@
+0,0.9459765553474426,Goal,90+6:54,Right footed,T. Souček
+0,0.888500452041626,Miss,90+6:53,Right footed,T. Souček
+0,0.23746395111083984,Miss,81:22,Right footed,Mateus Fernandes
+0,0.17276938259601593,Miss,90+6:52,Left footed,J. Bowen
+0,0.1664275974035263,Miss,47:33,Right footed,C. Summerville
+0,0.06818225979804993,Miss,30:35,Left footed,Lucas Paquetá
+1,0.06146428361535072,Miss,63:21,Right footed,J. Murphy
+1,0.060641348361968994,Miss,53:27,Right footed,W. Osula
+1,0.05981453135609627,Miss,38:38,Right footed,A. Gordon
+1,0.05330576375126839,Goal,3:58,Right footed,J. Murphy
+0,0.05256256088614464,Miss,3:32,Left footed,J. Bowen
+0,0.052511315792798996,Miss,67:38,Right footed,M. Kilman
+1,0.05167413130402565,Miss,89:35,Header,W. Osula
+0,0.03881105035543442,Miss,31:54,Header,M. Kilman
+0,0.034935202449560165,Miss,90+1:56,Left footed,J. Bowen
+1,0.033641986548900604,Miss,18:16,Left footed,J. Murphy
+1,0.031273163855075836,Miss,45:32,Right footed,Joelinton
+0,0.029004637151956558,Miss,9:00,Right footed,C. Wilson
+1,0.02855924889445305,Miss,77:29,Right footed,Bruno Guimarães
+1,0.02812592126429081,Miss,87:59,Right footed,H. Barnes
+1,0.02732330746948719,Miss,40:43,Left footed,J. Murphy
+0,0.024413177743554115,Miss,45+3:17,Right footed,C. Summerville
+0,0.01889370195567608,Miss,31:22,Right footed,C. Summerville
+0,0.018358824774622917,Miss,69:43,Left footed,J. Bowen
+1,0.015411869622766972,Miss,70:31,Right footed,F. Schär
+0,0.014830046333372593,Goal,34:48,Left footed,Lucas Paquetá
+1,0.013072864152491093,Miss,19:05,Right footed,J. Murphy

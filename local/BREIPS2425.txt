@@ -1,0 +1,31 @@
+0,0.7884,Goal,50:52,Left footed,B. Mbeumo
+0,0.6032547354698181,Goal,45:19,Right footed,Y. Wissa
+0,0.5276328921318054,Miss,68:15,Right footed,Y. Wissa
+1,0.4089832603931427,Miss,38:29,Right footed,S. Szmodics
+0,0.30145153403282166,Miss,60:24,Right footed,K. Lewis-Potter
+0,0.2735804617404938,Miss,63:11,Header,N. Collins
+1,0.2652794122695923,Goal,30:44,Right footed,G. Hirst
+0,0.2401321977376938,Miss,64:56,Header,C. Nørgaard
+0,0.2357260137796402,Miss,75:46,Right footed,M. Damsgaard
+0,0.21575939655303955,Goal,43:02,Left footed,Y. Wissa
+0,0.21286708116531372,Miss,90+2:26,Right footed,N. Collins
+1,0.18893024325370789,Goal,27:55,Right footed,S. Szmodics
+1,0.14458151161670685,Goal,85:03,Left footed,L. Delap
+0,0.1419185847043991,Miss,83:07,Right footed,K. Schade
+0,0.1380237340927124,Miss,55:19,Header,S. van den Berg
+1,0.09242071211338043,Miss,39:37,Left footed,L. Davis
+0,0.08957937359809875,Miss,71:18,Right footed,M. Damsgaard
+0,0.08531790971755981,Miss,89:05,Header,Y. Wissa
+0,0.08109357208013535,Miss,6:35,Left footed,B. Mbeumo
+1,0.0582953542470932,Miss,52:12,Right footed,W. Burns
+1,0.046687930822372437,Miss,38:09,Right footed,L. Davis
+0,0.04450301453471184,Miss,75:21,Left footed,K. Lewis-Potter
+1,0.0406404547393322,Miss,3:01,Left footed,S. Szmodics
+0,0.030266784131526947,Miss,6:49,Right footed,C. Nørgaard
+0,0.026151500642299652,Miss,59:51,Header,S. van den Berg
+1,0.022094732150435448,Miss,47:04,Right footed,L. Davis
+0,0.021514765918254852,Miss,84:22,Left footed,B. Mbeumo
+0,0.020177699625492096,Goal,90+5:33,Left footed,B. Mbeumo
+0,0.019678059965372086,Miss,24:13,Right footed,C. Nørgaard
+1,0.01776202954351902,Miss,90+7:08,Right footed,L. Delap
+1,0.01749115251004696,Miss,37:06,Header,C. Burgess

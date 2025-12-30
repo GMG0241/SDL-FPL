@@ -1,0 +1,30 @@
+0,0.9516575336456299,Goal,35:30,Left footed,O. Watkins
+0,0.7884,Miss,44:41,Right footed,Y. Tielemans
+1,0.5003696084022522,Goal,3:27,Right footed,I. Sarr
+0,0.3784202039241791,Miss,47:14,Left footed,J. McGinn
+1,0.2257200926542282,Goal,45:40,Right footed,J. Devenny
+0,0.1764051467180252,Miss,47:14,Right footed,M. Rogers
+1,0.14363470673561096,Miss,77:19,Right footed,I. Sarr
+0,0.13734331727027893,Goal,76:26,Header,R. Barkley
+0,0.1293090581893921,Miss,49:12,Left footed,O. Watkins
+0,0.09865367412567139,Miss,74:47,Header,R. Barkley
+0,0.08746291697025299,Miss,12:13,Header,O. Watkins
+1,0.08639688044786453,Miss,50:29,Header,J. Mateta
+0,0.07205892354249954,Miss,27:47,Right footed,O. Watkins
+0,0.0630643367767334,Miss,49:39,Left footed,Diego Carlos
+0,0.06120404601097107,Miss,74:19,Right footed,O. Watkins
+0,0.05312519520521164,Miss,38:44,Right footed,L. Bailey
+1,0.05133351311087608,Miss,67:36,Header,M. Lacroix
+1,0.046316515654325485,Miss,66:57,Left footed,J. Devenny
+1,0.03995063528418541,Miss,28:45,Left footed,T. Mitchell
+1,0.03954199329018593,Miss,79:28,Right footed,D. Muñoz
+1,0.03879264369606972,Miss,16:26,Right footed,I. Sarr
+1,0.038041502237319946,Miss,79:25,Left footed,J. Schlupp
+0,0.033103860914707184,Miss,49:10,Left footed,I. Maatsen
+1,0.02473292499780655,Miss,37:06,Right footed,I. Sarr
+0,0.024611564353108406,Miss,48:31,Left footed,I. Maatsen
+0,0.02051275223493576,Miss,45+3:39,Left footed,J. McGinn
+0,0.01928260363638401,Miss,82:09,Left footed,J. Durán
+0,0.01869773305952549,Miss,8:40,Left footed,J. McGinn
+1,0.013587716035544872,Miss,90+3:35,Right footed,J. Lerma
+1,0.010883313603699207,Miss,90+1:37,Right footed,J. Mateta

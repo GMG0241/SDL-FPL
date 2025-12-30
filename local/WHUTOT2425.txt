@@ -1,0 +1,18 @@
+0,0.4317246675491333,Miss,81:27,Header,J. Bowen
+0,0.3759285509586334,Goal,27:44,Left footed,J. Bowen
+1,0.2520124912261963,Goal,14:06,Right footed,W. Odobert
+1,0.07501552253961563,Miss,33:10,Left footed,Richarlison
+0,0.06945548206567764,Miss,70:04,Header,N. Füllkrug
+1,0.04900580272078514,Miss,51:04,Right footed,M. Tel
+0,0.04867694526910782,Miss,53:00,Left footed,M. Kudus
+0,0.04811614006757736,Miss,57:43,Left footed,J. Bowen
+1,0.04402757063508034,Miss,24:17,Right footed,M. Tel
+1,0.040517136454582214,Miss,55:46,Right footed,Richarlison
+0,0.04023774713277817,Miss,90+3:19,Right footed,J. Ward-Prowse
+0,0.02660001441836357,Miss,53:02,Right footed,T. Souček
+0,0.02588527463376522,Miss,42:39,Right footed,A. Wan-Bissaka
+1,0.01969938352704048,Miss,60:31,Right footed,Y. Bissouma
+0,0.016294289380311966,Miss,90:16,Right footed,J. Ward-Prowse
+1,0.0156424380838871,Miss,78:26,Right footed,P. Sarr
+0,0.012370559386909008,Miss,85:12,Header,M. Kilman
+0,0.007584897335618734,Miss,20:20,Left footed,T. Souček

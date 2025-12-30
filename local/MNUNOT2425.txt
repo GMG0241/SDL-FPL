@@ -1,0 +1,28 @@
+0,0.594915509223938,Goal,17:29,Left footed,R. Højlund
+1,0.2666506767272949,Goal,53:33,Header,C. Wood
+0,0.17365112900733948,Miss,17:28,Right footed,A. Garnacho
+0,0.14455795288085938,Miss,63:11,Left footed,A. Diallo
+0,0.1361304670572281,Goal,60:56,Right footed,Bruno Fernandes
+1,0.1333647221326828,Miss,32:54,Right footed,Murillo
+0,0.12528394162654877,Miss,13:25,Left footed,A. Diallo
+0,0.1172884926199913,Miss,51:23,Left footed,R. Højlund
+1,0.09132353961467743,Goal,1:29,Header,N. Milenković
+1,0.07991847395896912,Miss,32:16,Left footed,Jota Silva
+1,0.07419919967651367,Miss,57:41,Right footed,M. Gibbs-White
+1,0.06599758565425873,Miss,50:23,Right footed,C. Wood
+0,0.05759505182504654,Miss,40:01,Right footed,Bruno Fernandes
+0,0.057378724217414856,Miss,90+4:34,Left footed,Lisandro Martínez
+0,0.04213721305131912,Miss,83:23,Header,Diogo Dalot
+0,0.037811994552612305,Miss,86:54,Left footed,A. Diallo
+0,0.03680873289704323,Miss,90:06,Right footed,Diogo Dalot
+0,0.03620855510234833,Miss,37:01,Right footed,A. Garnacho
+0,0.032938629388809204,Miss,10:56,Right footed,Bruno Fernandes
+1,0.03287589177489281,Goal,46:54,Right footed,M. Gibbs-White
+0,0.030849911272525787,Miss,73:31,Left footed,Lisandro Martínez
+0,0.029040971770882607,Miss,49:53,Left footed,A. Diallo
+0,0.02895146608352661,Miss,9:32,Right footed,Diogo Dalot
+1,0.025763479992747307,Miss,35:15,Left footed,E. Anderson
+1,0.02573111280798912,Miss,26:36,Header,Jota Silva
+0,0.025685099884867668,Miss,90+4:06,Right footed,M. Rashford
+1,0.021107515320181847,Miss,57:30,Right footed,N. Williams
+1,0.01583288051187992,Miss,26:39,Right footed,N. Milenković

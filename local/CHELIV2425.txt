@@ -1,0 +1,28 @@
+0,0.7884,Goal,90+5:54,Left footed,C. Palmer
+0,0.4781816005706787,Miss,55:10,Right footed,N. Madueke
+0,0.43631455302238464,Goal,2:47,Right footed,E. Fernández
+1,0.2981039583683014,Miss,67:52,Header,D. Núñez
+1,0.23149503767490387,Miss,66:05,Header,V. van Dijk
+0,0.20974943041801453,Miss,79:07,Right footed,J. Sancho
+0,0.19936087727546692,Miss,31:19,Left footed,N. Madueke
+1,0.19024519622325897,Miss,6:45,Right footed,Diogo Jota
+0,0.11867451667785645,Miss,4:59,Left footed,N. Madueke
+0,0.11744818836450577,Miss,15:04,Header,E. Fernández
+0,0.1023561954498291,Miss,47:36,Left footed,N. Jackson
+1,0.09861662983894348,Goal,84:02,Header,V. van Dijk
+0,0.09457388520240784,Miss,80:32,Left footed,C. Palmer
+1,0.09410298615694046,Miss,77:03,Header,Mohamed Salah
+0,0.08009471744298935,Miss,86:44,Right footed,Pedro Neto
+0,0.06540525704622269,Miss,79:04,Left footed,N. Madueke
+1,0.05654696375131607,Miss,8:35,Right footed,C. Gakpo
+0,0.0553627610206604,Miss,85:15,Left footed,C. Palmer
+0,0.04962366446852684,Miss,30:16,Left footed,Pedro Neto
+0,0.04617366939783096,Miss,41:54,Left footed,Pedro Neto
+1,0.043203502893447876,Miss,65:06,Left footed,H. Elliott
+1,0.04235981032252312,Miss,24:26,Header,Diogo Jota
+1,0.04197068512439728,Miss,62:27,Header,V. van Dijk
+1,0.037149183452129364,Miss,28:06,Right footed,T. Alexander-Arnold
+1,0.03563767299056053,Miss,67:05,Left footed,H. Elliott
+0,0.030065827071666718,Miss,81:09,Right footed,C. Palmer
+0,0.029220525175333023,Miss,29:17,Left footed,C. Palmer
+0,0.012103396467864513,Miss,60:42,Right footed,N. Jackson

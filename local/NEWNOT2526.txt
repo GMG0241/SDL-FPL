@@ -1,0 +1,23 @@
+0,0.7884,Goal,83:16,Right footed,N. Woltemade
+0,0.5247133374214172,Miss,80:12,Right footed,H. Barnes
+0,0.4665849804878235,Miss,79:57,Left footed,M. Thiaw
+0,0.3037572503089905,Miss,51:13,Right footed,N. Woltemade
+0,0.2802150845527649,Miss,73:29,Right footed,N. Woltemade
+0,0.18312785029411316,Miss,10:21,Left footed,Joelinton
+0,0.15305683016777039,Miss,14:45,Header,Joelinton
+0,0.13847389817237854,Miss,44:37,Right footed,Joelinton
+0,0.1316591203212738,Miss,90+6:04,Left footed,J. Murphy
+0,0.13088224828243256,Miss,48:10,Right footed,A. Gordon
+0,0.107196144759655,Miss,77:26,Right footed,J. Murphy
+0,0.08131758123636246,Miss,73:30,Left footed,S. Botman
+1,0.06532136350870132,Miss,19:36,Right footed,M. Gibbs-White
+1,0.06385349482297897,Miss,78:33,Right footed,M. Gibbs-White
+0,0.04694095626473427,Goal,57:47,Right footed,Bruno Guimarães
+1,0.04526079073548317,Miss,77:48,Left footed,C. Hudson-Odoi
+1,0.03127894923090935,Miss,55:08,Left footed,N. Williams
+0,0.029752681031823158,Miss,44:40,Right footed,S. Tonali
+1,0.0296150092035532,Miss,61:40,Header,R. Yates
+0,0.023772817105054855,Miss,43:00,Left footed,Bruno Guimarães
+0,0.0225362628698349,Miss,73:27,Header,M. Thiaw
+0,0.020303651690483093,Miss,72:47,Left footed,S. Tonali
+0,0.019522635266184807,Miss,16:48,Right footed,Joelinton

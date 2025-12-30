@@ -1,0 +1,30 @@
+0,0.6376059055328369,Goal,67:37,Right footed,A. Stach
+1,0.598937451839447,Miss,44:19,Header,L. Bergvall
+1,0.5434941053390503,Goal,2:57,Right footed,J. Maddison
+1,0.4113287031650543,Miss,13:15,Left footed,Pedro Porro
+0,0.21924562752246857,Miss,45:53,Left footed,F. Becker
+0,0.20265713334083557,Goal,87:40,Header,D. Mokwa
+0,0.19837863743305206,Miss,25:56,Right footed,M. Moerstedt
+1,0.16565994918346405,Miss,44:31,Left footed,B. Davies
+1,0.14168453216552734,Miss,11:46,Right footed,Richarlison
+0,0.11410479247570038,Miss,39:08,Right footed,M. Moerstedt
+1,0.11026919633150101,Goal,21:19,Left footed,Son Heung-Min
+1,0.08301696181297302,Goal,76:42,Left footed,Son Heung-Min
+0,0.08021726459264755,Miss,54:00,Header,A. Kramarić
+0,0.07604151964187622,Miss,49:59,Left footed,F. Becker
+0,0.06660357862710953,Miss,58:39,Right footed,A. Kramarić
+0,0.0665186420083046,Miss,55:19,Left footed,A. Stach
+1,0.0636167973279953,Miss,15:15,Right footed,Son Heung-Min
+0,0.06275907903909683,Miss,7:30,Left footed,A. Hložek
+0,0.06267204880714417,Miss,32:22,Right footed,T. Bischof
+0,0.05505942180752754,Miss,55:16,Right footed,M. Moerstedt
+0,0.05119103193283081,Miss,24:17,Right footed,P. Kadeřábek
+0,0.04325670376420021,Miss,25:53,Left footed,D. Jurásek
+0,0.03969898447394371,Miss,39:05,Right footed,A. Hložek
+0,0.03424404188990593,Miss,20:00,Right footed,A. Hložek
+0,0.023591840639710426,Miss,0:54,Left footed,F. Becker
+0,0.023233845829963684,Miss,59:53,Right footed,T. Bischof
+0,0.02259029448032379,Miss,52:53,Left footed,T. Bischof
+0,0.019331390038132668,Miss,37:31,Right footed,P. Kadeřábek
+0,0.018977090716362,Miss,46:44,Right footed,A. Hložek
+0,0.014582866802811623,Miss,26:44,Left footed,T. Bischof

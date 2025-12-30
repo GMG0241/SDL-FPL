@@ -1,0 +1,26 @@
+0,0.7717348337173462,Goal,72:12,Header,B. Saka
+1,0.4068920314311981,Miss,80:12,Header,Rodrigo Muniz
+0,0.28415077924728394,Miss,53:42,Right footed,J. Timber
+0,0.24859052896499634,Miss,72:10,Right footed,Gabriel Martinelli
+1,0.19302697479724884,Miss,87:34,Header,R. Sessegnon
+0,0.16601087152957916,Miss,42:14,Left footed,M. Ødegaard
+0,0.15539954602718353,Miss,5:47,Right footed,D. Rice
+1,0.12045443803071976,Goal,90+3:23,Right footed,Rodrigo Muniz
+1,0.11909464746713638,Miss,51:16,Left footed,R. Jiménez
+0,0.1091373935341835,Miss,50:13,Left footed,M. Ødegaard
+1,0.0884644165635109,Miss,63:17,Left footed,Adama Traoré
+0,0.0862896740436554,Miss,5:50,Right footed,T. Partey
+0,0.08338495343923569,Miss,57:36,Header,W. Saliba
+0,0.07769790291786194,Miss,20:43,Left footed,E. Nwaneri
+0,0.064900241792202,Miss,62:16,Header,Gabriel Martinelli
+0,0.06261131912469864,Miss,18:08,Left footed,J. Kiwior
+0,0.061563536524772644,Miss,90+2:29,Right footed,D. Rice
+0,0.05981685221195221,Miss,70:34,Left footed,D. Rice
+0,0.058983076363801956,Miss,26:48,Header,E. Nwaneri
+0,0.04014058783650398,Goal,36:58,Right footed,Mikel Merino
+0,0.025921279564499855,Miss,60:23,Left footed,Mikel Merino
+1,0.02046615071594715,Miss,27:38,Right footed,R. Jiménez
+1,0.020090851932764053,Miss,78:03,Header,Jorge Cuenca
+0,0.019906625151634216,Miss,59:45,Header,Gabriel Martinelli
+1,0.011144392192363739,Miss,90+5:42,Header,Rodrigo Muniz
+1,0.009846624918282032,Miss,43:21,Right footed,S. Lukić

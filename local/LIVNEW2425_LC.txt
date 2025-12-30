@@ -1,0 +1,24 @@
+1,0.7727941870689392,Miss,63:26,Left footed,A. Isak
+0,0.28928688168525696,Goal,90+3:11,Left footed,F. Chiesa
+0,0.255786657333374,Miss,45+2:47,Left footed,Diogo Jota
+0,0.2381506711244583,Miss,90+2:55,Right footed,D. Núñez
+1,0.2012815773487091,Miss,34:23,Header,Bruno Guimarães
+1,0.15843546390533447,Miss,3:12,Left footed,H. Barnes
+1,0.15827421844005585,Goal,52:00,Right footed,A. Isak
+1,0.1433614045381546,Miss,25:07,Right footed,Bruno Guimarães
+0,0.10031292587518692,Miss,90+2:52,Right footed,C. Gakpo
+1,0.09230135381221771,Miss,68:43,Left footed,J. Murphy
+1,0.08432620018720627,Miss,33:43,Header,A. Isak
+0,0.07970364391803741,Miss,58:41,Right footed,C. Jones
+1,0.05290812999010086,Miss,82:11,Right footed,S. Tonali
+0,0.04996190592646599,Miss,61:20,Left footed,A. Robertson
+1,0.043882425874471664,Miss,44:22,Left footed,H. Barnes
+0,0.04101281985640526,Miss,79:33,Right footed,C. Jones
+1,0.0373263880610466,Miss,82:29,Right footed,T. Livramento
+1,0.037029244005680084,Miss,14:34,Right footed,J. Murphy
+1,0.030413903295993805,Miss,23:04,Right footed,S. Tonali
+1,0.03019222617149353,Miss,33:44,Right footed,K. Trippier
+1,0.027725333347916603,Miss,63:36,Right footed,F. Schär
+1,0.023654133081436157,Miss,83:16,Left footed,C. Wilson
+1,0.020097263157367706,Goal,44:59,Header,D. Burn
+1,0.01504359021782875,Miss,81:44,Right footed,Joelinton

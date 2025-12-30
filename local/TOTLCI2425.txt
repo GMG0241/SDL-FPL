@@ -1,0 +1,27 @@
+1,0.9576684832572937,Goal,45:57,Right footed,J. Vardy
+0,0.4706614315509796,Goal,32:15,Header,Richarlison
+1,0.13152819871902466,Miss,53:03,Right footed,J. Vardy
+1,0.11412016302347183,Miss,38:44,Header,W. Faes
+1,0.09822969883680344,Miss,9:17,Right footed,J. Ayew
+0,0.07223734259605408,Miss,31:16,Header,B. Davies
+0,0.0657297894358635,Miss,57:29,Right footed,D. Kulusevski
+0,0.05284807085990906,Miss,65:29,Right footed,Pedro Porro
+0,0.05117027088999748,Miss,90+4:03,Left footed,L. Bergvall
+1,0.04892275482416153,Goal,49:12,Right footed,B. El Khannouss
+1,0.04761894792318344,Miss,20:45,Left footed,J. Justin
+0,0.0473596416413784,Miss,16:57,Right footed,Son Heung-Min
+1,0.04549794644117355,Miss,7:35,Right footed,J. Vardy
+1,0.04499659687280655,Miss,34:29,Right footed,J. Justin
+0,0.044623956084251404,Miss,61:15,Right footed,Pedro Porro
+0,0.03856911137700081,Miss,11:36,Right footed,P. Sarr
+0,0.038105498999357224,Miss,80:42,Right footed,M. Moore
+0,0.034562189131975174,Miss,90+6:47,Left footed,R. Bentancur
+0,0.03094525821506977,Miss,42:06,Right footed,Pedro Porro
+0,0.026405831798911095,Miss,71:14,Header,R. Drăgușin
+0,0.025504007935523987,Miss,13:17,Right footed,Pedro Porro
+1,0.022738462314009666,Miss,7:19,Left footed,J. Ayew
+1,0.021755751222372055,Miss,51:28,Left footed,B. Soumaré
+0,0.020059950649738312,Miss,61:18,Left footed,R. Bentancur
+0,0.0176168791949749,Miss,84:18,Right footed,Pedro Porro
+1,0.012332714162766933,Miss,37:28,Right footed,B. El Khannouss
+1,0.011365555226802826,Miss,9:22,Right footed,B. El Khannouss

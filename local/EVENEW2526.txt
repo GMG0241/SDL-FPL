@@ -1,0 +1,23 @@
+1,0.5032365918159485,Goal,44:21,Right footed,N. Woltemade
+0,0.3747779428958893,Goal,69:00,Left footed,K. Dewsbury-Hall
+1,0.22278283536434174,Goal,0:52,Header,M. Thiaw
+1,0.21606959402561188,Miss,78:48,Left footed,J. Ramsey
+0,0.21351315081119537,Miss,10:45,Header,T. Barry
+1,0.21110834181308746,Miss,56:16,Right footed,H. Barnes
+1,0.16738051176071167,Goal,57:13,Header,M. Thiaw
+1,0.12955988943576813,Goal,24:31,Left footed,L. Miley
+0,0.09348983317613602,Miss,12:05,Left footed,K. Dewsbury-Hall
+1,0.09159795194864273,Miss,57:04,Left footed,N. Woltemade
+1,0.08896324038505554,Miss,24:29,Right footed,T. Livramento
+0,0.07740627974271774,Miss,70:48,Header,T. Barry
+1,0.07234788686037064,Miss,57:01,Header,D. Burn
+0,0.06907252222299576,Miss,52:57,Right footed,C. Alcaraz
+1,0.06683491170406342,Miss,0:20,Right footed,A. Elanga
+1,0.06327978521585464,Miss,7:57,Left footed,H. Barnes
+0,0.045107826590538025,Miss,90+5:08,Left footed,K. Dewsbury-Hall
+0,0.04326479509472847,Miss,10:10,Right footed,M. Keane
+1,0.042743001133203506,Miss,28:05,Left footed,L. Hall
+1,0.0293514933437109,Miss,75:43,Right footed,Joelinton
+0,0.025081520900130272,Miss,83:46,Right footed,C. Alcaraz
+0,0.024353638291358948,Miss,50:48,Left footed,I. Ndiaye
+0,0.023648375645279884,Miss,12:07,Right footed,J. Garner

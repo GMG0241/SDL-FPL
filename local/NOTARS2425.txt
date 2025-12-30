@@ -1,0 +1,19 @@
+1,0.2087302803993225,Miss,54:50,Header,K. Tierney
+1,0.18813493847846985,Miss,42:04,Left footed,W. Saliba
+1,0.12883548438549042,Miss,78:33,Header,Mikel Merino
+0,0.11484973132610321,Miss,68:57,Left footed,C. Wood
+0,0.09807082265615463,Miss,87:19,Left footed,N. Williams
+1,0.09464731812477112,Miss,50:08,Header,Mikel Merino
+0,0.07517373561859131,Miss,75:49,Header,R. Yates
+1,0.062581367790699,Miss,22:59,Right footed,R. Calafiori
+1,0.05940457060933113,Miss,85:36,Right footed,T. Partey
+1,0.0574265718460083,Miss,15:27,Right footed,D. Rice
+0,0.05066385865211487,Miss,84:10,Left footed,C. Hudson-Odoi
+1,0.04523656144738197,Miss,9:20,Right footed,D. Rice
+0,0.042772985994815826,Miss,9:41,Right footed,C. Wood
+1,0.038608286529779434,Miss,49:10,Right footed,L. Trossard
+1,0.03722332790493965,Miss,40:54,Left footed,E. Nwaneri
+1,0.02112477272748947,Miss,57:49,Left footed,E. Nwaneri
+0,0.02074231393635273,Miss,24:19,Right footed,N. Domínguez
+1,0.017176693305373192,Miss,25:39,Left footed,L. Trossard
+1,0.011726831085979939,Miss,10:57,Left footed,E. Nwaneri

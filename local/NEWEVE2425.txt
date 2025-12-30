@@ -1,0 +1,31 @@
+0,0.21255522966384888,Miss,90+3:49,Right footed,F. Schär
+1,0.21065326035022736,Miss,90+3:08,Left footed,D. Calvert-Lewin
+0,0.1919652670621872,Miss,35:40,Header,S. Botman
+1,0.15564414858818054,Miss,90+3:09,Right footed,D. Calvert-Lewin
+0,0.13342733681201935,Miss,36:36,Right footed,S. Botman
+0,0.10392187535762787,Miss,30:27,Right footed,A. Isak
+0,0.10239659994840622,Miss,36:16,Header,F. Schär
+1,0.09990785270929337,Miss,86:14,Left footed,Beto
+1,0.0898483619093895,Goal,64:15,Header,C. Alcaraz
+0,0.08257583528757095,Miss,36:34,Right footed,S. Botman
+0,0.08083131909370422,Miss,72:07,Left footed,H. Barnes
+1,0.07745668292045593,Miss,52:28,Header,J. Garner
+1,0.07217639684677124,Miss,39:20,Header,Beto
+0,0.06900114566087723,Miss,31:08,Header,F. Schär
+0,0.060435570776462555,Miss,90+4:48,Right footed,Bruno Guimarães
+1,0.05504339560866356,Miss,68:32,Right footed,Beto
+1,0.05309556797146797,Miss,52:09,Right footed,C. Alcaraz
+1,0.050460085272789,Miss,38:28,Header,C. Alcaraz
+1,0.04823596030473709,Miss,56:30,Left footed,J. Harrison
+0,0.043987590819597244,Miss,90+5:07,Header,W. Osula
+0,0.04364369809627533,Miss,82:14,Right footed,K. Trippier
+0,0.03616756945848465,Miss,30:25,Right footed,S. Tonali
+1,0.03480220586061478,Miss,21:25,Right footed,C. Alcaraz
+0,0.033186737447977066,Miss,67:00,Right footed,A. Isak
+1,0.03302272781729698,Miss,10:07,Right footed,I. Ndiaye
+0,0.032651279121637344,Miss,72:41,Right footed,A. Isak
+1,0.02639603614807129,Miss,11:29,Left footed,C. Alcaraz
+1,0.020740024745464325,Miss,23:29,Right footed,J. Garner
+0,0.018101226538419724,Miss,4:14,Right footed,A. Gordon
+0,0.016160354018211365,Miss,77:41,Left footed,F. Schär
+0,0.012022270821034908,Miss,79:51,Right footed,F. Schär

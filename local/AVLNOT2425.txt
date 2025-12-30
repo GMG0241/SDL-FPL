@@ -1,0 +1,36 @@
+0,0.44271788001060486,Goal,14:33,Right footed,D. Malen
+0,0.4209907054901123,Miss,90+1:28,Right footed,M. Rashford
+0,0.41249561309814453,Miss,65:09,Right footed,M. Rogers
+0,0.41149023175239563,Goal,12:15,Left footed,M. Rogers
+1,0.17714816331863403,Miss,52:02,Right footed,N. Williams
+1,0.14204148948192596,Miss,21:14,Left footed,A. Elanga
+0,0.13462792336940765,Miss,5:27,Left footed,I. Maatsen
+1,0.11217550188302994,Miss,67:08,Right footed,M. Gibbs-White
+0,0.10984638333320618,Miss,86:45,Header,T. Mings
+1,0.1075974628329277,Miss,58:15,Right footed,E. Anderson
+1,0.10479365289211273,Goal,56:30,Left footed,Jota Silva
+0,0.09750489145517349,Miss,68:16,Left footed,Marco Asensio
+0,0.09323901683092117,Miss,7:15,Left footed,Marco Asensio
+1,0.08002693951129913,Miss,22:41,Right footed,C. Hudson-Odoi
+0,0.07758992165327072,Miss,68:48,Right footed,M. Rashford
+1,0.07547802478075027,Miss,76:03,Header,M. Gibbs-White
+0,0.07138857990503311,Miss,78:56,Right footed,B. Kamara
+1,0.06300335377454758,Miss,66:25,Right footed,E. Anderson
+0,0.05914270505309105,Miss,20:50,Left footed,Marco Asensio
+0,0.05381815508008003,Miss,87:00,Right footed,M. Rogers
+1,0.051678817719221115,Miss,45:19,Header,N. Domínguez
+1,0.050264179706573486,Miss,77:08,Right footed,E. Anderson
+1,0.04903070628643036,Miss,90+3:03,Right footed,M. Gibbs-White
+0,0.0401308573782444,Miss,71:59,Left footed,Y. Tielemans
+1,0.03784177452325821,Miss,52:47,Right footed,C. Hudson-Odoi
+1,0.03607596457004547,Miss,59:16,Right footed,E. Anderson
+0,0.03475864604115486,Miss,8:58,Right footed,Y. Tielemans
+1,0.03016667068004608,Miss,80:44,Right footed,N. Williams
+0,0.0286104753613472,Miss,35:18,Left footed,Marco Asensio
+1,0.022193927317857742,Miss,16:48,Right footed,N. Domínguez
+1,0.017496321350336075,Miss,90:24,Left footed,Murillo
+0,0.01693592220544815,Miss,83:21,Left footed,I. Maatsen
+1,0.01609521545469761,Miss,39:52,Right footed,R. Yates
+1,0.01528964750468731,Miss,16:11,Right footed,R. Yates
+0,0.014172879047691822,Miss,38:35,Right footed,A. Disasi
+1,0.012996840290725231,Miss,47:12,Right footed,N. Williams

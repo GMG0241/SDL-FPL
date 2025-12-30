@@ -1,0 +1,25 @@
+0,0.7524237632751465,Goal,31:27,Right footed,D. Welbeck
+1,0.7111168503761292,Miss,69:47,Left footed,A. Garnacho
+0,0.46143025159835815,Goal,90+4:25,Header,João Pedro
+1,0.24851562082767487,Miss,10:51,Left footed,A. Diallo
+0,0.22983787953853607,Miss,57:55,Header,D. Welbeck
+0,0.12811212241649628,Miss,54:43,Header,D. Welbeck
+0,0.10446584969758987,Miss,51:06,Right footed,J. Milner
+0,0.08712196350097656,Miss,90+1:02,Header,S. Adingra
+1,0.08498833328485489,Miss,36:43,Right footed,M. Mount
+1,0.08216950297355652,Goal,59:38,Left footed,A. Diallo
+0,0.07932987064123154,Miss,76:39,Right footed,B. Gilmour
+1,0.07096024602651596,Miss,53:30,Right footed,Bruno Fernandes
+1,0.06972730159759521,Miss,90:05,Right footed,S. McTominay
+0,0.05940457060933113,Miss,45:12,Right footed,J. Milner
+0,0.04504454880952835,Miss,69:29,Left footed,Y. Minteh
+0,0.03937321528792381,Miss,76:45,Header,João Pedro
+1,0.03909781202673912,Miss,22:57,Header,Casemiro
+1,0.03857652097940445,Miss,26:28,Header,H. Maguire
+1,0.033380359411239624,Miss,90:08,Right footed,Casemiro
+0,0.0303689893335104,Miss,90+2:51,Right footed,J. Enciso
+0,0.030350573360919952,Miss,17:19,Left footed,Y. Minteh
+0,0.029305873438715935,Miss,9:41,Left footed,João Pedro
+1,0.024396831169724464,Miss,26:42,Right footed,Diogo Dalot
+1,0.024060118943452835,Miss,65:51,Right footed,Casemiro
+0,0.01670917682349682,Miss,90+2:00,Right footed,Y. Ayari

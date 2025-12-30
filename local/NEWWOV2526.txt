@@ -1,0 +1,24 @@
+0,0.6833764910697937,Miss,12:29,Left footed,J. Murphy
+0,0.1513768434524536,Goal,29:00,Header,N. Woltemade
+1,0.11358029395341873,Miss,40:14,Header,Rodrigo Gomes
+1,0.10739061236381531,Miss,0:09,Right footed,Rodrigo Gomes
+0,0.0899154469370842,Miss,15:39,Header,N. Woltemade
+0,0.08553627878427505,Miss,90+6:04,Right footed,Bruno Guimarães
+1,0.06998004764318466,Miss,10:14,Right footed,Rodrigo Gomes
+1,0.0699041336774826,Miss,38:13,Header,Hwang Hee-Chan
+1,0.06578048318624496,Miss,0:47,Left footed,Hwang Hee-Chan
+0,0.06116415560245514,Miss,45+3:58,Left footed,J. Murphy
+0,0.054370980709791183,Miss,49:32,Right footed,S. Tonali
+0,0.048979662358760834,Miss,42:11,Right footed,J. Murphy
+1,0.046612754464149475,Miss,88:27,Right footed,J. Bellegarde
+0,0.04294879734516144,Miss,27:46,Header,D. Burn
+0,0.04218495637178421,Miss,45+4:02,Left footed,S. Tonali
+1,0.04157092422246933,Miss,90:58,Right footed,J. Arias
+0,0.04149584844708443,Miss,12:58,Right footed,H. Barnes
+0,0.038877733051776886,Miss,45+5:22,Right footed,S. Tonali
+0,0.03552631288766861,Miss,84:05,Left footed,J. Willock
+0,0.03319881111383438,Miss,24:10,Right footed,N. Woltemade
+0,0.03263652324676514,Miss,36:23,Right footed,H. Barnes
+0,0.03211119771003723,Miss,73:06,Right footed,H. Barnes
+0,0.028772670775651932,Miss,4:19,Left footed,J. Murphy
+1,0.010225063189864159,Miss,18:03,Header,Toti Gomes

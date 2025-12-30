@@ -1,0 +1,27 @@
+0,0.36922821402549744,Miss,1:59,Right footed,Beto
+0,0.3103400766849518,Miss,31:23,Header,Beto
+0,0.28717276453971863,Miss,47:11,Right footed,Beto
+0,0.2518795430660248,Miss,90:12,Header,M. Keane
+1,0.22232630848884583,Miss,54:00,Header,T. Mings
+0,0.17036359012126923,Miss,32:27,Header,M. Keane
+0,0.1125260442495346,Miss,15:25,Right footed,Beto
+0,0.08329509198665619,Miss,10:21,Header,M. Keane
+1,0.07991847395896912,Miss,35:08,Right footed,M. Rogers
+0,0.07732639461755753,Miss,7:32,Right footed,I. Gueye
+0,0.07158246636390686,Miss,15:27,Right footed,J. Grealish
+1,0.06375458836555481,Miss,58:32,Right footed,E. Buendía
+0,0.05710899084806442,Miss,88:00,Left footed,T. Barry
+0,0.05636891350150108,Miss,88:24,Left footed,K. Dewsbury-Hall
+0,0.053932759910821915,Miss,89:23,Right footed,J. Garner
+0,0.05320936441421509,Miss,61:12,Right footed,J. O'Brien
+1,0.05177361145615578,Miss,49:37,Right footed,E. Buendía
+0,0.04904329404234886,Miss,71:00,Header,M. Keane
+1,0.04840482398867607,Miss,45+1:29,Left footed,L. Digne
+1,0.04116721823811531,Miss,23:25,Right footed,E. Buendía
+0,0.03560546040534973,Miss,90+3:15,Header,T. Barry
+0,0.03308578580617905,Miss,84:35,Right footed,M. Röhl
+0,0.032468441873788834,Miss,61:13,Right footed,T. Iroegbunam
+0,0.028857199475169182,Miss,89:52,Left footed,I. Ndiaye
+1,0.027838781476020813,Miss,54:07,Left footed,L. Digne
+0,0.01912097819149494,Miss,43:36,Right footed,I. Gueye
+0,0.014805000275373459,Miss,39:18,Right footed,J. Grealish

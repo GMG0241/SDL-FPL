@@ -1,0 +1,28 @@
+0,0.7884,Goal,83:54,Right footed,L. Nmecha
+1,0.19755923748016357,Miss,87:54,Header,J. Tarkowski
+0,0.16870355606079102,Miss,90+1:17,Left footed,A. Stach
+1,0.16730047762393951,Miss,76:24,Header,J. O'Brien
+0,0.15182973444461823,Miss,20:47,Right footed,J. Piroe
+0,0.1299576312303543,Miss,36:10,Header,P. Struijk
+0,0.1263130009174347,Miss,35:36,Right footed,D. James
+0,0.11321546137332916,Miss,59:10,Header,G. Gudmundsson
+0,0.10731040686368942,Miss,4:34,Left footed,J. Piroe
+0,0.08966661989688873,Miss,54:21,Right footed,W. Gnonto
+0,0.06386086344718933,Miss,79:10,Right footed,A. Tanaka
+0,0.059575263410806656,Miss,81:03,Right footed,L. Nmecha
+0,0.058113884180784225,Miss,35:35,Header,A. Stach
+1,0.05722692236304283,Miss,87:52,Header,Beto
+1,0.055396027863025665,Miss,53:28,Right footed,I. Gueye
+0,0.0311027429997921,Miss,37:20,Right footed,G. Gudmundsson
+1,0.02881200611591339,Miss,75:45,Right footed,C. Alcaraz
+0,0.028718089684844017,Miss,43:01,Left footed,W. Gnonto
+1,0.027441108599305153,Miss,63:13,Right footed,J. Garner
+0,0.026660066097974777,Miss,81:13,Right footed,A. Stach
+0,0.02501155622303486,Miss,14:22,Left footed,G. Gudmundsson
+0,0.02203628607094288,Miss,30:41,Right footed,A. Tanaka
+1,0.02092527039349079,Miss,87:41,Left footed,J. Grealish
+0,0.017833614721894264,Miss,36:11,Right footed,W. Gnonto
+0,0.017348282039165497,Miss,9:27,Right footed,J. Piroe
+0,0.017323149368166924,Miss,90:10,Right footed,A. Stach
+0,0.014114370569586754,Miss,90:14,Right footed,J. Bogle
+0,0.013987740501761436,Miss,12:57,Left footed,D. James

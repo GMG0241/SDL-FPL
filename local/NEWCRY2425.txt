@@ -1,0 +1,25 @@
+1,0.7884,Miss,35:36,Right footed,E. Eze
+1,0.3374117910861969,Miss,45+4:49,Right footed,J. Mateta
+0,0.3112257719039917,Goal,45+2:01,Left footed,H. Barnes
+1,0.23078997433185577,Miss,8:00,Header,C. Richards
+0,0.22818097472190857,Miss,6:55,Right footed,A. Isak
+1,0.20353905856609344,Miss,62:39,Header,D. Muñoz
+0,0.2012147456407547,Miss,50:54,Right footed,A. Isak
+0,0.164229616522789,Miss,40:55,Right footed,A. Isak
+0,0.16385310888290405,Miss,40:58,Left footed,A. Isak
+0,0.1400296539068222,Goal,45+7:19,Header,F. Schär
+1,0.13514727354049683,Miss,90:37,Left footed,E. Nketiah
+1,0.09094521403312683,Miss,85:38,Left footed,E. Nketiah
+1,0.07573932409286499,Miss,16:34,Left footed,W. Hughes
+0,0.07144899666309357,Goal,57:06,Right footed,A. Isak
+0,0.06944327801465988,Miss,8:54,Header,A. Isak
+0,0.06469423323869705,Miss,90+1:07,Right footed,A. Gordon
+1,0.052475862205028534,Miss,83:59,Right footed,D. Kamada
+0,0.045181721448898315,Miss,49:39,Right footed,H. Barnes
+0,0.03829650953412056,Miss,69:31,Right footed,S. Tonali
+1,0.03300970047712326,Miss,90:48,Right footed,D. Kamada
+1,0.02971811592578888,Miss,12:42,Right footed,I. Sarr
+1,0.026317235082387924,Miss,39:39,Right footed,J. Mateta
+0,0.01529829390347004,Miss,21:12,Right footed,F. Schär
+0,0.011629457585513592,Goal,13:29,Right footed,J. Murphy
+0,0.010950219817459583,Miss,3:29,Right footed,F. Schär

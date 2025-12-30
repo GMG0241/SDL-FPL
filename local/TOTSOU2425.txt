@@ -1,0 +1,25 @@
+0,0.7884,Goal,90+5:03,Right footed,M. Tel
+1,0.31999099254608154,Miss,15:05,Left footed,L. Ugochukwu
+0,0.29649683833122253,Miss,25:59,Header,C. Romero
+1,0.29485148191452026,Goal,89:10,Left footed,Mateus Fernandes
+0,0.18916592001914978,Goal,12:42,Left footed,B. Johnson
+0,0.17853309214115143,Miss,10:45,Left footed,L. Bergvall
+1,0.15565964579582214,Miss,11:29,Left footed,K. Sulemana
+0,0.14839142560958862,Miss,45+6:26,Right footed,D. Spence
+0,0.12890775501728058,Goal,41:07,Right footed,B. Johnson
+0,0.11272382736206055,Miss,9:03,Header,C. Romero
+0,0.0951547622680664,Miss,64:10,Left footed,D. Solanke
+0,0.09192559123039246,Miss,7:47,Left footed,B. Johnson
+0,0.07314092665910721,Miss,2:45,Left footed,D. Solanke
+1,0.06438245624303818,Miss,15:01,Left footed,C. Archer
+0,0.045694462954998016,Miss,52:49,Left footed,Son Heung-Min
+0,0.04360485449433327,Miss,83:39,Left footed,D. Solanke
+1,0.030125726014375687,Miss,45+4:39,Right footed,Mateus Fernandes
+1,0.02910616062581539,Miss,87:17,Right footed,Y. Sugawara
+1,0.029004637151956558,Miss,77:58,Left footed,K. Sulemana
+1,0.026754315942525864,Miss,76:16,Right footed,K. Sulemana
+1,0.02558004856109619,Miss,50:00,Left footed,J. Aribo
+1,0.025355547666549683,Miss,11:35,Right footed,Mateus Fernandes
+1,0.02320617437362671,Miss,15:04,Left footed,Mateus Fernandes
+1,0.02075154148042202,Miss,60:29,Left footed,Mateus Fernandes
+0,0.020376358181238174,Miss,78:26,Right footed,Pedro Porro

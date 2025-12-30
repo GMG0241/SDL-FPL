@@ -1,0 +1,19 @@
+0,0.47786158323287964,Goal,49:21,Header,E. Fernández
+1,0.3327026665210724,Miss,88:58,Left footed,Son Heung-Min
+1,0.18637032806873322,Miss,65:47,Right footed,M. van de Ven
+0,0.1451582908630371,Miss,43:59,Right footed,J. Sancho
+0,0.09974061697721481,Miss,53:13,Right footed,E. Fernández
+0,0.093034528195858,Miss,28:56,Right footed,N. Jackson
+0,0.07902782410383224,Miss,6:22,Right footed,M. Gusto
+1,0.06595349311828613,Miss,32:26,Left footed,L. Bergvall
+0,0.05909377336502075,Miss,10:50,Right footed,J. Sancho
+1,0.05607170611619949,Miss,80:58,Right footed,D. Spence
+1,0.05158871039748192,Miss,1:48,Left footed,Son Heung-Min
+1,0.04910822957754135,Miss,80:18,Right footed,J. Maddison
+0,0.03766627982258797,Miss,1:00,Left footed,Pedro Neto
+0,0.03295177221298218,Miss,82:53,Left footed,C. Palmer
+0,0.0326920822262764,Miss,13:08,Right footed,N. Jackson
+1,0.03067883662879467,Miss,89:38,Left footed,M. Tel
+0,0.027859684079885483,Miss,49:02,Left footed,C. Palmer
+1,0.02086855284869671,Miss,80:54,Header,P. Sarr
+0,0.009249087423086166,Miss,63:20,Left footed,Pedro Neto

@@ -1,0 +1,28 @@
+1,0.2770344018936157,Miss,52:04,Right footed,Lucas Paquetá
+1,0.19390130043029785,Goal,69:34,Header,Emerson
+0,0.17889979481697083,Goal,7:20,Left footed,J. Ramsey
+1,0.15832637250423431,Miss,54:30,Left footed,Emerson
+1,0.12147622555494308,Miss,81:48,Right footed,D. Ings
+1,0.10332401096820831,Miss,14:34,Left footed,Lucas Paquetá
+0,0.09958266466856003,Miss,9:00,Right footed,B. Kamara
+0,0.08978591114282608,Miss,63:15,Left footed,L. Bailey
+0,0.0831686332821846,Miss,34:21,Header,O. Watkins
+1,0.08214283734560013,Miss,60:26,Left footed,Carlos Soler
+1,0.07620617747306824,Miss,45+7:19,Left footed,M. Kudus
+0,0.06575334817171097,Miss,57:04,Left footed,L. Digne
+1,0.061183810234069824,Miss,14:06,Right footed,E. Álvarez
+1,0.054821260273456573,Miss,45+7:21,Right footed,Lucas Paquetá
+0,0.05123944580554962,Miss,80:28,Left footed,J. Durán
+0,0.04720478504896164,Miss,24:56,Header,O. Watkins
+0,0.04295813664793968,Miss,45+2:18,Left footed,I. Maatsen
+0,0.04179256036877632,Miss,26:51,Left footed,Y. Tielemans
+1,0.040269020944833755,Miss,76:19,Header,T. Souček
+0,0.04019341245293617,Miss,10:44,Left footed,L. Bailey
+1,0.03821020945906639,Miss,74:52,Right footed,E. Álvarez
+1,0.03733782097697258,Miss,15:24,Header,T. Souček
+0,0.03665716201066971,Miss,68:25,Left footed,J. Durán
+1,0.036197174340486526,Miss,90+7:56,Left footed,A. Irving
+1,0.03340863063931465,Miss,90+2:37,Left footed,A. Irving
+0,0.027391869574785233,Miss,65:56,Left footed,D. Malen
+0,0.026532743126153946,Miss,45+2:21,Left footed,L. Digne
+0,0.023363659158349037,Miss,90+4:12,Right footed,E. Buendía

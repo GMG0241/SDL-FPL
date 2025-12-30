@@ -1,0 +1,19 @@
+0,0.8840542435646057,Goal,63:04,Right footed,D. Gómez
+0,0.8349352478981018,Goal,10:39,Right footed,D. Welbeck
+0,0.36728018522262573,Goal,69:14,Right footed,D. Gómez
+0,0.25071102380752563,Miss,40:24,Left footed,Y. Minteh
+1,0.19051562249660492,Miss,45:06,Right footed,S. Longstaff
+0,0.17237789928913116,Miss,46:20,Right footed,J. van Hecke
+0,0.14415104687213898,Miss,8:48,Right footed,Y. Ayari
+1,0.1322184056043625,Miss,84:06,Right footed,L. Nmecha
+0,0.13170243799686432,Miss,82:20,Right footed,Y. Ayari
+1,0.08516517281532288,Miss,84:14,Left footed,A. Stach
+0,0.08494152128696442,Miss,33:27,Right footed,D. Welbeck
+0,0.06525523215532303,Miss,56:00,Right footed,D. Gómez
+1,0.06324075907468796,Miss,19:59,Right footed,S. Longstaff
+0,0.03729674220085144,Miss,38:55,Right footed,D. Gómez
+0,0.03570638597011566,Miss,10:27,Right footed,Y. Ayari
+0,0.026847856119275093,Miss,14:36,Left footed,Y. Ayari
+0,0.026303606107831,Miss,48:06,Left footed,G. Rutter
+1,0.02586284838616848,Miss,56:54,Right footed,D. Calvert-Lewin
+0,0.006787777878344059,Miss,1:52,Left footed,C. Baleba

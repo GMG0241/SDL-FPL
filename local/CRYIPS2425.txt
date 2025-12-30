@@ -1,0 +1,34 @@
+0,0.6845895051956177,Miss,65:33,Header,I. Sarr
+1,0.5624032020568848,Miss,61:18,Header,J. Greaves
+0,0.4219040274620056,Goal,81:37,Right footed,I. Sarr
+0,0.3133944571018219,Miss,77:02,Right footed,D. Muñoz
+1,0.30775338411331177,Miss,61:20,Right footed,J. Philogene
+1,0.2922308146953583,Miss,61:19,Right footed,J. Philogene
+1,0.27894410490989685,Miss,79:10,Header,B. Johnson
+0,0.2767150104045868,Miss,43:25,Right footed,E. Nketiah
+0,0.24195703864097595,Miss,49:37,Header,I. Sarr
+0,0.23627570271492004,Miss,40:16,Left footed,E. Nketiah
+0,0.2202252745628357,Miss,19:05,Right footed,E. Eze
+0,0.21605613827705383,Miss,67:28,Left footed,E. Eze
+0,0.14151078462600708,Miss,90+2:20,Right footed,D. Kamada
+1,0.14043939113616943,Miss,2:40,Left footed,J. Philogene
+0,0.12076354771852493,Miss,1:46,Left footed,E. Nketiah
+0,0.07954288274049759,Miss,50:10,Right footed,D. Muñoz
+0,0.0642583817243576,Miss,40:57,Right footed,C. Richards
+1,0.0585017055273056,Miss,56:11,Right footed,J. Clarke
+0,0.052520595490932465,Miss,16:49,Right footed,E. Eze
+0,0.0494539737701416,Miss,20:51,Header,D. Muñoz
+1,0.04159342125058174,Miss,77:18,Right footed,L. Delap
+1,0.038940731436014175,Miss,60:05,Right footed,J. Enciso
+0,0.037721775472164154,Miss,70:44,Right footed,E. Eze
+1,0.03130485117435455,Miss,23:01,Right footed,J. Enciso
+0,0.027112361043691635,Miss,58:12,Left footed,E. Eze
+0,0.026931867003440857,Miss,50:18,Right footed,C. Richards
+0,0.026765797287225723,Miss,13:51,Right footed,J. Lerma
+1,0.026731008663773537,Miss,61:17,Header,L. Delap
+1,0.024907348677515984,Miss,56:21,Right footed,J. Enciso
+1,0.02285374142229557,Miss,24:32,Right footed,J. Enciso
+0,0.0221067126840353,Miss,64:50,Right footed,E. Eze
+1,0.019318025559186935,Miss,60:36,Left footed,L. Delap
+1,0.01858123391866684,Miss,4:48,Right footed,L. Delap
+1,0.01748780719935894,Miss,48:19,Left footed,L. Davis

@@ -1,0 +1,22 @@
+1,0.45264962315559387,Goal,16:51,Left footed,Y. Wissa
+1,0.2612159550189972,Goal,31:24,Header,C. Nørgaard
+0,0.2530331313610077,Miss,3:40,Left footed,J. Vardy
+1,0.15514157712459564,Miss,76:00,Left footed,Y. Wissa
+1,0.1358753740787506,Miss,12:05,Right footed,K. Schade
+1,0.11347939074039459,Miss,68:09,Header,Y. Yarmoliuk
+1,0.10216579586267471,Goal,88:29,Right footed,Fábio Carvalho
+0,0.08549775928258896,Miss,85:50,Left footed,F. Buonanotte
+1,0.07734890282154083,Miss,37:40,Right footed,Y. Wissa
+1,0.07096227258443832,Miss,45:16,Header,K. Schade
+0,0.05620650202035904,Miss,18:18,Left footed,J. Vardy
+0,0.055428020656108856,Miss,35:52,Left footed,J. Vardy
+1,0.03678515926003456,Goal,26:08,Left footed,B. Mbeumo
+1,0.03246934711933136,Miss,67:27,Right footed,B. Mbeumo
+0,0.03173812851309776,Miss,64:28,Left footed,F. Buonanotte
+1,0.030267391353845596,Miss,90+1:49,Right footed,P. Maghoma
+1,0.029938310384750366,Miss,88:25,Right footed,B. Mbeumo
+0,0.028989821672439575,Miss,2:03,Left footed,W. Coulibaly
+0,0.025042658671736717,Miss,79:26,Left footed,F. Buonanotte
+1,0.017837466672062874,Miss,70:22,Header,K. Ajer
+0,0.017074590548872948,Miss,23:21,Right footed,W. Coulibaly
+1,0.01593668758869171,Miss,69:50,Right footed,B. Mbeumo

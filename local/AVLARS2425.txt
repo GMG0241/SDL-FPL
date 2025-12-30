@@ -1,0 +1,20 @@
+0,0.49864867329597473,Miss,53:51,Header,O. Watkins
+0,0.3687259256839752,Miss,24:01,Right footed,O. Watkins
+1,0.2570778727531433,Miss,79:26,Left footed,M. Ødegaard
+1,0.2099704146385193,Miss,38:31,Left footed,K. Havertz
+1,0.13433845341205597,Goal,66:48,Right footed,L. Trossard
+0,0.09825795888900757,Miss,86:27,Left footed,J. Durán
+1,0.07167153805494308,Goal,76:53,Right footed,T. Partey
+1,0.0682334303855896,Miss,6:56,Left footed,D. Rice
+0,0.06297940015792847,Miss,60:48,Left footed,M. Rogers
+0,0.054081231355667114,Miss,57:48,Header,A. Onana
+0,0.05401148274540901,Miss,53:48,Right footed,A. Onana
+1,0.04859061911702156,Miss,15:03,Left footed,B. Saka
+0,0.03733903914690018,Miss,43:16,Left footed,L. Bailey
+0,0.03418204188346863,Miss,83:21,Left footed,J. Ramsey
+1,0.030024079605937004,Miss,31:10,Right footed,T. Partey
+1,0.026096513494849205,Miss,90+3:28,Right footed,L. Trossard
+1,0.022845681756734848,Miss,82:58,Left footed,L. Trossard
+0,0.022754861041903496,Miss,90:51,Right footed,R. Barkley
+0,0.022524522617459297,Miss,56:19,Right footed,M. Rogers
+0,0.02219400554895401,Miss,43:12,Right footed,M. Rogers

@@ -1,0 +1,22 @@
+1,0.48666903376579285,Miss,49:24,Right footed,A. Armstrong
+1,0.1963854432106018,Miss,40:10,Header,B. Brereton
+0,0.17139573395252228,Goal,44:13,Left footed,Joelinton
+1,0.1473105400800705,Miss,9:28,Right footed,W. Smallbone
+1,0.11083552241325378,Miss,62:11,Right footed,F. Downes
+1,0.10197056084871292,Miss,49:26,Right footed,B. Brereton
+1,0.09831298142671585,Miss,90+6:04,Header,C. Archer
+1,0.09569032490253448,Miss,89:29,Right footed,C. Archer
+1,0.08193977922201157,Miss,61:39,Right footed,W. Smallbone
+1,0.07864754647016525,Miss,61:41,Right footed,A. Armstrong
+1,0.07863346487283707,Miss,77:10,Right footed,A. Armstrong
+1,0.0684194266796112,Miss,86:28,Header,C. Alcaraz
+1,0.05375567823648453,Miss,50:57,Right footed,A. Armstrong
+1,0.052637021988630295,Miss,62:13,Left footed,J. Aribo
+0,0.04564554989337921,Miss,45+3:47,Header,Joelinton
+1,0.04314778372645378,Miss,90+2:33,Right footed,W. Smallbone
+1,0.03899405151605606,Miss,77:07,Right footed,K. Walker-Peters
+0,0.03637237101793289,Miss,23:55,Right footed,F. Schär
+1,0.03363054245710373,Miss,13:33,Right footed,W. Smallbone
+1,0.02043449506163597,Miss,85:59,Left footed,S. Amo-Ameyaw
+1,0.018704181537032127,Miss,68:34,Right footed,K. Walker-Peters
+1,0.015843279659748077,Miss,21:43,Right footed,A. Armstrong

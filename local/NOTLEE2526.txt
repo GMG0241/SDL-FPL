@@ -1,0 +1,24 @@
+0,0.7884,Goal,90:03,Right footed,E. Anderson
+0,0.5479332804679871,Goal,67:01,Header,M. Gibbs-White
+0,0.33433568477630615,Miss,47:58,Right footed,Igor Jesus
+0,0.3107850253582001,Goal,14:48,Right footed,I. Sangaré
+1,0.21583133935928345,Miss,90+3:13,Header,D. Calvert-Lewin
+1,0.1369297206401825,Miss,64:17,Header,L. Nmecha
+0,0.10386005789041519,Miss,10:51,Header,Igor Jesus
+1,0.09572114795446396,Goal,12:32,Right footed,L. Nmecha
+0,0.08892472088336945,Miss,18:30,Left footed,D. Ndoye
+0,0.07681618630886078,Miss,11:28,Right footed,Igor Jesus
+0,0.07358144223690033,Miss,35:57,Header,Igor Jesus
+1,0.06866016983985901,Miss,84:31,Header,D. Calvert-Lewin
+0,0.0574265718460083,Miss,1:45,Right footed,M. Gibbs-White
+1,0.05561559647321701,Miss,78:13,Left footed,E. Ampadu
+0,0.053882379084825516,Miss,90+1:28,Right footed,O. Hutchinson
+1,0.0476912297308445,Miss,78:19,Left footed,D. James
+1,0.04389176890254021,Miss,79:57,Right footed,D. James
+0,0.03501642867922783,Miss,2:23,Right footed,I. Sangaré
+1,0.03230924904346466,Miss,52:46,Right footed,B. Aaronson
+0,0.0313938744366169,Miss,16:44,Left footed,D. Ndoye
+0,0.028970621526241302,Miss,45:05,Right footed,M. Gibbs-White
+1,0.023317571729421616,Miss,64:12,Right footed,B. Aaronson
+0,0.019616657868027687,Miss,11:28,Header,Igor Jesus
+1,0.01788918301463127,Miss,78:20,Left footed,G. Gudmundsson

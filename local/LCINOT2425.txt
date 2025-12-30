@@ -1,0 +1,31 @@
+0,0.5220135450363159,Goal,22:06,Right footed,J. Vardy
+1,0.3621220886707306,Miss,68:35,Left footed,R. Yates
+1,0.27613186836242676,Miss,24:24,Right footed,N. Domínguez
+1,0.23496370017528534,Goal,59:57,Header,C. Wood
+1,0.1305561065673828,Miss,55:07,Right footed,E. Anderson
+1,0.10053785145282745,Miss,68:34,Left footed,Murillo
+1,0.09403109550476074,Goal,46:42,Right footed,C. Wood
+1,0.067025326192379,Miss,24:22,Left footed,Murillo
+1,0.060613278299570084,Miss,54:03,Right footed,E. Anderson
+1,0.06002122163772583,Miss,90:12,Right footed,T. Awoniyi
+1,0.05678960680961609,Miss,78:08,Right footed,N. Milenković
+1,0.05390376225113869,Miss,55:04,Right footed,C. Hudson-Odoi
+1,0.047780975699424744,Miss,35:49,Right footed,A. Elanga
+1,0.04686814919114113,Miss,84:07,Right footed,Jota Silva
+0,0.04550151526927948,Miss,77:01,Left footed,F. Buonanotte
+0,0.03955509886145592,Miss,10:50,Header,W. Ndidi
+0,0.03585869073867798,Miss,66:00,Left footed,F. Buonanotte
+1,0.03320006653666496,Goal,15:55,Right footed,R. Yates
+0,0.027391303330659866,Miss,8:24,Right footed,F. Buonanotte
+1,0.025087129324674606,Miss,36:01,Right footed,C. Hudson-Odoi
+1,0.022709887474775314,Miss,81:50,Right footed,R. Sosa
+1,0.018846871331334114,Miss,29:33,Right footed,E. Anderson
+0,0.018160361796617508,Miss,26:26,Right footed,H. Winks
+0,0.018025297671556473,Miss,78:42,Header,J. Vardy
+1,0.017986753955483437,Miss,45:08,Right footed,C. Wood
+1,0.016779432073235512,Miss,15:51,Right footed,E. Anderson
+1,0.014948856085538864,Miss,30:33,Right footed,E. Anderson
+0,0.0148853724822402,Miss,41:13,Left footed,A. Fatawu
+0,0.014778470620512962,Miss,45+1:12,Right footed,S. Mavididi
+0,0.013730086386203766,Miss,43:39,Header,S. Mavididi
+0,0.013653939589858055,Miss,50:44,Left footed,F. Buonanotte

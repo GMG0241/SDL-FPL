@@ -1,0 +1,22 @@
+0,0.96871018409729,Goal,24:52,Right footed,N. Jackson
+0,0.4557362198829651,Miss,90+2:53,Left footed,N. Jackson
+0,0.23789502680301666,Miss,21:12,Left footed,N. Madueke
+0,0.20188917219638824,Miss,22:50,Right footed,N. Madueke
+1,0.12744101881980896,Miss,90+1:30,Right footed,E. Eze
+0,0.11739993095397949,Miss,75:39,Left footed,L. Colwill
+1,0.10427866876125336,Miss,76:25,Right footed,D. Kamada
+1,0.08856093883514404,Miss,90+8:00,Right footed,T. Mitchell
+0,0.07998638600111008,Miss,90+2:05,Right footed,N. Jackson
+0,0.07977702468633652,Miss,40:58,Header,N. Jackson
+1,0.06468617916107178,Goal,52:52,Right footed,E. Eze
+0,0.06122726947069168,Miss,11:35,Left footed,C. Palmer
+1,0.044246505945920944,Miss,0:18,Left footed,J. Mateta
+0,0.040686413645744324,Miss,48:28,Header,L. Colwill
+1,0.03978542983531952,Miss,45+2:35,Right footed,E. Eze
+0,0.039774421602487564,Miss,47:50,Left footed,C. Palmer
+1,0.03773796185851097,Miss,83:26,Right footed,D. Kamada
+0,0.03527437523007393,Miss,30:10,Left footed,N. Madueke
+0,0.029195571318268776,Miss,43:12,Right footed,M. Gusto
+1,0.019853893667459488,Miss,15:38,Left footed,A. Wharton
+0,0.01880134828388691,Miss,90+5:24,Right footed,João Félix
+1,0.01683763414621353,Miss,52:49,Left footed,C. Doucouré

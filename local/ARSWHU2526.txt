@@ -1,0 +1,25 @@
+0,0.7884,Goal,66:22,Left footed,B. Saka
+0,0.3474408686161041,Miss,12:42,Right footed,V. Gyökeres
+0,0.2899603545665741,Goal,37:31,Right footed,D. Rice
+0,0.28726962208747864,Miss,12:44,Right footed,E. Eze
+0,0.2843552529811859,Miss,32:09,Header,V. Gyökeres
+1,0.27053093910217285,Miss,0:43,Header,N. Füllkrug
+1,0.12575674057006836,Miss,90+1:40,Header,C. Marshall
+0,0.09724265336990356,Miss,4:00,Right footed,J. Timber
+0,0.09504998475313187,Miss,37:29,Right footed,E. Eze
+0,0.09235750138759613,Miss,9:07,Header,R. Calafiori
+0,0.0806145891547203,Miss,84:14,Header,Mikel Merino
+0,0.07733221352100372,Miss,32:12,Right footed,L. Trossard
+0,0.07618620991706848,Miss,7:14,Left footed,E. Eze
+0,0.0756162479519844,Miss,45+4:14,Right footed,R. Calafiori
+0,0.0750318393111229,Miss,81:33,Right footed,Mikel Merino
+0,0.06616735458374023,Miss,4:03,Right footed,J. Timber
+0,0.04096519947052002,Miss,52:30,Right footed,L. Trossard
+0,0.03285127133131027,Miss,34:49,Right footed,E. Eze
+0,0.02532333694398403,Miss,7:18,Right footed,D. Rice
+1,0.023186786100268364,Miss,46:25,Right footed,C. Summerville
+0,0.022969331592321396,Miss,50:28,Left footed,B. Saka
+0,0.022650096565485,Miss,34:03,Left footed,B. Saka
+0,0.020716212689876556,Miss,90+5:31,Left footed,E. Nwaneri
+1,0.011635614559054375,Miss,6:17,Left footed,Lucas Paquetá
+0,0.009417058899998665,Miss,45+1:21,Left footed,B. Saka

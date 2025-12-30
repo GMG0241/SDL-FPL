@@ -1,0 +1,15 @@
+0,0.3691621720790863,Miss,72:23,Left footed,L. Díaz
+0,0.2789349853992462,Goal,10:30,Left footed,D. Szoboszlai
+0,0.24717117846012115,Miss,90+2:26,Right footed,C. Gakpo
+0,0.19469164311885834,Goal,62:39,Right footed,A. Mac Allister
+0,0.13512593507766724,Miss,77:34,Right footed,C. Gakpo
+1,0.11634237319231033,Miss,29:56,Right footed,C. Wilson
+0,0.11170528084039688,Miss,35:35,Right footed,D. Szoboszlai
+0,0.07840892672538757,Miss,87:24,Left footed,Mohamed Salah
+1,0.052611835300922394,Miss,49:09,Header,C. Wilson
+1,0.04367677867412567,Miss,46:35,Right footed,A. Gordon
+0,0.04355783760547638,Miss,83:36,Left footed,Mohamed Salah
+0,0.035862818360328674,Miss,28:37,Right footed,K. Tsimikas
+0,0.02386149950325489,Miss,38:40,Left footed,Mohamed Salah
+0,0.021049095317721367,Miss,22:48,Right footed,A. Mac Allister
+0,0.016902849078178406,Miss,90+3:20,Right footed,D. Szoboszlai

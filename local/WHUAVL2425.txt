@@ -1,0 +1,29 @@
+0,0.7884,Goal,36:56,Left footed,Lucas Paquetá
+1,0.5502658486366272,Goal,3:29,Header,A. Onana
+0,0.5151900053024292,Miss,90+6:14,Right footed,T. Souček
+0,0.27708175778388977,Miss,90+6:13,Header,T. Souček
+0,0.2511007785797119,Miss,85:47,Header,D. Ings
+1,0.23037515580654144,Miss,65:48,Left footed,J. Durán
+1,0.2258295863866806,Miss,31:35,Right footed,J. McGinn
+0,0.2044234275817871,Miss,47:58,Right footed,T. Souček
+1,0.16146220266819,Miss,55:47,Left footed,Y. Tielemans
+1,0.14584264159202576,Goal,78:03,Left footed,J. Durán
+1,0.13528317213058472,Miss,9:55,Left footed,M. Rogers
+0,0.10909669101238251,Miss,63:12,Header,M. Antonio
+1,0.10528013855218887,Miss,21:56,Left footed,L. Bailey
+1,0.07761739939451218,Miss,20:29,Left footed,L. Bailey
+1,0.07646869868040085,Miss,55:49,Right footed,M. Rogers
+1,0.07332030683755875,Miss,56:25,Other body part,E. Konsa
+1,0.073288694024086,Miss,31:34,Right footed,J. McGinn
+1,0.06555785983800888,Miss,90+4:49,Right footed,J. Philogene
+1,0.06164409965276718,Miss,83:28,Left footed,J. Ramsey
+0,0.058141376823186874,Miss,48:00,Left footed,T. Souček
+0,0.04452713951468468,Miss,1:38,Right footed,T. Souček
+0,0.04319723695516586,Miss,40:21,Right footed,Emerson
+0,0.042388129979372025,Miss,16:44,Left footed,M. Antonio
+0,0.04091741144657135,Miss,40:59,Header,M. Kudus
+0,0.0401308573782444,Miss,60:39,Left footed,M. Kudus
+1,0.02623133733868599,Miss,44:19,Left footed,L. Bailey
+0,0.02121589705348015,Miss,75:07,Right footed,K. Mavropanos
+0,0.020666906610131264,Miss,54:40,Right footed,G. Rodríguez
+1,0.020379384979605675,Miss,13:52,Right footed,Y. Tielemans

@@ -1,0 +1,20 @@
+0,0.7884,Goal,74:18,Right footed,H. Kane
+0,0.6288261413574219,Goal,53:35,Right footed,J. Musiala
+1,0.3157334327697754,Miss,13:06,Right footed,J. Frimpong
+0,0.24217766523361206,Miss,21:35,Header,J. Musiala
+0,0.20653828978538513,Miss,90+4:37,Right footed,João Palhinha
+0,0.1662343293428421,Miss,5:57,Header,L. Goretzka
+0,0.14449523389339447,Miss,90+3:42,Other body part,D. Upamecano
+0,0.07541326433420181,Miss,85:52,Right footed,A. Davies
+0,0.06677188724279404,Miss,90:33,Right footed,J. Kimmich
+0,0.06673646718263626,Miss,87:30,Right footed,L. Sané
+0,0.06282538920640945,Miss,15:14,Right footed,H. Kane
+0,0.06073480844497681,Goal,8:41,Header,H. Kane
+0,0.04020959511399269,Miss,43:40,Right footed,J. Musiala
+0,0.03253648430109024,Miss,24:32,Right footed,K. Coman
+0,0.02604256570339203,Miss,43:27,Left footed,A. Davies
+0,0.026027144864201546,Miss,69:35,Left footed,M. Olise
+0,0.02562309056520462,Miss,27:21,Right footed,L. Goretzka
+1,0.02389070764183998,Miss,40:01,Header,N. Mukiele
+0,0.018901756033301353,Miss,30:14,Right footed,J. Kimmich
+1,0.015257695689797401,Miss,40:02,Right footed,J. Tah

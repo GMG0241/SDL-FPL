@@ -1,0 +1,32 @@
+0,0.9000959396362305,Goal,68:21,Right footed,Lucas Paquetá
+0,0.5786103010177612,Miss,58:54,Left footed,M. Kudus
+0,0.5086567401885986,Goal,43:02,Header,M. Kudus
+0,0.362330824136734,Miss,37:33,Header,M. Kudus
+0,0.2875194847583771,Miss,38:27,Right footed,T. Souček
+1,0.2696344256401062,Miss,36:04,Header,J. Greaves
+0,0.227217435836792,Miss,68:20,Right footed,M. Antonio
+0,0.14213739335536957,Miss,7:37,Left footed,J. Bowen
+0,0.13770529627799988,Miss,42:59,Header,M. Antonio
+0,0.11131451278924942,Miss,48:37,Right footed,M. Antonio
+0,0.09763046354055405,Goal,0:48,Right footed,M. Antonio
+1,0.09301648288965225,Miss,86:30,Right footed,S. Szmodics
+1,0.08758039772510529,Miss,64:44,Header,L. Delap
+0,0.07585547119379044,Miss,9:22,Left footed,J. Bowen
+0,0.062045492231845856,Miss,77:27,Right footed,M. Kudus
+0,0.05792661011219025,Miss,45+1:04,Left footed,Lucas Paquetá
+0,0.05659325420856476,Miss,33:29,Right footed,T. Souček
+1,0.045870594680309296,Miss,22:24,Right footed,D. O'Shea
+0,0.04364480450749397,Miss,83:36,Right footed,Carlos Soler
+1,0.04116686433553696,Miss,27:20,Left footed,Sam Morsy
+0,0.03733903914690018,Goal,48:47,Left footed,J. Bowen
+1,0.036610592156648636,Goal,5:13,Right footed,L. Delap
+1,0.03531402349472046,Miss,90+3:54,Right footed,J. Taylor
+0,0.033932123333215714,Miss,90:51,Left footed,A. Cresswell
+0,0.03225308284163475,Miss,51:22,Right footed,T. Souček
+0,0.02804267592728138,Miss,39:40,Left footed,Lucas Paquetá
+1,0.025688769295811653,Miss,24:53,Right footed,K. Phillips
+0,0.023643575608730316,Miss,45+2:57,Right footed,A. Wan-Bissaka
+0,0.021849412471055984,Miss,13:33,Right footed,M. Kudus
+0,0.019270339980721474,Miss,82:02,Right footed,J. Bowen
+1,0.013969536870718002,Miss,52:04,Right footed,W. Burns
+0,0.011476962827146053,Miss,79:18,Left footed,J. Bowen

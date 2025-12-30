@@ -1,0 +1,26 @@
+0,0.5938800573348999,Goal,90:16,Right footed,B. De Cordova-Reid
+1,0.4097672700881958,Goal,78:50,Left footed,Y. Minteh
+0,0.33468663692474365,Goal,85:47,Left footed,J. Vardy
+1,0.2414284646511078,Miss,88:04,Right footed,D. Welbeck
+1,0.20306481420993805,Miss,13:14,Left footed,João Pedro
+1,0.13873690366744995,Miss,34:49,Right footed,K. Mitoma
+1,0.10217440873384476,Miss,32:09,Left footed,E. Ferguson
+1,0.08287280052900314,Miss,32:06,Right footed,J. van Hecke
+0,0.08189143985509872,Miss,66:19,Header,J. Vardy
+0,0.06835523992776871,Miss,52:29,Right footed,J. Vardy
+0,0.06434657424688339,Miss,43:19,Header,J. Justin
+1,0.06372462213039398,Miss,55:28,Right footed,João Pedro
+0,0.05571022629737854,Miss,8:47,Header,J. Justin
+1,0.052826009690761566,Miss,30:23,Left footed,P. Estupiñán
+1,0.05052826926112175,Miss,14:51,Right footed,Y. Ayari
+0,0.045511502772569656,Miss,90+6:01,Right footed,S. Mavididi
+1,0.04290182888507843,Miss,83:34,Left footed,Y. Minteh
+1,0.03673457354307175,Miss,64:03,Right footed,E. Ferguson
+0,0.028677750378847122,Miss,7:28,Right footed,B. Soumaré
+1,0.027124444022774696,Miss,90+3:55,Right footed,D. Welbeck
+1,0.02489442378282547,Miss,19:06,Left footed,P. Estupiñán
+1,0.02315632253885269,Goal,36:25,Left footed,T. Lamptey
+0,0.02145969308912754,Miss,85:45,Left footed,B. De Cordova-Reid
+1,0.020428605377674103,Miss,10:24,Header,L. Dunk
+0,0.020307544618844986,Miss,45+1:47,Right footed,J. Ayew
+1,0.019334975630044937,Miss,4:59,Left footed,P. Estupiñán

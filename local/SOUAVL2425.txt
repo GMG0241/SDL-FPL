@@ -1,0 +1,32 @@
+1,0.7884,Miss,68:53,Left footed,Marco Asensio
+1,0.7884,Miss,90+3:24,Left footed,Marco Asensio
+1,0.3092261254787445,Goal,90+3:25,Right footed,J. McGinn
+1,0.2779451012611389,Goal,72:29,Right footed,O. Watkins
+1,0.22654391825199127,Goal,78:32,Right footed,D. Malen
+1,0.17928314208984375,Miss,20:49,Right footed,Y. Tielemans
+1,0.14834553003311157,Miss,20:48,Header,E. Konsa
+0,0.13692203164100647,Miss,15:10,Right footed,C. Archer
+1,0.06470509618520737,Miss,58:46,Header,Y. Tielemans
+1,0.05965874716639519,Miss,19:55,Right footed,J. Ramsey
+1,0.04710890352725983,Miss,0:34,Right footed,M. Rashford
+0,0.042738474905490875,Miss,40:39,Header,P. Onuachu
+1,0.040243495255708694,Miss,35:03,Left footed,M. Cash
+0,0.037591010332107544,Miss,90+7:28,Left footed,W. Smallbone
+1,0.03701353445649147,Miss,83:36,Left footed,Marco Asensio
+1,0.03212684392929077,Miss,64:57,Right footed,M. Rashford
+1,0.03188679739832878,Miss,48:09,Left footed,I. Maatsen
+1,0.02999490685760975,Miss,46:44,Left footed,I. Maatsen
+0,0.02904914878308773,Miss,8:37,Left footed,K. Sulemana
+1,0.026227721944451332,Miss,46:50,Right footed,A. Onana
+0,0.024453965947031975,Miss,62:46,Header,T. Harwood-Bellis
+1,0.024185171350836754,Miss,36:17,Right footed,Marco Asensio
+1,0.024041002616286278,Miss,45+1:22,Right footed,M. Cash
+1,0.022945726290345192,Miss,8:06,Header,M. Rashford
+1,0.02225089631974697,Miss,1:51,Left footed,I. Maatsen
+1,0.02218146249651909,Miss,39:34,Right footed,Y. Tielemans
+1,0.0213786568492651,Miss,50:49,Left footed,T. Mings
+0,0.021016769111156464,Miss,87:41,Right footed,Mateus Fernandes
+1,0.019257057458162308,Miss,17:50,Header,T. Mings
+0,0.018715711310505867,Miss,59:42,Right footed,K. Sulemana
+1,0.01721923239529133,Miss,32:19,Right footed,M. Rashford
+1,0.010733649134635925,Miss,48:24,Right footed,Y. Tielemans

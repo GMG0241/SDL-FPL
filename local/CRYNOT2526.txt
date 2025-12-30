@@ -1,0 +1,17 @@
+1,0.26485776901245117,Goal,56:46,Right footed,C. Hudson-Odoi
+0,0.2318844199180603,Goal,36:10,Right footed,I. Sarr
+1,0.11555470526218414,Miss,51:07,Right footed,C. Wood
+1,0.11537600308656693,Miss,90+4:56,Left footed,O. Hutchinson
+1,0.11373960226774216,Miss,33:31,Right footed,M. Gibbs-White
+0,0.11307825148105621,Miss,45+1:53,Header,M. Guéhi
+0,0.10479341447353363,Miss,30:44,Header,M. Lacroix
+1,0.09415767341852188,Miss,4:11,Right footed,C. Wood
+0,0.08669521659612656,Miss,28:27,Right footed,J. Mateta
+1,0.08234549313783646,Miss,90+2:17,Left footed,Igor Jesus
+0,0.08117219060659409,Miss,54:23,Left footed,W. Hughes
+0,0.0769222304224968,Miss,10:26,Header,J. Mateta
+1,0.058902807533741,Miss,90+2:24,Right footed,O. Hutchinson
+0,0.04675045236945152,Miss,58:23,Header,J. Devenny
+1,0.04666518792510033,Miss,20:12,Right footed,C. Hudson-Odoi
+0,0.04238877817988396,Miss,41:07,Left footed,W. Hughes
+1,0.011925294063985348,Miss,9:02,Right footed,I. Sangaré

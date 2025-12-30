@@ -1,0 +1,27 @@
+1,0.9697428345680237,Goal,16:17,Right footed,Evanilson
+1,0.6886593103408813,Miss,14:27,Left footed,M. Senesi
+0,0.4638409912586212,Goal,57:30,Right footed,Y. Wissa
+0,0.273283988237381,Miss,84:33,Header,K. Schade
+1,0.2235150933265686,Miss,90+6:59,Header,Dean Huijsen
+1,0.13904103636741638,Miss,90+7:06,Right footed,A. Semenyo
+0,0.1377406120300293,Goal,26:13,Header,Y. Wissa
+1,0.12765958905220032,Goal,48:15,Right footed,J. Kluivert
+1,0.10235878825187683,Miss,47:30,Right footed,R. Christie
+0,0.09106865525245667,Miss,66:00,Left footed,B. Mbeumo
+0,0.09040039777755737,Miss,21:19,Left footed,V. Janelt
+0,0.08626225590705872,Miss,90+2:41,Right footed,S. van den Berg
+0,0.07901108264923096,Miss,71:59,Right footed,C. Nørgaard
+0,0.07222410291433334,Miss,81:39,Header,S. van den Berg
+1,0.06407231092453003,Miss,10:28,Left footed,A. Semenyo
+1,0.06282022595405579,Miss,90+3:57,Header,E. Ünal
+0,0.05935147777199745,Miss,38:13,Right footed,M. Damsgaard
+1,0.05755123496055603,Miss,28:24,Right footed,L. Cook
+0,0.05286788195371628,Goal,49:37,Right footed,M. Damsgaard
+0,0.04995742440223694,Miss,39:12,Left footed,V. Janelt
+1,0.040121886879205704,Miss,79:59,Left footed,A. Semenyo
+1,0.037074241787195206,Miss,4:42,Right footed,L. Cook
+1,0.030773522332310677,Miss,7:07,Right footed,L. Cook
+1,0.027721498161554337,Miss,36:21,Left footed,A. Semenyo
+1,0.02583150565624237,Miss,36:23,Right footed,T. Adams
+0,0.021054480224847794,Miss,76:03,Right footed,M. Jensen
+1,0.009731627069413662,Miss,90+6:35,Left footed,A. Semenyo

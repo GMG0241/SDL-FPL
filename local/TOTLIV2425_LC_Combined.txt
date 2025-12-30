@@ -1,0 +1,54 @@
+0,0.7884,Goal,50:19,Left footed,Mohamed Salah
+0,0.6374800801277161,Miss,46:35,Header,C. Gakpo
+0,0.37171170115470886,Goal,74:40,Right footed,D. Szoboszlai
+0,0.28001293540000916,Miss,85:17,Header,Diogo Jota
+0,0.21205568313598633,Miss,69:06,Header,I. Konaté
+0,0.2033565640449524,Goal,79:49,Header,V. van Dijk
+0,0.13029541075229645,Goal,33:19,Right footed,C. Gakpo
+0,0.11901406198740005,Miss,26:28,Right footed,C. Gakpo
+0,0.10849646478891373,Miss,83:28,Right footed,Diogo Jota
+0,0.0701843872666359,Miss,6:03,Left footed,Mohamed Salah
+0,0.06948672235012054,Miss,26:30,Left footed,D. Núñez
+0,0.06589353829622269,Miss,28:53,Header,D. Núñez
+0,0.06266172975301743,Miss,43:49,Left footed,Mohamed Salah
+0,0.06223669275641441,Miss,40:15,Right footed,R. Gravenberch
+0,0.06062798947095871,Miss,60:47,Left footed,D. Núñez
+0,0.05775398761034012,Miss,6:00,Right footed,D. Szoboszlai
+1,0.05566011369228363,Miss,41:29,Left footed,D. Kulusevski
+0,0.05381539836525917,Miss,73:40,Right footed,R. Gravenberch
+0,0.05372496694326401,Miss,60:16,Header,D. Szoboszlai
+0,0.04979861155152321,Miss,79:00,Left footed,A. Robertson
+1,0.04945326969027519,Miss,90:25,Right footed,Son Heung-Min
+0,0.048726920038461685,Miss,62:36,Left footed,C. Gakpo
+0,0.04019341245293617,Miss,21:42,Right footed,D. Szoboszlai
+0,0.03847627341747284,Miss,21:47,Right footed,R. Gravenberch
+0,0.037178028374910355,Miss,31:39,Right footed,Mohamed Salah
+0,0.03666466474533081,Miss,45:29,Left footed,Mohamed Salah
+0,0.03554069623351097,Miss,46:34,Header,D. Szoboszlai
+1,0.03228655830025673,Miss,77:18,Left footed,Son Heung-Min
+1,0.025645578280091286,Miss,58:18,Right footed,R. Bentancur
+0,0.023169826716184616,Miss,46:51,Right footed,C. Gakpo
+1,0.018756454810500145,Miss,67:37,Right footed,D. Spence
+0,0.2861158847808838,Miss,68:28,Right footed
+0,0.2428,Miss,32:51,Header
+1,0.194919615983963,Miss,5:52,Right footed
+0,0.18359845876693726,Miss,90+3:09,Left footed
+1,0.17829032242298126,Goal,85:08,Right footed
+0,0.16894811391830444,Miss,70:33,Right footed
+1,0.15217623114585876,Miss,55:24,Right footed
+1,0.1434779167175293,Miss,55:21,Right footed
+0,0.12553727626800537,Miss,45+10:43,Left footed
+0,0.10662101209163666,Miss,45+2:56,Right footed
+1,0.08087627589702606,Miss,45+3:55,Left footed
+0,0.052583690732717514,Miss,61:15,Header
+0,0.04738527163863182,Miss,23:05,Left footed
+1,0.04019341245293617,Miss,82:56,Right footed
+1,0.03997352346777916,Miss,45+8:38,Header
+0,0.034198686480522156,Miss,83:14,Right footed
+0,0.032803528010845184,Miss,90+7:37,Left footed
+1,0.03245087340474129,Miss,74:16,Left footed
+0,0.02804073877632618,Miss,45+6:45,Right footed
+1,0.027135644108057022,Miss,5:51,Left footed
+0,0.024523796513676643,Miss,45+2:09,Right footed
+0,0.024211734533309937,Miss,45+4:16,Right footed
+0,0.018774472177028656,Miss,70:30,Right footed

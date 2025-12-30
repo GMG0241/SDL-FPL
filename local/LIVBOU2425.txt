@@ -1,0 +1,38 @@
+0,0.2711488604545593,Miss,58:21,Left footed,Mohamed Salah
+1,0.2417815774679184,Miss,19:09,Left footed,A. Semenyo
+0,0.2384878545999527,Goal,27:58,Left footed,L. Díaz
+0,0.2064572274684906,Miss,21:25,Right footed,L. Díaz
+1,0.18134160339832306,Miss,82:20,Header,L. Sinisterra
+0,0.1659470945596695,Miss,58:26,Right footed,Mohamed Salah
+0,0.15176929533481598,Miss,77:31,Left footed,F. Chiesa
+0,0.14429019391536713,Miss,14:28,Left footed,D. Núñez
+0,0.14020925760269165,Miss,84:18,Right footed,C. Jones
+0,0.12559878826141357,Goal,25:59,Right footed,L. Díaz
+0,0.10078757256269455,Miss,12:12,Left footed,Mohamed Salah
+0,0.09979628771543503,Miss,66:47,Right footed,D. Núñez
+1,0.09308507293462753,Miss,79:43,Right footed,L. Sinisterra
+0,0.08429431915283203,Miss,5:55,Left footed,A. Robertson
+1,0.07696694880723953,Miss,88:44,Right footed,A. Scott
+0,0.07344884425401688,Miss,90+2:06,Right footed,C. Gakpo
+0,0.07122313231229782,Miss,39:06,Left footed,Mohamed Salah
+1,0.06974576413631439,Miss,3:32,Right footed,J. Kluivert
+0,0.06230888143181801,Goal,36:46,Left footed,D. Núñez
+1,0.05094224959611893,Miss,87:45,Right footed,L. Sinisterra
+1,0.04699458181858063,Miss,29:44,Right footed,J. Kluivert
+1,0.04670977592468262,Miss,53:45,Left footed,A. Semenyo
+1,0.039314154535532,Miss,79:41,Right footed,E. Ünal
+0,0.03851911053061485,Miss,11:34,Right footed,D. Szoboszlai
+1,0.03737030550837517,Miss,31:28,Right footed,A. Semenyo
+1,0.036633528769016266,Miss,76:27,Header,Dean Huijsen
+0,0.0281266700476408,Miss,87:03,Header,A. Mac Allister
+1,0.027500923722982407,Miss,81:46,Left footed,L. Sinisterra
+1,0.026785627007484436,Miss,49:20,Right footed,A. Semenyo
+0,0.02310841716825962,Miss,7:29,Right footed,L. Díaz
+1,0.022119294852018356,Miss,90+3:13,Left footed,A. Scott
+0,0.021108996123075485,Miss,55:53,Right footed,R. Gravenberch
+1,0.020895900204777718,Miss,36:07,Right footed,J. Kluivert
+1,0.020699813961982727,Miss,33:26,Header,Evanilson
+1,0.01922823302447796,Miss,75:32,Left footed,M. Tavernier
+1,0.018517550081014633,Miss,30:51,Left footed,Evanilson
+0,0.009296831674873829,Miss,72:28,Right footed,F. Chiesa
+1,0.006878677289932966,Miss,23:30,Left footed,M. Kerkez

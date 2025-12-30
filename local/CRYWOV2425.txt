@@ -1,0 +1,26 @@
+1,0.5553327798843384,Goal,23:13,Header,E. Agbadou
+0,0.5288870930671692,Goal,31:58,Right footed,E. Nketiah
+1,0.23809367418289185,Goal,61:19,Header,J. Strand Larsen
+0,0.220077246427536,Goal,85:07,Right footed,E. Eze
+0,0.21799084544181824,Miss,90+4:57,Right footed,J. Mateta
+0,0.1445327252149582,Goal,26:07,Right footed,E. Nketiah
+0,0.13490118086338043,Miss,25:26,Header,I. Sarr
+1,0.11507628113031387,Miss,57:33,Left footed,J. Bellegarde
+1,0.1140172928571701,Miss,60:15,Right footed,Rodrigo Gomes
+1,0.10017750412225723,Miss,81:05,Header,Matheus Cunha
+0,0.09393421560525894,Miss,4:00,Header,I. Sarr
+1,0.07265576720237732,Miss,81:27,Header,Matheus Cunha
+0,0.06806523352861404,Miss,16:05,Left footed,B. Chilwell
+0,0.06578495353460312,Miss,33:58,Right footed,I. Sarr
+1,0.062332067638635635,Miss,76:18,Right footed,Gonçalo Guedes
+0,0.05548009276390076,Miss,90+3:51,Right footed,D. Muñoz
+0,0.048239193856716156,Miss,9:44,Left footed,B. Chilwell
+1,0.04795527458190918,Miss,45+1:53,Left footed,Gonçalo Guedes
+1,0.03695341572165489,Miss,79:42,Right footed,M. Munetsi
+0,0.03147265315055847,Goal,49:19,Left footed,B. Chilwell
+1,0.030328715220093727,Miss,67:43,Right footed,Matheus Cunha
+1,0.027008799836039543,Miss,45+2:52,Right footed,Gonçalo Guedes
+0,0.02396404929459095,Miss,71:42,Left footed,J. Devenny
+0,0.023494798690080643,Miss,90+4:20,Right footed,Matheus França
+0,0.020173916593194008,Miss,79:04,Right footed,Matheus França
+1,0.013640875928103924,Miss,76:39,Right footed,Gonçalo Guedes

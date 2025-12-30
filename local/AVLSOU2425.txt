@@ -1,0 +1,22 @@
+0,0.4909902811050415,Goal,23:30,Left footed,J. Durán
+0,0.46216917037963867,Miss,86:35,Right footed,R. Barkley
+0,0.26141026616096497,Miss,90+5:22,Left footed,J. McGinn
+0,0.1317550390958786,Miss,1:29,Header,Diego Carlos
+0,0.11271069198846817,Miss,82:58,Header,O. Watkins
+1,0.10205208510160446,Miss,15:54,Left footed,C. Archer
+0,0.1005648672580719,Miss,90+1:26,Left footed,O. Watkins
+1,0.09540842473506927,Miss,66:13,Left footed,C. Archer
+0,0.0900927409529686,Miss,81:20,Left footed,O. Watkins
+0,0.08610692620277405,Miss,82:13,Left footed,J. McGinn
+0,0.08512952923774719,Miss,34:35,Left footed,J. Durán
+0,0.07661183178424835,Miss,22:32,Left footed,J. McGinn
+0,0.07456254959106445,Miss,41:59,Right footed,M. Rogers
+0,0.07361339032649994,Miss,22:30,Left footed,J. Durán
+0,0.06985623389482498,Miss,59:31,Right footed,O. Watkins
+1,0.06883832812309265,Miss,8:09,Right footed,Mateus Fernandes
+1,0.06666385382413864,Miss,8:15,Left footed,R. Manning
+0,0.05134928226470947,Miss,12:05,Right footed,M. Rogers
+0,0.041479457169771194,Miss,60:14,Header,Pau Torres
+0,0.03643691912293434,Miss,61:43,Right footed,J. Philogene
+0,0.035819657146930695,Miss,70:06,Left footed,M. Rogers
+0,0.010336773470044136,Miss,42:02,Left footed,I. Maatsen

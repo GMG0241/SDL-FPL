@@ -1,0 +1,25 @@
+0,0.44797128438949585,Goal,86:16,Header,N. Milenković
+0,0.4261527955532074,Miss,59:27,Header,N. Domínguez
+0,0.19770072400569916,Goal,90+2:22,Left footed,A. Elanga
+1,0.18055935204029083,Miss,48:39,Header,E. Konsa
+0,0.11836319416761398,Miss,78:30,Header,M. Gibbs-White
+0,0.09436747431755066,Miss,30:26,Header,Murillo
+0,0.0785088911652565,Miss,60:21,Header,R. Yates
+0,0.07196379452943802,Miss,35:29,Right footed,C. Wood
+1,0.05722692236304283,Miss,38:01,Header,E. Konsa
+1,0.04995019733905792,Miss,90+7:50,Left footed,J. McGinn
+0,0.04585903510451317,Miss,66:48,Left footed,N. Domínguez
+0,0.04466675966978073,Miss,72:31,Right footed,E. Anderson
+0,0.040326591581106186,Miss,29:37,Right footed,E. Anderson
+1,0.03843355178833008,Goal,62:21,Header,J. Durán
+0,0.037537455558776855,Miss,90+2:07,Right footed,N. Williams
+0,0.035478997975587845,Miss,12:23,Header,N. Milenković
+0,0.03280516341328621,Miss,20:07,Right footed,R. Yates
+0,0.029201481491327286,Miss,56:09,Right footed,N. Williams
+0,0.028746826574206352,Miss,64:39,Right footed,M. Gibbs-White
+1,0.028143804520368576,Miss,44:38,Right footed,M. Cash
+0,0.02576826699078083,Miss,56:05,Right footed,C. Hudson-Odoi
+1,0.022162282839417458,Miss,42:03,Left footed,M. Rogers
+1,0.021641384810209274,Miss,53:29,Left footed,J. Durán
+0,0.021147552877664566,Miss,64:55,Right footed,N. Williams
+1,0.01763816550374031,Miss,17:44,Left footed,J. Durán

@@ -1,0 +1,27 @@
+0,0.42754486203193665,Goal,69:57,Left footed,Mohamed Salah
+0,0.42366740107536316,Goal,12:25,Left footed,L. Díaz
+0,0.3562701344490051,Miss,58:27,Right footed,Diogo Jota
+0,0.2533766031265259,Miss,46:38,Header,A. Robertson
+1,0.21633103489875793,Miss,31:03,Header,C. Nørgaard
+0,0.18403710424900055,Miss,63:36,Right footed,L. Díaz
+1,0.176662877202034,Miss,55:09,Header,N. Collins
+0,0.12860502302646637,Miss,46:37,Right footed,Diogo Jota
+0,0.11947914958000183,Miss,48:31,Right footed,L. Díaz
+0,0.09948033839464188,Miss,80:57,Header,I. Konaté
+0,0.09549170732498169,Miss,28:06,Right footed,T. Alexander-Arnold
+0,0.0914890244603157,Miss,18:11,Left footed,A. Robertson
+0,0.08646725118160248,Miss,20:18,Left footed,Mohamed Salah
+0,0.0853099673986435,Miss,61:05,Header,I. Konaté
+0,0.07675743103027344,Miss,64:22,Right footed,D. Szoboszlai
+0,0.07322204113006592,Miss,65:54,Left footed,Diogo Jota
+0,0.04762990027666092,Miss,51:56,Left footed,Diogo Jota
+1,0.04696226119995117,Miss,42:34,Right footed,K. Lewis-Potter
+0,0.0352107472717762,Miss,67:08,Left footed,Mohamed Salah
+1,0.034547772258520126,Miss,32:47,Right footed,M. Jensen
+1,0.03247665613889694,Miss,50:27,Left footed,B. Mbeumo
+0,0.027981726452708244,Miss,80:15,Right footed,C. Gakpo
+0,0.02221757359802723,Miss,59:05,Header,V. van Dijk
+1,0.01930483989417553,Miss,34:56,Left footed,N. Collins
+0,0.018977090716362,Miss,40:31,Left footed,T. Alexander-Arnold
+1,0.018731463700532913,Miss,11:21,Right footed,K. Lewis-Potter
+1,0.004994700197130442,Miss,51:18,Right footed,M. Roerslev

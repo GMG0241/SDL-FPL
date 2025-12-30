@@ -1,0 +1,29 @@
+1,0.32242220640182495,Goal,90:37,Right footed,R. Kone
+0,0.21902988851070404,Goal,22:09,Right footed,B. Thomas-Asante
+0,0.1970842480659485,Goal,36:29,Right footed,H. Wright
+0,0.10994291305541992,Goal,11:13,Right footed,H. Wright
+0,0.0957450345158577,Goal,34:35,Right footed,J. Rudoni
+0,0.09194513410329819,Miss,45+1:06,Right footed,M. van Ewijk
+1,0.07991847395896912,Miss,58:41,Right footed,R. Kolli
+1,0.054914988577365875,Miss,29:18,Left footed,K. Morgan
+0,0.046364203095436096,Miss,49:22,Right footed,B. Thomas
+0,0.04390633851289749,Goal,42:42,Right footed,J. Rudoni
+0,0.04257822781801224,Miss,74:41,Left footed,H. Wright
+0,0.04244916886091232,Miss,2:37,Right footed,V. Torp
+0,0.03847097232937813,Goal,46:18,Left footed,V. Torp
+1,0.03789670392870903,Miss,82:22,Header,S. Field
+1,0.03613455593585968,Miss,62:17,Right footed,J. Varane
+0,0.028771791607141495,Miss,48:14,Right footed,H. Wright
+0,0.028627969324588776,Miss,18:03,Right footed,H. Wright
+1,0.02628898248076439,Miss,25:07,Left footed,Esquerdinha
+1,0.024741651490330696,Miss,29:31,Right footed,J. Varane
+1,0.02471132203936577,Miss,31:33,Left footed,R. Kolli
+0,0.023190945386886597,Miss,19:13,Left footed,V. Torp
+0,0.023111898452043533,Miss,23:49,Left footed,J. Rudoni
+0,0.02183530665934086,Miss,59:01,Right footed,J. Rudoni
+0,0.01852327771484852,Miss,86:38,Right footed,V. Torp
+1,0.018249021843075752,Miss,90+2:52,Right footed,S. Cook
+1,0.015999512746930122,Miss,71:39,Right footed,A. Mbengue
+0,0.014324799180030823,Goal,65:35,Right footed,V. Torp
+0,0.013472958467900753,Miss,49:20,Right footed,V. Torp
+0,0.006780689582228661,Miss,78:04,Right footed,M. van Ewijk

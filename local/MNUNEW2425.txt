@@ -1,0 +1,22 @@
+1,0.5575283169746399,Miss,31:00,Right footed,S. Tonali
+1,0.5223619341850281,Goal,3:35,Header,A. Isak
+1,0.26632100343704224,Miss,16:45,Right footed,A. Isak
+1,0.2507823705673218,Goal,18:27,Other body part,Joelinton
+0,0.1744770109653473,Miss,58:50,Left footed,M. de Ligt
+0,0.15847481787204742,Miss,33:17,Left footed,R. Højlund
+1,0.14757908880710602,Miss,13:25,Left footed,A. Gordon
+0,0.13792766630649567,Miss,73:07,Header,L. Yoro
+0,0.12067240476608276,Miss,45+1:00,Right footed,Casemiro
+0,0.09931151568889618,Miss,58:15,Right footed,K. Mainoo
+0,0.05996812507510185,Miss,58:48,Header,H. Maguire
+0,0.048230595886707306,Miss,71:00,Left footed,A. Diallo
+1,0.04117976501584053,Miss,11:45,Right footed,A. Isak
+1,0.032349660992622375,Miss,10:16,Left footed,Joelinton
+0,0.027749426662921906,Miss,53:45,Right footed,A. Diallo
+1,0.02479700744152069,Miss,67:25,Left footed,L. Hall
+1,0.024312390014529228,Miss,25:32,Right footed,S. Tonali
+0,0.02160031720995903,Miss,50:38,Right footed,N. Mazraoui
+1,0.018784087151288986,Miss,25:09,Right footed,L. Hall
+1,0.016903793439269066,Miss,29:30,Left footed,L. Hall
+1,0.01676129922270775,Miss,29:50,Right footed,F. Schär
+0,0.015353715978562832,Miss,39:38,Right footed,Casemiro

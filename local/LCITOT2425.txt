@@ -1,0 +1,22 @@
+0,0.42840129137039185,Goal,56:41,Header,J. Vardy
+0,0.3745899498462677,Miss,69:45,Left footed,J. Vardy
+1,0.1925230771303177,Miss,90+8:47,Header,Richarlison
+1,0.19243663549423218,Miss,55:58,Left footed,R. Bentancur
+1,0.13867568969726562,Miss,54:25,Right footed,D. Solanke
+1,0.13497035205364227,Miss,7:21,Header,D. Solanke
+1,0.0936678871512413,Goal,28:28,Header,Pedro Porro
+1,0.08895454555749893,Miss,11:02,Header,C. Romero
+0,0.08412839472293854,Miss,90+2:02,Right footed,J. Justin
+1,0.07068945467472076,Miss,13:52,Header,D. Solanke
+0,0.062163256108760834,Miss,35:54,Right footed,B. De Cordova-Reid
+1,0.056376077234745026,Miss,83:33,Right footed,L. Bergvall
+1,0.047388575971126556,Miss,32:18,Right footed,B. Johnson
+1,0.044331274926662445,Miss,5:53,Header,R. Bentancur
+0,0.03892236948013306,Miss,90:26,Header,W. Ndidi
+0,0.0350201353430748,Miss,66:26,Right footed,W. Ndidi
+1,0.03449142351746559,Miss,6:00,Right footed,B. Johnson
+1,0.030664736405014992,Miss,17:47,Left footed,Son Heung-Min
+0,0.02209402061998844,Miss,85:27,Header,K. McAteer
+1,0.02137789875268936,Miss,50:22,Left footed,J. Maddison
+1,0.01804208755493164,Miss,22:21,Right footed,R. Bentancur
+1,0.01144047174602747,Miss,41:37,Left footed,P. Sarr

@@ -1,0 +1,26 @@
+0,0.8543354868888855,Goal,45+3:46,Header,Y. Wissa
+1,0.30949947237968445,Miss,87:24,Right footed,Beto
+0,0.27090945839881897,Miss,45+3:43,Header,B. Mbeumo
+1,0.24386809766292572,Goal,76:40,Header,J. O'Brien
+1,0.23531822860240936,Miss,41:19,Right footed,Beto
+0,0.11723974347114563,Miss,70:24,Header,N. Collins
+0,0.1098724976181984,Miss,17:24,Header,Y. Wissa
+0,0.10916633903980255,Miss,86:15,Left footed,M. Damsgaard
+0,0.10770682245492935,Miss,90+4:47,Left footed,V. Janelt
+1,0.10302839428186417,Miss,85:18,Right footed,C. Alcaraz
+1,0.09845074266195297,Miss,65:17,Left footed,J. Harrison
+1,0.09099490195512772,Miss,63:15,Right footed,C. Alcaraz
+1,0.0852992907166481,Miss,89:27,Left footed,C. Alcaraz
+1,0.0745871365070343,Miss,27:12,Right footed,Beto
+0,0.046263519674539566,Miss,18:30,Header,K. Ajer
+0,0.03620266541838646,Miss,45+3:01,Right footed,Y. Wissa
+0,0.03255556896328926,Miss,78:20,Left footed,B. Mbeumo
+1,0.028582556173205376,Miss,51:10,Right footed,J. Garner
+1,0.028577199205756187,Miss,65:37,Right footed,C. Alcaraz
+1,0.021373290568590164,Miss,45+5:12,Right footed,C. Alcaraz
+1,0.018365511670708656,Miss,3:20,Right footed,J. Garner
+1,0.018057938665151596,Miss,6:22,Right footed,I. Gueye
+0,0.015411869622766972,Miss,0:36,Right footed,K. Lewis-Potter
+1,0.013844105415046215,Miss,88:47,Header,J. Tarkowski
+0,0.012581033632159233,Miss,14:09,Right footed,M. Damsgaard
+0,0.007841367274522781,Miss,40:44,Right footed,N. Collins

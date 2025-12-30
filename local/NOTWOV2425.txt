@@ -1,0 +1,27 @@
+0,0.2456524819135666,Miss,63:56,Header,C. Wood
+1,0.2260006070137024,Miss,1:06,Right footed,R. Aït-Nouri
+1,0.1455933302640915,Miss,1:05,Left footed,R. Aït-Nouri
+1,0.14152637124061584,Miss,42:25,Right footed,Matheus Cunha
+0,0.12441879510879517,Miss,79:54,Right footed,N. Williams
+0,0.09311416000127792,Miss,20:28,Right footed,C. Wood
+0,0.0885315090417862,Miss,90+4:02,Left footed,R. Sosa
+0,0.08354455977678299,Miss,43:21,Right footed,C. Hudson-Odoi
+0,0.061412014067173004,Miss,90+4:42,Right footed,C. Wood
+1,0.055905088782310486,Miss,28:16,Right footed,João Gomes
+0,0.048575837165117264,Miss,55:55,Left footed,E. Anderson
+0,0.048154570162296295,Miss,84:09,Header,M. Gibbs-White
+1,0.0424259677529335,Miss,24:00,Right footed,Matheus Cunha
+0,0.0419282428920269,Miss,64:35,Right footed,M. Gibbs-White
+1,0.04185536503791809,Goal,11:55,Right footed,J. Bellegarde
+0,0.039584845304489136,Miss,70:12,Right footed,C. Wood
+0,0.03922313079237938,Miss,32:37,Right footed,M. Gibbs-White
+0,0.03466291353106499,Miss,55:34,Right footed,C. Hudson-Odoi
+1,0.032987285405397415,Miss,65:31,Right footed,T. Doyle
+1,0.03297913447022438,Miss,66:24,Right footed,Matheus Cunha
+0,0.03129067271947861,Goal,9:54,Header,C. Wood
+0,0.027790050953626633,Miss,78:25,Right footed,C. Hudson-Odoi
+1,0.02471909113228321,Miss,66:21,Right footed,J. Bellegarde
+1,0.021767210215330124,Miss,87:19,Right footed,Matheus Cunha
+0,0.017204293981194496,Miss,33:27,Right footed,A. Elanga
+0,0.013344107195734978,Miss,19:12,Left footed,O. Aina
+1,0.006395664997398853,Miss,90+3:23,Right footed,T. Doyle

@@ -1,0 +1,30 @@
+1,0.7071765661239624,Goal,76:51,Left footed,M. Guéhi
+0,0.6138208508491516,Goal,66:51,Right footed,J. Strand Larsen
+0,0.36263948678970337,Miss,47:43,Left footed,Pablo Sarabia
+1,0.25623825192451477,Miss,35:32,Header,D. Muñoz
+1,0.21509003639221191,Miss,31:17,Right footed,J. Mateta
+1,0.21003182232379913,Miss,5:03,Left footed,W. Hughes
+0,0.20870228111743927,Goal,71:40,Right footed,João Gomes
+1,0.1875714808702469,Miss,75:07,Left footed,I. Sarr
+1,0.13282115757465363,Miss,61:13,Right footed,I. Sarr
+1,0.12134164571762085,Miss,76:50,Header,D. Muñoz
+1,0.09283041954040527,Miss,26:20,Left footed,E. Nketiah
+1,0.09125382453203201,Miss,63:58,Right footed,I. Sarr
+1,0.08443130552768707,Miss,5:05,Right footed,D. Kamada
+0,0.07624604552984238,Miss,86:18,Left footed,Gonçalo Guedes
+1,0.06229379400610924,Goal,59:12,Right footed,T. Chalobah
+1,0.06156846508383751,Miss,70:47,Left footed,D. Kamada
+1,0.05765167996287346,Miss,70:45,Left footed,T. Mitchell
+1,0.056063178926706314,Miss,35:27,Right footed,J. Mateta
+0,0.05568726733326912,Miss,33:31,Right footed,Matheus Cunha
+1,0.053015243262052536,Miss,74:03,Left footed,I. Sarr
+0,0.050965745002031326,Miss,53:26,Right footed,Matheus Cunha
+0,0.050460085272789,Miss,89:27,Header,J. Strand Larsen
+0,0.04953395575284958,Miss,18:47,Right footed,R. Aït-Nouri
+1,0.0439891442656517,Miss,44:42,Right footed,J. Mateta
+1,0.03722589835524559,Miss,70:43,Header,J. Mateta
+1,0.030132099986076355,Miss,55:59,Right footed,E. Nketiah
+0,0.023904267698526382,Miss,90+4:07,Right footed,M. Lemina
+0,0.02267744578421116,Miss,7:09,Right footed,R. Aït-Nouri
+0,0.01359593030065298,Miss,53:30,Right footed,T. Doyle
+1,0.011964964680373669,Miss,31:15,Header,M. Guéhi

@@ -1,0 +1,36 @@
+1,0.6945337057113647,Miss,11:57,Right footed,R. Lewandowski
+1,0.354358971118927,Miss,11:58,Left footed,Lamine Yamal
+0,0.2182559072971344,Miss,49:43,Left footed,V. Pavlidis
+1,0.21780672669410706,Miss,11:55,Right footed,Dani Olmo
+0,0.1661934107542038,Miss,50:34,Right footed,F. Aursnes
+0,0.14418785274028778,Miss,76:00,Right footed,K. Aktürkoğlu
+0,0.11924087256193161,Miss,24:04,Right footed,O. Kökçü
+0,0.11788465827703476,Miss,68:44,Left footed,K. Aktürkoğlu
+0,0.1075974628329277,Miss,1:15,Right footed,L. Barreiro
+0,0.08705147355794907,Miss,42:45,Header,K. Aktürkoğlu
+1,0.07991847395896912,Miss,1:53,Right footed,Dani Olmo
+1,0.07712400704622269,Miss,8:37,Header,Pau Cubarsí
+0,0.07494495064020157,Miss,88:24,Header,Arthur Cabral
+0,0.06497199088335037,Miss,24:05,Header,V. Pavlidis
+0,0.06391305476427078,Miss,15:59,Left footed,V. Pavlidis
+0,0.06377747654914856,Miss,42:43,Left footed,L. Barreiro
+0,0.054690245538949966,Miss,87:59,Right footed,João Rêgo
+0,0.05277462676167488,Miss,29:22,Left footed,V. Pavlidis
+0,0.05256256088614464,Miss,58:13,Right footed,A. Schjelderup
+0,0.05092734470963478,Miss,0:16,Right footed,K. Aktürkoğlu
+0,0.04775378108024597,Miss,88:25,Right footed,Arthur Cabral
+1,0.04616266489028931,Miss,43:38,Right footed,Raphinha
+1,0.03980778902769089,Miss,6:03,Left footed,Lamine Yamal
+0,0.03978230804204941,Miss,0:42,Header,N. Otamendi
+0,0.03950406238436699,Miss,46:40,Right footed,O. Kökçü
+0,0.03771434351801872,Miss,66:53,Right footed,F. Aursnes
+1,0.03732055798172951,Miss,51:45,Right footed,Lamine Yamal
+0,0.03331400454044342,Miss,70:50,Left footed,V. Pavlidis
+1,0.030422236770391464,Goal,60:37,Left footed,Raphinha
+0,0.028948966413736343,Miss,62:45,Left footed,O. Kökçü
+1,0.02893933095037937,Miss,33:24,Left footed,Raphinha
+0,0.023319976404309273,Miss,87:40,Right footed,Renato Sanches
+0,0.023176074028015137,Miss,39:28,Right footed,V. Pavlidis
+0,0.021590951830148697,Miss,29:52,Right footed,O. Kökçü
+0,0.013930469751358032,Miss,74:24,Right footed,K. Aktürkoğlu
+0,0.01171974278986454,Miss,90+3:26,Right footed,Renato Sanches

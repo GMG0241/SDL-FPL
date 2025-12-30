@@ -1,0 +1,33 @@
+1,0.7884,Goal,49:42,Right footed,J. Kluivert
+0,0.561432957649231,Goal,12:03,Left footed,C. Palmer
+0,0.48730915784835815,Miss,43:21,Header,N. Jackson
+0,0.26912906765937805,Miss,32:38,Right footed,N. Jackson
+0,0.1772371083498001,Miss,43:22,Left footed,N. Jackson
+1,0.1591709852218628,Miss,36:25,Right footed,J. Kluivert
+1,0.14043939113616943,Miss,84:12,Left footed,J. Kluivert
+0,0.11776449531316757,Miss,36:41,Right footed,N. Jackson
+0,0.07977764308452606,Miss,23:01,Left footed,N. Madueke
+0,0.07875902950763702,Miss,68:40,Right footed,N. Jackson
+0,0.0726407840847969,Miss,59:07,Right footed,Marc Cucurella
+0,0.06995007395744324,Miss,9:11,Left footed,C. Palmer
+0,0.06540917605161667,Miss,28:57,Right footed,E. Fernández
+0,0.06351358443498611,Goal,90+4:11,Right footed,R. James
+0,0.05792661011219025,Miss,90+2:05,Right footed,João Félix
+0,0.05528169497847557,Miss,21:16,Right footed,J. Sancho
+0,0.052189916372299194,Miss,45:30,Right footed,Marc Cucurella
+0,0.051613565534353256,Miss,75:27,Left footed,E. Fernández
+0,0.04694309085607529,Miss,90+8:57,Header,L. Colwill
+0,0.04517307132482529,Miss,76:16,Left footed,N. Jackson
+0,0.040276311337947845,Miss,43:13,Right footed,N. Madueke
+0,0.03882213309407234,Miss,42:15,Right footed,J. Sancho
+0,0.037924911826848984,Miss,6:03,Left footed,C. Palmer
+1,0.030270462855696678,Miss,90+1:38,Right footed,J. Kluivert
+0,0.027067337185144424,Miss,64:19,Right footed,N. Madueke
+1,0.026551110669970512,Goal,67:11,Left footed,A. Semenyo
+0,0.023869795724749565,Miss,38:20,Left footed,C. Palmer
+0,0.022857461124658585,Miss,57:06,Right footed,N. Jackson
+1,0.021051624789834023,Miss,46:59,Header,I. Zabarnyi
+0,0.018582744523882866,Miss,90+2:16,Left footed,Marc Cucurella
+1,0.017769375815987587,Miss,61:25,Right footed,D. Brooks
+0,0.01441243290901184,Miss,64:53,Header,J. Acheampong
+0,0.01213881280273199,Miss,87:36,Header,T. Adarabioyo

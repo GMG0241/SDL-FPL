@@ -1,0 +1,15 @@
+0,0.19601795077323914,Miss,9:22,Left footed,M. Ødegaard
+0,0.1465291529893875,Miss,28:37,Left footed,M. Ødegaard
+0,0.12629789113998413,Miss,45:58,Left footed,B. Saka
+0,0.1144515722990036,Miss,46:45,Header,Mikel Merino
+0,0.10789196193218231,Miss,57:01,Left footed,B. Saka
+0,0.0976424589753151,Miss,16:45,Left footed,B. Saka
+0,0.09152509272098541,Miss,84:05,Right footed,Gabriel Jesus
+1,0.0874989852309227,Miss,5:46,Left footed,A. Doucouré
+0,0.0771026685833931,Miss,42:38,Left footed,Gabriel Martinelli
+0,0.07351327687501907,Miss,11:27,Left footed,M. Ødegaard
+0,0.06087304279208183,Miss,63:43,Header,K. Havertz
+0,0.05422558635473251,Miss,74:40,Other body part,Gabriel Jesus
+0,0.044650156050920486,Miss,7:31,Left footed,Gabriel Martinelli
+0,0.026028232648968697,Miss,42:51,Right footed,D. Rice
+1,0.004348327871412039,Miss,86:00,Left footed,V. Mykolenko

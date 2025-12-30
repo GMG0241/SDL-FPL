@@ -1,0 +1,22 @@
+1,0.3995211124420166,Miss,66:46,Left footed,J. Mateta
+1,0.2875109314918518,Goal,58:51,Left footed,J. Mateta
+1,0.19338098168373108,Miss,26:45,Header,M. Lacroix
+1,0.1789521425962448,Miss,35:47,Left footed,D. Muñoz
+0,0.11820123344659805,Miss,69:59,Header,L. Delap
+1,0.10320485383272171,Miss,37:37,Left footed,E. Eze
+1,0.08661852031946182,Miss,31:43,Header,M. Guéhi
+0,0.08101847022771835,Miss,44:22,Header,H. Clarke
+1,0.07991847395896912,Miss,35:31,Right footed,J. Mateta
+1,0.07773897051811218,Miss,31:50,Header,T. Chalobah
+1,0.0765824094414711,Miss,28:57,Right footed,C. Doucouré
+0,0.06564994156360626,Miss,46:44,Header,L. Delap
+0,0.06552867591381073,Miss,6:25,Header,L. Delap
+0,0.06521893292665482,Miss,43:40,Right footed,W. Burns
+1,0.058151256293058395,Miss,48:07,Left footed,E. Eze
+1,0.04885159805417061,Miss,22:38,Right footed,C. Doucouré
+0,0.047130268067121506,Miss,79:57,Right footed,Sam Morsy
+1,0.03127354755997658,Miss,28:53,Right footed,E. Eze
+1,0.021999739110469818,Miss,63:43,Right footed,J. Lerma
+0,0.020883893594145775,Miss,58:34,Right footed,L. Delap
+0,0.016960009932518005,Miss,53:42,Right footed,D. O'Shea
+0,0.00788178388029337,Miss,85:44,Header,J. Greaves

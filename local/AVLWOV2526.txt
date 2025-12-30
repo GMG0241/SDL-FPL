@@ -1,0 +1,25 @@
+0,0.30006545782089233,Miss,69:49,Left footed,D. Malen
+1,0.11690499633550644,Miss,45:02,Right footed,J. Strand Larsen
+0,0.08662991970777512,Miss,69:43,Right footed,D. Malen
+0,0.08339953422546387,Miss,32:27,Right footed,D. Malen
+0,0.0582394115626812,Miss,83:55,Left footed,L. Digne
+0,0.057510100305080414,Goal,66:41,Left footed,B. Kamara
+1,0.05470682680606842,Miss,9:32,Right footed,J. Arias
+0,0.05398404225707054,Miss,2:19,Right footed,Pau Torres
+0,0.05093099921941757,Miss,50:53,Right footed,D. Malen
+0,0.046290017664432526,Miss,20:25,Header,Y. Tielemans
+1,0.04238540679216385,Miss,45:49,Header,Y. Mosquera
+1,0.040450677275657654,Miss,45:52,Right footed,J. Arias
+0,0.03735024109482765,Miss,56:28,Left footed,M. Rogers
+1,0.03705132007598877,Miss,90+5:25,Right footed,João Gomes
+1,0.03602643683552742,Miss,40:26,Right footed,J. Bellegarde
+0,0.03259022533893585,Miss,0:39,Right footed,D. Malen
+0,0.030917495489120483,Miss,18:02,Right footed,M. Cash
+0,0.029559314250946045,Miss,73:40,Left footed,J. McGinn
+1,0.02850993163883686,Miss,72:22,Header,E. Agbadou
+1,0.028271617367863655,Miss,90+6:02,Right footed,M. Mané
+0,0.020347341895103455,Miss,90+6:25,Right footed,M. Rogers
+0,0.0178521741181612,Miss,22:25,Right footed,M. Rogers
+0,0.01614575833082199,Miss,37:56,Right footed,Y. Tielemans
+0,0.015353629365563393,Miss,19:04,Right footed,Y. Tielemans
+1,0.014112578704953194,Miss,45:54,Right footed,Y. Mosquera

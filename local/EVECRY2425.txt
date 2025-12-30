@@ -1,0 +1,25 @@
+0,0.2612159550189972,Miss,13:34,Header,J. Tarkowski
+0,0.2231469303369522,Miss,21:39,Header,D. Calvert-Lewin
+1,0.17580486834049225,Goal,9:45,Right footed,M. Guéhi
+1,0.1687440574169159,Miss,25:17,Right footed,D. Muñoz
+1,0.15532442927360535,Miss,81:35,Header,M. Lacroix
+0,0.12641309201717377,Miss,36:41,Header,D. McNeil
+0,0.11709404736757278,Miss,66:51,Header,D. Calvert-Lewin
+0,0.10316067188978195,Goal,53:29,Left footed,D. McNeil
+1,0.054299864917993546,Miss,77:36,Left footed,E. Eze
+1,0.05260629951953888,Miss,63:33,Right footed,E. Nketiah
+1,0.05107022076845169,Miss,9:00,Right footed,E. Eze
+1,0.04534570500254631,Miss,77:38,Left footed,J. Schlupp
+1,0.044342294335365295,Miss,71:49,Right footed,E. Eze
+1,0.03532673418521881,Miss,25:46,Left footed,E. Nketiah
+1,0.031785618513822556,Miss,25:45,Left footed,E. Eze
+1,0.026721129193902016,Miss,42:40,Right footed,E. Eze
+1,0.02469298057258129,Miss,25:16,Header,J. Lerma
+0,0.02357068844139576,Goal,46:15,Left footed,D. McNeil
+1,0.021508948877453804,Miss,67:31,Header,J. Mateta
+1,0.02112949639558792,Miss,9:03,Right footed,A. Wharton
+0,0.019851556047797203,Miss,85:28,Right footed,I. Gueye
+0,0.015353715978562832,Miss,19:58,Left footed,V. Mykolenko
+1,0.014888791367411613,Miss,90+3:33,Header,D. Henderson
+1,0.01181819848716259,Miss,42:19,Left footed,A. Wharton
+1,0.01024701539427042,Miss,90:13,Header,D. Muñoz

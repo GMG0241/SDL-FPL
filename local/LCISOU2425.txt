@@ -1,0 +1,22 @@
+0,0.3138963580131531,Goal,16:02,Left footed,J. Vardy
+1,0.21306219696998596,Miss,54:36,Header,P. Onuachu
+0,0.1380360871553421,Miss,59:22,Left footed,L. Thomas
+0,0.12727925181388855,Miss,36:04,Header,W. Ndidi
+0,0.09581976383924484,Miss,82:10,Right footed,B. El Khannouss
+1,0.08916207402944565,Miss,5:29,Header,T. Harwood-Bellis
+0,0.086971715092659,Miss,39:18,Right footed,L. Thomas
+0,0.08579503744840622,Miss,43:21,Right footed,J. Ayew
+0,0.08013644814491272,Miss,71:07,Right footed,W. Ndidi
+0,0.06806483864784241,Miss,45+2:28,Right footed,B. El Khannouss
+0,0.06261246651411057,Miss,45+1:44,Right footed,K. McAteer
+1,0.06022680923342705,Miss,13:36,Left footed,R. Stewart
+1,0.05895717442035675,Miss,66:25,Header,L. Ugochukwu
+0,0.05851054564118385,Miss,75:48,Right footed,J. Vardy
+0,0.058037664741277695,Miss,62:34,Right footed,B. El Khannouss
+1,0.054848652333021164,Miss,90+2:06,Header,P. Onuachu
+0,0.0383506640791893,Miss,52:34,Right footed,B. El Khannouss
+1,0.031172331422567368,Miss,45+10:25,Right footed,Mateus Fernandes
+0,0.02990994043648243,Goal,43:23,Right footed,J. Ayew
+0,0.02242712490260601,Miss,7:19,Right footed,B. El Khannouss
+1,0.01976495422422886,Miss,4:31,Right footed,K. Sulemana
+1,0.004032077733427286,Miss,83:05,Left footed,R. Manning

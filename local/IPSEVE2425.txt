@@ -1,0 +1,24 @@
+1,0.5492368936538696,Miss,6:48,Right footed,D. Calvert-Lewin
+1,0.5067260265350342,Miss,90+3:48,Right footed,D. Calvert-Lewin
+0,0.2786388695240021,Miss,4:20,Right footed,J. Clarke
+1,0.22795963287353516,Goal,16:58,Right footed,I. Ndiaye
+0,0.1956358402967453,Miss,90:57,Header,J. Taylor
+0,0.14824481308460236,Miss,79:48,Left footed,C. Chaplin
+0,0.13531072437763214,Miss,45:32,Right footed,K. Phillips
+1,0.13373823463916779,Miss,51:18,Left footed,D. Calvert-Lewin
+0,0.09672217816114426,Miss,63:23,Left footed,L. Delap
+0,0.09417325258255005,Miss,41:40,Header,D. O'Shea
+0,0.06814321875572205,Miss,74:23,Right footed,L. Delap
+0,0.06772151589393616,Miss,59:24,Header,C. Burgess
+1,0.06543293595314026,Miss,21:02,Right footed,D. Calvert-Lewin
+1,0.05885987728834152,Miss,54:14,Left footed,I. Ndiaye
+1,0.055505551397800446,Miss,45+2:50,Right footed,A. Young
+0,0.0551922470331192,Miss,24:42,Left footed,O. Hutchinson
+1,0.05467389151453972,Miss,86:20,Header,D. Calvert-Lewin
+0,0.03757893666625023,Miss,77:33,Header,C. Burgess
+0,0.03336459398269653,Miss,10:21,Right footed,L. Delap
+1,0.031799931079149246,Goal,39:53,Left footed,M. Keane
+1,0.030303506180644035,Miss,36:53,Left footed,D. McNeil
+1,0.021717078983783722,Miss,60:24,Left footed,D. McNeil
+0,0.021106557920575142,Miss,89:01,Right footed,J. Taylor
+0,0.02095864713191986,Miss,76:45,Left footed,O. Hutchinson

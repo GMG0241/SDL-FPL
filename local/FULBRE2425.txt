@@ -1,0 +1,31 @@
+1,0.3437562584877014,Miss,90+5:09,Right footed,Fábio Carvalho
+0,0.16955827176570892,Miss,5:12,Left footed,R. Nelson
+1,0.13751056790351868,Miss,90+5:13,Right footed,Y. Yarmoliuk
+0,0.10344147682189941,Miss,42:31,Header,E. Smith Rowe
+0,0.09870446473360062,Goal,90+6:47,Header,H. Wilson
+0,0.0973326563835144,Miss,89:24,Left footed,H. Wilson
+0,0.09199612587690353,Miss,15:38,Right footed,E. Smith Rowe
+1,0.08358681201934814,Miss,44:21,Left footed,V. Janelt
+1,0.07189476490020752,Miss,58:27,Right footed,K. Lewis-Potter
+0,0.06830250471830368,Miss,75:27,Right footed,Adama Traoré
+0,0.0649181380867958,Miss,84:47,Header,J. Andersen
+0,0.06292137503623962,Miss,86:48,Left footed,Adama Traoré
+0,0.05828450247645378,Goal,90+1:30,Left footed,H. Wilson
+0,0.05694015696644783,Miss,1:33,Right footed,R. Jiménez
+0,0.05062918737530708,Miss,32:00,Right footed,Andreas Pereira
+0,0.0465526208281517,Miss,86:56,Right footed,Adama Traoré
+0,0.03919827565550804,Miss,68:49,Right footed,K. Tete
+0,0.03917098045349121,Miss,48:45,Right footed,A. Iwobi
+0,0.03719092532992363,Miss,20:02,Right footed,R. Nelson
+0,0.03442799672484398,Miss,5:10,Right footed,R. Nelson
+0,0.03009290248155594,Miss,5:19,Right footed,Andreas Pereira
+0,0.027399541810154915,Miss,54:55,Right footed,A. Iwobi
+0,0.026760073378682137,Miss,83:31,Header,T. Castagne
+0,0.026458702981472015,Miss,86:44,Right footed,T. Castagne
+0,0.026409029960632324,Miss,27:10,Right footed,R. Jiménez
+1,0.026247482746839523,Goal,23:28,Left footed,V. Janelt
+0,0.026136105880141258,Miss,69:56,Right footed,C. Bassey
+0,0.021509671583771706,Miss,67:43,Left footed,A. Iwobi
+0,0.02113332785665989,Miss,88:36,Left footed,C. Bassey
+0,0.016636963933706284,Miss,66:28,Right footed,K. Tete
+0,0.016233691945672035,Miss,73:08,Right footed,J. Andersen

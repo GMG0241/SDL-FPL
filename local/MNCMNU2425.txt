@@ -1,0 +1,20 @@
+1,0.7884,Goal,87:11,Right footed,Bruno Fernandes
+1,0.5428211092948914,Goal,89:06,Left footed,A. Diallo
+0,0.47587475180625916,Miss,22:57,Header,Rúben Dias
+1,0.4559827446937561,Miss,73:27,Right footed,Bruno Fernandes
+0,0.14043939113616943,Miss,75:47,Left footed,E. Haaland
+0,0.07604151964187622,Miss,45+3:03,Left footed,P. Foden
+0,0.0759136751294136,Goal,35:55,Header,J. Gvardiol
+1,0.0746871754527092,Miss,83:05,Header,K. Mainoo
+1,0.05945178493857384,Miss,61:43,Header,A. Diallo
+0,0.05274542421102524,Miss,22:26,Left footed,P. Foden
+0,0.04420464113354683,Miss,66:46,Left footed,K. De Bruyne
+1,0.03852143511176109,Miss,49:12,Left footed,A. Diallo
+0,0.037062641233205795,Miss,77:05,Left footed,P. Foden
+1,0.03286590799689293,Miss,34:11,Left footed,A. Diallo
+1,0.03165218234062195,Miss,31:32,Left footed,Lisandro Martínez
+1,0.02596062421798706,Miss,39:45,Header,M. de Ligt
+1,0.02526693604886532,Miss,31:36,Right footed,M. Ugarte
+0,0.021390721201896667,Miss,20:26,Left footed,P. Foden
+0,0.0163095835596323,Miss,35:05,Right footed,J. Doku
+0,0.011971702799201012,Miss,42:00,Right footed,K. De Bruyne

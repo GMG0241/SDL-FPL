@@ -1,0 +1,25 @@
+1,0.7884,Goal,50:38,Right footed,R. Jiménez
+0,0.1595218926668167,Miss,18:07,Right footed,T. Awoniyi
+0,0.14612290263175964,Miss,62:57,Right footed,C. Hudson-Odoi
+0,0.13638746738433838,Miss,24:41,Header,N. Milenković
+0,0.12673737108707428,Miss,86:31,Header,Jota Silva
+1,0.08394995331764221,Miss,31:41,Right footed,E. Smith Rowe
+0,0.06750204414129257,Miss,62:37,Left footed,A. Elanga
+1,0.06714973598718643,Miss,45+1:15,Right footed,E. Smith Rowe
+1,0.06205412745475769,Miss,26:38,Left footed,R. Jiménez
+1,0.05979242920875549,Miss,31:38,Header,J. Andersen
+1,0.05653642117977142,Miss,72:45,Right footed,R. Jiménez
+1,0.047128353267908096,Miss,62:12,Left footed,Andreas Pereira
+0,0.04575331509113312,Miss,35:55,Right footed,Álex Moreno
+1,0.03747570142149925,Miss,45+1:17,Right footed,Adama Traoré
+0,0.033237524330616,Miss,12:43,Right footed,E. Anderson
+1,0.028998011723160744,Miss,60:16,Right footed,A. Iwobi
+0,0.02575700543820858,Miss,54:22,Right footed,N. Domínguez
+1,0.024983596056699753,Miss,23:00,Left footed,A. Robinson
+1,0.0248769149184227,Miss,72:39,Left footed,K. Tete
+1,0.02163098379969597,Miss,70:55,Right footed,R. Nelson
+0,0.02000012807548046,Miss,90+4:41,Right footed,R. Yates
+1,0.019140202552080154,Miss,2:14,Left footed,A. Robinson
+0,0.017654962837696075,Miss,78:37,Right footed,Jota Silva
+0,0.017536155879497528,Miss,42:37,Right footed,J. Ward-Prowse
+1,0.011809363961219788,Miss,90+1:42,Left footed,C. Bassey

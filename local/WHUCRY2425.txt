@@ -1,0 +1,19 @@
+1,0.7884,Goal,88:13,Right footed,J. Mateta
+1,0.11574941128492355,Goal,47:19,Right footed,J. Mateta
+1,0.11427325010299683,Miss,60:14,Left footed,M. Lacroix
+0,0.08012726157903671,Miss,44:01,Right footed,Lucas Paquetá
+0,0.07598619163036346,Miss,84:39,Header,M. Kudus
+1,0.06071493774652481,Miss,78:09,Right footed,E. Nketiah
+1,0.056797295808792114,Miss,90+4:32,Right footed,E. Nketiah
+1,0.04789503663778305,Miss,28:49,Right footed,D. Kamada
+0,0.041635677218437195,Miss,7:57,Right footed,A. Wan-Bissaka
+1,0.032331790775060654,Miss,2:19,Right footed,E. Eze
+0,0.030476998537778854,Miss,69:18,Left footed,D. Ings
+0,0.029664667323231697,Miss,84:28,Header,L. Orford
+1,0.025508418679237366,Miss,24:06,Header,C. Richards
+1,0.024175962433218956,Miss,11:01,Right footed,J. Mateta
+1,0.02247702330350876,Miss,42:33,Right footed,D. Kamada
+1,0.015777073800563812,Miss,54:53,Right footed,E. Eze
+0,0.012844271026551723,Miss,19:20,Right footed,E. Álvarez
+1,0.01173641812056303,Miss,78:17,Left footed,J. Devenny
+0,0.010582269169390202,Miss,69:27,Right footed,E. Álvarez

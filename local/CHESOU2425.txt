@@ -1,0 +1,26 @@
+0,0.6054239869117737,Miss,22:18,Left footed,C. Palmer
+0,0.36695194244384766,Miss,33:35,Left footed,C. Palmer
+0,0.365812748670578,Goal,77:09,Left footed,Marc Cucurella
+1,0.3199189305305481,Miss,66:53,Header,A. Bella-Kotchap
+0,0.23417046666145325,Goal,23:02,Header,C. Nkunku
+1,0.14648766815662384,Miss,31:40,Header,P. Onuachu
+0,0.1439208835363388,Goal,43:25,Header,L. Colwill
+1,0.12671439349651337,Miss,80:00,Right footed,R. Manning
+0,0.10631481558084488,Miss,72:07,Right footed,C. Nkunku
+0,0.08593488484621048,Miss,20:51,Left footed,C. Palmer
+0,0.08555968850851059,Miss,55:53,Left footed,C. Palmer
+0,0.07546332478523254,Miss,88:07,Right footed,E. Fernández
+0,0.07352682948112488,Miss,53:53,Left footed,C. Palmer
+0,0.07106984406709671,Miss,68:34,Right footed,T. George
+0,0.06429679691791534,Goal,35:58,Left footed,Pedro Neto
+1,0.05910630524158478,Miss,13:05,Right footed,P. Onuachu
+0,0.05620796978473663,Miss,89:27,Header,S. Mheuka
+0,0.04772470146417618,Miss,90+1:16,Left footed,C. Palmer
+0,0.04496372863650322,Miss,50:11,Header,C. Nkunku
+0,0.03836924582719803,Miss,52:42,Right footed,C. Nkunku
+0,0.037979405373334885,Miss,22:59,Header,T. Adarabioyo
+0,0.035193055868148804,Miss,81:59,Left footed,C. Palmer
+0,0.025688769295811653,Miss,72:12,Right footed,M. Caicedo
+1,0.02450386807322502,Miss,15:29,Header,P. Onuachu
+1,0.023989539593458176,Miss,76:52,Left footed,R. Manning
+1,0.022415945306420326,Miss,65:10,Right footed,Mateus Fernandes

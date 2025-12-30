@@ -1,0 +1,38 @@
+0,0.5424641966819763,Goal,68:20,Right footed,Y. Wissa
+1,0.4843261241912842,Miss,6:22,Other body part,J. Aribo
+0,0.3986186683177948,Goal,64:16,Left footed,B. Mbeumo
+0,0.3325183391571045,Goal,42:05,Left footed,B. Mbeumo
+0,0.2814147472381592,Miss,22:58,Right footed,Y. Wissa
+1,0.22741860151290894,Miss,36:58,Header,J. Stephens
+0,0.1690163016319275,Miss,73:52,Right footed,Y. Wissa
+0,0.157133087515831,Miss,52:44,Header,K. Schade
+0,0.12810884416103363,Miss,1:03,Right footed,M. Damsgaard
+1,0.1213398203253746,Miss,90+2:41,Right footed,Mateus Fernandes
+0,0.11687751859426498,Miss,85:11,Right footed,C. Nørgaard
+0,0.10790751129388809,Miss,63:34,Right footed,C. Nørgaard
+0,0.10521139204502106,Miss,62:54,Right footed,M. Damsgaard
+1,0.0874251127243042,Miss,90+3:51,Right footed,F. Downes
+1,0.08742311596870422,Miss,79:28,Right footed,B. Brereton
+1,0.08337315171957016,Goal,90+4:01,Left footed,Y. Sugawara
+0,0.07642271369695663,Miss,45:49,Left footed,M. Jensen
+0,0.07632884383201599,Miss,90:27,Right footed,Fábio Carvalho
+0,0.07424254715442657,Miss,42:03,Left footed,K. Schade
+1,0.07069330662488937,Miss,90+3:30,Right footed,A. Lallana
+0,0.05946965143084526,Miss,15:08,Right footed,Y. Wissa
+1,0.056615982204675674,Miss,44:00,Right footed,Y. Sugawara
+0,0.0550374835729599,Miss,63:39,Left footed,B. Mbeumo
+1,0.053781114518642426,Miss,60:22,Header,Mateus Fernandes
+1,0.04792989417910576,Miss,8:06,Right footed,A. Armstrong
+1,0.04777698591351509,Miss,7:03,Header,B. Brereton
+1,0.04414307326078415,Miss,89:35,Right footed,Y. Sugawara
+0,0.044010091572999954,Miss,34:54,Right footed,C. Nørgaard
+1,0.03875628113746643,Miss,5:32,Right footed,K. Walker-Peters
+1,0.03503077104687691,Miss,77:41,Left footed,T. Dibling
+1,0.024543890729546547,Miss,4:10,Right footed,B. Brereton
+0,0.02358456514775753,Miss,14:40,Header,N. Collins
+1,0.020554788410663605,Miss,61:31,Right footed,B. Brereton
+0,0.019620569422841072,Miss,25:21,Right footed,Y. Wissa
+1,0.01903551071882248,Miss,66:04,Left footed,T. Dibling
+0,0.018986161798238754,Miss,39:38,Left footed,B. Mbeumo
+1,0.018190978094935417,Miss,45+2:45,Right footed,B. Brereton
+0,0.017525674775242805,Miss,29:33,Right footed,Y. Wissa

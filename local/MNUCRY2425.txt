@@ -1,0 +1,28 @@
+1,0.8785564303398132,Goal,63:38,Right footed,J. Mateta
+1,0.5598016977310181,Goal,88:37,Right footed,J. Mateta
+1,0.471871018409729,Miss,38:19,Left footed,J. Mateta
+1,0.4109414219856262,Miss,20:29,Header,I. Sarr
+0,0.18118040263652802,Miss,4:50,Right footed,A. Garnacho
+0,0.16743791103363037,Miss,50:14,Right footed,Bruno Fernandes
+0,0.12166577577590942,Miss,15:48,Header,H. Maguire
+1,0.10404747724533081,Miss,9:24,Header,D. Muñoz
+0,0.08655697107315063,Miss,72:36,Left footed,A. Diallo
+0,0.07606622576713562,Miss,14:46,Header,Diogo Dalot
+0,0.07523621618747711,Miss,5:28,Header,Diogo Dalot
+0,0.058135736733675,Miss,90+6:58,Header,R. Højlund
+0,0.05553403124213219,Miss,45:27,Left footed,Lisandro Martínez
+0,0.051889993250370026,Miss,53:56,Right footed,M. Ugarte
+1,0.051542941480875015,Miss,20:28,Left footed,T. Mitchell
+0,0.04401310905814171,Miss,13:17,Header,L. Yoro
+0,0.039821840822696686,Miss,14:56,Right footed,A. Garnacho
+0,0.03974776715040207,Miss,14:03,Left footed,Lisandro Martínez
+1,0.037776265293359756,Miss,16:27,Right footed,J. Lerma
+1,0.03701072186231613,Miss,17:41,Left footed,T. Mitchell
+0,0.034466423094272614,Miss,6:02,Right footed,K. Mainoo
+1,0.032339468598365784,Miss,63:35,Header,M. Lacroix
+0,0.03140270709991455,Miss,14:48,Right footed,Diogo Dalot
+1,0.026727037504315376,Miss,60:20,Right footed,J. Lerma
+0,0.02608969435095787,Miss,90+4:44,Right footed,A. Garnacho
+0,0.01971306838095188,Miss,90+1:07,Left footed,Bruno Fernandes
+1,0.016201861202716827,Miss,16:20,Right footed,M. Lacroix
+0,0.01586395502090454,Miss,51:07,Right footed,N. Mazraoui

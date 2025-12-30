@@ -1,0 +1,28 @@
+1,0.7884,Goal,68:43,Left footed,B. Mbeumo
+1,0.44473356008529663,Goal,5:42,Right footed,K. Schade
+1,0.4045883119106293,Miss,59:10,Right footed,Y. Wissa
+1,0.37767964601516724,Miss,73:57,Right footed,K. Lewis-Potter
+1,0.36803391575813293,Goal,90+1:16,Left footed,K. Lewis-Potter
+1,0.3405446708202362,Miss,22:44,Other body part,C. Nørgaard
+1,0.32786375284194946,Goal,90+3:46,Right footed,Y. Wissa
+1,0.2752080261707306,Miss,21:18,Right footed,Y. Wissa
+1,0.21686555445194244,Goal,61:51,Left footed,B. Mbeumo
+1,0.1897514909505844,Miss,86:51,Left footed,B. Mbeumo
+0,0.11938796192407608,Miss,37:03,Header,P. Onuachu
+1,0.11652245372533798,Miss,51:25,Right footed,Y. Wissa
+1,0.0890345349907875,Miss,14:16,Right footed,Y. Wissa
+1,0.08628282696008682,Miss,65:09,Left footed,B. Mbeumo
+1,0.07977764308452606,Miss,71:45,Right footed,K. Schade
+1,0.07739565521478653,Miss,51:26,Right footed,Y. Wissa
+1,0.07702039182186127,Miss,90:15,Right footed,Y. Yarmoliuk
+1,0.06819363683462143,Miss,50:16,Right footed,M. Roerslev
+1,0.062814861536026,Miss,24:56,Right footed,Y. Wissa
+0,0.04883972182869911,Miss,58:58,Right footed,K. Walker-Peters
+0,0.03957870975136757,Miss,79:58,Right footed,K. Walker-Peters
+1,0.03758794814348221,Miss,26:21,Left footed,M. Damsgaard
+1,0.028436897322535515,Miss,71:40,Right footed,Y. Wissa
+0,0.023353107273578644,Miss,41:40,Left footed,T. Dibling
+0,0.0196940079331398,Miss,77:29,Left footed,T. Dibling
+0,0.019183268770575523,Miss,45+1:58,Right footed,T. Harwood-Bellis
+0,0.012004165910184383,Miss,25:16,Right footed,K. Sulemana
+0,0.009398204274475574,Miss,36:51,Right footed,K. Walker-Peters

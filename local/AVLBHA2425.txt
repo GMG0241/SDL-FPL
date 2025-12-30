@@ -1,0 +1,33 @@
+0,0.7884,Goal,35:55,Right footed,O. Watkins
+1,0.3142504394054413,Goal,11:54,Right footed,S. Adingra
+0,0.15466414391994476,Miss,24:58,Right footed,L. Bailey
+1,0.15231487154960632,Goal,80:50,Right footed,T. Lamptey
+1,0.12448727339506149,Miss,90+1:14,Left footed,M. O'Riley
+1,0.12046588212251663,Miss,66:52,Right footed,João Pedro
+1,0.11347586661577225,Miss,88:04,Left footed,G. Rutter
+0,0.09225717931985855,Miss,45+5:09,Left footed,L. Bailey
+0,0.08692014217376709,Goal,46:13,Right footed,M. Rogers
+0,0.07607335597276688,Miss,44:10,Header,O. Watkins
+1,0.0647469237446785,Miss,87:23,Left footed,M. O'Riley
+0,0.06422120332717896,Miss,70:44,Right footed,L. Bailey
+0,0.06050926074385643,Miss,45+9:51,Right footed,O. Watkins
+0,0.05422252044081688,Miss,90+5:32,Left footed,O. Watkins
+0,0.05419359728693962,Miss,64:33,Right footed,Y. Tielemans
+0,0.049371138215065,Miss,45+10:33,Header,O. Watkins
+1,0.04931178689002991,Miss,79:38,Left footed,Y. Minteh
+0,0.04668616130948067,Miss,40:48,Left footed,Y. Tielemans
+0,0.04512001574039459,Miss,85:56,Header,T. Mings
+1,0.04362902417778969,Miss,27:20,Left footed,C. Baleba
+0,0.04222569614648819,Miss,60:13,Header,O. Watkins
+1,0.036882318556308746,Miss,26:46,Header,J. van Hecke
+1,0.033841781318187714,Miss,25:59,Right footed,J. Enciso
+1,0.033064521849155426,Miss,45+3:13,Right footed,João Pedro
+0,0.03293004259467125,Miss,45+8:51,Left footed,L. Bailey
+0,0.03289308771491051,Miss,20:34,Right footed,B. Kamara
+0,0.03247269243001938,Miss,50:42,Left footed,L. Bailey
+1,0.028929151594638824,Miss,63:48,Left footed,João Pedro
+0,0.02813946269452572,Miss,83:52,Left footed,M. Rogers
+0,0.020177043974399567,Miss,45+4:14,Left footed,L. Bailey
+1,0.019093157723546028,Miss,74:43,Right footed,C. Baleba
+0,0.013273712247610092,Miss,21:41,Right footed,L. Bailey
+0,0.004494469612836838,Miss,9:55,Left footed,Pau Torres

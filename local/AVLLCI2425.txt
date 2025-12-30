@@ -1,0 +1,17 @@
+0,0.3465878963470459,Miss,83:26,Left footed,O. Watkins
+0,0.2916627526283264,Miss,83:24,Right footed,E. Buendía
+0,0.23004229366779327,Goal,75:59,Left footed,L. Bailey
+0,0.16998855769634247,Miss,86:51,Right footed,E. Buendía
+1,0.15194666385650635,Miss,62:56,Left footed,J. Vardy
+1,0.13264523446559906,Goal,62:59,Left footed,S. Mavididi
+0,0.10458337515592575,Miss,13:18,Right footed,O. Watkins
+1,0.09369205683469772,Miss,48:19,Right footed,S. Mavididi
+0,0.08175133913755417,Goal,57:08,Right footed,R. Barkley
+0,0.07991847395896912,Miss,78:37,Left footed,E. Buendía
+0,0.0705081894993782,Miss,50:32,Right footed,R. Barkley
+0,0.06663299351930618,Miss,46:42,Left footed,Y. Tielemans
+1,0.049433983862400055,Miss,33:56,Right footed,B. El Khannouss
+0,0.04379429295659065,Miss,83:20,Right footed,L. Bailey
+0,0.0406646691262722,Miss,45+2:08,Right footed,M. Cash
+0,0.01642882451415062,Miss,36:33,Right footed,Y. Tielemans
+0,0.01583532616496086,Miss,56:57,Left footed,L. Digne

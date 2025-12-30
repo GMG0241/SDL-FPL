@@ -1,0 +1,25 @@
+0,0.5388011336326599,Goal,6:48,Left footed,J. Strand Larsen
+1,0.25574392080307007,Goal,90+4:34,Header,J. Stones
+0,0.20363229513168335,Miss,18:31,Right footed,Nélson Semedo
+1,0.17237789928913116,Miss,8:35,Right footed,Bernardo Silva
+1,0.15558677911758423,Miss,62:41,Right footed,İ. Gündoğan
+1,0.13619349896907806,Miss,10:31,Header,İ. Gündoğan
+1,0.12563224136829376,Miss,69:55,Right footed,Savinho
+1,0.1232411339879036,Miss,64:16,Right footed,İ. Gündoğan
+1,0.09092938154935837,Miss,82:25,Left footed,Bernardo Silva
+1,0.06261042505502701,Miss,45+1:24,Left footed,Savinho
+1,0.05593748018145561,Miss,14:46,Left footed,Savinho
+1,0.046768251806497574,Miss,14:48,Left footed,J. Doku
+1,0.04542781785130501,Miss,88:52,Left footed,Bernardo Silva
+1,0.0424259677529335,Miss,53:15,Right footed,Rúben Dias
+1,0.04151209443807602,Miss,87:54,Right footed,J. Grealish
+1,0.04137398675084114,Miss,16:24,Right footed,Bernardo Silva
+0,0.03806732967495918,Miss,55:43,Right footed,Matheus Cunha
+1,0.03569559007883072,Miss,90+3:05,Right footed,Matheus Nunes
+1,0.03552590683102608,Miss,5:41,Right footed,J. Doku
+1,0.03123948723077774,Miss,38:23,Right footed,M. Kovačić
+1,0.03016563318669796,Miss,35:57,Left footed,Savinho
+1,0.02830599434673786,Miss,90+3:34,Left footed,P. Foden
+1,0.02650369517505169,Miss,53:53,Left footed,J. Doku
+1,0.02298368141055107,Goal,32:33,Right footed,J. Gvardiol
+1,0.01572773978114128,Miss,58:33,Header,Rúben Dias

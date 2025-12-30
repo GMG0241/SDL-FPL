@@ -1,0 +1,23 @@
+0,0.7884,Goal,69:26,Right footed,Bruno Fernandes
+1,0.5086809396743774,Miss,13:06,Header,N. Madueke
+0,0.21648986637592316,Miss,45+1:58,Right footed,M. Rashford
+0,0.2154025137424469,Miss,64:52,Right footed,A. Garnacho
+0,0.18825644254684448,Miss,21:03,Left footed,Bruno Fernandes
+0,0.1815379559993744,Miss,23:05,Left footed,A. Garnacho
+0,0.1576603502035141,Miss,89:02,Right footed,Bruno Fernandes
+1,0.13521917164325714,Miss,75:37,Right footed,E. Fernández
+0,0.13315658271312714,Miss,37:54,Right footed,Bruno Fernandes
+1,0.11083568632602692,Miss,34:39,Left footed,C. Palmer
+1,0.0949147418141365,Miss,8:12,Left footed,C. Palmer
+1,0.07686853408813477,Miss,33:08,Right footed,N. Jackson
+1,0.04357198253273964,Miss,64:04,Left footed,Marc Cucurella
+0,0.03910316154360771,Miss,77:38,Left footed,A. Garnacho
+1,0.03669354319572449,Miss,54:20,Left footed,Pedro Neto
+1,0.03261931985616684,Goal,73:44,Right footed,M. Caicedo
+0,0.023589540272951126,Miss,88:15,Right footed,A. Garnacho
+1,0.02135179378092289,Miss,90+4:52,Left footed,C. Palmer
+1,0.02055451087653637,Miss,22:50,Right footed,N. Madueke
+1,0.019174236804246902,Miss,64:17,Right footed,Pedro Neto
+0,0.018765196204185486,Miss,50:09,Right footed,Casemiro
+0,0.018104687333106995,Miss,58:56,Right footed,M. Rashford
+1,0.00913942325860262,Miss,13:07,Left footed,L. Colwill

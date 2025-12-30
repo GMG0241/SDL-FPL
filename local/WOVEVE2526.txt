@@ -1,0 +1,22 @@
+1,0.7053343653678894,Goal,6:39,Header,Beto
+1,0.5611827969551086,Goal,32:34,Left footed,I. Ndiaye
+0,0.4902332127094269,Goal,20:40,Left footed,Hwang Hee-Chan
+0,0.2691662907600403,Goal,78:28,Right footed,Rodrigo Gomes
+1,0.2067190557718277,Miss,32:13,Right footed,J. Grealish
+0,0.15694734454154968,Miss,90+3:30,Left footed,Rodrigo Gomes
+1,0.1284220963716507,Miss,45:47,Right footed,I. Gueye
+0,0.10759633779525757,Miss,27:09,Right footed,E. Agbadou
+1,0.0818665474653244,Miss,69:01,Right footed,I. Gueye
+1,0.06981224566698074,Miss,25:21,Left footed,J. Grealish
+1,0.06764798611402512,Miss,75:47,Header,J. O'Brien
+1,0.04562932997941971,Goal,54:24,Left footed,K. Dewsbury-Hall
+1,0.04471210390329361,Miss,62:26,Left footed,I. Gueye
+0,0.03095114417374134,Miss,48:26,Header,M. Munetsi
+0,0.024369901046156883,Miss,90+3:27,Right footed,J. Bellegarde
+1,0.02254057116806507,Miss,85:02,Right footed,T. Iroegbunam
+0,0.021123990416526794,Miss,83:27,Right footed,Fer López
+0,0.015958843752741814,Miss,69:23,Right footed,J. Bellegarde
+0,0.013785681687295437,Miss,48:36,Right footed,João Gomes
+0,0.01262892596423626,Miss,76:16,Right footed,Rodrigo Gomes
+0,0.01242129411548376,Miss,83:24,Other body part,Toti Gomes
+0,0.012152154929935932,Miss,3:07,Right footed,J. Arias

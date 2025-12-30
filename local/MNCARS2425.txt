@@ -1,0 +1,38 @@
+0,0.5096917152404785,Goal,8:09,Left footed,E. Haaland
+1,0.3174050748348236,Goal,45:04,Header,Gabriel Magalhães
+1,0.17725791037082672,Miss,37:04,Header,Gabriel Magalhães
+0,0.17631834745407104,Goal,90+7:14,Left footed,J. Stones
+0,0.17276325821876526,Miss,6:56,Right footed,İ. Gündoğan
+0,0.12555578351020813,Miss,88:33,Left footed,E. Haaland
+0,0.10550353676080704,Miss,58:20,Left footed,Bernardo Silva
+0,0.09629824012517929,Miss,58:18,Header,E. Haaland
+0,0.09353788197040558,Miss,47:18,Header,E. Haaland
+1,0.08851010352373123,Miss,41:23,Right footed,L. Trossard
+0,0.0863904058933258,Miss,90+7:12,Left footed,M. Kovačić
+1,0.06721922755241394,Miss,90+6:30,Left footed,K. Havertz
+0,0.06588797271251678,Miss,76:57,Left footed,E. Haaland
+0,0.052357666194438934,Miss,14:00,Right footed,İ. Gündoğan
+0,0.04994262754917145,Miss,77:29,Right footed,P. Foden
+0,0.048405036330223083,Miss,61:09,Left footed,J. Gvardiol
+0,0.04696325585246086,Miss,90+2:01,Header,E. Haaland
+0,0.045806314796209335,Miss,60:30,Right footed,K. Walker
+0,0.045295193791389465,Miss,88:30,Right footed,Rúben Dias
+0,0.04154348000884056,Miss,71:37,Right footed,Rúben Dias
+0,0.03935648128390312,Miss,48:03,Right footed,M. Kovačić
+0,0.03562457486987114,Miss,74:59,Right footed,M. Kovačić
+0,0.03538159653544426,Miss,75:56,Left footed,Rúben Dias
+0,0.032320909202098846,Miss,84:38,Right footed,Rúben Dias
+0,0.030185071751475334,Miss,52:48,Left footed,Rúben Dias
+0,0.029125787317752838,Miss,67:29,Left footed,J. Doku
+0,0.028369056060910225,Miss,56:49,Right footed,K. Walker
+0,0.027732836082577705,Miss,86:20,Left footed,J. Gvardiol
+0,0.024876782670617104,Miss,90+5:07,Left footed,P. Foden
+1,0.023791426792740822,Goal,21:14,Left footed,R. Calafiori
+0,0.022563789039850235,Miss,78:49,Right footed,M. Kovačić
+0,0.018964849412441254,Miss,68:34,Left footed,Savinho
+0,0.018894435837864876,Miss,34:45,Right footed,J. Doku
+0,0.018336571753025055,Miss,29:02,Right footed,K. Walker
+0,0.016561120748519897,Miss,75:16,Right footed,K. Walker
+0,0.015795491635799408,Miss,56:06,Right footed,M. Akanji
+0,0.014758993871510029,Miss,54:48,Left footed,Savinho
+0,0.014254698529839516,Miss,68:15,Right footed,M. Akanji

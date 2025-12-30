@@ -1,0 +1,31 @@
+0,0.30728113651275635,Miss,17:35,Right footed,D. Calvert-Lewin
+0,0.25134074687957764,Miss,0:13,Right footed,D. Calvert-Lewin
+0,0.24574385583400726,Miss,17:43,Header,B. Aaronson
+1,0.16370151937007904,Goal,25:50,Right footed,A. Semenyo
+0,0.13850568234920502,Miss,18:25,Header,D. Calvert-Lewin
+0,0.13461196422576904,Miss,64:45,Right footed,J. Rodon
+0,0.10814739018678665,Miss,78:17,Header,P. Struijk
+1,0.10785418003797531,Miss,84:10,Right footed,E. Kroupi
+0,0.09830344468355179,Miss,64:43,Header,J. Rodon
+0,0.09430917352437973,Miss,51:57,Right footed,B. Aaronson
+1,0.08629655092954636,Miss,90+6:34,Right footed,B. Gannon-Doak
+1,0.08357475697994232,Goal,90+2:13,Right footed,E. Kroupi
+0,0.06558404117822647,Miss,85:54,Header,J. Rodon
+1,0.06335689127445221,Miss,39:54,Left footed,A. Adli
+1,0.0571356825530529,Miss,69:10,Left footed,D. Brooks
+1,0.05701722577214241,Miss,5:35,Left footed,R. Christie
+0,0.05384813994169235,Miss,17:34,Right footed,S. Longstaff
+0,0.051291532814502716,Miss,18:22,Right footed,B. Aaronson
+0,0.04857876896858215,Miss,53:36,Right footed,B. Aaronson
+0,0.04359779506921768,Goal,53:38,Right footed,S. Longstaff
+0,0.03848399221897125,Miss,36:09,Right footed,N. Okafor
+0,0.03701072186231613,Miss,73:54,Left footed,J. Harrison
+1,0.036610059440135956,Miss,9:20,Right footed,T. Adams
+0,0.03604299947619438,Miss,69:41,Left footed,J. Harrison
+0,0.03014262206852436,Goal,36:55,Header,J. Rodon
+0,0.029282381758093834,Miss,43:36,Right footed,B. Aaronson
+1,0.027097880840301514,Miss,4:03,Left footed,R. Christie
+1,0.02597205713391304,Miss,90+5:37,Left footed,D. Brooks
+1,0.024716440588235855,Miss,58:49,Left footed,Evanilson
+0,0.02331235446035862,Miss,53:35,Right footed,N. Okafor
+1,0.014251013286411762,Miss,83:19,Right footed,E. Kroupi

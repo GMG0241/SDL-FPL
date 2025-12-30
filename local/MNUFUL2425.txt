@@ -1,0 +1,24 @@
+0,0.6876841187477112,Miss,33:57,Right footed,Bruno Fernandes
+0,0.6651313900947571,Miss,90+3:42,Left footed,A. Garnacho
+0,0.29518046975135803,Miss,52:49,Left footed,M. Mount
+0,0.2519596815109253,Miss,28:13,Right footed,Bruno Fernandes
+0,0.12988272309303284,Miss,79:26,Right footed,Bruno Fernandes
+0,0.07494495064020157,Miss,36:19,Header,Casemiro
+0,0.07292259484529495,Goal,86:46,Left footed,J. Zirkzee
+1,0.06658264249563217,Miss,49:04,Header,K. Tete
+1,0.060041606426239014,Miss,61:27,Right footed,Rodrigo Muniz
+1,0.054954078048467636,Miss,90:23,Header,C. Bassey
+0,0.054601576179265976,Miss,65:04,Left footed,Bruno Fernandes
+1,0.05016680806875229,Miss,13:07,Header,Rodrigo Muniz
+0,0.04828795790672302,Miss,54:20,Right footed,Bruno Fernandes
+0,0.04564186930656433,Miss,41:30,Right footed,Casemiro
+0,0.04218415915966034,Miss,26:17,Right footed,Casemiro
+1,0.04166514426469803,Miss,75:29,Left footed,C. Bassey
+1,0.0392976813018322,Miss,47:08,Header,A. Iwobi
+1,0.037721775472164154,Miss,70:58,Right footed,Adama Traoré
+1,0.035169344395399094,Miss,71:48,Right footed,Adama Traoré
+1,0.0301438570022583,Miss,7:47,Right footed,Adama Traoré
+0,0.02976887859404087,Miss,55:27,Right footed,K. Mainoo
+0,0.02017912268638611,Miss,19:34,Left footed,Bruno Fernandes
+1,0.019571755081415176,Miss,12:17,Right footed,K. Tete
+0,0.015298329293727875,Miss,68:17,Right footed,A. Garnacho

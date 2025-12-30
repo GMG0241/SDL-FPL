@@ -1,0 +1,29 @@
+1,0.5858234167098999,Goal,25:09,Left footed,T. Souček
+0,0.3372628092765808,Miss,73:30,Right footed,R. Højlund
+0,0.3151038885116577,Miss,78:36,Left footed,R. Højlund
+1,0.28981828689575195,Goal,56:55,Left footed,J. Bowen
+1,0.2853544354438782,Miss,90+4:08,Right footed,J. Ward-Prowse
+0,0.2612159550189972,Miss,78:33,Header,H. Maguire
+0,0.25932684540748596,Miss,90+5:32,Header,R. Højlund
+0,0.2419300526380539,Miss,34:09,Right footed,R. Højlund
+0,0.1554359495639801,Miss,84:41,Right footed,K. Mainoo
+0,0.12574395537376404,Miss,65:32,Header,R. Højlund
+0,0.12346864491701126,Miss,61:13,Right footed,A. Garnacho
+1,0.11670548468828201,Miss,45:31,Left footed,J. Ward-Prowse
+1,0.08471878618001938,Miss,7:19,Header,M. Kilman
+0,0.0724082812666893,Miss,8:53,Right footed,Bruno Fernandes
+0,0.06614794582128525,Miss,76:14,Header,H. Maguire
+0,0.0651284009218216,Miss,83:41,Left footed,C. Eriksen
+1,0.06478335708379745,Miss,45:38,Header,V. Coufal
+1,0.06319261342287064,Miss,56:52,Left footed,M. Kudus
+0,0.05655478686094284,Miss,53:31,Right footed,M. Mount
+1,0.044367894530296326,Miss,25:08,Left footed,M. Kudus
+0,0.03755512461066246,Miss,74:00,Header,H. Maguire
+0,0.030602136626839638,Miss,8:49,Left footed,A. Diallo
+0,0.0292431078851223,Miss,3:53,Right footed,Bruno Fernandes
+0,0.02904863841831684,Miss,32:54,Left footed,R. Højlund
+0,0.026660066097974777,Miss,70:16,Right footed,Bruno Fernandes
+1,0.026233620941638947,Miss,28:51,Left footed,M. Kudus
+0,0.023926179856061935,Miss,84:38,Left footed,H. Amass
+0,0.017502103000879288,Miss,75:24,Right footed,K. Mainoo
+0,0.007184445392340422,Miss,78:57,Right footed,Bruno Fernandes

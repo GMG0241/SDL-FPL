@@ -1,0 +1,23 @@
+0,0.6709492802619934,Goal,90+2:58,Right footed,Fábio Carvalho
+0,0.30364009737968445,Miss,5:15,Right footed,K. Schade
+1,0.22902023792266846,Miss,4:31,Left footed,João Pedro
+0,0.2158186435699463,Goal,34:07,Right footed,K. Schade
+1,0.17828670144081116,Goal,60:33,Left footed,C. Palmer
+1,0.1439577341079712,Miss,74:05,Left footed,C. Palmer
+1,0.11694352328777313,Miss,66:15,Left footed,Pedro Neto
+1,0.08787234872579575,Miss,90+5:28,Left footed,C. Palmer
+0,0.0682457685470581,Miss,88:17,Header,K. Ajer
+1,0.06714171171188354,Miss,44:21,Left footed,E. Fernández
+0,0.061412014067173004,Miss,61:42,Right footed,K. Schade
+1,0.05971606448292732,Goal,84:18,Right footed,M. Caicedo
+0,0.05474766343832016,Miss,76:55,Left footed,R. Henry
+1,0.04647422581911087,Miss,53:54,Right footed,Marc Cucurella
+1,0.0365118607878685,Miss,71:15,Left footed,Pedro Neto
+0,0.03330986574292183,Miss,5:53,Header,K. Schade
+1,0.028319578617811203,Miss,50:40,Right footed,T. George
+1,0.027441108599305153,Miss,64:46,Left footed,C. Palmer
+1,0.027008913457393646,Miss,59:58,Left footed,R. James
+1,0.02660001441836357,Miss,40:02,Right footed,T. Chalobah
+1,0.021153846755623817,Miss,42:41,Right footed,J. Gittens
+1,0.021059606224298477,Miss,14:41,Header,T. Chalobah
+1,0.009207847528159618,Miss,64:48,Left footed,C. Palmer

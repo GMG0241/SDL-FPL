@@ -1,0 +1,28 @@
+1,0.6591699123382568,Goal,90+5:45,Header,Gabriel Magalhães
+1,0.30645322799682617,Miss,58:49,Header,J. Timber
+0,0.20656023919582367,Goal,33:53,Header,N. Woltemade
+1,0.14002195000648499,Miss,4:41,Left footed,E. Eze
+1,0.10222654789686203,Miss,54:13,Left footed,E. Eze
+1,0.09097998589277267,Miss,23:41,Header,R. Calafiori
+1,0.08768041431903839,Miss,24:48,Left footed,L. Trossard
+0,0.08698254823684692,Miss,64:00,Left footed,J. Murphy
+1,0.08312548696994781,Miss,81:02,Right footed,V. Gyökeres
+1,0.0744207352399826,Miss,28:07,Right footed,E. Eze
+1,0.07256554067134857,Miss,6:08,Right footed,V. Gyökeres
+1,0.056166715919971466,Miss,90+4:54,Left footed,Gabriel Martinelli
+1,0.056063178926706314,Miss,27:16,Left footed,E. Eze
+1,0.054551076143980026,Goal,83:59,Header,Mikel Merino
+1,0.050053346902132034,Miss,59:24,Right footed,J. Timber
+1,0.04786551743745804,Miss,70:16,Right footed,V. Gyökeres
+0,0.04704851657152176,Miss,90+8:23,Left footed,J. Lascelles
+1,0.043638262897729874,Miss,81:01,Right footed,V. Gyökeres
+1,0.04276067763566971,Miss,68:41,Left footed,B. Saka
+0,0.03713200241327286,Miss,12:28,Header,M. Thiaw
+1,0.035849153995513916,Miss,1:36,Header,V. Gyökeres
+0,0.033828213810920715,Miss,25:04,Right footed,A. Gordon
+0,0.029724551364779472,Miss,56:28,Left footed,Joelinton
+0,0.02646581642329693,Miss,10:29,Header,M. Thiaw
+0,0.02489953301846981,Miss,85:06,Right footed,A. Elanga
+1,0.01924387365579605,Miss,31:16,Right footed,B. Saka
+1,0.015187430195510387,Miss,50:31,Header,V. Gyökeres
+1,0.012989635579288006,Miss,45+3:24,Left footed,R. Calafiori

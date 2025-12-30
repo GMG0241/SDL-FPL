@@ -1,0 +1,26 @@
+1,0.29101502895355225,Miss,63:53,Right footed,Mohamed Salah
+1,0.1935904324054718,Goal,71:18,Right footed,L. Díaz
+0,0.17216190695762634,Miss,4:07,Right footed,Rodrigo Muniz
+1,0.14497578144073486,Miss,47:34,Right footed,Diogo Jota
+0,0.10957201570272446,Goal,36:15,Right footed,Rodrigo Muniz
+1,0.0942799374461174,Miss,78:42,Left footed,H. Elliott
+0,0.0801471695303917,Miss,55:38,Left footed,R. Sessegnon
+0,0.0676337331533432,Goal,31:46,Left footed,A. Iwobi
+0,0.06527233868837357,Miss,57:58,Right footed,Andreas Pereira
+1,0.06425093859434128,Miss,74:18,Header,C. Jones
+0,0.05981453135609627,Miss,31:40,Right footed,A. Iwobi
+0,0.058725547045469284,Miss,87:34,Right footed,H. Reed
+1,0.055983271449804306,Miss,72:57,Left footed,H. Elliott
+0,0.04271640628576279,Goal,22:06,Left footed,R. Sessegnon
+0,0.04232430085539818,Miss,4:13,Left footed,R. Sessegnon
+1,0.041366998106241226,Miss,90+4:16,Right footed,F. Chiesa
+1,0.03764643520116806,Miss,90:24,Right footed,F. Chiesa
+1,0.034362826496362686,Miss,25:27,Right footed,D. Szoboszlai
+1,0.03286990895867348,Miss,53:45,Header,I. Konaté
+1,0.0324743427336216,Miss,90+1:55,Right footed,H. Elliott
+1,0.031048687174916267,Miss,53:47,Right footed,D. Szoboszlai
+1,0.027658086270093918,Miss,57:09,Left footed,A. Robertson
+0,0.02542860247194767,Miss,35:11,Right footed,A. Iwobi
+1,0.024345362558960915,Goal,13:02,Right footed,A. Mac Allister
+0,0.019023770466446877,Miss,43:50,Left footed,A. Iwobi
+0,0.011575769633054733,Miss,31:06,Right footed,Andreas Pereira

@@ -1,0 +1,26 @@
+1,0.6275582909584045,Goal,81:09,Header,H. Wilson
+1,0.41454121470451355,Goal,90+4:17,Left footed,Rodrigo Muniz
+0,0.27418234944343567,Miss,90+6:42,Right footed,C. Nkunku
+0,0.21575550734996796,Miss,89:07,Right footed,J. Sancho
+1,0.21382953226566315,Miss,61:44,Right footed,A. Robinson
+0,0.16696226596832275,Miss,34:51,Header,Marc Cucurella
+1,0.13534803688526154,Miss,67:46,Right footed,R. Jiménez
+1,0.11052439361810684,Miss,25:17,Left footed,C. Bassey
+0,0.10947313159704208,Miss,19:11,Left footed,C. Palmer
+0,0.06717224419116974,Miss,66:06,Left footed,N. Jackson
+0,0.06541778892278671,Miss,48:21,Right footed,E. Fernández
+0,0.06395933032035828,Goal,15:18,Left footed,C. Palmer
+1,0.052556153386831284,Miss,76:58,Header,Rodrigo Muniz
+0,0.047903694212436676,Miss,32:22,Left footed,C. Palmer
+0,0.04558880627155304,Miss,21:20,Left footed,C. Palmer
+1,0.044078975915908813,Miss,59:39,Right footed,Andreas Pereira
+1,0.04207766428589821,Miss,75:55,Left footed,H. Wilson
+1,0.036817517131567,Miss,14:09,Right footed,R. Jiménez
+1,0.02954108640551567,Miss,52:00,Right footed,A. Iwobi
+0,0.026479877531528473,Miss,90+1:00,Left footed,Pedro Neto
+0,0.02624744549393654,Miss,89:05,Header,Marc Cucurella
+1,0.022162940353155136,Miss,81:08,Header,T. Castagne
+1,0.021823201328516006,Miss,19:37,Right footed,R. Jiménez
+1,0.01712070032954216,Miss,22:09,Right footed,Andreas Pereira
+1,0.01625858247280121,Miss,39:23,Header,R. Jiménez
+0,0.008949645794928074,Miss,90+8:00,Left footed,C. Palmer

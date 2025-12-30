@@ -1,0 +1,16 @@
+0,0.5200117230415344,Goal,10:51,Right footed,Beto
+1,0.19863517582416534,Goal,72:38,Right footed,Mohamed Salah
+1,0.1481626331806183,Goal,15:05,Header,A. Mac Allister
+1,0.10982435941696167,Miss,72:36,Right footed,C. Jones
+0,0.08695308864116669,Goal,90+7:08,Right footed,J. Tarkowski
+1,0.08639289438724518,Miss,87:26,Left footed,Mohamed Salah
+0,0.07985866069793701,Miss,54:41,Left footed,J. Harrison
+0,0.06627433001995087,Miss,42:24,Header,Beto
+0,0.045843999832868576,Miss,70:37,Right footed,A. Doucouré
+0,0.04300428181886673,Miss,53:05,Header,A. Doucouré
+1,0.040631625801324844,Miss,45+4:11,Right footed,D. Szoboszlai
+0,0.0401160903275013,Miss,45:19,Left footed,J. Harrison
+1,0.03921806067228317,Miss,45:49,Right footed,L. Díaz
+0,0.030206924304366112,Miss,85:08,Right footed,Beto
+0,0.0213786568492651,Miss,90+2:43,Right footed,T. Iroegbunam
+0,0.02056349441409111,Miss,25:46,Right footed,Beto

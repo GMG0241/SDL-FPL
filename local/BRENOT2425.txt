@@ -1,0 +1,17 @@
+1,0.18228714168071747,Goal,37:08,Right footed,O. Aina
+1,0.15142491459846497,Miss,55:21,Left footed,A. Elanga
+0,0.1508639007806778,Miss,3:27,Left footed,M. Damsgaard
+0,0.1270947903394699,Miss,61:35,Right footed,K. Ajer
+1,0.1253255009651184,Miss,31:57,Header,C. Wood
+1,0.11196204274892807,Miss,69:25,Right footed,C. Hudson-Odoi
+0,0.09877000004053116,Miss,7:02,Header,K. Ajer
+1,0.09781148284673691,Miss,45:43,Right footed,C. Wood
+0,0.09692707657814026,Miss,20:04,Right footed,Y. Wissa
+0,0.09056267887353897,Miss,72:40,Header,K. Schade
+0,0.08297929167747498,Miss,72:38,Header,C. Nørgaard
+1,0.07819806784391403,Miss,17:50,Right footed,C. Wood
+0,0.06859579682350159,Miss,4:10,Right footed,B. Mbeumo
+1,0.061412014067173004,Goal,50:36,Left footed,A. Elanga
+1,0.03418924659490585,Miss,57:14,Header,N. Milenković
+1,0.02902947925031185,Miss,48:39,Right footed,N. Williams
+1,0.02480790577828884,Miss,32:57,Left footed,O. Aina

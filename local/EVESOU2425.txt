@@ -1,0 +1,19 @@
+0,0.89444899559021,Goal,45+1:01,Left footed,I. Ndiaye
+0,0.6675708293914795,Miss,3:53,Left footed,Beto
+1,0.6218801140785217,Miss,83:22,Right footed,C. Archer
+1,0.3190019130706787,Miss,61:35,Right footed,R. Stewart
+0,0.2681649625301361,Miss,19:13,Right footed,Beto
+0,0.23351651430130005,Miss,26:21,Right footed,A. Doucouré
+1,0.13740645349025726,Miss,83:24,Right footed,W. Smallbone
+0,0.13347949087619781,Miss,55:30,Right footed,J. Garner
+0,0.1133074089884758,Miss,28:33,Right footed,J. Garner
+1,0.1052127555012703,Miss,86:00,Header,R. Stewart
+0,0.10493283718824387,Goal,5:22,Left footed,I. Ndiaye
+0,0.09181004017591476,Miss,55:39,Header,Beto
+1,0.0863804742693901,Miss,90+3:03,Right footed,R. Stewart
+0,0.08098563551902771,Miss,51:01,Header,J. O'Brien
+0,0.047665074467659,Miss,19:51,Header,J. Branthwaite
+0,0.04105665907263756,Miss,45:50,Left footed,A. Doucouré
+0,0.030798805877566338,Miss,60:40,Header,J. Garner
+1,0.028215287253260612,Miss,62:36,Right footed,Mateus Fernandes
+0,0.020761195570230484,Miss,3:51,Left footed,V. Mykolenko

@@ -1,0 +1,19 @@
+0,0.7884,Goal,48:47,Right footed,I. Ndiaye
+1,0.2795971632003784,Miss,1:17,Right footed,R. Sterling
+1,0.2158042937517166,Miss,84:45,Header,J. Timber
+1,0.18606844544410706,Miss,11:43,Right footed,B. White
+1,0.17977535724639893,Miss,45+2:15,Left footed,D. Rice
+1,0.17408064007759094,Miss,82:25,Left footed,M. Ødegaard
+1,0.13834813237190247,Miss,45+2:14,Right footed,L. Trossard
+1,0.11024519801139832,Miss,63:37,Right footed,D. Rice
+1,0.10943968594074249,Goal,33:27,Left footed,L. Trossard
+0,0.10347491502761841,Miss,37:05,Header,J. O'Brien
+1,0.10181683301925659,Miss,58:09,Left footed,B. Saka
+1,0.09897670894861221,Miss,52:48,Left footed,B. Saka
+0,0.08585845679044724,Miss,23:57,Right footed,I. Ndiaye
+1,0.08309663832187653,Miss,11:41,Header,Mikel Merino
+1,0.07555793970823288,Miss,88:16,Header,Mikel Merino
+1,0.06430888921022415,Miss,83:57,Right footed,Gabriel Martinelli
+0,0.0451151467859745,Miss,51:13,Left footed,A. Doucouré
+1,0.03535956144332886,Miss,53:57,Left footed,L. Trossard
+0,0.024248898029327393,Miss,45+5:16,Right footed,I. Ndiaye

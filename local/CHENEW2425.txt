@@ -1,0 +1,28 @@
+1,0.9798396229743958,Goal,31:12,Right footed,A. Isak
+0,0.5572396516799927,Goal,17:50,Right footed,N. Jackson
+0,0.2503633201122284,Miss,81:15,Left footed,M. Mudryk
+1,0.18058931827545166,Miss,69:56,Header,A. Isak
+1,0.15714327991008759,Miss,26:40,Right footed,H. Barnes
+0,0.13500773906707764,Miss,25:00,Right footed,M. Gusto
+1,0.08712247759103775,Miss,19:40,Left footed,M. Almirón
+1,0.08076348900794983,Miss,26:49,Left footed,M. Almirón
+1,0.07898915559053421,Miss,75:11,Header,F. Schär
+0,0.07867369055747986,Miss,35:44,Left footed,M. Caicedo
+0,0.07815678417682648,Miss,49:23,Header,Pedro Neto
+0,0.0779690146446228,Miss,86:58,Right footed,C. Nkunku
+0,0.07449659705162048,Miss,58:38,Header,M. Gusto
+0,0.05909157544374466,Miss,52:35,Left footed,M. Gusto
+1,0.05537360534071922,Miss,45+7:24,Header,D. Burn
+0,0.05270010605454445,Miss,51:25,Left footed,N. Madueke
+1,0.0511435829102993,Miss,66:23,Right footed,F. Schär
+1,0.04988690838217735,Miss,26:42,Left footed,S. Tonali
+1,0.04984904080629349,Miss,30:00,Header,A. Isak
+0,0.049194060266017914,Goal,46:15,Left footed,C. Palmer
+1,0.04191632941365242,Miss,9:00,Right footed,Bruno Guimarães
+0,0.03735030069947243,Miss,22:00,Right footed,Pedro Neto
+0,0.03609311580657959,Miss,87:00,Header,C. Nkunku
+0,0.027499062940478325,Miss,23:05,Left footed,M. Gusto
+0,0.02657911367714405,Miss,39:26,Left footed,Pedro Neto
+0,0.02651437371969223,Miss,2:35,Left footed,N. Madueke
+0,0.022990839555859566,Miss,14:10,Left footed,Pedro Neto
+0,0.016814056783914566,Miss,40:31,Left footed,Pedro Neto

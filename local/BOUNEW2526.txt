@@ -1,0 +1,15 @@
+0,0.11200963705778122,Miss,52:33,Right footed,A. Semenyo
+0,0.11024519801139832,Miss,90:28,Right footed,J. Kluivert
+0,0.09623322635889053,Miss,14:27,Right footed,Evanilson
+0,0.06485392898321152,Miss,26:01,Right footed,A. Scott
+1,0.05533820018172264,Miss,10:37,Right footed,J. Murphy
+1,0.04831681773066521,Miss,24:20,Right footed,S. Tonali
+0,0.04594200849533081,Miss,6:17,Right footed,Álex Jiménez
+0,0.04189559817314148,Miss,8:09,Right footed,T. Adams
+0,0.03132056072354317,Miss,49:26,Left footed,M. Tavernier
+0,0.02783801034092903,Miss,14:05,Left footed,M. Tavernier
+1,0.026961905881762505,Miss,13:03,Right footed,J. Murphy
+0,0.014117236249148846,Miss,89:05,Left footed,R. Christie
+1,0.009200102649629116,Miss,11:32,Right footed,S. Tonali
+0,0.007376449648290873,Miss,8:53,Right footed,Álex Jiménez
+0,0.004441177938133478,Miss,90+2:41,Right footed,J. Hill

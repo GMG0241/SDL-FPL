@@ -1,0 +1,47 @@
+0,0.4419434368610382,Miss,84:51,Header,T. Chalobah
+1,0.3777503967285156,Goal,18:57,Right footed,J. Enciso
+0,0.2717069685459137,Miss,7:41,Right footed,N. Jackson
+0,0.2126483917236328,Miss,17:11,Header,L. Colwill
+1,0.1658957451581955,Goal,30:13,Header,B. Johnson
+0,0.1302172839641571,Miss,45+2:00,Header,N. Madueke
+1,0.11332698166370392,Miss,53:39,Header,G. Hirst
+0,0.1032855212688446,Miss,8:41,Right footed,E. Fernández
+0,0.09672114998102188,Miss,90+4:42,Right footed,E. Fernández
+0,0.09436590224504471,Miss,90+2:31,Left footed,C. Palmer
+0,0.08615513890981674,Miss,54:43,Left footed,C. Palmer
+1,0.0660262480378151,Miss,82:38,Header,L. Delap
+0,0.06503212451934814,Miss,90+5:04,Header,L. Colwill
+1,0.06285345554351807,Miss,64:36,Right footed,J. Enciso
+0,0.05779241770505905,Miss,68:45,Header,N. Jackson
+0,0.053566768765449524,Miss,11:08,Right footed,N. Madueke
+0,0.05342402681708336,Goal,78:29,Right footed,J. Sancho
+0,0.0492468886077404,Miss,13:42,Right footed,T. Chalobah
+1,0.04901255667209625,Miss,29:21,Right footed,J. Cajuste
+1,0.04215807095170021,Miss,83:36,Header,D. O'Shea
+1,0.04060785844922066,Miss,90+2:06,Right footed,D. O'Shea
+0,0.04012066498398781,Miss,80:45,Right footed,M. Caicedo
+1,0.0392097532749176,Miss,56:51,Right footed,J. Cajuste
+0,0.03780931606888771,Miss,69:59,Left footed,Pedro Neto
+0,0.03758683428168297,Miss,56:16,Left footed,Pedro Neto
+0,0.03565651550889015,Miss,36:42,Left footed,N. Madueke
+1,0.033422596752643585,Miss,4:22,Right footed,J. Clarke
+0,0.03338146209716797,Miss,17:21,Left footed,Marc Cucurella
+0,0.03213998302817345,Miss,90+3:05,Left footed,Pedro Neto
+0,0.032007575035095215,Miss,44:22,Right footed,M. Caicedo
+0,0.02953440323472023,Miss,34:51,Header,N. Jackson
+1,0.02917512319982052,Miss,90+4:02,Right footed,J. Taylor
+0,0.028052164241671562,Miss,9:52,Left footed,N. Madueke
+1,0.027957165613770485,Miss,53:01,Right footed,G. Hirst
+0,0.027790050953626633,Miss,56:02,Left footed,C. Palmer
+0,0.027534598484635353,Miss,76:17,Right footed,E. Fernández
+1,0.027395278215408325,Miss,28:33,Right footed,J. Enciso
+0,0.026820406317710876,Miss,48:38,Left footed,L. Colwill
+0,0.02532333694398403,Miss,44:48,Right footed,M. Caicedo
+0,0.024763507768511772,Miss,68:28,Left footed,Pedro Neto
+0,0.023968007415533066,Miss,69:18,Right footed,C. Palmer
+0,0.019587840884923935,Miss,52:38,Right footed,Pedro Neto
+0,0.019457422196865082,Miss,42:01,Left footed,C. Palmer
+0,0.01733081415295601,Miss,85:41,Left footed,C. Palmer
+0,0.015639031305909157,Miss,45+3:12,Right footed,N. Jackson
+0,0.01269578468054533,Miss,66:44,Right footed,N. Jackson
+0,0.009134454652667046,Miss,27:52,Header,L. Colwill

@@ -1,0 +1,15 @@
+0,0.5591116547584534,Goal,74:21,Left footed,P. Onuachu
+1,0.17590855062007904,Miss,70:13,Right footed,João Gomes
+0,0.11513128131628036,Miss,59:25,Header,P. Onuachu
+1,0.10707041621208191,Goal,46:45,Right footed,J. Strand Larsen
+0,0.1049380749464035,Miss,62:24,Header,T. Dibling
+1,0.10455448925495148,Goal,18:43,Header,J. Strand Larsen
+0,0.07178886979818344,Miss,61:41,Right footed,T. Dibling
+0,0.07127560675144196,Miss,16:06,Left footed,J. Aribo
+0,0.04932873696088791,Miss,74:20,Left footed,T. Dibling
+0,0.0437949001789093,Miss,13:16,Left footed,J. Aribo
+0,0.04378224164247513,Miss,42:49,Header,T. Harwood-Bellis
+1,0.033852510154247284,Miss,43:12,Left footed,R. Aït-Nouri
+0,0.032801553606987,Miss,58:37,Right footed,Y. Sugawara
+1,0.020824821665883064,Miss,45:50,Left footed,R. Aït-Nouri
+0,0.014935414306819439,Miss,6:09,Right footed,L. Ugochukwu

@@ -1,0 +1,26 @@
+1,0.27448323369026184,Miss,5:17,Right footed,Bruno Guimarães
+0,0.26661252975463867,Miss,13:18,Header,T. Partey
+1,0.25390714406967163,Miss,16:56,Left footed,F. Schär
+1,0.2222660779953003,Miss,90+4:43,Right footed,F. Schär
+1,0.15925762057304382,Miss,17:48,Header,F. Schär
+1,0.15015530586242676,Miss,16:53,Header,D. Burn
+1,0.13471609354019165,Miss,16:55,Right footed,S. Botman
+1,0.09546671062707901,Miss,15:27,Left footed,H. Barnes
+1,0.08193977922201157,Miss,74:31,Right footed,H. Barnes
+0,0.07116415351629257,Goal,54:17,Right footed,D. Rice
+1,0.059443771839141846,Miss,10:13,Right footed,T. Livramento
+0,0.05884143337607384,Miss,50:30,Right footed,Gabriel Martinelli
+1,0.05360880866646767,Miss,78:18,Right footed,F. Schär
+0,0.046407707035541534,Miss,89:25,Left footed,Gabriel Martinelli
+1,0.045976120978593826,Miss,82:38,Left footed,J. Willock
+0,0.04353942722082138,Miss,12:29,Right footed,L. Trossard
+0,0.033439815044403076,Miss,60:23,Left footed,B. Saka
+1,0.03338146209716797,Miss,10:52,Right footed,S. Tonali
+1,0.03222927078604698,Miss,37:21,Left footed,H. Barnes
+0,0.03093358501791954,Miss,58:06,Left footed,B. Saka
+1,0.024222172796726227,Miss,5:25,Left footed,Bruno Guimarães
+0,0.02282167226076126,Miss,14:01,Left footed,M. Ødegaard
+0,0.022119294852018356,Miss,49:50,Left footed,M. Lewis-Skelly
+0,0.020380651578307152,Miss,8:25,Right footed,T. Partey
+0,0.01949167065322399,Miss,68:48,Right footed,B. White
+0,0.015873344615101814,Miss,27:48,Right footed,D. Rice

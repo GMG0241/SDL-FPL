@@ -1,0 +1,31 @@
+0,0.9629610776901245,Goal,86:32,Right footed,K. Walker-Peters
+0,0.7531638741493225,Goal,76:28,Other body part,T. Souček
+0,0.7369726300239563,Goal,43:26,Header,C. Wilson
+1,0.6542669534683228,Goal,90+6:01,Right footed,J. Cullen
+0,0.18104776740074158,Miss,38:23,Header,C. Wilson
+1,0.08802510052919388,Goal,34:35,Header,Z. Flemming
+0,0.08203206956386566,Miss,43:24,Right footed,C. Summerville
+0,0.07276730239391327,Miss,8:58,Left footed,J. Bowen
+1,0.07048869132995605,Miss,57:12,Header,Z. Flemming
+0,0.050476472824811935,Miss,37:37,Header,M. Kilman
+1,0.04962119460105896,Miss,27:03,Right footed,L. Ugochukwu
+1,0.04814816638827324,Miss,89:39,Header,M. Edwards
+0,0.0472237691283226,Miss,67:43,Left footed,Lucas Paquetá
+1,0.04694095626473427,Miss,27:07,Right footed,J. Cullen
+1,0.044568583369255066,Miss,80:00,Header,Florentino
+1,0.03934874013066292,Miss,68:44,Header,L. Ugochukwu
+1,0.03931186720728874,Miss,90+3:43,Right footed,J. Bruun Larsen
+0,0.03474058955907822,Miss,36:53,Left footed,J. Bowen
+1,0.03165528178215027,Miss,90+1:15,Right footed,J. Bruun Larsen
+1,0.030508914962410927,Miss,68:37,Right footed,J. Anthony
+0,0.029936179518699646,Miss,39:03,Right footed,C. Summerville
+0,0.02976679988205433,Miss,76:26,Left footed,Lucas Paquetá
+0,0.027100350707769394,Miss,67:47,Right footed,Lucas Paquetá
+1,0.026233620941638947,Miss,24:03,Right footed,L. Ugochukwu
+1,0.025223899632692337,Miss,26:09,Left footed,L. Tchaouna
+1,0.02230110950767994,Miss,71:13,Right footed,Florentino
+0,0.02039921283721924,Miss,86:30,Right footed,T. Souček
+1,0.01886262185871601,Miss,27:00,Header,L. Ugochukwu
+0,0.018388740718364716,Miss,73:24,Left footed,C. Summerville
+0,0.017020296305418015,Miss,75:26,Left footed,J. Bowen
+1,0.010256871581077576,Miss,90+5:59,Right footed,H. Mejbri

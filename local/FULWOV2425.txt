@@ -1,0 +1,20 @@
+0,0.624046802520752,Miss,16:43,Right footed,R. Jiménez
+1,0.6235690116882324,Goal,30:17,Right footed,Matheus Cunha
+1,0.24477015435695648,Goal,90+4:40,Right footed,Gonçalo Guedes
+0,0.09691459685564041,Miss,3:39,Header,R. Jiménez
+1,0.08517581224441528,Miss,68:14,Right footed,J. Strand Larsen
+1,0.07094287872314453,Miss,85:24,Right footed,João Gomes
+1,0.07068030536174774,Miss,62:49,Right footed,Matheus Cunha
+0,0.06880676746368408,Goal,19:49,Left footed,A. Iwobi
+1,0.06845299154520035,Goal,52:12,Left footed,João Gomes
+0,0.05839873477816582,Miss,90+1:32,Right footed,A. Iwobi
+1,0.05151298642158508,Miss,81:09,Right footed,João Gomes
+1,0.0408349446952343,Goal,86:39,Right footed,Matheus Cunha
+0,0.04012118652462959,Miss,56:18,Left footed,Andreas Pereira
+1,0.034219179302453995,Miss,21:54,Right footed,Matheus Cunha
+0,0.03412799909710884,Miss,12:43,Right footed,A. Iwobi
+0,0.03182598575949669,Miss,84:13,Left footed,A. Robinson
+1,0.029125787317752838,Miss,10:49,Right footed,João Gomes
+0,0.027453847229480743,Miss,69:56,Left footed,H. Wilson
+0,0.02640269324183464,Miss,24:06,Header,K. Tete
+0,0.017469005659222603,Miss,81:47,Right footed,Adama Traoré

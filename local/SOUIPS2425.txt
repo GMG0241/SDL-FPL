@@ -1,0 +1,24 @@
+0,0.7202745676040649,Goal,4:59,Left footed,T. Dibling
+1,0.5251283645629883,Miss,11:07,Other body part,S. Szmodics
+0,0.4610019028186798,Miss,26:25,Left footed,C. Archer
+1,0.4396408796310425,Miss,90+3:42,Header,G. Hirst
+0,0.43487823009490967,Miss,54:31,Right footed,C. Archer
+0,0.36823248863220215,Miss,48:26,Right footed,C. Archer
+1,0.19007091224193573,Miss,44:38,Left footed,L. Davis
+0,0.14808903634548187,Miss,79:40,Right footed,B. Brereton
+0,0.10676098614931107,Miss,76:39,Left footed,B. Brereton
+0,0.0973450094461441,Miss,54:31,Left footed,Mateus Fernandes
+1,0.09354031085968018,Miss,1:52,Left footed,S. Szmodics
+1,0.07755225896835327,Miss,52:23,Right footed,S. Szmodics
+0,0.07080037146806717,Miss,86:39,Right footed,T. Harwood-Bellis
+1,0.06707216054201126,Miss,90+2:43,Right footed,Sam Morsy
+1,0.06282022595405579,Miss,80:34,Header,G. Hirst
+1,0.05935089662671089,Miss,43:08,Header,D. O'Shea
+1,0.04601496830582619,Miss,43:45,Left footed,L. Delap
+1,0.04318130388855934,Goal,90+4:19,Right footed,Sam Morsy
+0,0.039808809757232666,Miss,86:38,Right footed,R. Stewart
+1,0.03327520564198494,Miss,17:15,Left footed,J. Greaves
+0,0.025622891262173653,Miss,39:04,Right footed,A. Lallana
+1,0.02528795227408409,Miss,45:51,Left footed,O. Hutchinson
+1,0.024818463250994682,Miss,19:45,Right footed,J. Cajuste
+0,0.02066667564213276,Miss,70:31,Right footed,F. Downes

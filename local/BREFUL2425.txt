@@ -1,0 +1,27 @@
+0,0.9756749272346497,Goal,42:23,Left footed,Y. Wissa
+0,0.7884,Miss,27:00,Left footed,B. Mbeumo
+0,0.35071229934692383,Miss,10:14,Right footed,Y. Wissa
+0,0.2647314667701721,Miss,42:21,Header,C. Nørgaard
+0,0.17044776678085327,Miss,73:06,Right footed,K. Schade
+0,0.14309462904930115,Goal,21:08,Right footed,B. Mbeumo
+1,0.13078153133392334,Goal,67:24,Header,T. Cairney
+0,0.10261054337024689,Miss,10:18,Right footed,M. Damsgaard
+1,0.10037832707166672,Miss,7:47,Right footed,R. Jiménez
+0,0.08560924232006073,Miss,80:27,Right footed,B. Mbeumo
+1,0.08133398741483688,Miss,6:08,Right footed,R. Jiménez
+1,0.07204519957304001,Miss,52:38,Left footed,T. Cairney
+1,0.07182971388101578,Miss,45+2:49,Right footed,R. Jiménez
+1,0.07005441188812256,Miss,11:39,Right footed,E. Smith Rowe
+1,0.06266193836927414,Goal,15:16,Header,R. Jiménez
+1,0.0586976520717144,Miss,57:00,Left footed,K. Tete
+0,0.05332866683602333,Miss,42:20,Header,S. van den Berg
+1,0.05088093504309654,Miss,37:16,Right footed,A. Iwobi
+0,0.05054960027337074,Miss,86:11,Header,C. Nørgaard
+1,0.049537550657987595,Miss,34:46,Right footed,Adama Traoré
+1,0.04222404584288597,Miss,39:02,Header,R. Jiménez
+1,0.035416021943092346,Miss,52:41,Right footed,E. Smith Rowe
+1,0.025176389142870903,Miss,7:46,Header,J. Andersen
+1,0.025158507749438286,Miss,90:17,Right footed,T. Cairney
+0,0.01548280194401741,Miss,90+6:36,Header,S. van den Berg
+1,0.014168829657137394,Goal,69:24,Left footed,H. Wilson
+1,0.010435194708406925,Miss,52:43,Right footed,S. Lukić

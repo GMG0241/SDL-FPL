@@ -1,0 +1,22 @@
+1,0.40180936455726624,Goal,31:15,Header,O. Watkins
+0,0.28876134753227234,Goal,71:51,Left footed,L. Delap
+0,0.16154015064239502,Miss,80:09,Right footed,W. Burns
+0,0.15910346806049347,Miss,37:07,Right footed,L. Delap
+1,0.1333044320344925,Goal,14:39,Right footed,M. Rogers
+0,0.119908407330513,Goal,7:03,Left footed,L. Delap
+0,0.11576131731271744,Miss,17:50,Header,J. Clarke
+1,0.10671602934598923,Miss,13:45,Right footed,M. Rogers
+1,0.08676043897867203,Miss,84:59,Right footed,E. Buendía
+0,0.06439848244190216,Miss,76:33,Header,A. Tuanzebe
+0,0.04651455953717232,Miss,6:53,Right footed,Sam Morsy
+1,0.04540340229868889,Miss,73:17,Right footed,J. Ramsey
+0,0.04384338855743408,Miss,17:01,Header,A. Tuanzebe
+0,0.03982539102435112,Miss,90+4:02,Header,D. O'Shea
+0,0.0350540392100811,Miss,68:06,Left footed,L. Davis
+0,0.02655627951025963,Miss,48:51,Right footed,J. Clarke
+0,0.02652660198509693,Miss,90+2:44,Right footed,J. Taylor
+1,0.026248468086123466,Miss,3:11,Right footed,Y. Tielemans
+0,0.019934330135583878,Miss,59:11,Right footed,Sam Morsy
+1,0.019881559535861015,Miss,88:44,Right footed,R. Barkley
+0,0.0187733992934227,Miss,35:14,Right footed,K. Phillips
+0,0.0157850943505764,Miss,77:42,Left footed,O. Hutchinson

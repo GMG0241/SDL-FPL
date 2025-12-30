@@ -1,0 +1,20 @@
+1,0.571953296661377,Miss,60:00,Header,M. Lacroix
+1,0.35661110281944275,Miss,71:14,Left footed,J. Mateta
+1,0.10604803264141083,Goal,65:06,Right footed,D. Muñoz
+1,0.08887149393558502,Miss,34:43,Right footed,E. Eze
+1,0.05209461227059364,Miss,60:04,Right footed,J. Lerma
+0,0.03988528624176979,Miss,90+6:20,Right footed,Willian
+1,0.039142757654190063,Miss,22:53,Left footed,W. Hughes
+1,0.03578435629606247,Miss,32:26,Right footed,E. Eze
+0,0.03023562952876091,Miss,73:15,Right footed,R. Jiménez
+1,0.029842199757695198,Miss,39:30,Right footed,E. Eze
+1,0.029421770945191383,Miss,2:42,Left footed,J. Mateta
+0,0.02938145026564598,Miss,74:09,Right footed,J. Andersen
+0,0.019983652979135513,Miss,73:55,Right footed,Andreas Pereira
+0,0.0182893555611372,Miss,17:07,Right footed,Adama Traoré
+0,0.016201898455619812,Miss,48:35,Header,R. Jiménez
+0,0.01559177041053772,Miss,64:50,Right footed,Andreas Pereira
+1,0.012839139439165592,Miss,24:44,Right footed,E. Eze
+0,0.012789959087967873,Miss,9:29,Left footed,A. Robinson
+0,0.01265537180006504,Miss,49:07,Right footed,E. Smith Rowe
+0,0.009945363737642765,Miss,18:01,Right footed,A. Iwobi

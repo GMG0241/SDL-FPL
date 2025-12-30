@@ -1,0 +1,33 @@
+0,0.42764341831207275,Miss,52:53,Left footed,Y. Wissa
+0,0.27818143367767334,Miss,85:33,Right footed,Fábio Carvalho
+0,0.2740715742111206,Miss,11:45,Header,Y. Wissa
+1,0.2552388906478882,Goal,86:33,Right footed,P. Sarr
+1,0.15280191600322723,Miss,54:21,Right footed,D. Kulusevski
+0,0.15034553408622742,Miss,2:09,Left footed,M. Damsgaard
+1,0.12418342381715775,Miss,19:53,Right footed,Richarlison
+0,0.11923378705978394,Miss,90+4:05,Header,K. Schade
+0,0.10545247048139572,Miss,32:42,Right footed,C. Nørgaard
+0,0.1053338274359703,Miss,18:27,Right footed,K. Schade
+0,0.10471783578395844,Miss,35:58,Header,K. Schade
+0,0.08574929088354111,Miss,22:03,Header,Y. Wissa
+0,0.08038435876369476,Miss,26:57,Left footed,B. Mbeumo
+1,0.07890725135803223,Miss,19:57,Left footed,D. Kulusevski
+1,0.06930458545684814,Miss,59:31,Left footed,L. Bergvall
+0,0.06039711833000183,Miss,32:40,Right footed,K. Ajer
+0,0.053826384246349335,Miss,45+1:16,Right footed,B. Mbeumo
+1,0.04826686903834343,Miss,27:22,Left footed,Y. Bissouma
+0,0.04610539600253105,Miss,51:40,Left footed,K. Schade
+0,0.04338037222623825,Miss,90:22,Left footed,B. Mbeumo
+0,0.04320341348648071,Miss,74:51,Left footed,B. Mbeumo
+0,0.03078397363424301,Miss,76:57,Header,S. van den Berg
+1,0.02759302221238613,Miss,5:21,Right footed,D. Kulusevski
+1,0.02123446576297283,Miss,40:03,Right footed,Y. Bissouma
+1,0.019039176404476166,Miss,27:20,Right footed,Son Heung-Min
+0,0.01726337894797325,Miss,67:48,Right footed,M. Jensen
+1,0.016906438395380974,Miss,24:16,Right footed,Pedro Porro
+1,0.016874901950359344,Miss,36:35,Right footed,Son Heung-Min
+0,0.016497842967510223,Miss,79:55,Right footed,K. Lewis-Potter
+1,0.01643473654985428,Miss,23:54,Right footed,D. Spence
+1,0.012890605255961418,Miss,39:00,Header,D. Kulusevski
+0,0.008933060802519321,Miss,66:10,Right footed,K. Lewis-Potter
+0,0.00766037730500102,Miss,61:57,Right footed,M. Damsgaard

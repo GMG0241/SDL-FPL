@@ -1,0 +1,34 @@
+0,0.7884,Goal,59:50,Right footed,Igor Thiago
+0,0.6156588196754456,Goal,44:52,Right footed,K. Schade
+1,0.29614561796188354,Miss,63:57,Left footed,A. Mac Allister
+1,0.2195732444524765,Miss,19:37,Left footed,F. Wirtz
+1,0.20177055895328522,Miss,9:48,Left footed,Mohamed Salah
+1,0.17380577325820923,Miss,21:17,Header,H. Ekitiké
+1,0.14275480806827545,Miss,64:01,Left footed,Mohamed Salah
+1,0.1368599534034729,Miss,90+10:47,Right footed,Mohamed Salah
+0,0.10845927149057388,Miss,53:11,Left footed,Igor Thiago
+1,0.10188271850347519,Miss,90+10:49,Right footed,F. Chiesa
+0,0.09765373915433884,Goal,4:47,Left footed,D. Ouattara
+1,0.0971069484949112,Miss,90+10:51,Right footed,J. Gomez
+1,0.09581631422042847,Miss,19:35,Right footed,H. Ekitiké
+0,0.08426275849342346,Miss,83:14,Header,D. Ouattara
+0,0.08118001371622086,Miss,29:08,Header,N. Collins
+1,0.07758767157793045,Goal,88:03,Right footed,Mohamed Salah
+0,0.07040490210056305,Miss,31:27,Left footed,M. Kayode
+0,0.06470662355422974,Miss,89:10,Header,Igor Thiago
+0,0.06375700980424881,Miss,64:59,Header,D. Ouattara
+1,0.0562630221247673,Miss,40:25,Right footed,C. Jones
+0,0.05551169067621231,Miss,54:57,Right footed,M. Damsgaard
+0,0.042039163410663605,Miss,51:01,Left footed,Igor Thiago
+0,0.03479586914181709,Miss,37:27,Left footed,D. Ouattara
+1,0.03247269243001938,Miss,23:54,Right footed,C. Gakpo
+1,0.03152523934841156,Miss,68:35,Left footed,F. Chiesa
+0,0.03065422922372818,Miss,31:41,Right footed,J. Henderson
+0,0.027821244671940804,Miss,54:22,Header,D. Ouattara
+1,0.02473653480410576,Miss,76:51,Right footed,H. Ekitiké
+1,0.024127177894115448,Miss,90+10:55,Left footed,D. Szoboszlai
+0,0.02341577224433422,Miss,34:41,Right footed,K. Ajer
+1,0.019451817497611046,Miss,82:22,Left footed,Mohamed Salah
+0,0.014068144373595715,Miss,38:51,Right footed,M. Damsgaard
+0,0.01116133015602827,Miss,2:58,Right footed,K. Ajer
+1,0.010536729358136654,Miss,77:22,Header,H. Ekitiké

@@ -1,0 +1,29 @@
+0,0.7884,Goal,75:04,Right footed,I. Ndiaye
+0,0.42551130056381226,Goal,90+2:21,Left footed,J. Grealish
+0,0.2971121072769165,Miss,90+2:18,Header,Beto
+1,0.28645652532577515,Miss,63:09,Left footed,J. Mateta
+1,0.24396546185016632,Miss,90+11:13,Right footed,J. Devenny
+1,0.20371204614639282,Miss,18:29,Left footed,M. Guéhi
+1,0.181345134973526,Miss,63:07,Right footed,I. Sarr
+0,0.16481001675128937,Miss,65:33,Left footed,C. Alcaraz
+1,0.12614573538303375,Miss,59:28,Right footed,J. Mateta
+1,0.11056984961032867,Goal,36:52,Right footed,D. Muñoz
+1,0.07987721264362335,Miss,1:16,Header,C. Richards
+0,0.07704176008701324,Miss,62:24,Right footed,M. Keane
+0,0.07525205612182617,Miss,47:45,Header,J. O'Brien
+0,0.07386602461338043,Miss,62:25,Right footed,M. Keane
+1,0.07265999168157578,Miss,26:15,Right footed,J. Mateta
+0,0.06382838636636734,Miss,77:26,Header,Beto
+1,0.05824213847517967,Miss,90+6:26,Right footed,J. Devenny
+1,0.04990421235561371,Miss,25:13,Left footed,T. Mitchell
+1,0.044391099363565445,Miss,11:47,Right footed,D. Kamada
+1,0.044000715017318726,Miss,1:23,Right footed,Yeremy Pino
+0,0.03965556249022484,Miss,48:04,Right footed,M. Keane
+0,0.03773796185851097,Miss,80:00,Right footed,J. Grealish
+0,0.03528542444109917,Miss,89:27,Left footed,J. Garner
+0,0.034562818706035614,Miss,90:10,Right footed,C. Alcaraz
+1,0.03212219104170799,Miss,90+1:04,Left footed,A. Wharton
+0,0.025722788646817207,Miss,8:58,Right footed,J. Grealish
+1,0.02276151441037655,Miss,56:32,Left footed,D. Kamada
+1,0.022359073162078857,Miss,1:58,Left footed,T. Mitchell
+0,0.019176455214619637,Miss,16:59,Left footed,V. Mykolenko

@@ -1,0 +1,31 @@
+1,0.24464690685272217,Miss,90+6:18,Right footed,H. Maguire
+1,0.23778828978538513,Miss,90+1:37,Header,H. Maguire
+1,0.14757120609283447,Miss,27:30,Right footed,M. de Ligt
+1,0.11947914958000183,Miss,90+6:17,Right footed,H. Maguire
+0,0.11845109611749649,Goal,4:48,Left footed,A. Elanga
+1,0.11460407078266144,Miss,79:02,Right footed,M. Mount
+0,0.10785963386297226,Miss,83:31,Left footed,T. Awoniyi
+1,0.08671488612890244,Miss,68:07,Right footed,A. Garnacho
+0,0.08070328831672668,Miss,45+1:16,Header,Morato
+1,0.07865654677152634,Miss,75:16,Header,P. Dorgu
+1,0.07478558272123337,Miss,9:47,Right footed,P. Dorgu
+0,0.0643896758556366,Miss,50:30,Left footed,M. Gibbs-White
+1,0.056505028158426285,Miss,27:28,Header,Diogo Dalot
+1,0.05000187084078789,Miss,30:04,Right footed,Bruno Fernandes
+0,0.04977802559733391,Miss,89:58,Right footed,N. Williams
+1,0.04825664311647415,Miss,7:15,Header,Bruno Fernandes
+1,0.04479693993926048,Miss,74:54,Right footed,A. Garnacho
+1,0.04443785920739174,Miss,39:53,Header,P. Dorgu
+1,0.03727641701698303,Miss,12:14,Header,Casemiro
+1,0.037105925381183624,Miss,45+5:20,Right footed,Casemiro
+1,0.03601967915892601,Miss,68:54,Right footed,A. Garnacho
+1,0.03303658217191696,Miss,90+2:58,Right footed,A. Garnacho
+1,0.028967294842004776,Miss,72:44,Right footed,A. Garnacho
+1,0.028355250135064125,Miss,3:53,Right footed,Bruno Fernandes
+1,0.027672283351421356,Miss,46:13,Right footed,R. Højlund
+1,0.024634256958961487,Miss,57:54,Right footed,A. Garnacho
+1,0.020830189809203148,Miss,30:32,Header,P. Dorgu
+1,0.018387161195278168,Miss,46:56,Header,Casemiro
+0,0.01835603266954422,Miss,33:51,Header,N. Milenković
+0,0.017959076911211014,Miss,47:33,Right footed,R. Yates
+0,0.01783132553100586,Miss,83:34,Right footed,R. Yates

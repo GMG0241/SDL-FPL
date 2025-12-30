@@ -1,0 +1,19 @@
+1,0.43355241417884827,Miss,27:01,Left footed,O. Watkins
+1,0.3854098916053772,Goal,27:02,Left footed,A. Onana
+1,0.27483585476875305,Miss,20:53,Right footed,O. Watkins
+0,0.15100982785224915,Goal,72:02,Left footed,F. Buonanotte
+1,0.14843876659870148,Goal,62:59,Header,J. Durán
+1,0.09062362462282181,Miss,19:54,Left footed,J. McGinn
+1,0.08301971852779388,Miss,84:09,Left footed,J. Durán
+0,0.07527167350053787,Miss,78:00,Header,J. Justin
+1,0.05909157544374466,Miss,32:50,Right footed,J. Ramsey
+0,0.04622596874833107,Miss,43:25,Right footed,O. Skipp
+0,0.03927629068493843,Miss,56:09,Right footed,J. Ayew
+1,0.038297079503536224,Miss,23:14,Right footed,A. Onana
+0,0.037340108305215836,Miss,55:29,Right footed,C. Okoli
+0,0.03410660848021507,Miss,80:22,Right footed,B. El Khannouss
+0,0.03348376229405403,Miss,60:11,Left footed,A. Fatawu
+1,0.025730425491929054,Miss,45:44,Right footed,A. Onana
+0,0.020291896536946297,Miss,90+3:51,Left footed,F. Buonanotte
+0,0.0127249239012599,Miss,49:01,Header,A. Fatawu
+1,0.01104350108653307,Miss,90+3:37,Left footed,I. Maatsen

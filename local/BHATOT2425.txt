@@ -1,0 +1,24 @@
+0,0.5588469505310059,Goal,65:05,Header,D. Welbeck
+0,0.5218044519424438,Miss,31:22,Right footed,D. Welbeck
+1,0.4827619194984436,Goal,23:00,Left footed,B. Johnson
+0,0.2473631203174591,Goal,47:25,Left footed,Y. Minteh
+0,0.1724676489830017,Goal,57:31,Left footed,G. Rutter
+1,0.11161411553621292,Miss,43:05,Right footed,B. Johnson
+1,0.10911330580711365,Miss,82:57,Right footed,D. Udogie
+1,0.10415921360254288,Miss,52:05,Header,C. Romero
+1,0.10227996855974197,Miss,4:33,Left footed,J. Maddison
+1,0.10224439948797226,Goal,36:44,Right footed,J. Maddison
+1,0.07327593863010406,Miss,14:52,Right footed,T. Werner
+0,0.06870828568935394,Miss,60:58,Right footed,K. Mitoma
+1,0.05951092764735222,Miss,78:06,Left footed,J. Maddison
+1,0.05598073452711105,Miss,46:07,Header,C. Romero
+0,0.0543636791408062,Miss,36:05,Header,J. Hinshelwood
+0,0.047190334647893906,Miss,55:09,Header,G. Rutter
+1,0.04302952438592911,Miss,2:29,Left footed,D. Kulusevski
+1,0.042876437306404114,Miss,71:43,Right footed,T. Werner
+1,0.02824530191719532,Miss,46:07,Right footed,B. Johnson
+0,0.026901323348283768,Miss,55:45,Left footed,K. Mitoma
+0,0.026453128084540367,Miss,39:09,Header,D. Welbeck
+1,0.025688769295811653,Miss,77:44,Right footed,Pedro Porro
+0,0.01866845041513443,Miss,27:44,Right footed,K. Mitoma
+0,0.015087983570992947,Miss,84:31,Left footed,Y. Minteh

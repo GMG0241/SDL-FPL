@@ -1,0 +1,27 @@
+0,0.6486174464225769,Goal,41:47,Header,E. Haaland
+0,0.5926985144615173,Goal,57:33,Left footed,P. Foden
+1,0.370165079832077,Goal,70:06,Left footed,N. Füllkrug
+0,0.29859286546707153,Goal,54:54,Left footed,E. Haaland
+1,0.20064930617809296,Miss,65:38,Right footed,T. Souček
+0,0.16981424391269684,Miss,31:53,Right footed,Bernardo Silva
+1,0.16103191673755646,Miss,8:18,Right footed,T. Souček
+1,0.0936678871512413,Miss,30:24,Header,N. Füllkrug
+1,0.0835222452878952,Miss,6:06,Right footed,M. Kudus
+1,0.08098632842302322,Miss,80:56,Right footed,C. Summerville
+1,0.06510422378778458,Miss,3:26,Left footed,M. Kudus
+0,0.06280652433633804,Miss,37:06,Right footed,R. Lewis
+1,0.04501840099692345,Miss,50:04,Right footed,V. Coufal
+1,0.04240647330880165,Miss,28:40,Left footed,Lucas Paquetá
+1,0.041021738201379776,Miss,85:10,Left footed,Lucas Paquetá
+1,0.03928497061133385,Miss,64:51,Left footed,Lucas Paquetá
+0,0.03773796185851097,Miss,29:31,Left footed,Savinho
+0,0.036897752434015274,Miss,90+1:26,Right footed,J. Grealish
+1,0.03393958881497383,Miss,33:37,Left footed,M. Kudus
+1,0.03072657249867916,Miss,50:02,Left footed,M. Kudus
+0,0.02967751957476139,Miss,90+6:04,Right footed,K. De Bruyne
+1,0.025280285626649857,Miss,82:38,Header,T. Souček
+1,0.022403502836823463,Miss,23:45,Left footed,M. Kudus
+1,0.02094634808599949,Miss,76:49,Left footed,A. Wan-Bissaka
+0,0.01944665238261223,Miss,12:43,Right footed,Savinho
+1,0.016575710847973824,Miss,45:42,Header,C. Summerville
+0,0.015534661710262299,Miss,16:19,Left footed,P. Foden

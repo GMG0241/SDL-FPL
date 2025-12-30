@@ -1,0 +1,23 @@
+1,0.7884,Goal,87:36,Left footed,Lucas Paquetá
+1,0.4226556420326233,Miss,90+7:31,Right footed,C. Wilson
+1,0.36367267370224,Goal,90:37,Header,C. Wilson
+0,0.12153773009777069,Miss,46:01,Header,C. Wood
+0,0.12142111361026764,Miss,60:19,Right footed,C. Wood
+1,0.10467556864023209,Miss,38:28,Left footed,Lucas Paquetá
+1,0.09908364713191986,Miss,46:59,Right footed,Lucas Paquetá
+1,0.09072964638471603,Miss,68:14,Header,K. Mavropanos
+0,0.07444167882204056,Miss,71:29,Header,N. Milenković
+0,0.06882807612419128,Miss,66:43,Header,C. Wood
+0,0.06857272237539291,Miss,17:58,Header,M. Gibbs-White
+1,0.06695329397916794,Goal,83:13,Left footed,J. Bowen
+1,0.06552867591381073,Miss,14:34,Header,N. Füllkrug
+0,0.05861193686723709,Miss,61:19,Right footed,N. Williams
+1,0.038467224687337875,Miss,2:18,Header,N. Füllkrug
+1,0.03374005854129791,Miss,67:30,Right footed,C. Wilson
+1,0.033518899232149124,Miss,80:14,Right footed,C. Wilson
+1,0.03244038671255112,Miss,55:43,Left footed,N. Füllkrug
+0,0.02455899305641651,Miss,62:10,Right footed,C. Hudson-Odoi
+0,0.0216431375592947,Miss,89:42,Right footed,O. Aina
+0,0.020137466490268707,Miss,61:46,Right footed,E. Anderson
+0,0.0156424380838871,Miss,90+9:11,Right footed,O. Aina
+0,0.01263879518955946,Miss,59:04,Left footed,M. Gibbs-White

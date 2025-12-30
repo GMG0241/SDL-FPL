@@ -1,0 +1,23 @@
+0,0.7884,Miss,21:07,Left footed,C. Palmer
+0,0.10600096732378006,Miss,27:35,Left footed,C. Palmer
+0,0.10261054337024689,Miss,74:16,Left footed,E. Fernández
+0,0.07559973001480103,Miss,45+2:49,Left footed,C. Nkunku
+0,0.0745636373758316,Miss,52:28,Left footed,Pedro Neto
+0,0.07169206440448761,Miss,90+6:02,Right footed,E. Fernández
+0,0.06815391033887863,Miss,69:42,Left footed,C. Palmer
+0,0.06580659747123718,Miss,45:59,Left footed,Marc Cucurella
+0,0.0562630221247673,Miss,79:07,Right footed,J. Sancho
+0,0.05452145263552666,Miss,27:38,Right footed,M. Caicedo
+0,0.053913868963718414,Miss,7:10,Left footed,C. Palmer
+0,0.05340781435370445,Miss,22:35,Header,C. Nkunku
+1,0.048170071095228195,Miss,6:12,Right footed,B. El Khannouss
+0,0.039206985384225845,Miss,22:28,Header,W. Fofana
+0,0.03816809505224228,Miss,66:51,Right footed,E. Fernández
+1,0.037650853395462036,Miss,84:57,Left footed,Ricardo Pereira
+0,0.03328366577625275,Miss,8:04,Left footed,C. Palmer
+0,0.026345301419496536,Goal,59:50,Left footed,Marc Cucurella
+0,0.02184283547103405,Miss,45+3:24,Header,C. Nkunku
+0,0.018433749675750732,Miss,81:21,Header,T. Adarabioyo
+0,0.016666702926158905,Miss,71:28,Header,L. Colwill
+1,0.015619935467839241,Miss,51:23,Right footed,J. Vardy
+0,0.01314183697104454,Miss,30:57,Right footed,E. Fernández

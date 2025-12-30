@@ -1,0 +1,25 @@
+1,0.4383911192417145,Miss,68:17,Right footed,D. Solanke
+0,0.13691915571689606,Miss,33:45,Left footed,T. Castagne
+0,0.13091124594211578,Miss,90:36,Right footed,Andreas Pereira
+1,0.12697528302669525,Miss,90+3:51,Left footed,D. Solanke
+0,0.12662281095981598,Goal,87:15,Right footed,R. Sessegnon
+0,0.1209157183766365,Miss,39:46,Right footed,A. Iwobi
+0,0.11851293593645096,Goal,77:32,Right footed,Rodrigo Muniz
+1,0.10347491502761841,Miss,45:48,Header,R. Bentancur
+0,0.08129046112298965,Miss,90:41,Header,Rodrigo Muniz
+1,0.0657033696770668,Miss,14:56,Header,R. Bentancur
+0,0.05421305447816849,Miss,50:44,Left footed,E. Smith Rowe
+1,0.05249497666954994,Miss,81:59,Left footed,Son Heung-Min
+0,0.04460674151778221,Miss,43:25,Right footed,R. Jiménez
+0,0.04383355379104614,Miss,75:42,Right footed,Willian
+0,0.04116686433553696,Miss,50:05,Right footed,Willian
+1,0.035835426300764084,Miss,60:03,Right footed,L. Bergvall
+1,0.03581412509083748,Miss,89:20,Header,D. Scarlett
+1,0.03250497207045555,Miss,52:29,Header,D. Solanke
+0,0.03083229437470436,Miss,41:17,Header,J. Andersen
+0,0.027303267270326614,Miss,30:04,Left footed,J. Andersen
+1,0.02464735135436058,Miss,68:15,Left footed,M. Tel
+0,0.014824481680989265,Miss,30:54,Right footed,Andreas Pereira
+1,0.013927018269896507,Miss,65:05,Header,B. Davies
+1,0.012119193561375141,Miss,46:17,Right footed,R. Bentancur
+1,0.009625084698200226,Miss,53:59,Header,D. Solanke

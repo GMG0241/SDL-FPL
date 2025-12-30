@@ -1,0 +1,29 @@
+1,0.3597344756126404,Miss,29:53,Left footed,Igor Thiago
+1,0.3024888336658478,Goal,90+4:00,Right footed,M. Jensen
+1,0.2698558270931244,Miss,61:18,Header,K. Schade
+1,0.21334411203861237,Miss,55:42,Header,K. Ajer
+1,0.1323172003030777,Goal,42:29,Right footed,Igor Thiago
+1,0.132284015417099,Miss,39:26,Header,D. Ouattara
+1,0.09932156652212143,Miss,30:42,Right footed,Igor Thiago
+1,0.0958201140165329,Miss,14:28,Header,D. Ouattara
+1,0.09474392980337143,Miss,31:30,Right footed,Igor Thiago
+1,0.09154783189296722,Miss,60:12,Header,S. van den Berg
+1,0.08109357208013535,Miss,30:37,Left footed,Igor Thiago
+0,0.07680034637451172,Miss,54:03,Right footed,T. Souček
+0,0.07512657344341278,Miss,48:46,Right footed,C. Summerville
+0,0.06867522746324539,Miss,71:01,Right footed,J. Bowen
+1,0.067058265209198,Miss,29:52,Header,D. Ouattara
+1,0.06586708128452301,Miss,3:57,Left footed,K. Schade
+1,0.05981430038809776,Miss,28:33,Left footed,D. Ouattara
+1,0.05614909902215004,Miss,24:38,Header,N. Collins
+0,0.055217254906892776,Miss,90:18,Right footed,Lucas Paquetá
+0,0.05124810338020325,Miss,9:48,Right footed,Mateus Fernandes
+1,0.04948175698518753,Miss,85:09,Left footed,K. Lewis-Potter
+1,0.04491381347179413,Miss,30:51,Header,M. Damsgaard
+1,0.04244430363178253,Miss,8:00,Header,K. Schade
+1,0.03826691210269928,Miss,78:34,Right footed,Igor Thiago
+1,0.03205181285738945,Miss,8:54,Other body part,K. Schade
+0,0.02985798567533493,Miss,45+4:32,Left footed,J. Bowen
+1,0.025212857872247696,Miss,32:34,Header,D. Ouattara
+0,0.024377861991524696,Miss,45+5:03,Right footed,C. Summerville
+1,0.019457422196865082,Miss,47:49,Right footed,K. Ajer

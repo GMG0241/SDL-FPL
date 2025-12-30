@@ -1,0 +1,27 @@
+0,0.4815320372581482,Miss,47:45,Left footed,L. Trossard
+1,0.46781376004219055,Miss,29:31,Left footed,E. Nketiah
+1,0.27197062969207764,Miss,66:35,Other body part,I. Sarr
+1,0.19340060651302338,Miss,6:46,Header,E. Eze
+1,0.14539414644241333,Miss,64:53,Header,M. Guéhi
+1,0.13794010877609253,Miss,64:22,Header,J. Devenny
+0,0.12725411355495453,Miss,47:44,Right footed,W. Saliba
+0,0.11012201756238937,Miss,79:07,Left footed,B. Saka
+1,0.10755051672458649,Miss,7:47,Header,E. Nketiah
+0,0.10568353533744812,Miss,80:18,Header,L. Trossard
+0,0.0992656797170639,Miss,69:20,Left footed,M. Ødegaard
+1,0.09644639492034912,Miss,90:44,Right footed,I. Sarr
+0,0.08947798609733582,Goal,41:30,Left footed,L. Trossard
+1,0.07174011319875717,Goal,82:04,Right footed,J. Mateta
+1,0.05891454964876175,Miss,6:57,Left footed,D. Kamada
+1,0.058655522763729095,Goal,26:32,Right footed,E. Eze
+0,0.05792661011219025,Miss,22:45,Right footed,D. Rice
+1,0.05369272083044052,Miss,45+1:03,Left footed,A. Wharton
+1,0.0435214526951313,Miss,81:03,Right footed,I. Sarr
+0,0.04232846572995186,Goal,2:27,Header,J. Kiwior
+0,0.039286572486162186,Miss,90+1:05,Left footed,Gabriel Martinelli
+0,0.038368646055459976,Miss,9:08,Right footed,D. Rice
+1,0.03548077493906021,Miss,30:14,Right footed,E. Eze
+0,0.03431524708867073,Miss,45+1:10,Right footed,Gabriel Martinelli
+1,0.03280898928642273,Miss,44:26,Right footed,M. Guéhi
+1,0.030770357698202133,Miss,12:55,Left footed,E. Nketiah
+0,0.01972816325724125,Miss,78:25,Left footed,M. Ødegaard

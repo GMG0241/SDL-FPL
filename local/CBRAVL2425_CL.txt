@@ -1,0 +1,18 @@
+1,0.7884,Goal,87:19,Left footed,Marco Asensio
+0,0.3751712143421173,Miss,68:10,Header,H. Vanaken
+0,0.2090442031621933,Miss,73:57,Left footed,C. Tzolis
+0,0.16525553166866302,Miss,90+2:11,Left footed,H. Vetlesen
+1,0.1557479351758957,Miss,67:22,Right footed,Marco Asensio
+1,0.1409778892993927,Miss,8:30,Right footed,M. Rashford
+1,0.12746180593967438,Miss,67:24,Right footed,M. Cash
+0,0.08818406611680984,Miss,30:19,Right footed,C. Talbi
+1,0.08588789403438568,Goal,2:15,Left footed,L. Bailey
+0,0.07975893467664719,Goal,11:32,Left footed,M. De Cuyper
+1,0.05220445245504379,Miss,41:36,Header,O. Watkins
+0,0.042525764554739,Miss,64:16,Right footed,C. Tzolis
+0,0.03411479294300079,Miss,35:27,Right footed,Ferran Jutglà
+1,0.030302224680781364,Miss,62:40,Left footed,L. Bailey
+0,0.021140985190868378,Miss,54:03,Right footed,R. Onyedika
+0,0.018354520201683044,Miss,80:50,Left footed,A. Jashari
+0,0.016653025522828102,Miss,24:44,Right footed,C. Talbi
+0,0.00474298233166337,Miss,36:41,Header,B. Mechele

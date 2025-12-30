@@ -1,0 +1,38 @@
+0,0.5148396492004395,Miss,90+4:46,Header,C. Nkunku
+0,0.4962296783924103,Miss,43:18,Right footed,N. Jackson
+0,0.30120280385017395,Miss,86:48,Right footed,C. Palmer
+0,0.24091856181621552,Miss,43:17,Left footed,C. Palmer
+0,0.2017112374305725,Miss,90+1:55,Header,João Félix
+1,0.16383659839630127,Goal,48:57,Right footed,C. Wood
+1,0.12279266119003296,Miss,90+4:31,Right footed,N. Williams
+0,0.11778295040130615,Miss,62:55,Left footed,N. Madueke
+1,0.11507628113031387,Miss,43:52,Left footed,R. Yates
+0,0.09560470283031464,Miss,58:57,Left footed,N. Madueke
+0,0.09379563480615616,Miss,86:49,Right footed,C. Palmer
+1,0.09238312393426895,Miss,53:56,Right footed,E. Anderson
+0,0.06137562170624733,Miss,41:05,Left footed,E. Fernández
+1,0.06008598953485489,Miss,90+12:56,Header,Jota Silva
+0,0.05518152937293053,Miss,45+1:00,Left footed,C. Palmer
+0,0.05069267377257347,Miss,58:00,Header,N. Madueke
+1,0.047861065715551376,Miss,11:24,Header,R. Yates
+1,0.04735712707042694,Miss,69:17,Left footed,M. Gibbs-White
+0,0.04101841524243355,Miss,26:17,Right footed,M. Gusto
+0,0.03934827074408531,Miss,17:49,Right footed,M. Gusto
+1,0.03673320636153221,Miss,75:43,Right footed,J. Ward-Prowse
+1,0.03570582717657089,Miss,47:59,Header,M. Gibbs-White
+1,0.032289955765008926,Miss,90+9:54,Left footed,N. Williams
+0,0.028750406578183174,Miss,46:15,Right footed,M. Caicedo
+1,0.027687646448612213,Miss,90+12:11,Left footed,Murillo
+0,0.0271019097417593,Goal,56:17,Left footed,N. Madueke
+0,0.02375328168272972,Miss,90+5:52,Left footed,C. Palmer
+1,0.023267626762390137,Miss,38:26,Left footed,Murillo
+1,0.022409165278077126,Miss,34:36,Right footed,R. Yates
+0,0.021823201328516006,Miss,9:31,Left footed,N. Madueke
+0,0.021169891580939293,Miss,90+4:58,Left footed,M. Gusto
+1,0.020128656178712845,Miss,38:11,Right footed,E. Anderson
+0,0.01794140785932541,Miss,13:23,Right footed,N. Madueke
+0,0.017462436109781265,Miss,23:26,Left footed,N. Madueke
+1,0.01744224689900875,Miss,47:14,Left footed,O. Aina
+0,0.011967248283326626,Miss,87:08,Right footed,João Félix
+0,0.008970702067017555,Miss,65:10,Left footed,C. Palmer
+1,0.008563041687011719,Miss,44:48,Left footed,Álex Moreno

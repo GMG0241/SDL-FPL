@@ -1,0 +1,38 @@
+0,0.7195045351982117,Goal,12:04,Right footed,J. Maddison
+1,0.3507709205150604,Miss,71:13,Header,J. Zirkzee
+1,0.3137170970439911,Miss,9:36,Right footed,Diogo Dalot
+0,0.20630213618278503,Miss,52:03,Left footed,M. Tel
+0,0.18237224221229553,Miss,25:54,Left footed,M. Tel
+0,0.1403893083333969,Miss,52:02,Left footed,D. Kulusevski
+1,0.13573753833770752,Miss,22:24,Right footed,A. Garnacho
+1,0.11631564795970917,Miss,54:26,Right footed,A. Garnacho
+0,0.1086777076125145,Miss,78:20,Left footed,D. Kulusevski
+0,0.10498365759849548,Miss,60:06,Left footed,M. Tel
+1,0.09968294203281403,Miss,84:01,Left footed,Casemiro
+1,0.09723815321922302,Miss,57:35,Right footed,A. Garnacho
+1,0.09689801186323166,Miss,88:28,Header,Casemiro
+0,0.09684339910745621,Miss,12:02,Left footed,L. Bergvall
+0,0.09468171000480652,Miss,90:44,Right footed,B. Davies
+0,0.0940122976899147,Miss,60:52,Right footed,Son Heung-Min
+0,0.09248857200145721,Miss,89:00,Left footed,M. Tel
+1,0.07824172079563141,Miss,39:21,Header,M. de Ligt
+0,0.0652373731136322,Miss,48:05,Left footed,L. Bergvall
+0,0.06387690454721451,Miss,74:25,Right footed,M. Tel
+1,0.05721239745616913,Miss,83:56,Header,M. de Ligt
+0,0.05593263357877731,Miss,18:01,Left footed,D. Kulusevski
+0,0.0461963452398777,Miss,48:07,Right footed,M. Tel
+0,0.044868968427181244,Miss,48:03,Header,K. Danso
+0,0.04155292361974716,Miss,68:24,Left footed,Son Heung-Min
+0,0.037574563175439835,Miss,78:04,Right footed,Y. Bissouma
+1,0.033641498535871506,Miss,10:29,Left footed,P. Dorgu
+1,0.03179825842380524,Miss,9:25,Left footed,R. Højlund
+0,0.027729859575629234,Miss,65:47,Left footed,D. Kulusevski
+1,0.027540849521756172,Miss,9:34,Right footed,A. Garnacho
+0,0.027350598946213722,Miss,61:35,Right footed,M. Tel
+1,0.026930104941129684,Miss,78:38,Left footed,R. Højlund
+0,0.026332544162869453,Miss,12:00,Left footed,Son Heung-Min
+1,0.022707289084792137,Miss,71:54,Right footed,R. Højlund
+1,0.021213851869106293,Miss,21:51,Right footed,J. Zirkzee
+1,0.018864382058382034,Miss,24:45,Right footed,Bruno Fernandes
+0,0.018266240134835243,Miss,67:29,Right footed,D. Spence
+0,0.006359847728163004,Miss,61:26,Other body part,R. Bentancur

@@ -1,0 +1,16 @@
+1,0.5204979181289673,Miss,20:44,Left footed,A. Isak
+1,0.3432956039905548,Goal,90+1:44,Right footed,C. Gakpo
+1,0.16671647131443024,Goal,59:15,Right footed,A. Isak
+0,0.10081493109464645,Miss,87:10,Left footed,J. Bowen
+0,0.067058265209198,Miss,90+1:02,Header,N. Füllkrug
+0,0.05755268782377243,Miss,17:21,Left footed,C. Wilson
+1,0.05710882321000099,Miss,38:26,Right footed,F. Wirtz
+1,0.04349059611558914,Miss,3:48,Right footed,A. Isak
+1,0.03854040428996086,Miss,75:40,Right footed,H. Ekitiké
+1,0.03691791370511055,Miss,15:56,Header,V. van Dijk
+0,0.03353855758905411,Miss,35:07,Left footed,J. Bowen
+0,0.020468778908252716,Miss,55:23,Left footed,J. Bowen
+1,0.017299309372901917,Miss,29:16,Right footed,A. Mac Allister
+1,0.016929954290390015,Miss,49:13,Right footed,C. Gakpo
+0,0.01664155162870884,Miss,10:31,Right footed,Mateus Fernandes
+0,0.011070594191551208,Miss,57:43,Left footed,Lucas Paquetá

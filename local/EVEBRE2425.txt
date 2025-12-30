@@ -1,0 +1,36 @@
+1,0.4217272996902466,Miss,35:56,Left footed,Y. Wissa
+1,0.39335107803344727,Miss,38:37,Right footed,Y. Wissa
+0,0.21306219696998596,Miss,78:41,Header,Beto
+0,0.08707617968320847,Miss,61:08,Right footed,V. Mykolenko
+0,0.07366626709699631,Miss,90+2:39,Right footed,Beto
+1,0.07014191150665283,Miss,62:37,Right footed,M. Jensen
+1,0.07011038064956665,Miss,12:48,Right footed,S. van den Berg
+0,0.06764281541109085,Miss,47:10,Right footed,I. Ndiaye
+0,0.06680934131145477,Miss,3:48,Right footed,D. Calvert-Lewin
+0,0.0654597282409668,Miss,76:03,Header,Beto
+0,0.06422120332717896,Miss,19:39,Right footed,D. McNeil
+1,0.05195441097021103,Miss,33:58,Right footed,M. Damsgaard
+0,0.045767493546009064,Miss,44:24,Left footed,V. Mykolenko
+0,0.04130909591913223,Miss,30:01,Right footed,I. Ndiaye
+0,0.03977447375655174,Miss,90+1:54,Left footed,V. Mykolenko
+0,0.03883224353194237,Miss,60:43,Right footed,J. Lindstrøm
+0,0.037606239318847656,Miss,32:38,Left footed,D. McNeil
+0,0.037591010332107544,Miss,85:56,Right footed,D. Calvert-Lewin
+0,0.034524183720350266,Miss,90:21,Header,J. Branthwaite
+1,0.03402486816048622,Miss,38:36,Header,E. Pinnock
+0,0.03360358625650406,Miss,3:04,Left footed,I. Ndiaye
+0,0.031126482412219048,Miss,82:36,Right footed,Beto
+0,0.028963787481188774,Miss,25:50,Right footed,D. Calvert-Lewin
+0,0.02823640964925289,Miss,83:34,Left footed,D. McNeil
+0,0.02702152729034424,Miss,4:39,Header,D. Calvert-Lewin
+0,0.02310689352452755,Miss,56:15,Right footed,J. Lindstrøm
+1,0.023103605955839157,Miss,46:50,Right footed,M. Jensen
+1,0.021823201328516006,Miss,62:33,Right footed,K. Lewis-Potter
+0,0.020291896536946297,Miss,5:21,Right footed,I. Gueye
+0,0.019960321485996246,Miss,44:45,Header,D. Calvert-Lewin
+0,0.0192571971565485,Miss,7:52,Left footed,D. McNeil
+1,0.016433611512184143,Miss,6:05,Right footed,K. Lewis-Potter
+0,0.015452434308826923,Miss,49:24,Right footed,I. Gueye
+0,0.015320015139877796,Miss,45+2:40,Right footed,I. Gueye
+0,0.011555387638509274,Miss,65:14,Left footed,D. McNeil
+0,0.008322319947183132,Miss,3:47,Right footed,I. Gueye

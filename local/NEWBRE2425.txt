@@ -1,0 +1,33 @@
+1,0.7884,Goal,65:04,Left footed,B. Mbeumo
+0,0.32497942447662354,Goal,45+1:56,Right footed,A. Isak
+0,0.2312498539686203,Miss,1:36,Header,A. Isak
+1,0.21386843919754028,Miss,67:02,Header,E. Pinnock
+1,0.143571674823761,Miss,35:14,Right footed,Y. Wissa
+0,0.09058471024036407,Miss,61:57,Right footed,H. Barnes
+0,0.08608758449554443,Miss,85:36,Right footed,C. Wilson
+1,0.07521456480026245,Miss,28:48,Right footed,K. Schade
+0,0.07425268739461899,Miss,21:35,Right footed,A. Isak
+1,0.0698697417974472,Miss,90+5:47,Header,C. Nørgaard
+1,0.06911728531122208,Miss,62:26,Right footed,C. Nørgaard
+0,0.06798471510410309,Miss,30:36,Header,Joelinton
+0,0.06321407109498978,Miss,61:53,Right footed,J. Murphy
+0,0.06223582103848457,Miss,90+2:30,Left footed,J. Willock
+1,0.060706790536642075,Miss,62:09,Right footed,Y. Wissa
+1,0.060041606426239014,Miss,90+2:53,Right footed,M. Damsgaard
+0,0.05893144756555557,Miss,27:59,Right footed,H. Barnes
+0,0.05440082401037216,Miss,28:00,Right footed,S. Tonali
+0,0.053697094321250916,Miss,31:15,Right footed,H. Barnes
+0,0.050493594259023666,Miss,46:10,Right footed,H. Barnes
+1,0.04650846868753433,Miss,35:17,Right footed,B. Mbeumo
+1,0.04622234031558037,Miss,62:18,Left footed,Y. Wissa
+0,0.03819090873003006,Miss,57:16,Right footed,J. Murphy
+1,0.03284000605344772,Miss,33:19,Left footed,B. Mbeumo
+0,0.03252808749675751,Miss,10:06,Left footed,Joelinton
+0,0.027460923418402672,Miss,90:56,Left footed,H. Barnes
+1,0.02612009085714817,Miss,90+4:07,Right footed,K. Schade
+0,0.02329326421022415,Miss,86:29,Right footed,H. Barnes
+0,0.02285388484597206,Miss,88:05,Right footed,C. Wilson
+0,0.02282124198973179,Miss,54:56,Right footed,H. Barnes
+0,0.022328585386276245,Miss,42:01,Right footed,F. Schär
+0,0.01560727134346962,Miss,23:07,Left footed,J. Murphy
+0,0.008380326442420483,Goal,73:05,Right footed,S. Tonali

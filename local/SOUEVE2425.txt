@@ -1,0 +1,25 @@
+1,0.6865620017051697,Miss,84:06,Header,Beto
+1,0.3123975694179535,Miss,78:56,Left footed,J. Harrison
+0,0.19876240193843842,Miss,56:28,Right footed,T. Harwood-Bellis
+0,0.1236889436841011,Miss,45:05,Header,T. Harwood-Bellis
+0,0.12152781337499619,Goal,84:34,Right footed,A. Armstrong
+0,0.11648664623498917,Miss,63:03,Left footed,A. Armstrong
+1,0.10187994688749313,Miss,65:57,Header,M. Keane
+1,0.09401717036962509,Miss,9:50,Right footed,D. Calvert-Lewin
+1,0.06706947088241577,Miss,49:56,Right footed,O. Mangala
+0,0.06465478986501694,Miss,40:05,Right footed,C. Archer
+0,0.05436842143535614,Miss,69:29,Header,A. Armstrong
+1,0.05314970016479492,Miss,79:32,Right footed,O. Mangala
+1,0.03735428676009178,Miss,57:43,Left footed,O. Mangala
+1,0.03231598809361458,Miss,57:46,Left footed,V. Mykolenko
+1,0.03176893666386604,Miss,77:02,Right footed,J. Lindstrøm
+1,0.03087696060538292,Miss,65:40,Right footed,I. Gueye
+1,0.02619759738445282,Miss,2:27,Right footed,J. Lindstrøm
+0,0.024882057681679726,Miss,75:16,Left footed,K. Walker-Peters
+1,0.023353107273578644,Miss,42:58,Right footed,I. Ndiaye
+0,0.021294765174388885,Miss,60:49,Left footed,J. Aribo
+1,0.020665425807237625,Miss,41:29,Header,J. Tarkowski
+0,0.018701797351241112,Miss,59:33,Header,J. Aribo
+1,0.01803639903664589,Miss,37:23,Left footed,J. Lindstrøm
+1,0.01466209813952446,Miss,77:43,Left footed,J. Harrison
+1,0.011508338153362274,Miss,21:56,Left footed,I. Ndiaye

@@ -1,0 +1,27 @@
+0,0.6644963026046753,Miss,62:42,Header,E. Haaland
+0,0.5237640738487244,Miss,90+5:39,Right footed,E. Haaland
+0,0.3831931948661804,Miss,51:35,Left footed,E. Haaland
+0,0.3753144145011902,Goal,4:43,Left footed,E. Haaland
+0,0.16203179955482483,Miss,49:02,Header,E. Haaland
+0,0.11845109611749649,Miss,41:19,Left footed,E. Haaland
+1,0.10218233615159988,Miss,45:45,Left footed,C. Archer
+0,0.09301648288965225,Miss,23:35,Right footed,M. Kovačić
+0,0.0909634679555893,Miss,72:10,Left footed,P. Foden
+0,0.058740437030792236,Miss,45:20,Left footed,P. Foden
+0,0.057510100305080414,Miss,8:43,Left footed,Savinho
+0,0.05616900324821472,Miss,44:05,Header,E. Haaland
+0,0.05412741005420685,Miss,43:34,Right footed,M. Kovačić
+1,0.052028946578502655,Miss,74:03,Right footed,A. Armstrong
+0,0.05030299723148346,Miss,49:10,Header,E. Haaland
+0,0.049137797206640244,Miss,39:06,Right footed,J. Gvardiol
+0,0.044383879750967026,Miss,59:49,Right footed,Matheus Nunes
+0,0.03531402349472046,Miss,85:15,Left footed,M. Akanji
+0,0.03469367325305939,Miss,51:19,Right footed,M. Kovačić
+0,0.02720773033797741,Miss,69:02,Left footed,P. Foden
+1,0.024577653035521507,Miss,90+2:55,Header,P. Onuachu
+0,0.02213311567902565,Miss,7:24,Left footed,J. Gvardiol
+1,0.017601625993847847,Miss,49:49,Left footed,A. Armstrong
+0,0.017378024756908417,Miss,3:26,Right footed,Rúben Dias
+0,0.015958843752741814,Miss,10:56,Right footed,Matheus Nunes
+1,0.011091919615864754,Miss,88:59,Header,P. Onuachu
+0,0.01079673133790493,Miss,68:08,Left footed,Savinho

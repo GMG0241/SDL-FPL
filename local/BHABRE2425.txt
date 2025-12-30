@@ -1,0 +1,32 @@
+1,0.4672055244445801,Miss,64:16,Right footed,K. Lewis-Potter
+1,0.16603000462055206,Miss,69:53,Left footed,Y. Wissa
+1,0.15297609567642212,Miss,55:52,Right footed,Y. Wissa
+1,0.12256516516208649,Miss,73:15,Header,N. Collins
+0,0.10921496897935867,Miss,3:50,Right footed,J. Enciso
+0,0.10459717363119125,Miss,12:15,Header,J. Enciso
+0,0.0992586687207222,Miss,29:29,Right footed,J. Enciso
+0,0.09701879322528839,Miss,78:52,Right footed,Y. Ayari
+0,0.07932987064123154,Miss,18:41,Left footed,B. Gruda
+0,0.07748729735612869,Miss,22:30,Right footed,M. O'Riley
+0,0.07540629059076309,Miss,7:20,Left footed,M. O'Riley
+0,0.06489866971969604,Miss,90+4:35,Left footed,S. March
+0,0.059641946107149124,Miss,84:01,Left footed,J. Veltman
+0,0.054189834743738174,Miss,21:56,Header,J. Enciso
+0,0.04943405091762543,Miss,57:29,Left footed,João Pedro
+0,0.04695966839790344,Miss,38:49,Right footed,João Pedro
+0,0.0461747944355011,Miss,58:22,Header,K. Mitoma
+1,0.04518761485815048,Miss,40:04,Right footed,Y. Wissa
+0,0.04401388764381409,Miss,47:23,Left footed,M. O'Riley
+1,0.042375463992357254,Miss,63:34,Right footed,C. Nørgaard
+0,0.03877560794353485,Miss,38:51,Left footed,J. Enciso
+0,0.038689855486154556,Miss,8:00,Left footed,J. Enciso
+0,0.038120418787002563,Miss,80:54,Right footed,G. Rutter
+1,0.036817517131567,Miss,45+4:22,Left footed,B. Mbeumo
+1,0.036817517131567,Miss,85:29,Right footed,M. Damsgaard
+0,0.035900454968214035,Miss,7:01,Left footed,C. Baleba
+0,0.030923403799533844,Miss,86:49,Header,G. Rutter
+0,0.03061019629240036,Miss,37:25,Right footed,J. Enciso
+0,0.028340013697743416,Miss,41:17,Left footed,M. O'Riley
+0,0.02743634022772312,Miss,4:54,Header,J. Enciso
+0,0.015345189720392227,Miss,48:33,Right footed,L. Dunk
+0,0.014230571687221527,Miss,42:53,Left footed,K. Mitoma

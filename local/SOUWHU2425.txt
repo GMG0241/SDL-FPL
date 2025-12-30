@@ -1,0 +1,34 @@
+1,0.6469500660896301,Goal,58:31,Left footed,J. Bowen
+0,0.3416086733341217,Miss,9:37,Header,P. Onuachu
+1,0.32348525524139404,Miss,4:01,Right footed,Carlos Soler
+0,0.1355166733264923,Miss,17:25,Header,Mateus Fernandes
+1,0.1315261721611023,Miss,58:30,Header,N. Füllkrug
+0,0.12063911557197571,Miss,88:06,Right footed,P. Onuachu
+0,0.11051992326974869,Miss,45+3:17,Header,P. Onuachu
+1,0.10867627710103989,Miss,74:08,Left footed,M. Kudus
+1,0.10853651911020279,Miss,43:29,Right footed,A. Wan-Bissaka
+0,0.09860429167747498,Miss,45+8:39,Header,P. Onuachu
+0,0.09709355235099792,Miss,90+4:01,Left footed,T. Dibling
+1,0.09116575866937637,Miss,66:08,Left footed,J. Bowen
+1,0.08166693150997162,Miss,4:04,Right footed,G. Rodríguez
+0,0.07708734273910522,Miss,68:14,Left footed,Mateus Fernandes
+1,0.07385020703077316,Miss,3:10,Left footed,Emerson
+0,0.07078630477190018,Miss,13:24,Right footed,L. Ugochukwu
+0,0.06664519757032394,Miss,24:16,Header,P. Onuachu
+0,0.05010830983519554,Miss,45+3:59,Header,N. Wood-Gordon
+1,0.043680112808942795,Miss,69:48,Right footed,C. Summerville
+1,0.04207131266593933,Miss,12:33,Left footed,J. Bowen
+1,0.04020541533827782,Miss,78:31,Header,J. Bowen
+0,0.03919567912817001,Miss,42:02,Left footed,Y. Sugawara
+0,0.03916905075311661,Miss,90+5:56,Header,P. Onuachu
+0,0.03809986263513565,Miss,64:31,Right footed,A. Armstrong
+1,0.035795003175735474,Miss,45+2:34,Right footed,M. Kudus
+0,0.03544711694121361,Miss,89:20,Header,P. Onuachu
+1,0.03328033909201622,Miss,22:42,Left footed,J. Bowen
+1,0.029780616983771324,Miss,66:12,Left footed,M. Kudus
+1,0.026660066097974777,Miss,0:11,Left footed,J. Bowen
+0,0.026485297828912735,Miss,90+5:45,Header,P. Onuachu
+0,0.023011134937405586,Miss,21:11,Right footed,K. Walker-Peters
+1,0.02241061069071293,Miss,66:22,Right footed,A. Wan-Bissaka
+0,0.021942343562841415,Miss,45:30,Header,K. Walker-Peters
+0,0.007208067923784256,Miss,42:04,Right footed,F. Downes

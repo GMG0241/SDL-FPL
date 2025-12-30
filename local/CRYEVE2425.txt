@@ -1,0 +1,28 @@
+0,0.5333306789398193,Goal,46:29,Left footed,J. Mateta
+1,0.27674826979637146,Miss,56:29,Right footed,Beto
+0,0.20385192334651947,Miss,5:54,Right footed,J. Mateta
+1,0.19155573844909668,Goal,41:53,Right footed,Beto
+0,0.17089910805225372,Miss,40:52,Right footed,I. Sarr
+1,0.13255628943443298,Goal,79:18,Right footed,C. Alcaraz
+0,0.1259118914604187,Miss,45:55,Header,C. Richards
+1,0.10704775154590607,Miss,53:01,Left footed,J. Lindstrøm
+0,0.08514542877674103,Miss,81:15,Header,M. Lacroix
+0,0.07263127714395523,Miss,18:33,Header,M. Guéhi
+0,0.05893651023507118,Miss,52:24,Right footed,E. Eze
+0,0.05861193686723709,Miss,63:04,Left footed,D. Muñoz
+0,0.05532272532582283,Miss,90+5:20,Right footed,E. Nketiah
+0,0.055180568248033524,Miss,90+5:51,Left footed,I. Sarr
+1,0.04955814406275749,Miss,79:16,Right footed,A. Young
+0,0.048879001289606094,Miss,53:19,Right footed,E. Eze
+1,0.04709244519472122,Miss,73:08,Left footed,Beto
+1,0.047063589096069336,Miss,65:18,Left footed,I. Gueye
+0,0.04622101038694382,Miss,70:13,Left footed,B. Chilwell
+0,0.04101281985640526,Miss,85:00,Left footed,E. Eze
+0,0.03725014254450798,Miss,54:46,Left footed,M. Lacroix
+1,0.03714205324649811,Miss,55:35,Right footed,C. Alcaraz
+1,0.02878062054514885,Miss,32:54,Right footed,C. Alcaraz
+1,0.027794044464826584,Miss,31:27,Right footed,C. Alcaraz
+0,0.02692042849957943,Miss,6:41,Left footed,J. Devenny
+0,0.01939890719950199,Miss,70:55,Right footed,E. Eze
+0,0.018940268084406853,Miss,15:24,Left footed,W. Hughes
+1,0.01833529770374298,Miss,57:14,Header,C. Alcaraz

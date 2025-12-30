@@ -1,0 +1,34 @@
+0,0.5029442310333252,Goal,86:21,Left footed,D. Ouattara
+0,0.2458314299583435,Goal,54:28,Header,D. Ouattara
+0,0.1933990716934204,Miss,90+8:38,Left footed,M. Tavernier
+1,0.18425145745277405,Miss,66:17,Right footed,M. Gibbs-White
+1,0.16792351007461548,Miss,48:59,Header,N. Milenković
+0,0.10671702772378922,Goal,60:56,Left footed,D. Ouattara
+0,0.10056407004594803,Miss,56:39,Left footed,A. Semenyo
+1,0.09948018938302994,Miss,68:16,Header,Morato
+0,0.09328833222389221,Miss,45:46,Header,D. Ouattara
+1,0.08766063302755356,Miss,11:07,Right footed,M. Gibbs-White
+0,0.0756547823548317,Goal,8:10,Right footed,J. Kluivert
+0,0.07102955877780914,Miss,20:06,Left footed,R. Christie
+0,0.06422120332717896,Miss,76:29,Right footed,J. Kluivert
+1,0.06178677827119827,Miss,48:55,Header,N. Milenković
+1,0.06089009344577789,Miss,42:54,Right footed,N. Williams
+0,0.05177280306816101,Miss,56:41,Left footed,A. Semenyo
+0,0.048108551651239395,Goal,90:06,Right footed,A. Semenyo
+1,0.04307210445404053,Miss,49:34,Right footed,M. Gibbs-White
+1,0.042092859745025635,Miss,52:00,Right footed,A. Elanga
+1,0.037581317126750946,Miss,90+4:01,Right footed,A. Elanga
+0,0.03683638572692871,Miss,28:55,Right footed,J. Kluivert
+0,0.036092810332775116,Miss,25:30,Right footed,A. Semenyo
+1,0.035132694989442825,Miss,81:01,Left footed,A. Elanga
+0,0.03309275209903717,Miss,20:36,Left footed,D. Brooks
+1,0.031142456457018852,Miss,49:36,Right footed,Jota Silva
+1,0.0295812226831913,Miss,70:15,Right footed,A. Elanga
+0,0.027953393757343292,Miss,65:16,Right footed,D. Brooks
+1,0.027357317507267,Miss,0:12,Left footed,A. Elanga
+0,0.024503013119101524,Miss,86:18,Left footed,M. Tavernier
+1,0.020739201456308365,Miss,88:26,Header,R. Sosa
+1,0.015825534239411354,Miss,9:45,Right footed,R. Yates
+1,0.013256068341434002,Miss,15:30,Right footed,E. Anderson
+1,0.011838926933705807,Miss,30:38,Header,N. Milenković
+1,0.01174131315201521,Miss,38:17,Left footed,Murillo

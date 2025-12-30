@@ -1,0 +1,29 @@
+0,0.27265387773513794,Miss,3:25,Right footed,J. Vardy
+1,0.17188990116119385,Miss,61:34,Other body part,T. Collyer
+0,0.1609099805355072,Miss,90+6:15,Left footed,J. Vardy
+0,0.16043667495250702,Miss,74:43,Right footed,F. Buonanotte
+0,0.14835047721862793,Miss,42:57,Right footed,P. Daka
+1,0.13871614634990692,Goal,27:19,Right footed,R. Højlund
+1,0.10261054337024689,Goal,89:09,Right footed,Bruno Fernandes
+0,0.10129973292350769,Miss,47:02,Right footed,P. Daka
+1,0.07182064652442932,Miss,21:56,Right footed,Bruno Fernandes
+1,0.06207933649420738,Goal,66:53,Right footed,A. Garnacho
+0,0.06056180223822594,Miss,42:59,Right footed,B. El Khannouss
+1,0.05715968459844589,Miss,0:54,Left footed,R. Højlund
+1,0.04499388858675957,Miss,5:40,Header,R. Højlund
+0,0.035557109862565994,Miss,43:38,Left footed,P. Daka
+0,0.035473864525556564,Miss,54:25,Right footed,B. Soumaré
+0,0.03504474088549614,Miss,54:32,Header,J. Vardy
+1,0.03197452798485756,Miss,40:47,Right footed,Bruno Fernandes
+1,0.031824562698602676,Miss,66:32,Right footed,Diogo Dalot
+1,0.03152468055486679,Miss,8:19,Right footed,M. Ugarte
+1,0.03067750483751297,Miss,55:40,Right footed,C. Eriksen
+1,0.025978589430451393,Miss,10:29,Right footed,M. Ugarte
+0,0.025512738153338432,Miss,90+4:52,Left footed,H. Winks
+1,0.023890597745776176,Miss,60:42,Right footed,C. Eriksen
+1,0.020909611135721207,Miss,78:27,Right footed,Casemiro
+1,0.020430004224181175,Miss,61:38,Right footed,A. Garnacho
+1,0.017613371834158897,Miss,18:30,Right footed,A. Garnacho
+0,0.016907373443245888,Miss,69:23,Left footed,L. Thomas
+1,0.016547836363315582,Miss,22:43,Right footed,C. Eriksen
+1,0.01174131315201521,Miss,65:07,Right footed,Bruno Fernandes

@@ -1,0 +1,32 @@
+1,0.2754662036895752,Miss,69:15,Left footed,D. Brooks
+0,0.22787006199359894,Miss,90+4:37,Left footed,A. Gordon
+1,0.19346800446510315,Miss,3:18,Right footed,D. Ouattara
+1,0.18399764597415924,Miss,45+1:20,Header,R. Christie
+0,0.13950470089912415,Miss,90+4:36,Right footed,J. Willock
+1,0.13093028962612152,Miss,90+3:58,Right footed,D. Jebbison
+1,0.1308281570672989,Goal,5:19,Left footed,J. Kluivert
+1,0.13059134781360626,Miss,38:35,Header,D. Ouattara
+1,0.11642433702945709,Miss,55:47,Header,I. Zabarnyi
+1,0.10810035467147827,Miss,46:50,Header,Dean Huijsen
+1,0.10595905780792236,Miss,49:55,Left footed,R. Christie
+1,0.10057476162910461,Miss,3:20,Right footed,A. Semenyo
+1,0.09546671062707901,Miss,47:33,Left footed,D. Brooks
+1,0.09044861048460007,Goal,43:28,Right footed,J. Kluivert
+1,0.08947798609733582,Miss,32:03,Left footed,R. Christie
+1,0.07520916312932968,Miss,89:59,Header,D. Jebbison
+0,0.06874223798513412,Miss,20:27,Right footed,Joelinton
+0,0.06463614851236343,Miss,88:18,Right footed,A. Isak
+1,0.062197353690862656,Miss,59:56,Right footed,D. Brooks
+0,0.0582941472530365,Miss,37:08,Right footed,Joelinton
+0,0.055296044796705246,Miss,45+6:22,Right footed,S. Tonali
+1,0.047705188393592834,Goal,90+5:12,Left footed,M. Kerkez
+0,0.046476811170578,Goal,24:35,Header,Bruno Guimarães
+0,0.04251202940940857,Miss,71:25,Header,F. Schär
+1,0.04165515676140785,Goal,90+1:11,Right footed,J. Kluivert
+0,0.036211609840393066,Miss,53:17,Right footed,S. Tonali
+0,0.03520370274782181,Miss,82:50,Right footed,A. Gordon
+1,0.03504641726613045,Miss,89:22,Left footed,A. Semenyo
+1,0.03418561443686485,Miss,30:00,Left footed,D. Ouattara
+0,0.03406601399183273,Miss,39:47,Left footed,A. Gordon
+0,0.0111880237236619,Miss,88:20,Left footed,A. Gordon
+0,0.005914042238146067,Miss,26:25,Right footed,J. Murphy

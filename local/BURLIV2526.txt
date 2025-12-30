@@ -1,0 +1,30 @@
+1,0.7884,Goal,90+4:21,Left footed,Mohamed Salah
+1,0.49225252866744995,Miss,11:02,Header,I. Konaté
+0,0.1102665513753891,Miss,6:40,Right footed,J. Anthony
+1,0.10276985913515091,Miss,38:42,Left footed,A. Robertson
+1,0.0838153138756752,Miss,90+2:04,Right footed,J. Frimpong
+1,0.08342953771352768,Miss,71:58,Header,F. Chiesa
+1,0.08231213688850403,Miss,8:04,Right footed,M. Kerkez
+1,0.07992026209831238,Miss,54:43,Right footed,F. Wirtz
+1,0.06489787250757217,Miss,57:28,Right footed,H. Ekitiké
+1,0.06315246969461441,Miss,90+1:07,Header,C. Gakpo
+1,0.06030777469277382,Miss,86:10,Right footed,D. Szoboszlai
+1,0.054650962352752686,Miss,79:36,Header,C. Gakpo
+1,0.049552448093891144,Miss,66:39,Right footed,D. Szoboszlai
+1,0.04893418401479721,Miss,30:36,Right footed,R. Gravenberch
+1,0.04868374764919281,Miss,57:29,Right footed,D. Szoboszlai
+1,0.038384951651096344,Miss,39:55,Right footed,H. Ekitiké
+1,0.0383506640791893,Miss,23:53,Right footed,C. Gakpo
+1,0.037895288318395615,Miss,61:28,Right footed,F. Wirtz
+1,0.03301110118627548,Miss,21:11,Right footed,F. Wirtz
+1,0.03273596987128258,Miss,47:35,Right footed,R. Gravenberch
+1,0.03166999667882919,Miss,41:01,Right footed,C. Gakpo
+1,0.02207692340016365,Miss,74:06,Left footed,D. Szoboszlai
+1,0.02159213088452816,Miss,48:40,Header,C. Bradley
+1,0.021264847368001938,Miss,58:11,Right footed,D. Szoboszlai
+1,0.02067188173532486,Miss,65:49,Right footed,R. Gravenberch
+1,0.019536631181836128,Miss,4:18,Right footed,C. Gakpo
+1,0.015365694649517536,Miss,79:10,Right footed,R. Gravenberch
+0,0.013406912796199322,Miss,33:54,Header,H. Ekdal
+1,0.012896479107439518,Miss,30:37,Right footed,D. Szoboszlai
+0,0.009369065053761005,Miss,73:07,Right footed,J. Laurent

@@ -1,0 +1,29 @@
+1,0.29081952571868896,Miss,32:55,Right footed,C. Wood
+1,0.23774996399879456,Miss,82:16,Right footed,A. Kalimuendo
+0,0.16877587139606476,Miss,90+2:38,Left footed,Z. Flemming
+0,0.14326943457126617,Miss,45:19,Right footed,J. Anthony
+1,0.11654838174581528,Miss,53:23,Right footed,C. Wood
+1,0.11122680455446243,Miss,80:11,Right footed,N. Williams
+0,0.0967659205198288,Miss,90+2:41,Right footed,H. Ekdal
+0,0.09003783017396927,Goal,19:43,Left footed,J. Anthony
+0,0.08840426057577133,Miss,63:51,Header,M. Estève
+0,0.08515603095293045,Miss,74:32,Header,H. Ekdal
+0,0.05858568847179413,Miss,44:23,Header,M. Estève
+0,0.04775599017739296,Miss,19:41,Header,L. Tchaouna
+1,0.045366205275058746,Miss,90+5:28,Left footed,M. Gibbs-White
+1,0.04212288558483124,Miss,28:18,Left footed,D. Bakwa
+1,0.04085567593574524,Miss,77:18,Header,Igor Jesus
+1,0.0401308573782444,Miss,82:09,Right footed,E. Anderson
+0,0.03931186720728874,Miss,44:10,Left footed,L. Tchaouna
+1,0.03874039649963379,Miss,39:32,Right footed,M. Gibbs-White
+0,0.03829726576805115,Miss,44:24,Right footed,L. Foster
+0,0.027441030368208885,Miss,57:53,Right footed,J. Anthony
+1,0.02181088924407959,Miss,39:30,Left footed,O. Zinchenko
+1,0.021583575755357742,Goal,1:38,Right footed,N. Williams
+0,0.02024487406015396,Miss,13:06,Left footed,Q. Hartman
+1,0.020112132653594017,Miss,66:54,Right footed,Douglas Luiz
+1,0.019689129665493965,Miss,17:25,Left footed,D. Bakwa
+1,0.016929954290390015,Miss,35:08,Right footed,N. Williams
+1,0.012453499250113964,Miss,16:43,Left footed,O. Zinchenko
+1,0.012067864648997784,Miss,90+1:20,Right footed,C. Hudson-Odoi
+1,0.009519779123365879,Miss,12:06,Left footed,O. Zinchenko

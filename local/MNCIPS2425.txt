@@ -1,0 +1,15 @@
+0,0.7884,Goal,11:59,Left footed,E. Haaland
+0,0.5895435214042664,Goal,13:38,Left footed,K. De Bruyne
+0,0.5331796407699585,Miss,27:40,Right footed,R. Lewis
+0,0.32627052068710327,Miss,45+2:56,Left footed,E. Haaland
+1,0.28952038288116455,Goal,6:22,Right footed,S. Szmodics
+0,0.28241366147994995,Miss,63:46,Header,E. Haaland
+0,0.2147454470396042,Goal,15:10,Left footed,E. Haaland
+0,0.1754724532365799,Miss,36:46,Right footed,K. De Bruyne
+0,0.10574360191822052,Miss,68:55,Left footed,Bernardo Silva
+0,0.10421501845121384,Miss,78:37,Right footed,J. Grealish
+0,0.0769222304224968,Miss,45+4:58,Header,E. Haaland
+0,0.05506186559796333,Miss,32:15,Header,E. Haaland
+0,0.04253767058253288,Goal,87:36,Left footed,E. Haaland
+0,0.027055196464061737,Miss,30:22,Left footed,K. De Bruyne
+0,0.021999308839440346,Miss,28:52,Right footed,K. De Bruyne

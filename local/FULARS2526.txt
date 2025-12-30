@@ -1,0 +1,25 @@
+1,0.49187660217285156,Miss,90+3:35,Right footed,Gabriel Martinelli
+1,0.27495551109313965,Goal,57:47,Right footed,L. Trossard
+1,0.21879638731479645,Miss,36:09,Header,L. Trossard
+1,0.1957913190126419,Miss,57:45,Header,Gabriel Magalhães
+1,0.12549909949302673,Miss,36:04,Right footed,V. Gyökeres
+1,0.1014171615242958,Miss,47:57,Right footed,L. Trossard
+1,0.10035017132759094,Miss,82:39,Right footed,Gabriel Martinelli
+1,0.09698397666215897,Miss,79:48,Left footed,V. Gyökeres
+0,0.09326676279306412,Miss,25:29,Left footed,H. Wilson
+0,0.08900105208158493,Miss,11:09,Left footed,T. Cairney
+1,0.0713823214173317,Miss,90+3:33,Right footed,V. Gyökeres
+0,0.051253098994493484,Miss,54:29,Left footed,H. Wilson
+0,0.050304245203733444,Miss,12:32,Left footed,H. Wilson
+0,0.046890586614608765,Miss,10:37,Right footed,R. Jiménez
+1,0.0461084246635437,Miss,63:37,Left footed,B. Saka
+0,0.0444677360355854,Miss,89:58,Right footed,Adama Traoré
+1,0.04053034260869026,Miss,39:23,Header,Gabriel Magalhães
+1,0.039138492196798325,Miss,21:03,Left footed,B. Saka
+1,0.03690100088715553,Miss,45+6:02,Right footed,D. Rice
+1,0.032480884343385696,Miss,37:05,Left footed,R. Calafiori
+0,0.031128915026783943,Miss,51:11,Left footed,H. Wilson
+0,0.030845681205391884,Miss,17:22,Left footed,J. King
+1,0.03051851876080036,Miss,34:33,Right footed,R. Calafiori
+1,0.007696670014411211,Miss,35:13,Right footed,E. Eze
+0,0.003188238712027669,Miss,30:11,Left footed,R. Sessegnon

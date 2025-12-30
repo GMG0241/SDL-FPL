@@ -1,0 +1,20 @@
+1,0.8643923401832581,Goal,83:51,Left footed,N. O'Reilly
+1,0.4196626543998718,Miss,81:52,Left footed,Omar Marmoush
+0,0.32792386412620544,Miss,46:46,Header,J. Branthwaite
+0,0.1769135594367981,Miss,30:15,Header,J. Tarkowski
+1,0.1594686359167099,Miss,42:42,Left footed,K. De Bruyne
+0,0.15619158744812012,Miss,47:41,Right footed,I. Ndiaye
+1,0.11748829483985901,Miss,67:29,Header,Omar Marmoush
+1,0.09463038295507431,Miss,87:05,Right footed,Omar Marmoush
+1,0.09122931212186813,Miss,71:58,Right footed,Savinho
+0,0.08661037683486938,Miss,47:43,Right footed,A. Doucouré
+1,0.07394717633724213,Goal,90+1:15,Right footed,M. Kovačić
+1,0.07011275738477707,Miss,64:36,Right footed,İ. Gündoğan
+1,0.05760740116238594,Miss,64:43,Left footed,K. De Bruyne
+1,0.053601477295160294,Miss,43:24,Right footed,Nico González
+0,0.05197301134467125,Miss,60:04,Left footed,A. Doucouré
+0,0.039731353521347046,Miss,90+5:13,Left footed,V. Mykolenko
+0,0.03503077104687691,Miss,71:08,Right footed,I. Ndiaye
+0,0.029004637151956558,Miss,70:19,Right footed,Beto
+1,0.02012910693883896,Miss,69:49,Right footed,İ. Gündoğan
+1,0.019023770466446877,Miss,14:55,Left footed,Matheus Nunes

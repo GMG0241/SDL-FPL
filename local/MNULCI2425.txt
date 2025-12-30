@@ -1,0 +1,19 @@
+1,0.47823312878608704,Miss,27:12,Right footed,W. Ndidi
+0,0.22288064658641815,Miss,45+2:09,Left footed,A. Diallo
+0,0.21780672669410706,Miss,37:55,Right footed,Bruno Fernandes
+0,0.07020701467990875,Miss,13:16,Left footed,R. Højlund
+0,0.06287981569766998,Miss,3:49,Header,Casemiro
+1,0.05123324692249298,Miss,23:59,Header,W. Ndidi
+1,0.04746473953127861,Miss,68:31,Right footed,J. Ayew
+0,0.03295707330107689,Miss,76:48,Right footed,A. Garnacho
+1,0.026881176978349686,Miss,32:34,Left footed,H. Winks
+0,0.026204373687505722,Goal,81:35,Right footed,A. Garnacho
+0,0.02247702330350876,Miss,90+1:27,Right footed,A. Diallo
+0,0.021147552877664566,Miss,5:57,Left footed,A. Diallo
+1,0.01898961141705513,Miss,19:41,Header,W. Ndidi
+0,0.017865238711237907,Miss,41:02,Left footed,A. Diallo
+0,0.017436781898140907,Miss,3:52,Right footed,N. Mazraoui
+0,0.016880527138710022,Miss,90+3:31,Right footed,J. Zirkzee
+0,0.015423762612044811,Goal,16:40,Right footed,Bruno Fernandes
+0,0.012057282961905003,Miss,41:33,Right footed,M. Ugarte
+1,0.011476962827146053,Miss,26:30,Left footed,A. Fatawu

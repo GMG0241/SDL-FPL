@@ -1,0 +1,25 @@
+1,0.1815793663263321,Miss,33:06,Right footed,B. Johnson
+0,0.1568264663219452,Miss,34:13,Header,M. Guéhi
+0,0.12344036251306534,Miss,57:47,Right footed,E. Eze
+0,0.11615407466888428,Goal,30:04,Left footed,J. Mateta
+1,0.11264525353908539,Miss,45+4:12,Left footed,J. Maddison
+1,0.10483700782060623,Miss,33:06,Left footed,M. van de Ven
+1,0.09936901181936264,Miss,47:24,Left footed,D. Kulusevski
+0,0.060532741248607635,Miss,26:17,Other body part,M. Lacroix
+0,0.0593673475086689,Miss,56:40,Right footed,I. Sarr
+1,0.052447084337472916,Miss,33:05,Header,C. Romero
+0,0.0468837209045887,Miss,82:36,Left footed,A. Wharton
+1,0.045149076730012894,Miss,38:19,Header,D. Solanke
+1,0.03853560611605644,Miss,12:26,Right footed,B. Johnson
+1,0.03736856207251549,Miss,45+4:37,Right footed,B. Johnson
+0,0.0354008786380291,Miss,46:09,Right footed,E. Eze
+0,0.03338146209716797,Miss,17:05,Left footed,D. Muñoz
+0,0.03271373733878136,Miss,56:42,Right footed,D. Muñoz
+0,0.03067883662879467,Miss,45+3:09,Right footed,E. Eze
+1,0.02888808399438858,Miss,90:07,Right footed,R. Bentancur
+0,0.027450570836663246,Miss,66:57,Right footed,E. Eze
+0,0.026703588664531708,Miss,81:54,Right footed,A. Wharton
+1,0.020637786015868187,Miss,45:18,Right footed,Pedro Porro
+0,0.02015114203095436,Miss,29:26,Right footed,I. Sarr
+1,0.019938569515943527,Miss,54:47,Right footed,J. Maddison
+0,0.01274594385176897,Miss,45+1:19,Left footed,W. Hughes

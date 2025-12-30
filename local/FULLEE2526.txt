@@ -1,0 +1,15 @@
+0,0.500594437122345,Miss,82:54,Right footed,S. Lukić
+1,0.30415078997612,Miss,15:57,Header,D. Calvert-Lewin
+0,0.24528639018535614,Miss,69:33,Header,Rodrigo Muniz
+1,0.1317729949951172,Miss,47:23,Right footed,B. Aaronson
+0,0.10689886659383774,Miss,57:43,Left footed,H. Wilson
+1,0.09331395477056503,Miss,52:19,Left footed,N. Okafor
+1,0.08935535699129105,Miss,52:21,Left footed,N. Okafor
+0,0.04443785920739174,Miss,84:12,Header,Adama Traoré
+1,0.04198664426803589,Miss,42:01,Right footed,S. Longstaff
+1,0.032601531594991684,Miss,29:44,Left footed,A. Stach
+1,0.029371926560997963,Miss,76:49,Right footed,A. Stach
+1,0.02913612313568592,Miss,54:03,Right footed,J. Bogle
+1,0.020937280729413033,Miss,34:37,Right footed,J. Bogle
+0,0.01847444474697113,Miss,90+2:59,Right footed,Kevin
+1,0.01715494692325592,Miss,74:51,Left footed,A. Stach

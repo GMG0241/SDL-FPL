@@ -1,0 +1,20 @@
+1,0.2861097753047943,Miss,33:46,Header,Rodrigo Muniz
+1,0.17227703332901,Miss,9:04,Header,I. Diop
+1,0.15111468732357025,Goal,31:22,Right footed,Adama Traoré
+1,0.14142265915870667,Miss,64:41,Left footed,E. Smith Rowe
+0,0.1261264979839325,Miss,17:59,Header,L. Delap
+1,0.058403242379426956,Miss,36:52,Right footed,Rodrigo Muniz
+0,0.05452476069331169,Miss,58:49,Left footed,L. Davis
+0,0.05152687430381775,Goal,14:48,Right footed,L. Delap
+0,0.04818671941757202,Miss,90+1:47,Left footed,J. Clarke
+1,0.04357370361685753,Miss,85:13,Left footed,R. Jiménez
+1,0.03853067010641098,Miss,5:43,Right footed,K. Tete
+0,0.03797115013003349,Miss,9:45,Left footed,O. Hutchinson
+1,0.031302567571401596,Miss,75:41,Right footed,A. Iwobi
+0,0.03086300753057003,Miss,88:25,Right footed,J. Clarke
+0,0.02770324796438217,Miss,59:42,Header,L. Woolfenden
+1,0.023819856345653534,Miss,66:06,Right footed,E. Smith Rowe
+0,0.020506197586655617,Miss,4:55,Header,J. Greaves
+0,0.020408092066645622,Miss,54:39,Right footed,L. Delap
+0,0.016407333314418793,Miss,56:07,Right footed,L. Delap
+0,0.01570284739136696,Miss,90+2:39,Left footed,O. Hutchinson

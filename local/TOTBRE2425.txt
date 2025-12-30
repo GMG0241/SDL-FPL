@@ -1,0 +1,29 @@
+0,0.7125746607780457,Goal,7:29,Right footed,D. Solanke
+0,0.5148499608039856,Goal,84:36,Left footed,J. Maddison
+0,0.4691741168498993,Miss,52:06,Right footed,D. Solanke
+0,0.35745394229888916,Miss,31:32,Left footed,D. Solanke
+1,0.31648409366607666,Miss,40:01,Left footed,B. Mbeumo
+0,0.29657021164894104,Miss,7:28,Right footed,J. Maddison
+1,0.21593837440013885,Miss,61:40,Left footed,B. Mbeumo
+0,0.14868631958961487,Miss,45:02,Right footed,B. Johnson
+0,0.14687110483646393,Miss,25:12,Left footed,D. Kulusevski
+0,0.14190085232257843,Miss,52:07,Left footed,D. Solanke
+0,0.10828915238380432,Miss,6:19,Right footed,J. Maddison
+0,0.10815702378749847,Miss,62:02,Right footed,B. Johnson
+1,0.1031731367111206,Goal,0:23,Left footed,B. Mbeumo
+0,0.09544438123703003,Miss,35:19,Right footed,D. Kulusevski
+1,0.08789067715406418,Miss,41:14,Left footed,M. Damsgaard
+0,0.08010673522949219,Miss,4:02,Right footed,R. Bentancur
+0,0.07700023800134659,Miss,17:06,Left footed,D. Kulusevski
+0,0.07012774795293808,Goal,27:12,Right footed,B. Johnson
+0,0.07011468708515167,Miss,9:08,Right footed,Son Heung-Min
+0,0.06749788671731949,Miss,59:13,Right footed,B. Johnson
+0,0.0673518106341362,Miss,4:28,Header,C. Romero
+0,0.06534724682569504,Miss,50:01,Left footed,D. Kulusevski
+0,0.06422120332717896,Miss,15:20,Left footed,B. Johnson
+1,0.06188203766942024,Miss,67:04,Header,K. Schade
+0,0.046205077320337296,Miss,17:04,Right footed,D. Udogie
+0,0.04390205442905426,Miss,44:20,Right footed,Pedro Porro
+0,0.0301438570022583,Miss,10:25,Right footed,B. Johnson
+1,0.016909118741750717,Miss,24:41,Right footed,K. Lewis-Potter
+0,0.01675316132605076,Miss,25:38,Right footed,Pedro Porro

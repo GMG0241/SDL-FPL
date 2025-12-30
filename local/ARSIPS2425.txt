@@ -1,0 +1,16 @@
+0,0.7619104981422424,Goal,22:23,Right footed,K. Havertz
+0,0.27030128240585327,Miss,74:31,Right footed,K. Havertz
+0,0.23709149658679962,Miss,62:21,Header,Gabriel Magalhães
+1,0.11977409571409225,Miss,90+4:10,Left footed,N. Broadhead
+0,0.11015257984399796,Miss,48:47,Right footed,L. Trossard
+0,0.10595061630010605,Miss,52:50,Left footed,M. Ødegaard
+0,0.0790986493229866,Miss,73:01,Right footed,D. Rice
+0,0.07187856733798981,Miss,72:03,Left footed,M. Ødegaard
+0,0.04446135088801384,Miss,18:38,Right footed,J. Timber
+0,0.04127521440386772,Miss,13:15,Right footed,L. Trossard
+0,0.037897564470767975,Miss,76:05,Left footed,Mikel Merino
+0,0.03454508259892464,Miss,76:17,Right footed,M. Ødegaard
+0,0.03386650234460831,Miss,47:20,Left footed,M. Ødegaard
+0,0.028198005631566048,Miss,29:51,Right footed,D. Rice
+1,0.019135193899273872,Miss,89:08,Right footed,J. Taylor
+1,0.013664822094142437,Miss,56:47,Right footed,K. Phillips

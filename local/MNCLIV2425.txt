@@ -1,0 +1,24 @@
+0,0.2151302844285965,Miss,74:13,Right footed,R. Lewis
+1,0.170875683426857,Goal,13:40,Left footed,Mohamed Salah
+1,0.15183770656585693,Miss,60:50,Right footed,A. Robertson
+1,0.14259198307991028,Goal,36:50,Left footed,D. Szoboszlai
+1,0.0904998779296875,Miss,82:51,Right footed,D. Szoboszlai
+1,0.06206892430782318,Miss,83:44,Header,I. Konaté
+0,0.050216544419527054,Miss,48:53,Left footed,Omar Marmoush
+0,0.04459233582019806,Miss,47:40,Left footed,Savinho
+0,0.04288860037922859,Miss,57:53,Left footed,Omar Marmoush
+0,0.042614322155714035,Miss,71:09,Right footed,J. Doku
+0,0.04149419814348221,Miss,29:03,Left footed,P. Foden
+1,0.035011015832424164,Miss,74:49,Left footed,Mohamed Salah
+0,0.03366905078291893,Miss,7:41,Left footed,P. Foden
+0,0.029377656057476997,Miss,68:30,Left footed,P. Foden
+1,0.027861522510647774,Miss,1:14,Right footed,D. Szoboszlai
+1,0.027824364602565765,Miss,63:03,Right footed,L. Díaz
+0,0.02544531039893627,Miss,2:36,Header,Nico González
+0,0.02267131395637989,Miss,70:54,Right footed,J. Doku
+0,0.021904602646827698,Miss,41:24,Right footed,K. De Bruyne
+0,0.021808788180351257,Miss,45:59,Right footed,Nico González
+0,0.016883715987205505,Miss,45+2:07,Left footed,K. De Bruyne
+0,0.015353715978562832,Miss,7:32,Right footed,Omar Marmoush
+0,0.014082707464694977,Miss,22:26,Right footed,Omar Marmoush
+0,0.013528666459023952,Miss,65:17,Right footed,Nico González

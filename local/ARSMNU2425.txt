@@ -1,0 +1,19 @@
+0,0.6890771985054016,Goal,72:34,Other body part,W. Saliba
+0,0.33017346262931824,Miss,89:58,Header,T. Partey
+0,0.2546813488006592,Miss,74:44,Left footed,K. Havertz
+0,0.1550525277853012,Goal,53:02,Header,J. Timber
+0,0.13233500719070435,Miss,24:26,Left footed,Gabriel Martinelli
+0,0.12806077301502228,Miss,57:07,Left footed,B. Saka
+0,0.11687751859426498,Miss,82:01,Left footed,M. Ødegaard
+1,0.07993222028017044,Miss,85:24,Left footed,Antony
+0,0.07200085371732712,Miss,76:22,Header,Mikel Merino
+1,0.06678924709558487,Miss,66:02,Header,M. de Ligt
+0,0.06454545259475708,Miss,48:20,Right footed,D. Rice
+0,0.05747842416167259,Miss,24:25,Left footed,O. Zinchenko
+0,0.0544128343462944,Miss,88:45,Left footed,L. Trossard
+0,0.041878558695316315,Miss,21:40,Header,T. Partey
+0,0.03919567912817001,Miss,47:13,Right footed,Gabriel Martinelli
+1,0.03657427430152893,Miss,42:03,Right footed,Diogo Dalot
+1,0.030557628720998764,Miss,57:44,Right footed,Diogo Dalot
+0,0.019676925614476204,Miss,71:16,Right footed,D. Rice
+1,0.009105407632887363,Miss,41:57,Right footed,M. Mount

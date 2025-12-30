@@ -1,0 +1,34 @@
+0,0.7884,Miss,41:39,Right footed,A. Armstrong
+1,0.7884,Goal,82:21,Left footed,Mohamed Salah
+0,0.6835357546806335,Goal,41:41,Left footed,A. Armstrong
+1,0.5239079594612122,Goal,64:05,Left footed,Mohamed Salah
+1,0.41142675280570984,Miss,67:19,Right footed,R. Gravenberch
+0,0.18027690052986145,Goal,55:41,Left footed,Mateus Fernandes
+1,0.1755833923816681,Miss,87:10,Left footed,Mohamed Salah
+1,0.1562141329050064,Miss,84:00,Left footed,Mohamed Salah
+1,0.1284455806016922,Miss,54:52,Right footed,D. Núñez
+1,0.12828075885772705,Goal,29:06,Left footed,D. Szoboszlai
+1,0.11622685194015503,Miss,20:18,Left footed,Mohamed Salah
+1,0.0855579748749733,Miss,28:52,Left footed,C. Bradley
+1,0.06496252864599228,Miss,70:59,Right footed,C. Bradley
+1,0.06109875068068504,Miss,5:14,Left footed,Mohamed Salah
+1,0.05968477204442024,Miss,43:17,Right footed,C. Gakpo
+1,0.05760740116238594,Miss,79:22,Right footed,L. Díaz
+1,0.05144349858164787,Miss,70:53,Left footed,L. Díaz
+0,0.04931167513132095,Miss,32:21,Right footed,F. Downes
+0,0.04569866508245468,Miss,90+4:23,Header,J. Stephens
+1,0.04043712839484215,Miss,8:38,Left footed,Mohamed Salah
+1,0.039025843143463135,Miss,66:54,Header,L. Díaz
+0,0.036244556307792664,Miss,4:25,Right footed,Mateus Fernandes
+1,0.034380245953798294,Miss,23:59,Right footed,D. Szoboszlai
+0,0.031285952776670456,Miss,52:05,Left footed,T. Dibling
+1,0.02981887198984623,Miss,73:09,Right footed,D. Szoboszlai
+1,0.028354810550808907,Miss,26:01,Right footed,C. Gakpo
+1,0.022707289084792137,Miss,63:21,Right footed,C. Bradley
+1,0.022610334679484367,Miss,14:20,Right footed,D. Szoboszlai
+1,0.022591369226574898,Miss,48:07,Right footed,C. Jones
+1,0.021518560126423836,Miss,69:25,Right footed,A. Mac Allister
+1,0.02108124829828739,Miss,27:05,Right footed,C. Jones
+1,0.020692385733127594,Miss,43:19,Left footed,C. Gakpo
+1,0.01899653859436512,Miss,73:17,Header,D. Núñez
+1,0.014009295962750912,Miss,90+2:24,Right footed,D. Szoboszlai

@@ -1,0 +1,19 @@
+0,0.33037033677101135,Goal,45:21,Right footed,M. Rashford
+0,0.20245899260044098,Goal,63:05,Right footed,J. Zirkzee
+1,0.17443718016147614,Miss,83:48,Header,D. Calvert-Lewin
+0,0.10731256753206253,Miss,13:10,Left footed,A. Diallo
+0,0.10723069310188293,Goal,40:49,Left footed,J. Zirkzee
+0,0.09487408399581909,Miss,84:59,Right footed,M. Rashford
+1,0.09461547434329987,Miss,20:06,Right footed,Beto
+1,0.07833878695964813,Miss,51:29,Right footed,J. Lindstrøm
+0,0.07635457068681717,Goal,33:04,Right footed,M. Rashford
+1,0.06621754914522171,Miss,49:29,Right footed,J. Lindstrøm
+1,0.06491214781999588,Miss,62:35,Right footed,J. Lindstrøm
+1,0.056619253009557724,Miss,10:57,Left footed,Beto
+0,0.03959645703434944,Miss,79:58,Right footed,A. Garnacho
+0,0.030057517811655998,Miss,7:25,Left footed,A. Diallo
+0,0.029060078784823418,Miss,53:50,Right footed,M. Rashford
+1,0.027439968660473824,Miss,8:52,Right footed,J. Lindstrøm
+0,0.025909380987286568,Miss,42:46,Right footed,Bruno Fernandes
+0,0.025427663698792458,Miss,2:43,Right footed,K. Mainoo
+1,0.02069634385406971,Miss,15:14,Right footed,J. Lindstrøm

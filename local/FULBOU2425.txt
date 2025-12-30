@@ -1,0 +1,27 @@
+1,0.33699145913124084,Miss,8:48,Left footed,D. Brooks
+0,0.30385622382164,Miss,79:14,Left footed,A. Iwobi
+1,0.24674881994724274,Goal,88:31,Right footed,D. Ouattara
+1,0.22846151888370514,Miss,30:13,Left footed,A. Semenyo
+1,0.19628067314624786,Miss,3:19,Header,I. Zabarnyi
+0,0.1752229779958725,Miss,66:08,Header,R. Jiménez
+0,0.1723196804523468,Miss,66:06,Header,R. Jiménez
+1,0.17187272012233734,Miss,69:55,Left footed,P. Billing
+1,0.16490767896175385,Goal,50:32,Right footed,Evanilson
+1,0.14850269258022308,Miss,6:02,Header,Dean Huijsen
+0,0.14262548089027405,Miss,56:34,Left footed,H. Wilson
+1,0.10242702066898346,Miss,24:59,Header,Dean Huijsen
+0,0.08449435979127884,Miss,13:16,Right footed,H. Wilson
+1,0.0841626301407814,Miss,18:44,Right footed,Evanilson
+0,0.07995912432670593,Miss,9:39,Left footed,H. Wilson
+1,0.06479045003652573,Miss,17:24,Left footed,D. Brooks
+1,0.05647595599293709,Miss,49:34,Left footed,R. Christie
+0,0.05607347562909126,Goal,71:40,Header,H. Wilson
+1,0.04637777432799339,Miss,79:48,Left footed,A. Semenyo
+1,0.04275847598910332,Miss,65:26,Right footed,P. Billing
+0,0.04212554916739464,Miss,56:37,Right footed,T. Castagne
+0,0.04081909358501434,Goal,39:54,Header,R. Jiménez
+1,0.0386197455227375,Miss,6:50,Right footed,L. Cook
+0,0.027760757133364677,Miss,44:55,Right footed,A. Iwobi
+1,0.02646716870367527,Miss,48:42,Left footed,D. Brooks
+1,0.02645651064813137,Miss,37:37,Left footed,Evanilson
+0,0.018473420292139053,Miss,59:25,Right footed,S. Lukić

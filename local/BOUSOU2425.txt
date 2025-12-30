@@ -1,0 +1,23 @@
+0,0.42088252305984497,Goal,31:33,Left footed,D. Ouattara
+0,0.26537948846817017,Goal,16:13,Right footed,Evanilson
+1,0.1607765108346939,Miss,3:38,Left footed,M. Cornet
+1,0.1334248185157776,Goal,50:05,Header,T. Harwood-Bellis
+0,0.12861962616443634,Miss,67:24,Right footed,Evanilson
+0,0.0998617634177208,Miss,31:31,Right footed,L. Cook
+0,0.08615265786647797,Miss,64:38,Left footed,A. Semenyo
+0,0.0860687717795372,Miss,90:46,Right footed,L. Sinisterra
+0,0.07887890934944153,Miss,66:23,Right footed,J. Kluivert
+1,0.0746871754527092,Miss,53:27,Header,R. Stewart
+1,0.07072078436613083,Miss,74:51,Left footed,A. Lallana
+0,0.06091057136654854,Goal,38:21,Right footed,A. Semenyo
+1,0.05139040946960449,Miss,49:54,Header,T. Harwood-Bellis
+0,0.03672177717089653,Miss,45+1:19,Right footed,R. Christie
+1,0.03470143303275108,Miss,56:06,Right footed,B. Brereton
+0,0.03361445665359497,Miss,26:11,Left footed,M. Tavernier
+1,0.027509476989507675,Miss,7:07,Right footed,R. Fraser
+0,0.027331748977303505,Miss,62:32,Left footed,A. Semenyo
+1,0.023105397820472717,Miss,83:49,Left footed,J. Aribo
+1,0.022119294852018356,Miss,1:49,Left footed,T. Dibling
+0,0.022119294852018356,Miss,79:32,Right footed,A. Semenyo
+0,0.016638461500406265,Miss,60:15,Left footed,M. Kerkez
+0,0.008190756663680077,Miss,81:20,Left footed,R. Christie

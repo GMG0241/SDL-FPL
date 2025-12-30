@@ -1,0 +1,22 @@
+1,0.4033995568752289,Goal,86:07,Right footed,Jota Silva
+1,0.32894834876060486,Goal,40:57,Right footed,A. Elanga
+1,0.14150667190551758,Miss,54:44,Left footed,C. Wood
+1,0.12538285553455353,Goal,34:19,Right footed,N. Milenković
+0,0.08914526551961899,Miss,10:27,Header,L. Delap
+0,0.08216783404350281,Miss,49:33,Header,L. Delap
+1,0.062103066593408585,Miss,21:06,Right footed,E. Anderson
+0,0.05981453135609627,Goal,81:25,Right footed,J. Cajuste
+1,0.053882379084825516,Goal,36:35,Left footed,A. Elanga
+1,0.05068011209368706,Miss,19:08,Right footed,N. Williams
+0,0.048469178378582,Miss,3:58,Left footed,O. Hutchinson
+1,0.04638233035802841,Miss,90+4:27,Right footed,Jota Silva
+0,0.039848145097494125,Miss,67:42,Right footed,L. Delap
+0,0.03776933252811432,Miss,14:06,Left footed,O. Hutchinson
+0,0.03584115207195282,Goal,90+2:33,Header,G. Hirst
+1,0.03207573667168617,Miss,32:41,Header,C. Wood
+0,0.028109900653362274,Miss,44:55,Right footed,K. Phillips
+1,0.0209793820977211,Miss,72:25,Left footed,N. Williams
+0,0.020414680242538452,Miss,46:04,Right footed,O. Hutchinson
+0,0.018268942832946777,Miss,13:25,Right footed,J. Enciso
+1,0.01640738733112812,Miss,11:37,Right footed,O. Aina
+0,0.01623740792274475,Miss,65:41,Left footed,L. Davis

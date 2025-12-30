@@ -1,0 +1,15 @@
+0,0.38258543610572815,Goal,34:19,Right footed,K. De Bruyne
+1,0.1632479727268219,Miss,26:09,Right footed,R. Aït-Nouri
+0,0.11138135939836502,Miss,32:05,Left footed,N. O'Reilly
+0,0.09210026264190674,Miss,67:42,Left footed,Omar Marmoush
+1,0.08127216249704361,Miss,26:11,Right footed,Nélson Semedo
+1,0.06387725472450256,Miss,26:07,Left footed,R. Aït-Nouri
+1,0.0574265718460083,Miss,2:27,Right footed,Matheus Cunha
+1,0.038925252854824066,Miss,18:53,Right footed,André
+0,0.028502847999334335,Miss,20:59,Right footed,Omar Marmoush
+0,0.023942314088344574,Miss,10:41,Header,N. O'Reilly
+0,0.02323048561811447,Miss,69:39,Right footed,M. Kovačić
+1,0.02156607061624527,Miss,55:59,Right footed,Matheus Cunha
+0,0.021195705980062485,Miss,44:55,Right footed,M. Kovačić
+0,0.01528964750468731,Miss,1:36,Right footed,Rúben Dias
+0,0.014087893068790436,Miss,32:33,Right footed,M. Kovačić

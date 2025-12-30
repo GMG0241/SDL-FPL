@@ -1,0 +1,24 @@
+0,0.5870104432106018,Miss,54:22,Left footed,M. Gibbs-White
+0,0.5315701961517334,Miss,72:19,Right footed,C. Wood
+0,0.2963271737098694,Miss,72:19,Header,Jota Silva
+1,0.18339654803276062,Miss,90+4:00,Header,J. Bednarek
+1,0.1782771795988083,Goal,59:41,Left footed,J. Bednarek
+0,0.17759351432323456,Miss,54:20,Right footed,A. Elanga
+1,0.14669132232666016,Miss,16:11,Left footed,Mateus Fernandes
+1,0.1446034461259842,Goal,90:28,Header,P. Onuachu
+0,0.10052439570426941,Miss,20:22,Header,C. Wood
+0,0.09158273786306381,Goal,27:52,Right footed,C. Hudson-Odoi
+1,0.06737124919891357,Miss,15:09,Header,T. Harwood-Bellis
+0,0.06516630202531815,Goal,40:48,Header,C. Wood
+1,0.048829954117536545,Miss,90+8:46,Header,P. Onuachu
+1,0.046124834567308426,Miss,45+2:44,Right footed,K. Walker-Peters
+0,0.0380467027425766,Miss,45+1:06,Right footed,Jota Silva
+0,0.03680719807744026,Miss,66:54,Right footed,Jota Silva
+0,0.03593570739030838,Miss,44:04,Right footed,M. Gibbs-White
+0,0.03423444554209709,Goal,10:30,Right footed,E. Anderson
+1,0.033316999673843384,Miss,59:40,Left footed,L. Ugochukwu
+0,0.03303350508213043,Miss,70:08,Right footed,C. Wood
+1,0.025845471769571304,Miss,87:41,Header,P. Onuachu
+1,0.020244931802153587,Miss,23:27,Left footed,F. Downes
+0,0.014402986504137516,Miss,31:43,Right footed,N. Williams
+0,0.011925294063985348,Miss,53:32,Right footed,N. Domínguez

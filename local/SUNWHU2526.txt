@@ -1,0 +1,22 @@
+0,0.17951840162277222,Miss,5:53,Right footed,H. Diarra
+0,0.15799756348133087,Miss,47:40,Right footed,S. Adingra
+1,0.13054756820201874,Miss,25:58,Left footed,E. Diouf
+1,0.08221954107284546,Miss,26:34,Right footed,N. Füllkrug
+1,0.07186772674322128,Miss,84:29,Left footed,T. Souček
+1,0.06919698417186737,Miss,28:01,Left footed,J. Bowen
+0,0.06596609950065613,Miss,57:31,Header,D. Ballard
+1,0.06467361748218536,Miss,84:06,Header,J. Bowen
+0,0.055028680711984634,Goal,60:44,Header,Eliezer Mayenda
+0,0.04990941286087036,Miss,43:21,Right footed,Eliezer Mayenda
+1,0.04665779694914818,Miss,89:09,Header,N. Füllkrug
+0,0.04563304781913757,Miss,6:40,Header,D. Ballard
+0,0.044464584439992905,Goal,72:39,Header,D. Ballard
+0,0.03683081269264221,Goal,90+1:03,Right footed,W. Isidor
+1,0.03494690731167793,Miss,77:18,Left footed,E. Diouf
+0,0.034712959080934525,Miss,43:54,Header,D. Ballard
+1,0.030539922416210175,Miss,90+5:41,Left footed,J. Bowen
+0,0.027439968660473824,Miss,59:21,Left footed,H. Diarra
+1,0.026967046782374382,Miss,2:40,Right footed,J. Bowen
+1,0.023037107661366463,Miss,41:35,Right footed,G. Rodríguez
+1,0.022893594577908516,Miss,86:44,Header,C. Wilson
+1,0.00969360675662756,Miss,3:22,Left footed,E. Diouf

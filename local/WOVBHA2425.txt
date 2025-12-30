@@ -1,0 +1,17 @@
+1,0.7884,Goal,28:01,Right footed,D. Welbeck
+1,0.5115287899971008,Goal,84:07,Left footed,B. Gruda
+0,0.3038005828857422,Miss,6:24,Right footed,Gonçalo Guedes
+0,0.21827584505081177,Miss,7:17,Left footed,Gonçalo Guedes
+0,0.09991113096475601,Miss,35:19,Header,M. Munetsi
+1,0.08797060698270798,Miss,62:17,Left footed,B. Gruda
+0,0.08139782398939133,Miss,56:10,Right footed,Matheus Cunha
+0,0.08030002564191818,Miss,81:15,Right footed,J. Bellegarde
+1,0.0695946142077446,Miss,45:13,Right footed,M. O'Riley
+1,0.06453514099121094,Miss,64:19,Left footed,S. Adingra
+0,0.035508859902620316,Miss,11:23,Right footed,M. Munetsi
+0,0.03345467150211334,Miss,45+1:15,Header,M. Munetsi
+1,0.03200357034802437,Miss,25:51,Header,Y. Ayari
+0,0.024195745587348938,Miss,32:56,Right footed,Matheus Cunha
+0,0.0183663759380579,Miss,42:40,Header,M. Munetsi
+1,0.01797192357480526,Miss,12:39,Left footed,Y. Minteh
+0,0.015134892426431179,Miss,43:52,Left footed,R. Aït-Nouri

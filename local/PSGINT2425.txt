@@ -1,0 +1,31 @@
+0,0.6143513917922974,Miss,80:41,Right footed,B. Barcola
+0,0.5611827969551086,Goal,11:29,Right footed,A. Hakimi
+0,0.36999908089637756,Goal,72:01,Left footed,K. Kvaratskhelia
+0,0.22320349514484406,Goal,62:51,Right footed,D. Doué
+0,0.1863611936569214,Miss,43:19,Right footed,O. Dembélé
+0,0.17102999985218048,Miss,49:55,Left footed,K. Kvaratskhelia
+0,0.1675652712583542,Miss,6:59,Header,Marquinhos
+0,0.1180972158908844,Goal,85:56,Left footed,S. Mayulu
+0,0.10924940556287766,Miss,69:12,Right footed,B. Barcola
+0,0.1079009473323822,Miss,45+2:26,Header,K. Kvaratskhelia
+1,0.10099504142999649,Miss,22:24,Header,F. Acerbi
+1,0.09140536189079285,Miss,66:19,Header,Carlos Augusto
+0,0.09101580083370209,Goal,19:53,Right footed,D. Doué
+1,0.08821605145931244,Miss,36:45,Header,M. Thuram
+1,0.08502639830112457,Miss,74:45,Right footed,M. Thuram
+0,0.08361698687076569,Miss,45:40,Left footed,K. Kvaratskhelia
+0,0.07087436318397522,Miss,17:07,Right footed,K. Kvaratskhelia
+0,0.059537846595048904,Miss,10:51,Left footed,O. Dembélé
+0,0.05597697198390961,Miss,82:49,Right footed,B. Barcola
+0,0.05387153849005699,Miss,45:16,Right footed,D. Doué
+1,0.044116463512182236,Miss,55:03,Right footed,N. Zalewski
+0,0.03899405151605606,Miss,45+1:46,Left footed,K. Kvaratskhelia
+0,0.037362631410360336,Miss,26:21,Left footed,Fabián Ruiz
+0,0.03731938451528549,Miss,51:13,Right footed,O. Dembélé
+1,0.036123909056186676,Miss,80:02,Right footed,N. Zalewski
+1,0.030798422172665596,Miss,54:14,Right footed,N. Barella
+0,0.02559667080640793,Miss,60:43,Right footed,A. Hakimi
+0,0.017500240355730057,Miss,33:03,Left footed,O. Dembélé
+0,0.016314487904310226,Miss,9:04,Right footed,D. Doué
+1,0.014378111809492111,Miss,58:12,Right footed,N. Barella
+0,0.010912091471254826,Miss,33:55,Header,Marquinhos

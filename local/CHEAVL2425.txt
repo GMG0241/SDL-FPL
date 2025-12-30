@@ -1,0 +1,27 @@
+1,0.37606102228164673,Miss,14:28,Right footed,O. Watkins
+1,0.290129691362381,Miss,45+1:02,Right footed,O. Watkins
+0,0.25983014702796936,Miss,24:49,Left footed,C. Palmer
+0,0.23656924068927765,Miss,87:59,Header,João Félix
+0,0.1828308254480362,Miss,24:52,Right footed,R. Lavia
+1,0.18192285299301147,Miss,56:54,Header,J. McGinn
+0,0.16427482664585114,Miss,29:09,Right footed,N. Jackson
+0,0.1360795795917511,Miss,52:00,Right footed,N. Jackson
+0,0.13227415084838867,Miss,74:23,Left footed,C. Palmer
+1,0.12051409482955933,Miss,90:19,Left footed,J. Durán
+0,0.0919608473777771,Goal,6:26,Left footed,N. Jackson
+0,0.08979693800210953,Miss,87:58,Right footed,N. Madueke
+0,0.08338896930217743,Miss,40:31,Left footed,C. Palmer
+0,0.07351327687501907,Miss,87:55,Right footed,João Félix
+1,0.07093033939599991,Miss,90:21,Left footed,Pau Torres
+0,0.06868020445108414,Goal,35:46,Right footed,E. Fernández
+1,0.05836328864097595,Miss,67:15,Left footed,J. Durán
+1,0.049239758402109146,Miss,71:52,Header,R. Barkley
+0,0.04812050983309746,Miss,90+4:30,Right footed,C. Nkunku
+0,0.04741489887237549,Miss,34:25,Right footed,J. Sancho
+1,0.04201364144682884,Miss,52:49,Left footed,J. McGinn
+0,0.04019341245293617,Miss,22:06,Left footed,C. Palmer
+0,0.03192863613367081,Miss,69:17,Right footed,J. Sancho
+1,0.031128287315368652,Miss,12:12,Right footed,J. Philogene
+0,0.02892652153968811,Miss,12:34,Left footed,Pedro Neto
+1,0.021693594753742218,Miss,90:51,Left footed,J. McGinn
+0,0.019121890887618065,Goal,82:36,Left footed,C. Palmer

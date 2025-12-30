@@ -1,0 +1,18 @@
+0,0.554460346698761,Goal,90+8:04,Right footed,Hwang Hee-Chan
+0,0.1457728147506714,Miss,25:34,Header,J. Strand Larsen
+1,0.07811393588781357,Miss,90+5:00,Header,H. Maguire
+0,0.0734524056315422,Miss,54:10,Right footed,R. Aït-Nouri
+1,0.05433381348848343,Miss,40:11,Left footed,A. Diallo
+1,0.04859061911702156,Miss,27:52,Right footed,Diogo Dalot
+1,0.04817638546228409,Miss,33:43,Header,Lisandro Martínez
+1,0.04643077775835991,Miss,81:32,Header,A. Garnacho
+1,0.045572709292173386,Miss,6:52,Right footed,Bruno Fernandes
+1,0.038725875318050385,Miss,29:29,Right footed,M. Ugarte
+0,0.03799830377101898,Miss,22:05,Right footed,Gonçalo Guedes
+0,0.035345882177352905,Miss,18:41,Right footed,Matheus Cunha
+1,0.029385434463620186,Miss,68:59,Left footed,Antony
+1,0.01962437480688095,Miss,19:28,Right footed,Diogo Dalot
+1,0.015285547822713852,Miss,86:29,Left footed,N. Mazraoui
+1,0.013389736413955688,Miss,67:00,Header,Casemiro
+0,0.010003776289522648,Miss,38:40,Right footed,Nélson Semedo
+0,0.005794711410999298,Goal,57:50,Right footed,Matheus Cunha

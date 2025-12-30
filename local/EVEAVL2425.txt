@@ -1,0 +1,21 @@
+1,0.35757505893707275,Goal,50:23,Left footed,O. Watkins
+0,0.21913720667362213,Miss,90+2:20,Right footed,D. Calvert-Lewin
+1,0.21682609617710114,Miss,7:48,Left footed,Y. Tielemans
+0,0.19794732332229614,Miss,44:10,Right footed,D. Calvert-Lewin
+0,0.18694481253623962,Miss,37:38,Right footed,A. Doucouré
+0,0.17075181007385254,Miss,61:12,Header,J. Lindstrøm
+1,0.1693321317434311,Miss,46:49,Left footed,J. Ramsey
+1,0.145679771900177,Miss,45:32,Right footed,J. Ramsey
+0,0.14325051009655,Miss,73:38,Left footed,J. Branthwaite
+1,0.10162375122308731,Miss,16:15,Right footed,O. Watkins
+0,0.09825398772954941,Miss,90+1:24,Right footed,O. Mangala
+0,0.08539947122335434,Miss,26:10,Left footed,D. Calvert-Lewin
+1,0.07488883286714554,Miss,32:37,Left footed,L. Digne
+1,0.03911793604493141,Miss,4:29,Right footed,M. Rogers
+1,0.032720934599637985,Miss,45:30,Right footed,M. Rogers
+1,0.027891045436263084,Miss,6:02,Right footed,A. Onana
+1,0.027304161339998245,Miss,39:13,Right footed,B. Kamara
+0,0.025383565574884415,Miss,51:47,Right footed,I. Gueye
+1,0.020631613209843636,Miss,3:27,Left footed,A. Onana
+0,0.010300301015377045,Miss,15:28,Right footed,I. Gueye
+0,0.005614935420453548,Miss,34:40,Right footed,I. Gueye

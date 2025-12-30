@@ -1,0 +1,24 @@
+1,0.8703728914260864,Goal,33:46,Left footed,E. Haaland
+1,0.6824793815612793,Miss,18:59,Header,E. Haaland
+1,0.20651179552078247,Miss,17:43,Header,E. Haaland
+0,0.14963358640670776,Miss,25:43,Right footed,J. Strand Larsen
+1,0.138889342546463,Miss,90+1:04,Right footed,Omar Marmoush
+1,0.1074238270521164,Miss,42:23,Header,E. Haaland
+1,0.08144133538007736,Goal,36:46,Left footed,T. Reijnders
+1,0.07771637290716171,Goal,60:04,Left footed,E. Haaland
+0,0.07742976397275925,Miss,45:59,Left footed,J. Strand Larsen
+1,0.06111889332532883,Miss,45+3:24,Header,E. Haaland
+1,0.0562891960144043,Goal,80:02,Right footed,R. Cherki
+0,0.05221177637577057,Miss,73:49,Right footed,M. Munetsi
+0,0.04992544651031494,Miss,90+2:47,Left footed,Fer López
+0,0.04650557041168213,Miss,57:54,Right footed,J. Strand Larsen
+1,0.046294186264276505,Miss,51:59,Left footed,R. Aït-Nouri
+0,0.03767907992005348,Miss,74:49,Right footed,J. Strand Larsen
+0,0.03405434265732765,Miss,86:48,Left footed,Fer López
+1,0.030514929443597794,Miss,32:01,Right footed,Nico González
+1,0.021501334384083748,Miss,90+1:07,Right footed,T. Reijnders
+0,0.021298257634043694,Miss,28:30,Right footed,J. Bellegarde
+1,0.020934591069817543,Miss,33:17,Right footed,Nico González
+1,0.020580710843205452,Miss,86:06,Right footed,T. Reijnders
+0,0.0177434291690588,Miss,76:22,Right footed,E. Agbadou
+1,0.013778365217149258,Miss,32:04,Right footed,R. Aït-Nouri

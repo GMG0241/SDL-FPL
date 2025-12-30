@@ -1,0 +1,26 @@
+1,0.7128673195838928,Goal,10:30,Right footed,M. Gibbs-White
+1,0.3833256959915161,Miss,4:36,Right footed,M. Gibbs-White
+1,0.27112525701522827,Goal,60:12,Other body part,N. Milenković
+0,0.22440989315509796,Miss,1:47,Header,J. Todibo
+1,0.17539386451244354,Miss,74:26,Right footed,A. Elanga
+1,0.17431741952896118,Miss,23:19,Header,C. Wood
+0,0.1308003067970276,Miss,80:25,Left footed,Luis Guilherme
+0,0.12644000351428986,Miss,31:23,Header,M. Kudus
+0,0.120490163564682,Miss,70:36,Right footed,Carlos Soler
+0,0.08372929692268372,Goal,85:27,Left footed,J. Bowen
+0,0.07163836807012558,Miss,78:20,Left footed,Lucas Paquetá
+1,0.06636137515306473,Miss,90+9:45,Left footed,Jota Silva
+1,0.059021156281232834,Miss,4:45,Header,N. Milenković
+0,0.050614502280950546,Miss,85:11,Left footed,J. Bowen
+1,0.04363270476460457,Miss,5:15,Right footed,M. Gibbs-White
+0,0.04047762230038643,Miss,1:08,Header,T. Souček
+0,0.019287239760160446,Miss,46:29,Left footed,A. Cresswell
+0,0.019117753952741623,Miss,55:12,Right footed,V. Coufal
+0,0.01829880103468895,Miss,89:27,Left footed,J. Bowen
+0,0.01813451573252678,Miss,36:23,Left footed,A. Cresswell
+0,0.01648464985191822,Miss,6:21,Left footed,V. Coufal
+0,0.015905339270830154,Miss,90+12:18,Header,N. Füllkrug
+1,0.014939765445888042,Miss,8:38,Right footed,C. Wood
+0,0.01376478374004364,Miss,72:53,Left footed,M. Kudus
+0,0.00870902556926012,Miss,72:01,Left footed,M. Kudus
+1,0.006372157484292984,Miss,76:10,Left footed,N. Domínguez

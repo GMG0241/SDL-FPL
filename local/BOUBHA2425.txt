@@ -1,0 +1,25 @@
+1,0.4158395826816559,Goal,48:19,Right footed,K. Mitoma
+1,0.28958287835121155,Goal,3:17,Right footed,João Pedro
+0,0.22012069821357727,Miss,80:46,Header,E. Ünal
+0,0.21398602426052094,Miss,90+6:34,Header,Dean Huijsen
+0,0.1805712878704071,Miss,28:12,Right footed,J. Kluivert
+0,0.17414003610610962,Miss,50:25,Right footed,Evanilson
+1,0.17379724979400635,Miss,45+2:25,Left footed,G. Rutter
+0,0.12366977334022522,Miss,77:51,Header,Evanilson
+0,0.11586721241474152,Miss,11:19,Header,A. Semenyo
+0,0.10793082416057587,Miss,19:41,Right footed,Evanilson
+0,0.08486635237932205,Miss,87:42,Left footed,Evanilson
+0,0.08460775762796402,Goal,90+2:49,Left footed,D. Brooks
+0,0.07245080173015594,Miss,88:01,Header,A. Semenyo
+0,0.05792661011219025,Miss,1:08,Right footed,A. Semenyo
+0,0.048150233924388885,Miss,84:45,Header,Evanilson
+0,0.03665716201066971,Miss,61:57,Left footed,A. Semenyo
+1,0.03041977621614933,Miss,83:28,Left footed,M. O'Riley
+0,0.027458788827061653,Miss,90+7:26,Left footed,A. Semenyo
+0,0.027097880840301514,Miss,87:44,Left footed,Dean Huijsen
+0,0.02275221049785614,Miss,17:58,Right footed,J. Kluivert
+1,0.021733196452260017,Miss,3:15,Left footed,G. Rutter
+0,0.018872123211622238,Miss,20:44,Left footed,M. Tavernier
+0,0.01830834522843361,Miss,79:46,Left footed,D. Brooks
+0,0.018141144886612892,Miss,63:12,Right footed,J. Kluivert
+1,0.014208372682332993,Miss,32:58,Header,J. van Hecke

@@ -1,0 +1,24 @@
+0,0.30006545782089233,Miss,83:56,Left footed,M. Ødegaard
+1,0.26899150013923645,Miss,21:44,Right footed,D. Kulusevski
+0,0.24785010516643524,Miss,52:17,Header,K. Havertz
+0,0.13342536985874176,Miss,72:43,Right footed,D. Rice
+0,0.13029541075229645,Miss,12:11,Right footed,L. Trossard
+1,0.12053556740283966,Miss,84:27,Right footed,D. Solanke
+0,0.09918483346700668,Miss,58:41,Right footed,L. Trossard
+0,0.09730399399995804,Miss,55:56,Header,K. Havertz
+1,0.07779166847467422,Miss,65:25,Right footed,J. Maddison
+1,0.07609356194734573,Miss,72:29,Right footed,D. Solanke
+0,0.07552614063024521,Miss,73:01,Left footed,M. Ødegaard
+0,0.06806889176368713,Miss,12:14,Right footed,T. Partey
+0,0.06578847020864487,Miss,45:57,Right footed,R. Sterling
+0,0.06176980957388878,Miss,58:44,Left footed,R. Sterling
+1,0.05817924812436104,Miss,90+1:56,Right footed,D. Solanke
+1,0.05619851127266884,Goal,24:25,Right footed,Son Heung-Min
+0,0.05166025087237358,Miss,45+2:11,Left footed,K. Havertz
+1,0.04883972182869911,Miss,56:48,Right footed,B. Johnson
+1,0.04668283835053444,Miss,49:13,Left footed,Son Heung-Min
+0,0.04532504454255104,Goal,43:40,Left footed,L. Trossard
+0,0.043979205191135406,Miss,75:18,Right footed,Gabriel Martinelli
+0,0.026532743126153946,Miss,76:25,Left footed,Gabriel Magalhães
+1,0.015351662412285805,Miss,86:56,Left footed,Pedro Porro
+1,0.014442665502429008,Miss,90+3:54,Right footed,Pedro Porro

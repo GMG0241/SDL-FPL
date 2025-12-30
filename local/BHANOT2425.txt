@@ -1,0 +1,18 @@
+1,0.7884,Goal,12:16,Right footed,C. Wood
+1,0.45478126406669617,Goal,69:05,Right footed,R. Sosa
+0,0.23631975054740906,Miss,49:52,Right footed,D. Welbeck
+0,0.14869891107082367,Miss,53:10,Left footed,G. Rutter
+0,0.1353076696395874,Miss,29:31,Header,G. Rutter
+0,0.1195153146982193,Goal,41:23,Header,J. Hinshelwood
+1,0.1059311032295227,Miss,62:42,Right footed,C. Hudson-Odoi
+0,0.09577488154172897,Miss,55:53,Right footed,D. Welbeck
+1,0.0690801739692688,Miss,26:46,Right footed,M. Gibbs-White
+0,0.05518545210361481,Goal,45:00,Right footed,D. Welbeck
+0,0.04471210390329361,Miss,37:08,Right footed,G. Rutter
+0,0.042222727090120316,Miss,8:54,Right footed,S. Adingra
+0,0.03746410086750984,Miss,46:41,Header,G. Rutter
+0,0.022701427340507507,Miss,15:20,Left footed,C. Baleba
+0,0.017870502546429634,Miss,46:52,Left footed,G. Rutter
+0,0.016917642205953598,Miss,79:42,Right footed,João Pedro
+0,0.016127808019518852,Miss,57:45,Left footed,P. Estupiñán
+0,0.014850975014269352,Miss,88:29,Header,E. Ferguson

@@ -1,0 +1,27 @@
+0,0.46463698148727417,Miss,80:00,Right footed,D. Brooks
+0,0.3020280599594116,Miss,46:34,Header,A. Semenyo
+0,0.281144380569458,Miss,35:17,Right footed,Evanilson
+1,0.17482352256774902,Miss,31:57,Right footed,K. Schade
+1,0.17149415612220764,Goal,29:34,Header,Y. Wissa
+1,0.16150031983852386,Goal,70:01,Right footed,C. Nørgaard
+1,0.09674566239118576,Miss,36:44,Left footed,V. Janelt
+0,0.07689128816127777,Miss,64:05,Left footed,M. Tavernier
+0,0.07565426826477051,Miss,5:01,Left footed,R. Christie
+0,0.07258240878582001,Miss,5:00,Left footed,Evanilson
+0,0.07118913531303406,Miss,34:05,Right footed,A. Semenyo
+1,0.06868933886289597,Miss,77:56,Right footed,M. Damsgaard
+0,0.05572857707738876,Miss,42:08,Right footed,Evanilson
+0,0.0449138842523098,Miss,35:21,Left footed,M. Tavernier
+1,0.03938165679574013,Miss,57:44,Left footed,B. Mbeumo
+0,0.036798298358917236,Miss,8:54,Left footed,Dean Huijsen
+1,0.03518480807542801,Miss,90+3:49,Left footed,B. Mbeumo
+0,0.033915407955646515,Miss,90:19,Left footed,A. Semenyo
+0,0.031711459159851074,Miss,43:01,Left footed,R. Christie
+1,0.029997192323207855,Miss,30:42,Left footed,B. Mbeumo
+0,0.029585445299744606,Miss,45:24,Right footed,A. Semenyo
+0,0.024195745587348938,Miss,81:37,Left footed,M. Tavernier
+1,0.02363329753279686,Miss,19:34,Header,K. Schade
+0,0.021313395351171494,Miss,86:21,Header,Evanilson
+0,0.017052093520760536,Miss,1:13,Right footed,M. Kerkez
+1,0.014000295661389828,Miss,89:43,Header,C. Nørgaard
+0,0.01086396910250187,Miss,88:26,Header,J. Hill

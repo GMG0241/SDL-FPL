@@ -1,0 +1,24 @@
+1,0.9781134128570557,Goal,90+3:28,Left footed,T. Awoniyi
+0,0.6709102392196655,Miss,13:19,Right footed,J. Strand Larsen
+1,0.3015843629837036,Miss,71:08,Header,C. Hudson-Odoi
+0,0.27281826734542847,Miss,28:36,Header,J. Strand Larsen
+1,0.25181326270103455,Goal,43:20,Left footed,C. Wood
+1,0.15333214402198792,Goal,6:05,Right footed,M. Gibbs-White
+0,0.13332684338092804,Miss,13:18,Right footed,Hwang Hee-Chan
+0,0.10612059384584427,Miss,14:27,Left footed,S. Bueno
+1,0.10006342083215714,Miss,9:05,Right footed,C. Wood
+0,0.09958953410387039,Miss,66:10,Right footed,J. Strand Larsen
+1,0.0884072557091713,Miss,46:39,Header,N. Milenković
+1,0.08614767342805862,Miss,60:55,Right footed,E. Anderson
+1,0.07092440128326416,Miss,87:58,Right footed,T. Awoniyi
+0,0.0617598332464695,Miss,82:42,Right footed,J. Bellegarde
+0,0.05469417944550514,Miss,53:46,Left footed,Gonçalo Guedes
+1,0.04651878774166107,Miss,25:27,Right footed,E. Anderson
+0,0.04385233670473099,Miss,13:32,Right footed,Gonçalo Guedes
+0,0.04248514771461487,Miss,82:13,Left footed,J. Bellegarde
+0,0.03733937442302704,Miss,24:19,Left footed,Hwang Hee-Chan
+1,0.03711044043302536,Miss,59:49,Left footed,Murillo
+0,0.029190050438046455,Miss,13:50,Right footed,Rodrigo Gomes
+0,0.027090974152088165,Miss,30:29,Header,S. Bueno
+1,0.019123651087284088,Miss,20:04,Right footed,N. Domínguez
+0,0.014700029045343399,Miss,84:03,Right footed,S. Bueno

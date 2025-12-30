@@ -1,0 +1,28 @@
+1,0.7330599427223206,Goal,83:26,Right footed,J. Strand Larsen
+0,0.46394991874694824,Goal,15:48,Right footed,L. Delap
+1,0.3931398093700409,Miss,20:07,Right footed,Toti Gomes
+1,0.18435359001159668,Miss,10:02,Right footed,J. Strand Larsen
+0,0.17582744359970093,Miss,57:15,Header,D. O'Shea
+1,0.1496787816286087,Miss,38:11,Right footed,E. Agbadou
+1,0.13775049149990082,Miss,59:06,Left footed,R. Aït-Nouri
+1,0.12276937067508698,Miss,83:17,Header,R. Aït-Nouri
+1,0.11778438836336136,Miss,75:51,Header,J. Strand Larsen
+1,0.10829433053731918,Miss,52:05,Right footed,M. Munetsi
+1,0.10190226137638092,Miss,10:42,Header,Toti Gomes
+1,0.09740075469017029,Miss,5:16,Left footed,J. Bellegarde
+1,0.09669455140829086,Miss,48:00,Right footed,M. Munetsi
+0,0.07539789378643036,Miss,88:13,Right footed,J. Philogene
+1,0.07207681238651276,Miss,47:30,Right footed,Nélson Semedo
+1,0.0553627610206604,Miss,50:01,Right footed,João Gomes
+1,0.05407746136188507,Miss,11:24,Right footed,João Gomes
+1,0.05162975192070007,Goal,71:58,Left footed,Pablo Sarabia
+1,0.050689976662397385,Miss,70:51,Left footed,R. Aït-Nouri
+1,0.04895201697945595,Miss,22:42,Left footed,Toti Gomes
+0,0.03489008545875549,Miss,28:21,Right footed,D. O'Shea
+1,0.03289373219013214,Miss,65:12,Header,R. Aït-Nouri
+1,0.031102949753403664,Miss,54:04,Right footed,M. Doherty
+1,0.030389539897441864,Miss,50:05,Right footed,João Gomes
+0,0.026584530249238014,Miss,15:07,Left footed,C. Townsend
+1,0.020883893594145775,Miss,79:18,Right footed,João Gomes
+0,0.02069862373173237,Miss,28:54,Right footed,Sam Morsy
+1,0.015936896204948425,Miss,66:53,Right footed,M. Munetsi

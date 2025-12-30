@@ -1,0 +1,29 @@
+1,0.8509889245033264,Goal,37:37,Right footed,K. Havertz
+1,0.6643290519714355,Goal,59:03,Right footed,Gabriel Martinelli
+0,0.49489355087280273,Miss,20:09,Left footed,J. Mateta
+1,0.47452422976493835,Miss,58:59,Left footed,Gabriel Jesus
+0,0.23762372136116028,Miss,52:14,Header,I. Sarr
+1,0.20263132452964783,Miss,36:52,Header,Gabriel Magalhães
+1,0.1850997507572174,Miss,13:58,Header,Gabriel Magalhães
+0,0.14364296197891235,Miss,9:56,Left footed,W. Hughes
+0,0.12898412346839905,Miss,33:32,Header,M. Lacroix
+0,0.12473006546497345,Miss,45:55,Header,I. Sarr
+1,0.10869508236646652,Miss,37:36,Header,Gabriel Jesus
+1,0.10178691148757935,Miss,59:02,Left footed,D. Rice
+1,0.09363791346549988,Miss,72:10,Header,Gabriel Jesus
+0,0.09345844388008118,Miss,45:58,Header,J. Mateta
+1,0.08659350126981735,Miss,45+2:49,Left footed,M. Ødegaard
+0,0.0859602689743042,Miss,45+4:30,Header,J. Lerma
+1,0.08465759456157684,Goal,5:38,Right footed,Gabriel Jesus
+1,0.05561178922653198,Goal,83:52,Right footed,D. Rice
+1,0.054908715188503265,Goal,14:01,Right footed,Gabriel Jesus
+0,0.052051883190870285,Miss,25:30,Right footed,I. Sarr
+0,0.04630700871348381,Miss,45:55,Header,J. Mateta
+0,0.04487228766083717,Miss,9:15,Header,M. Lacroix
+0,0.04019341245293617,Goal,10:55,Right footed,I. Sarr
+0,0.03735428676009178,Miss,89:44,Left footed,J. Schlupp
+1,0.029123341664671898,Miss,56:06,Header,K. Havertz
+0,0.022372480481863022,Miss,52:12,Right footed,J. Mateta
+0,0.020666318014264107,Miss,17:21,Left footed,D. Kamada
+0,0.01847945898771286,Miss,75:49,Right footed,I. Sarr
+1,0.01625681295990944,Miss,56:37,Right footed,L. Trossard

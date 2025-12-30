@@ -1,0 +1,18 @@
+0,0.7488734126091003,Goal,32:02,Header,A. Doucouré
+0,0.4195331037044525,Miss,31:59,Right footed,J. Harrison
+0,0.24624274671077728,Goal,18:56,Left footed,Beto
+0,0.1708688735961914,Miss,65:02,Right footed,A. Doucouré
+1,0.14937783777713776,Miss,82:56,Header,J. Zirkzee
+0,0.1329701840877533,Miss,87:06,Header,Beto
+0,0.07318414002656937,Miss,46:46,Header,J. Branthwaite
+1,0.0631868839263916,Miss,88:27,Left footed,A. Garnacho
+0,0.057589322328567505,Miss,56:12,Left footed,J. Harrison
+1,0.05299637094140053,Goal,71:19,Right footed,Bruno Fernandes
+0,0.04222569614648819,Miss,5:08,Header,Beto
+1,0.03157532215118408,Miss,88:32,Right footed,Bruno Fernandes
+1,0.03131254017353058,Miss,70:07,Right footed,Bruno Fernandes
+1,0.02892325446009636,Goal,79:14,Left footed,M. Ugarte
+1,0.0225630272179842,Miss,41:46,Right footed,M. Ugarte
+1,0.017128918319940567,Miss,89:03,Right footed,M. Ugarte
+0,0.016273895278573036,Miss,90+2:47,Right footed,I. Gueye
+1,0.013025159947574139,Miss,45+1:50,Header,J. Zirkzee

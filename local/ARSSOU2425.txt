@@ -1,0 +1,37 @@
+0,0.4052541255950928,Goal,67:49,Left footed,Gabriel Martinelli
+1,0.2619735300540924,Miss,78:12,Header,T. Harwood-Bellis
+0,0.22231319546699524,Miss,90+1:25,Header,K. Havertz
+0,0.20795594155788422,Miss,44:31,Right footed,R. Sterling
+0,0.18447571992874146,Miss,90+1:27,Right footed,T. Tomiyasu
+0,0.17227703332901,Miss,66:12,Header,K. Havertz
+1,0.1718253344297409,Miss,48:40,Left footed,Mateus Fernandes
+0,0.16613885760307312,Miss,4:54,Right footed,Gabriel Jesus
+0,0.16526274383068085,Miss,3:09,Left footed,Gabriel Jesus
+0,0.12771616876125336,Goal,57:31,Left footed,K. Havertz
+0,0.12626275420188904,Miss,6:14,Left footed,R. Sterling
+0,0.12094587087631226,Miss,90+5:20,Header,Gabriel Magalhães
+0,0.09596838802099228,Miss,11:38,Header,K. Havertz
+0,0.08716801553964615,Miss,30:22,Right footed,K. Havertz
+0,0.07027427852153778,Miss,82:32,Left footed,D. Rice
+0,0.06785943359136581,Miss,61:25,Right footed,D. Rice
+0,0.061375319957733154,Miss,19:11,Left footed,B. Saka
+1,0.060766011476516724,Goal,54:02,Right footed,C. Archer
+0,0.05937856063246727,Miss,45:19,Right footed,T. Partey
+0,0.05861339718103409,Goal,87:30,Right footed,B. Saka
+0,0.05570993572473526,Miss,3:07,Header,Gabriel Magalhães
+0,0.05425318703055382,Miss,63:08,Right footed,T. Partey
+0,0.04954042658209801,Miss,14:19,Right footed,B. Saka
+0,0.048778731375932693,Miss,90:22,Left footed,B. Saka
+0,0.046816978603601456,Miss,45:27,Right footed,Gabriel Jesus
+1,0.04287111386656761,Miss,90+8:07,Right footed,F. Downes
+0,0.040508922189474106,Miss,39:22,Right footed,Jorginho
+0,0.03941376879811287,Miss,79:09,Right footed,K. Havertz
+1,0.03776220977306366,Miss,37:01,Left footed,J. Aribo
+0,0.036516837775707245,Miss,39:19,Right footed,B. Saka
+0,0.03350928798317909,Miss,72:09,Left footed,B. Saka
+1,0.033286720514297485,Miss,48:39,Left footed,T. Dibling
+0,0.028690388426184654,Miss,62:26,Left footed,K. Havertz
+1,0.026106595993041992,Miss,77:30,Left footed,T. Dibling
+0,0.022223934531211853,Miss,32:02,Left footed,B. Saka
+0,0.018864382058382034,Miss,35:43,Left footed,Gabriel Magalhães
+1,0.018350958824157715,Miss,15:47,Right footed,K. Walker-Peters

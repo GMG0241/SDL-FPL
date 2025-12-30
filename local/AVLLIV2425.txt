@@ -1,0 +1,26 @@
+1,0.7600815296173096,Miss,68:19,Left footed,D. Núñez
+1,0.4509420394897461,Miss,38:15,Right footed,Diogo Jota
+1,0.38098251819610596,Goal,28:12,Left footed,Mohamed Salah
+0,0.2407340258359909,Goal,45+2:03,Header,O. Watkins
+0,0.1717812865972519,Miss,36:59,Header,T. Mings
+0,0.12380421161651611,Goal,37:01,Left footed,Y. Tielemans
+1,0.09535212069749832,Miss,17:40,Left footed,Diogo Jota
+0,0.0878724604845047,Miss,49:17,Right footed,M. Rashford
+1,0.08558780699968338,Goal,60:24,Right footed,T. Alexander-Arnold
+1,0.08118723332881927,Miss,62:11,Right footed,D. Szoboszlai
+1,0.08031107485294342,Miss,4:25,Right footed,Diogo Jota
+1,0.07991847395896912,Miss,59:06,Right footed,Diogo Jota
+1,0.07726150751113892,Miss,45+3:27,Right footed,D. Szoboszlai
+1,0.06308479607105255,Miss,26:36,Right footed,A. Mac Allister
+1,0.05769873037934303,Miss,5:38,Header,Diogo Jota
+1,0.053320132195949554,Miss,25:41,Header,Mohamed Salah
+1,0.05322454869747162,Miss,62:14,Left footed,A. Robertson
+0,0.03762579336762428,Miss,90+2:30,Right footed,M. Rogers
+1,0.03748811408877373,Miss,56:39,Right footed,D. Szoboszlai
+1,0.03317418694496155,Miss,64:54,Header,Diogo Jota
+0,0.02893419750034809,Miss,78:50,Right footed,D. Malen
+1,0.026399316266179085,Miss,39:28,Right footed,C. Jones
+1,0.01986001431941986,Miss,3:00,Right footed,V. van Dijk
+0,0.018672272562980652,Miss,90+4:51,Right footed,D. Malen
+0,0.014277617447078228,Miss,79:11,Right footed,Y. Tielemans
+0,0.010627669282257557,Miss,90+3:16,Right footed,M. Cash

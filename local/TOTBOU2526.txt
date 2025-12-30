@@ -1,0 +1,25 @@
+1,0.23280870914459229,Miss,10:31,Header,A. Semenyo
+1,0.19265788793563843,Miss,65:37,Right footed,M. Tavernier
+1,0.13151073455810547,Miss,42:29,Header,Evanilson
+1,0.10446616262197495,Miss,48:30,Right footed,Evanilson
+1,0.1036623939871788,Miss,20:58,Header,D. Brooks
+1,0.09489864110946655,Miss,16:16,Header,Evanilson
+1,0.09487435221672058,Miss,48:27,Left footed,M. Senesi
+1,0.07711242139339447,Miss,52:23,Left footed,D. Brooks
+1,0.073725126683712,Miss,6:24,Right footed,Evanilson
+1,0.07053902745246887,Goal,4:01,Left footed,Evanilson
+1,0.0704149603843689,Miss,48:32,Left footed,D. Brooks
+1,0.0686190277338028,Miss,27:38,Left footed,M. Tavernier
+0,0.05861193686723709,Miss,67:59,Left footed,L. Bergvall
+1,0.049137797206640244,Miss,61:13,Right footed,A. Scott
+0,0.04433125630021095,Miss,90+1:09,Right footed,M. Tel
+0,0.03989239037036896,Miss,78:25,Right footed,W. Odobert
+1,0.03732321783900261,Miss,74:57,Right footed,T. Adams
+1,0.035221491008996964,Miss,20:22,Left footed,D. Brooks
+1,0.03235955908894539,Miss,45:58,Left footed,A. Semenyo
+1,0.027023281902074814,Miss,66:47,Left footed,M. Tavernier
+1,0.02055451087653637,Miss,48:38,Left footed,A. Semenyo
+0,0.017628246918320656,Miss,90+7:09,Header,D. Udogie
+1,0.014933394268155098,Miss,44:29,Left footed,M. Senesi
+1,0.00897112675011158,Miss,45:55,Left footed,A. Truffert
+0,0.008138107135891914,Miss,54:01,Right footed,Pedro Porro

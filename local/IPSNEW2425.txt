@@ -1,0 +1,25 @@
+1,0.7271645069122314,Goal,45+1:15,Right footed,A. Isak
+1,0.5024728775024414,Miss,23:37,Right footed,A. Isak
+1,0.22428619861602783,Miss,45+4:55,Left footed,A. Gordon
+0,0.22368673980236053,Miss,19:37,Right footed,S. Szmodics
+0,0.21751897037029266,Miss,48:57,Left footed,Ali Al Hamadi
+1,0.18092943727970123,Miss,55:54,Right footed,J. Willock
+1,0.165630504488945,Goal,53:22,Right footed,A. Isak
+1,0.15002617239952087,Miss,14:15,Header,A. Gordon
+1,0.08468667417764664,Goal,0:26,Right footed,A. Isak
+1,0.061196088790893555,Miss,50:45,Header,Bruno Guimarães
+0,0.060957808047533035,Miss,70:40,Header,D. O'Shea
+0,0.05390376225113869,Miss,45:24,Left footed,S. Szmodics
+1,0.053882379084825516,Miss,41:39,Right footed,A. Isak
+1,0.05293823406100273,Miss,62:20,Right footed,A. Gordon
+0,0.044729143381118774,Miss,81:33,Right footed,Ali Al Hamadi
+0,0.04177246615290642,Miss,62:53,Left footed,W. Burns
+1,0.04141145572066307,Miss,67:02,Right footed,H. Barnes
+0,0.028175756335258484,Miss,71:28,Right footed,Ali Al Hamadi
+1,0.023280596360564232,Miss,21:18,Right footed,J. Murphy
+1,0.023277979344129562,Goal,31:13,Right footed,J. Murphy
+0,0.022613152861595154,Miss,77:55,Right footed,N. Broadhead
+1,0.021999308839440346,Miss,9:55,Right footed,S. Tonali
+0,0.018627166748046875,Miss,19:00,Left footed,J. Cajuste
+1,0.014805857092142105,Miss,15:58,Left footed,J. Murphy
+0,0.014503237791359425,Miss,10:39,Left footed,O. Hutchinson

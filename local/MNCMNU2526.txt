@@ -1,0 +1,26 @@
+1,0.5814489126205444,Miss,83:17,Left footed,B. Mbeumo
+1,0.46983757615089417,Miss,84:14,Right footed,Casemiro
+0,0.41696274280548096,Goal,67:55,Left footed,E. Haaland
+0,0.25145015120506287,Miss,63:39,Left footed,E. Haaland
+0,0.21467144787311554,Miss,74:25,Right footed,T. Reijnders
+0,0.21129126846790314,Miss,54:51,Left footed,E. Haaland
+0,0.18905480206012726,Goal,52:02,Left footed,E. Haaland
+0,0.18268872797489166,Goal,17:10,Header,P. Foden
+1,0.12679532170295715,Miss,85:11,Right footed,P. Dorgu
+0,0.09887344390153885,Miss,23:24,Right footed,T. Reijnders
+0,0.09845858812332153,Miss,90+3:21,Right footed,P. Foden
+0,0.09840812534093857,Miss,54:55,Right footed,Bernardo Silva
+1,0.07598086446523666,Miss,90+2:17,Header,P. Dorgu
+1,0.07001610100269318,Miss,72:06,Left footed,A. Diallo
+1,0.045994069427251816,Miss,79:19,Right footed,B. Mbeumo
+1,0.04564911499619484,Miss,83:16,Right footed,A. Diallo
+0,0.04332433268427849,Miss,90+3:31,Left footed,Savinho
+0,0.038279347121715546,Miss,90:42,Left footed,T. Reijnders
+0,0.03394463658332825,Miss,38:53,Right footed,N. O'Reilly
+1,0.02955441176891327,Miss,3:25,Left footed,B. Šeško
+1,0.026000630110502243,Miss,81:33,Left footed,B. Mbeumo
+1,0.024652613326907158,Miss,60:46,Left footed,B. Mbeumo
+1,0.0235283263027668,Miss,84:13,Left footed,Bruno Fernandes
+0,0.02109982632100582,Miss,0:18,Left footed,E. Haaland
+1,0.020363211631774902,Miss,72:11,Right footed,M. Ugarte
+1,0.01823146641254425,Miss,90+1:46,Right footed,Casemiro

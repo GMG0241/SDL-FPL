@@ -1,0 +1,27 @@
+1,0.22256773710250854,Goal,53:44,Left footed,T. Souček
+1,0.1398305743932724,Miss,31:54,Left footed,M. Antonio
+0,0.12525619566440582,Goal,0:38,Left footed,B. Mbeumo
+1,0.0996939167380333,Miss,53:42,Right footed,M. Antonio
+1,0.06274092197418213,Miss,90+6:48,Right footed,Carlos Soler
+1,0.0569961816072464,Miss,24:45,Left footed,M. Kudus
+1,0.053152523934841156,Miss,0:00,Right footed,J. Todibo
+0,0.05290040001273155,Miss,37:20,Left footed,B. Mbeumo
+1,0.048473067581653595,Miss,80:31,Left footed,C. Summerville
+1,0.044065847992897034,Miss,49:06,Header,J. Todibo
+0,0.043119560927152634,Miss,33:37,Header,B. Mbeumo
+0,0.042506713420152664,Miss,61:03,Right footed,Y. Yarmoliuk
+1,0.04131757840514183,Miss,4:12,Left footed,J. Bowen
+1,0.038423165678977966,Miss,55:56,Right footed,M. Antonio
+0,0.0383506640791893,Miss,41:05,Right footed,S. van den Berg
+0,0.028912225738167763,Miss,83:17,Header,B. Mbeumo
+1,0.02737777680158615,Miss,45:18,Left footed,Lucas Paquetá
+1,0.02527894452214241,Miss,21:21,Left footed,M. Kudus
+0,0.02426648698747158,Miss,62:55,Left footed,Fábio Carvalho
+1,0.02403208613395691,Miss,30:20,Right footed,A. Wan-Bissaka
+1,0.02281189151108265,Miss,4:18,Right footed,M. Kudus
+1,0.02122052200138569,Miss,4:03,Right footed,J. Bowen
+1,0.020949941128492355,Miss,21:55,Left footed,J. Bowen
+1,0.017148638144135475,Miss,0:00,Left footed,Emerson
+0,0.012627356685698032,Miss,85:07,Right footed,K. Lewis-Potter
+1,0.010399570688605309,Miss,50:08,Right footed,K. Mavropanos
+1,0.009888838976621628,Miss,9:42,Right footed,G. Rodríguez

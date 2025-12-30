@@ -1,0 +1,23 @@
+0,0.9369286298751831,Goal,75:32,Left footed,Y. Wissa
+1,0.45655468106269836,Miss,87:06,Right footed,J. Ayew
+0,0.2772027850151062,Miss,30:27,Right footed,K. Ajer
+0,0.2214198112487793,Miss,75:30,Left footed,N. Collins
+0,0.13263100385665894,Miss,41:35,Right footed,K. Schade
+1,0.11753026396036148,Miss,6:37,Left footed,T. Mitchell
+1,0.09990785270929337,Miss,14:56,Right footed,E. Eze
+1,0.09603148698806763,Miss,20:49,Right footed,E. Eze
+0,0.08844172954559326,Goal,28:33,Left footed,B. Mbeumo
+1,0.07067892700433731,Miss,88:25,Left footed,E. Eze
+0,0.06348078697919846,Miss,65:53,Header,Y. Wissa
+1,0.049761440604925156,Miss,72:43,Left footed,O. Édouard
+1,0.04774519056081772,Miss,79:11,Left footed,E. Eze
+1,0.044908180832862854,Miss,24:01,Right footed,J. Andersen
+1,0.042280759662389755,Miss,49:33,Left footed,A. Wharton
+0,0.04111841693520546,Miss,51:51,Left footed,V. Janelt
+1,0.04062974080443382,Miss,81:06,Left footed,E. Eze
+1,0.03633395582437515,Miss,86:20,Left footed,E. Eze
+1,0.03440475836396217,Miss,63:57,Left footed,A. Wharton
+0,0.027312949299812317,Miss,68:51,Left footed,V. Janelt
+1,0.01923968456685543,Miss,82:20,Right footed,E. Eze
+1,0.014092661440372467,Miss,52:32,Left footed,A. Wharton
+0,0.009257777594029903,Miss,46:37,Header,E. Pinnock

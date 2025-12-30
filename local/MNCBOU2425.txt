@@ -1,0 +1,20 @@
+0,0.8200077414512634,Miss,24:34,Left footed,K. De Bruyne
+1,0.3759300708770752,Miss,32:03,Right footed,Evanilson
+0,0.3029018044471741,Goal,37:33,Left footed,Bernardo Silva
+1,0.2855750322341919,Goal,90+5:32,Right footed,D. Jebbison
+1,0.12385359406471252,Miss,3:00,Right footed,J. Kluivert
+0,0.1077839583158493,Miss,21:31,Left footed,E. Haaland
+1,0.10465959459543228,Miss,45:50,Left footed,J. Kluivert
+0,0.08450125902891159,Goal,88:11,Right footed,Nico González
+1,0.07991847395896912,Miss,58:24,Left footed,A. Semenyo
+0,0.07509373128414154,Miss,80:54,Right footed,Omar Marmoush
+1,0.07349957525730133,Miss,45:43,Right footed,J. Kluivert
+1,0.05419204756617546,Miss,46:42,Header,Evanilson
+0,0.02948993630707264,Miss,53:43,Left footed,K. De Bruyne
+0,0.02798951417207718,Miss,6:54,Right footed,M. Kovačić
+1,0.025737501680850983,Miss,35:01,Left footed,M. Tavernier
+0,0.021264847368001938,Goal,13:43,Right footed,Omar Marmoush
+0,0.020479440689086914,Miss,0:13,Right footed,K. De Bruyne
+0,0.018266240134835243,Miss,50:52,Right footed,Matheus Nunes
+0,0.016237659379839897,Miss,64:08,Right footed,Omar Marmoush
+0,0.0132457809522748,Miss,44:16,Right footed,İ. Gündoğan

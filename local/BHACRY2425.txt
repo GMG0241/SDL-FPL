@@ -1,0 +1,30 @@
+1,0.43192940950393677,Goal,32:24,Header,I. Sarr
+1,0.4108295142650604,Goal,26:16,Right footed,T. Chalobah
+1,0.38674396276474,Miss,89:47,Right footed,E. Nketiah
+1,0.3555617034435272,Goal,81:21,Right footed,I. Sarr
+1,0.19152100384235382,Miss,85:38,Right footed,C. Doucouré
+1,0.186390683054924,Miss,30:36,Right footed,D. Muñoz
+0,0.12798714637756348,Miss,55:27,Header,L. Dunk
+0,0.12643012404441833,Miss,29:17,Left footed,Y. Ayari
+0,0.12103395909070969,Miss,90+3:05,Right footed,J. Enciso
+1,0.09133648127317429,Miss,0:56,Header,I. Sarr
+0,0.08338896930217743,Miss,45+2:20,Left footed,T. Lamptey
+0,0.08220112323760986,Miss,55:07,Header,L. Dunk
+0,0.0757315456867218,Miss,53:36,Right footed,João Pedro
+0,0.07031461596488953,Miss,53:58,Right footed,K. Mitoma
+1,0.06934990733861923,Miss,42:15,Header,E. Eze
+0,0.06414230167865753,Miss,2:44,Left footed,K. Mitoma
+0,0.05204274132847786,Miss,76:03,Left footed,B. Gruda
+1,0.045170582830905914,Miss,70:27,Left footed,E. Nketiah
+1,0.043900299817323685,Miss,30:38,Left footed,I. Sarr
+1,0.04145198315382004,Miss,73:46,Right footed,I. Sarr
+0,0.036623213440179825,Miss,56:52,Right footed,J. Enciso
+1,0.03326138108968735,Miss,71:44,Right footed,E. Nketiah
+0,0.03213535621762276,Miss,47:38,Right footed,K. Mitoma
+0,0.029142362996935844,Miss,90+4:13,Right footed,João Pedro
+1,0.026780009269714355,Miss,24:52,Right footed,J. Mateta
+0,0.024628782644867897,Miss,38:06,Left footed,C. Baleba
+0,0.021746721118688583,Miss,15:11,Left footed,C. Baleba
+0,0.020074203610420227,Miss,77:28,Left footed,P. Estupiñán
+0,0.01698226109147072,Miss,12:29,Left footed,G. Rutter
+0,0.011365555226802826,Miss,80:50,Right footed,J. Enciso

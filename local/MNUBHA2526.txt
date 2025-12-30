@@ -1,0 +1,30 @@
+1,0.2087901085615158,Miss,37:13,Header,L. Dunk
+0,0.19010338187217712,Miss,70:10,Left footed,B. Mbeumo
+0,0.18146176636219025,Miss,47:50,Right footed,Bruno Fernandes
+0,0.168757826089859,Miss,43:57,Left footed,B. Šeško
+0,0.1529330611228943,Goal,90+6:00,Left footed,B. Mbeumo
+1,0.14895452558994293,Goal,90+1:38,Header,C. Kostoulas
+1,0.1269780993461609,Goal,73:28,Right footed,D. Welbeck
+1,0.11759697645902634,Miss,90+1:15,Left footed,C. Kostoulas
+0,0.09005051106214523,Miss,0:37,Header,Bruno Fernandes
+1,0.0887865275144577,Miss,14:14,Left footed,D. Welbeck
+0,0.07995535433292389,Miss,90+5:10,Right footed,Bruno Fernandes
+0,0.057289812713861465,Goal,23:07,Right footed,Matheus Cunha
+0,0.05392086133360863,Goal,60:31,Left footed,B. Mbeumo
+1,0.04941575974225998,Miss,9:26,Right footed,F. Kadıoğlu
+1,0.04751639813184738,Miss,74:33,Left footed,T. Watson
+1,0.042641546577215195,Miss,45:39,Left footed,M. De Cuyper
+0,0.0379631482064724,Miss,55:16,Right footed,B. Šeško
+1,0.037349067628383636,Miss,77:47,Left footed,Y. Minteh
+1,0.036585211753845215,Miss,75:34,Right footed,D. Gómez
+0,0.036211609840393066,Miss,15:48,Right footed,Matheus Cunha
+1,0.03577713295817375,Miss,50:58,Header,Y. Ayari
+1,0.035098589956760406,Miss,36:35,Right footed,Y. Ayari
+0,0.033264730125665665,Miss,83:07,Right footed,Bruno Fernandes
+1,0.03073844127357006,Miss,9:31,Right footed,C. Baleba
+0,0.028423864394426346,Miss,37:51,Right footed,Diogo Dalot
+1,0.02788357250392437,Miss,87:34,Right footed,F. Kadıoğlu
+0,0.019336601719260216,Goal,33:10,Right footed,Casemiro
+1,0.01631106808781624,Miss,46:42,Left footed,C. Baleba
+1,0.015663789585232735,Miss,88:13,Header,S. Tzimas
+1,0.007747064810246229,Miss,90+7:18,Right footed,D. Welbeck

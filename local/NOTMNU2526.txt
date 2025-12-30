@@ -1,0 +1,35 @@
+0,0.7782396674156189,Goal,49:33,Left footed,N. Savona
+1,0.2886280119419098,Miss,80:49,Left footed,P. Dorgu
+1,0.15827421844005585,Miss,2:30,Right footed,B. Šeško
+0,0.13545413315296173,Goal,47:51,Header,M. Gibbs-White
+0,0.13097147643566132,Miss,42:53,Right footed,M. Gibbs-White
+1,0.1258440762758255,Miss,59:56,Right footed,Casemiro
+1,0.12358509004116058,Goal,33:25,Header,Casemiro
+0,0.12292580306529999,Miss,6:34,Header,N. Milenković
+0,0.10782486200332642,Miss,88:57,Right footed,E. Anderson
+0,0.10430477559566498,Miss,65:00,Header,Igor Jesus
+1,0.09233210235834122,Miss,73:55,Right footed,Bruno Fernandes
+1,0.08658966422080994,Miss,90+3:10,Left footed,A. Diallo
+0,0.07995912432670593,Miss,5:54,Right footed,Igor Jesus
+1,0.07760100066661835,Miss,55:05,Left footed,B. Mbeumo
+0,0.07458283007144928,Miss,49:30,Header,Igor Jesus
+0,0.06453266739845276,Miss,56:36,Header,Murillo
+0,0.059476759284734726,Miss,85:50,Header,N. Milenković
+0,0.05654557794332504,Miss,7:54,Right footed,E. Anderson
+0,0.05504339560866356,Miss,67:19,Right footed,C. Hudson-Odoi
+0,0.05049677938222885,Miss,88:55,Right footed,C. Hudson-Odoi
+1,0.04185817390680313,Miss,86:33,Right footed,Matheus Cunha
+0,0.04174873232841492,Miss,84:06,Right footed,N. Williams
+1,0.04010552540421486,Miss,27:58,Left footed,A. Diallo
+1,0.035472363233566284,Miss,14:58,Right footed,B. Šeško
+1,0.03032444790005684,Goal,80:52,Left footed,A. Diallo
+1,0.02586064487695694,Miss,41:09,Left footed,A. Diallo
+0,0.02578463777899742,Miss,39:09,Left footed,C. Hudson-Odoi
+1,0.02528441697359085,Miss,87:56,Left footed,B. Šeško
+1,0.024602945894002914,Miss,74:10,Right footed,Matheus Cunha
+1,0.023718951269984245,Miss,59:51,Right footed,Bruno Fernandes
+0,0.023359665647149086,Miss,14:03,Right footed,C. Hudson-Odoi
+1,0.022404136136174202,Miss,74:21,Left footed,P. Dorgu
+1,0.018729912117123604,Miss,73:48,Left footed,Casemiro
+0,0.01704072393476963,Miss,7:10,Left footed,D. Ndoye
+1,0.016117960214614868,Miss,90+2:27,Right footed,Casemiro

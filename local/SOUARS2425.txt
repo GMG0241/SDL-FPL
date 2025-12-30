@@ -1,0 +1,30 @@
+1,0.3909762501716614,Miss,40:03,Right footed,Gabriel Martinelli
+1,0.3053871989250183,Miss,66:45,Left footed,O. Zinchenko
+1,0.27640852332115173,Miss,58:02,Right footed,Gabriel Martinelli
+0,0.214508518576622,Goal,55:43,Header,R. Stewart
+1,0.16665609180927277,Goal,42:07,Right footed,K. Tierney
+1,0.13756613433361053,Miss,90+2:02,Header,K. Havertz
+0,0.13508881628513336,Miss,54:58,Right footed,Mateus Fernandes
+0,0.11682431399822235,Miss,29:44,Header,R. Stewart
+1,0.11472636461257935,Miss,75:44,Right footed,D. Rice
+1,0.11061105877161026,Miss,23:31,Header,Mikel Merino
+1,0.1073397770524025,Miss,6:37,Left footed,R. Sterling
+1,0.10367072373628616,Miss,3:28,Header,Mikel Merino
+1,0.09742508828639984,Miss,79:39,Right footed,L. Trossard
+0,0.0716744214296341,Miss,55:10,Left footed,J. Robinson
+1,0.05998382344841957,Goal,89:00,Left footed,M. Ødegaard
+0,0.05689195170998573,Miss,45+1:01,Left footed,K. Sulemana
+1,0.041568461805582047,Miss,66:42,Left footed,Gabriel Martinelli
+1,0.04102364927530289,Miss,67:29,Left footed,B. Saka
+1,0.040270399302244186,Miss,9:01,Right footed,D. Rice
+1,0.027645360678434372,Miss,1:35,Header,Gabriel Martinelli
+1,0.027380989864468575,Miss,90+2:00,Left footed,B. Saka
+1,0.025859154760837555,Miss,75:42,Left footed,Mikel Merino
+1,0.025688769295811653,Miss,26:21,Right footed,T. Partey
+0,0.024960536509752274,Miss,45+1:03,Left footed,K. Sulemana
+1,0.02467961236834526,Miss,52:23,Left footed,E. Nwaneri
+1,0.023821724578738213,Miss,41:04,Left footed,O. Zinchenko
+1,0.02247232012450695,Miss,68:46,Left footed,O. Zinchenko
+1,0.015082528814673424,Miss,58:47,Left footed,O. Zinchenko
+1,0.014840777963399887,Miss,58:59,Left footed,E. Nwaneri
+0,0.01318956445902586,Miss,19:33,Right footed,Y. Sugawara

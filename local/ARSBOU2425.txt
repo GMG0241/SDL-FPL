@@ -1,0 +1,22 @@
+0,0.6379873752593994,Goal,33:35,Right footed,D. Rice
+1,0.3370654284954071,Miss,25:14,Header,Evanilson
+1,0.1569872498512268,Goal,74:11,Other body part,Evanilson
+1,0.15652436017990112,Goal,66:06,Header,Dean Huijsen
+0,0.15581898391246796,Miss,48:00,Header,B. Saka
+1,0.13668054342269897,Miss,72:00,Left footed,M. Tavernier
+0,0.109466053545475,Miss,53:09,Header,B. Saka
+1,0.09430917352437973,Miss,41:32,Right footed,J. Kluivert
+0,0.08822354674339294,Miss,30:36,Header,L. Trossard
+1,0.07069957256317139,Miss,44:25,Right footed,Evanilson
+0,0.06750204414129257,Miss,43:37,Right footed,L. Trossard
+0,0.06441742181777954,Miss,90+2:11,Left footed,M. Ødegaard
+0,0.05946965143084526,Miss,26:56,Left footed,Gabriel Martinelli
+0,0.0590139664709568,Miss,14:06,Left footed,D. Rice
+0,0.056817784905433655,Miss,51:48,Right footed,B. Saka
+0,0.04770272970199585,Miss,90+2:37,Right footed,M. Ødegaard
+1,0.04366408288478851,Miss,61:41,Right footed,J. Kluivert
+0,0.03914949670433998,Miss,16:00,Right footed,D. Rice
+1,0.038091424852609634,Miss,74:10,Header,M. Tavernier
+0,0.029421770945191383,Miss,55:51,Right footed,B. Saka
+1,0.02525153197348118,Miss,42:24,Header,Evanilson
+0,0.018424903973937035,Miss,62:27,Right footed,Gabriel Martinelli

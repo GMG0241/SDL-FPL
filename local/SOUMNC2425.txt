@@ -1,0 +1,28 @@
+1,0.2097744345664978,Miss,45:46,Header,M. Akanji
+1,0.20472805202007294,Miss,63:06,Left footed,Bernardo Silva
+1,0.17013651132583618,Miss,43:35,Header,M. Akanji
+1,0.14652471244335175,Miss,82:40,Left footed,Savinho
+1,0.10929839313030243,Miss,31:54,Right footed,K. De Bruyne
+1,0.09630298614501953,Miss,57:41,Left footed,Bernardo Silva
+1,0.0884016826748848,Miss,75:44,Right footed,K. De Bruyne
+1,0.0777440294623375,Miss,84:09,Right footed,Omar Marmoush
+1,0.07509373128414154,Miss,43:28,Right footed,K. De Bruyne
+0,0.0713869035243988,Miss,65:51,Right footed,Mateus Fernandes
+1,0.05901622772216797,Miss,83:27,Header,Rúben Dias
+1,0.058973535895347595,Miss,57:42,Right footed,Bernardo Silva
+1,0.05760740116238594,Miss,85:25,Right footed,K. De Bruyne
+1,0.056597571820020676,Miss,90:19,Right footed,Omar Marmoush
+1,0.05385693535208702,Miss,52:10,Right footed,M. Kovačić
+1,0.053050387650728226,Miss,90+1:41,Header,E. Haaland
+1,0.040788888931274414,Miss,15:43,Right footed,M. Kovačić
+1,0.039425261318683624,Miss,69:56,Header,M. Akanji
+1,0.039367370307445526,Miss,85:23,Right footed,J. Gvardiol
+1,0.037044573575258255,Miss,78:48,Right footed,M. Akanji
+1,0.03610191121697426,Miss,86:26,Right footed,K. De Bruyne
+1,0.03117104433476925,Miss,81:41,Right footed,J. Gvardiol
+0,0.02960159443318844,Miss,38:40,Right footed,K. Sulemana
+1,0.02058115229010582,Miss,57:38,Left footed,P. Foden
+1,0.01786702126264572,Miss,58:30,Left footed,P. Foden
+1,0.015377436764538288,Miss,39:49,Right footed,Rúben Dias
+1,0.015339176170527935,Miss,39:48,Right footed,Rúben Dias
+1,0.012583575211465359,Miss,45:16,Right footed,M. Kovačić

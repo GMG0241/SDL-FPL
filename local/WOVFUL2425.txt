@@ -1,0 +1,29 @@
+1,0.36773550510406494,Goal,0:59,Left footed,R. Sessegnon
+1,0.3081936240196228,Goal,46:05,Right footed,Rodrigo Muniz
+1,0.2932925224304199,Miss,25:37,Right footed,Rodrigo Muniz
+1,0.24093054234981537,Miss,90+1:30,Left footed,R. Jiménez
+1,0.21208319067955017,Miss,82:27,Right footed,R. Jiménez
+0,0.21050438284873962,Miss,15:29,Right footed,João Gomes
+0,0.18922564387321472,Miss,15:28,Header,M. Munetsi
+0,0.14370302855968475,Goal,17:42,Right footed,João Gomes
+0,0.10760348290205002,Miss,90+6:03,Left footed,R. Aït-Nouri
+1,0.09975588321685791,Miss,86:41,Right footed,Andreas Pereira
+0,0.09344488382339478,Miss,55:38,Left footed,Matheus Cunha
+0,0.08557619899511337,Miss,57:41,Header,M. Munetsi
+0,0.07689493149518967,Miss,49:35,Right footed,Matheus Cunha
+0,0.0627167671918869,Miss,5:03,Right footed,Matheus Cunha
+0,0.05622895434498787,Miss,53:28,Right footed,J. Bellegarde
+0,0.05381815508008003,Miss,5:34,Right footed,M. Doherty
+0,0.05225969851016998,Miss,37:03,Left footed,Matheus Cunha
+1,0.04749853163957596,Miss,87:37,Header,R. Jiménez
+1,0.04494123160839081,Miss,40:15,Header,R. Sessegnon
+1,0.03805797919631004,Miss,90+2:36,Left footed,A. Iwobi
+0,0.03651588037610054,Miss,34:50,Right footed,Matheus Cunha
+0,0.031054506078362465,Miss,35:21,Right footed,J. Bellegarde
+1,0.02753608487546444,Miss,28:43,Header,Rodrigo Muniz
+0,0.02697562985122204,Miss,68:35,Right footed,Matheus Cunha
+0,0.023431895300745964,Miss,13:12,Right footed,André
+0,0.021393196657299995,Miss,5:33,Right footed,João Gomes
+0,0.02011185698211193,Miss,77:14,Header,João Gomes
+0,0.019925370812416077,Miss,53:30,Left footed,J. Bellegarde
+1,0.01315302774310112,Miss,23:11,Right footed,Adama Traoré

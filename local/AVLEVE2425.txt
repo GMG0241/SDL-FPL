@@ -1,0 +1,23 @@
+0,0.4143354892730713,Goal,35:36,Header,O. Watkins
+1,0.4060289263725281,Goal,26:15,Header,D. Calvert-Lewin
+0,0.2898792624473572,Miss,71:54,Left footed,O. Watkins
+1,0.2391873598098755,Miss,39:24,Header,D. Calvert-Lewin
+0,0.2335910052061081,Miss,90+4:19,Header,J. Durán
+0,0.23092150688171387,Miss,49:08,Left footed,J. Ramsey
+0,0.14160801470279694,Miss,11:44,Right footed,O. Watkins
+0,0.12889918684959412,Goal,57:41,Right footed,O. Watkins
+1,0.1193569079041481,Miss,78:04,Right footed,D. Calvert-Lewin
+0,0.11857473105192184,Miss,8:01,Header,O. Watkins
+0,0.10742627084255219,Miss,30:50,Left footed,M. Rogers
+0,0.0939038023352623,Miss,7:19,Left footed,J. McGinn
+0,0.08942624926567078,Miss,29:54,Right footed,O. Watkins
+1,0.08539160341024399,Miss,90+2:01,Right footed,O. Mangala
+0,0.07339336723089218,Miss,85:44,Left footed,J. Durán
+0,0.0713944286108017,Miss,49:06,Right footed,M. Rogers
+0,0.035098589956760406,Miss,64:53,Right footed,M. Rogers
+0,0.034637898206710815,Miss,80:09,Right footed,R. Barkley
+0,0.03228483721613884,Miss,68:11,Right footed,J. Ramsey
+1,0.024836236611008644,Goal,15:18,Left footed,D. McNeil
+1,0.02202233113348484,Miss,70:38,Header,M. Keane
+0,0.020167600363492966,Goal,75:32,Left footed,J. Durán
+0,0.019629262387752533,Miss,9:31,Left footed,M. Rogers

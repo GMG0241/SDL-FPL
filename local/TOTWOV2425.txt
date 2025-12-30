@@ -1,0 +1,24 @@
+0,0.7884,Miss,42:57,Right footed,Son Heung-Min
+0,0.4184796214103699,Miss,79:52,Right footed,D. Kulusevski
+0,0.4057721495628357,Miss,90+1:30,Header,P. Sarr
+1,0.21583512425422668,Goal,86:13,Left footed,J. Strand Larsen
+0,0.14561879634857178,Goal,45+2:16,Right footed,B. Johnson
+1,0.14357997477054596,Miss,89:33,Header,M. Doherty
+1,0.09306375682353973,Miss,61:38,Left footed,R. Aït-Nouri
+0,0.09113840758800507,Goal,11:03,Header,R. Bentancur
+0,0.08978885412216187,Miss,38:43,Header,D. Solanke
+0,0.06920576840639114,Miss,44:40,Right footed,Son Heung-Min
+1,0.0556102879345417,Goal,6:25,Right footed,Hwang Hee-Chan
+0,0.05449599027633667,Miss,38:47,Right footed,Y. Bissouma
+1,0.0529862679541111,Miss,16:42,Right footed,Matheus Cunha
+0,0.049478378146886826,Miss,23:12,Header,R. Drăgușin
+0,0.04939443990588188,Miss,70:09,Right footed,D. Solanke
+0,0.04762576147913933,Miss,65:09,Left footed,J. Maddison
+1,0.03843386098742485,Miss,85:15,Left footed,Carlos Forbs
+1,0.036227963864803314,Miss,69:24,Header,C. Dawson
+1,0.02917296439409256,Miss,13:08,Right footed,Matheus Cunha
+0,0.025441959500312805,Miss,77:19,Header,D. Solanke
+1,0.019243674352765083,Miss,57:11,Right footed,S. Bueno
+1,0.01682998053729534,Miss,34:38,Right footed,Matheus Cunha
+1,0.0143883740529418,Miss,60:21,Right footed,Gonçalo Guedes
+0,0.013664822094142437,Miss,1:21,Right footed,R. Bentancur

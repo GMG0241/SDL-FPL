@@ -1,0 +1,32 @@
+0,0.7884,Miss,52:17,Left footed,E. Haaland
+0,0.31846171617507935,Miss,52:18,Header,J. Gvardiol
+1,0.24288798868656158,Goal,35:40,Right footed,I. Ndiaye
+1,0.18752142786979675,Miss,45:55,Header,D. Calvert-Lewin
+0,0.18603570759296417,Miss,32:33,Left footed,Bernardo Silva
+0,0.17432112991809845,Miss,2:53,Header,J. Gvardiol
+0,0.11285941302776337,Miss,22:37,Header,N. Aké
+0,0.09185721725225449,Miss,44:14,Left footed,P. Foden
+0,0.08215925842523575,Miss,46:25,Header,J. Gvardiol
+1,0.07958121597766876,Miss,90+5:09,Left footed,J. Harrison
+0,0.05920516327023506,Goal,13:46,Left footed,Bernardo Silva
+0,0.05414086580276489,Miss,59:22,Left footed,J. Gvardiol
+0,0.04770052060484886,Miss,90:54,Right footed,R. Lewis
+0,0.04632109776139259,Miss,42:27,Left footed,P. Foden
+1,0.04387546330690384,Miss,68:13,Right footed,A. Doucouré
+0,0.039468914270401,Miss,49:30,Right footed,Savinho
+0,0.03822685033082962,Miss,4:07,Right footed,Savinho
+0,0.03743702173233032,Miss,73:51,Left footed,J. Gvardiol
+0,0.037061918526887894,Miss,29:06,Left footed,Savinho
+1,0.03587052598595619,Miss,20:45,Right footed,O. Mangala
+1,0.0352933406829834,Miss,27:23,Right footed,I. Gueye
+0,0.03492928296327591,Miss,43:29,Left footed,Savinho
+1,0.03322587162256241,Miss,82:03,Right footed,O. Mangala
+0,0.03319248557090759,Miss,49:33,Right footed,M. Kovačić
+0,0.030856814235448837,Miss,3:17,Left footed,Savinho
+0,0.028381191194057465,Miss,11:19,Right footed,E. Haaland
+0,0.024960698559880257,Miss,60:31,Left footed,Bernardo Silva
+0,0.02267131395637989,Miss,66:00,Left footed,Savinho
+0,0.02146279253065586,Miss,62:12,Right footed,M. Kovačić
+0,0.016643431037664413,Miss,79:16,Right footed,M. Kovačić
+0,0.015514707192778587,Miss,88:15,Left footed,Savinho
+1,0.0061518051661551,Miss,82:45,Header,J. Branthwaite

@@ -1,0 +1,22 @@
+0,0.5986767411231995,Miss,51:42,Right footed,L. Delap
+0,0.35296493768692017,Miss,39:15,Right footed,L. Delap
+1,0.2479000985622406,Goal,1:21,Left footed,M. Rashford
+0,0.1983042061328888,Miss,86:31,Right footed,C. Chaplin
+1,0.18659743666648865,Miss,45:48,Left footed,A. Garnacho
+0,0.12329207360744476,Miss,6:36,Right footed,S. Szmodics
+0,0.08936180174350739,Miss,28:32,Left footed,O. Hutchinson
+1,0.0744742900133133,Miss,54:37,Left footed,Bruno Fernandes
+1,0.06888338178396225,Miss,78:33,Right footed,Bruno Fernandes
+0,0.06170813739299774,Miss,41:00,Left footed,J. Cajuste
+1,0.04928090423345566,Miss,90+2:08,Left footed,A. Diallo
+0,0.04915108531713486,Miss,10:14,Right footed,S. Szmodics
+0,0.04038022458553314,Miss,31:46,Left footed,O. Hutchinson
+1,0.040099598467350006,Miss,76:10,Right footed,J. Zirkzee
+1,0.037165481597185135,Miss,17:22,Right footed,A. Garnacho
+0,0.036132462322711945,Miss,70:29,Right footed,L. Delap
+1,0.029614241793751717,Miss,87:25,Header,Bruno Fernandes
+1,0.026681307703256607,Miss,5:59,Right footed,C. Eriksen
+1,0.02639520913362503,Miss,38:34,Left footed,Diogo Dalot
+0,0.02314596436917782,Miss,51:46,Right footed,Sam Morsy
+0,0.021513499319553375,Goal,42:25,Left footed,O. Hutchinson
+1,0.01606420986354351,Miss,45:05,Left footed,A. Diallo

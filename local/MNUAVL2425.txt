@@ -1,0 +1,31 @@
+0,0.7884,Goal,86:44,Right footed,C. Eriksen
+0,0.4751330018043518,Miss,3:51,Header,M. Mount
+0,0.311801940202713,Goal,75:50,Header,A. Diallo
+0,0.1817331612110138,Miss,10:09,Left footed,M. Mount
+0,0.11553873866796494,Miss,57:17,Right footed,R. Højlund
+0,0.11311228573322296,Miss,6:04,Right footed,Bruno Fernandes
+0,0.11266525834798813,Miss,3:42,Right footed,M. Mount
+0,0.10670418292284012,Miss,59:29,Right footed,Casemiro
+1,0.1065620705485344,Miss,89:15,Left footed,Y. Tielemans
+1,0.09714393317699432,Miss,89:17,Left footed,R. Barkley
+0,0.09349717199802399,Miss,11:29,Left footed,A. Diallo
+0,0.08680243790149689,Miss,27:39,Header,A. Heaven
+1,0.07327593863010406,Miss,90:58,Right footed,Y. Tielemans
+1,0.062218938022851944,Miss,90+1:01,Right footed,M. Cash
+0,0.05942302197217941,Miss,80:48,Right footed,C. Eriksen
+0,0.050423622131347656,Miss,90+6:50,Header,C. Obi
+0,0.05031976103782654,Miss,69:04,Right footed,Bruno Fernandes
+0,0.04518905282020569,Miss,74:20,Right footed,P. Dorgu
+0,0.03680954501032829,Miss,67:17,Left footed,Bruno Fernandes
+1,0.033786509186029434,Miss,38:57,Right footed,J. McGinn
+1,0.030929481610655785,Miss,61:02,Left footed,J. McGinn
+0,0.030560072511434555,Miss,46:15,Right footed,A. Heaven
+0,0.028509100899100304,Miss,50:09,Right footed,Bruno Fernandes
+0,0.027711564674973488,Miss,8:23,Right footed,Casemiro
+0,0.02644985169172287,Miss,90+6:08,Header,J. Evans
+0,0.02422449365258217,Miss,78:17,Left footed,Casemiro
+0,0.022915069013834,Miss,82:28,Left footed,C. Eriksen
+0,0.022857429459691048,Miss,45+4:17,Right footed,Diogo Dalot
+0,0.017530282959342003,Miss,33:23,Right footed,M. Mount
+0,0.016881443560123444,Miss,46:18,Right footed,Bruno Fernandes
+0,0.01314183697104454,Miss,56:02,Right footed,Casemiro

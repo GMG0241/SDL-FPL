@@ -1,0 +1,24 @@
+0,0.26646485924720764,Goal,16:00,Right footed,N. Mukiele
+0,0.22054126858711243,Miss,25:44,Header,T. Hume
+1,0.1752970963716507,Miss,85:19,Right footed,J. Tchatchoua
+1,0.08567564189434052,Miss,69:28,Right footed,M. Munetsi
+1,0.07355580478906631,Miss,90+7:09,Right footed,T. Arokodare
+1,0.07078644633293152,Miss,47:23,Right footed,João Gomes
+0,0.06270795315504074,Miss,3:29,Right footed,N. Mukiele
+0,0.06172327697277069,Miss,41:35,Header,D. Ballard
+1,0.06168392300605774,Miss,84:33,Right footed,T. Arokodare
+1,0.049046993255615234,Miss,30:58,Right footed,J. Arias
+1,0.04698900878429413,Miss,50:33,Left footed,Rodrigo Gomes
+0,0.04316534101963043,Miss,62:14,Right footed,W. Isidor
+0,0.034659966826438904,Miss,45+2:56,Left footed,G. Xhaka
+1,0.03398747742176056,Miss,90:35,Left footed,J. Strand Larsen
+0,0.03207159787416458,Miss,45+2:53,Right footed,N. Sadiki
+1,0.03190014883875847,Miss,90+6:44,Left footed,Fer López
+0,0.0290239155292511,Miss,13:11,Right footed,T. Hume
+1,0.02867014706134796,Miss,77:37,Header,J. Tchatchoua
+1,0.026151156052947044,Miss,2:49,Right footed,M. Munetsi
+1,0.023692168295383453,Miss,67:39,Right footed,João Gomes
+1,0.022667482495307922,Miss,28:45,Right footed,André
+1,0.02034120261669159,Miss,90+7:13,Left footed,L. Krejčí
+1,0.017500748857855797,Miss,90+5:58,Right footed,K. Hoever
+1,0.011599727906286716,Miss,90+6:52,Left footed,L. Krejčí

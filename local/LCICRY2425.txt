@@ -1,0 +1,30 @@
+1,0.8747960329055786,Goal,51:15,Left footed,J. Mateta
+0,0.5112382769584656,Miss,16:38,Left footed,J. Vardy
+1,0.2267909198999405,Miss,27:59,Left footed,J. Mateta
+1,0.18313199281692505,Goal,77:04,Left footed,M. Guéhi
+1,0.1790650188922882,Miss,60:31,Left footed,T. Mitchell
+0,0.1740501970052719,Miss,0:37,Left footed,J. Vardy
+0,0.12386995553970337,Miss,80:37,Header,P. Daka
+0,0.10199981927871704,Miss,64:42,Left footed,J. Vardy
+0,0.09686469286680222,Miss,34:35,Right footed,J. Justin
+0,0.09594937413930893,Miss,87:17,Header,S. Mavididi
+0,0.09487073123455048,Miss,32:14,Left footed,J. Vardy
+1,0.09297814965248108,Miss,12:34,Right footed,E. Eze
+1,0.09107372909784317,Miss,90+3:58,Right footed,I. Sarr
+0,0.08876221626996994,Miss,68:28,Right footed,B. Soumaré
+1,0.08051125705242157,Miss,45:15,Right footed,W. Hughes
+0,0.07833454012870789,Miss,67:07,Right footed,P. Daka
+1,0.07363683730363846,Miss,85:08,Right footed,E. Nketiah
+0,0.06002843752503395,Miss,69:56,Left footed,J. Vardy
+0,0.046901069581508636,Miss,1:44,Right footed,J. Vardy
+0,0.037718068808317184,Miss,13:34,Right footed,S. Mavididi
+0,0.030103184282779694,Miss,73:02,Right footed,P. Daka
+0,0.030022546648979187,Miss,90+2:56,Right footed,J. Ayew
+0,0.02306993678212166,Miss,72:01,Right footed,B. Soumaré
+0,0.021182969212532043,Miss,13:37,Right footed,H. Winks
+1,0.020096680149435997,Miss,45:13,Left footed,T. Mitchell
+0,0.019230512902140617,Miss,13:43,Right footed,B. El Khannouss
+0,0.01772388257086277,Miss,39:37,Right footed,B. El Khannouss
+0,0.017016109079122543,Miss,68:33,Header,P. Daka
+0,0.016476308926939964,Miss,30:19,Left footed,F. Buonanotte
+0,0.016452573239803314,Miss,4:33,Left footed,J. Justin

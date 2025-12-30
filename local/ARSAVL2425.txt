@@ -1,0 +1,26 @@
+1,0.5583368539810181,Goal,67:50,Right footed,O. Watkins
+0,0.3777475655078888,Goal,34:08,Right footed,Gabriel Martinelli
+0,0.2362336367368698,Miss,90:05,Right footed,R. Sterling
+1,0.21476125717163086,Goal,59:12,Header,Y. Tielemans
+0,0.09357352554798126,Goal,54:35,Left footed,K. Havertz
+0,0.07489119470119476,Miss,39:49,Left footed,Mikel Merino
+0,0.07463490962982178,Miss,47:04,Header,K. Havertz
+0,0.07379841804504395,Miss,90:03,Left footed,Mikel Merino
+0,0.06960014253854752,Miss,2:51,Right footed,Gabriel Martinelli
+1,0.06432165950536728,Miss,60:33,Right footed,Y. Tielemans
+0,0.06100982055068016,Miss,38:11,Right footed,L. Trossard
+1,0.05233617499470711,Miss,12:30,Left footed,I. Maatsen
+0,0.04701172187924385,Miss,90:07,Right footed,L. Trossard
+1,0.04550836607813835,Miss,90+2:03,Right footed,Y. Tielemans
+1,0.044259462505578995,Miss,33:08,Right footed,O. Watkins
+1,0.04103212058544159,Miss,85:49,Right footed,L. Bogarde
+0,0.04102526605129242,Miss,81:14,Left footed,M. Ødegaard
+0,0.031063910573720932,Miss,17:08,Right footed,L. Trossard
+0,0.028613895177841187,Miss,86:54,Left footed,Mikel Merino
+0,0.027248920872807503,Miss,27:33,Left footed,K. Havertz
+0,0.026272574439644814,Miss,64:51,Right footed,Gabriel Martinelli
+0,0.025314899161458015,Miss,66:40,Left footed,L. Trossard
+0,0.024201562628149986,Miss,73:40,Right footed,D. Rice
+1,0.0212573055177927,Miss,31:43,Right footed,O. Watkins
+0,0.020545627921819687,Miss,50:22,Right footed,L. Trossard
+0,0.014889456331729889,Miss,64:45,Right footed,L. Trossard

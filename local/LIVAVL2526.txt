@@ -1,0 +1,26 @@
+0,0.18925805389881134,Miss,22:45,Left footed,D. Szoboszlai
+0,0.13827349245548248,Miss,42:07,Right footed,A. Mac Allister
+0,0.1306237429380417,Miss,37:10,Header,I. Konaté
+0,0.1282627284526825,Goal,57:51,Left footed,R. Gravenberch
+0,0.10244683176279068,Goal,45:29,Right footed,Mohamed Salah
+1,0.09215258806943893,Miss,55:12,Header,M. Rogers
+0,0.08930744975805283,Miss,62:01,Left footed,Mohamed Salah
+1,0.07952699065208435,Miss,78:14,Right footed,R. Barkley
+0,0.07496554404497147,Miss,17:31,Left footed,A. Robertson
+0,0.06261131912469864,Miss,79:23,Right footed,C. Gakpo
+1,0.05998796224594116,Miss,25:01,Right footed,E. Guessand
+0,0.0562223419547081,Miss,32:42,Right footed,D. Szoboszlai
+0,0.055157363414764404,Miss,35:44,Right footed,C. Gakpo
+1,0.046724073588848114,Miss,69:31,Right footed,D. Malen
+1,0.03552590683102608,Miss,4:58,Right footed,M. Rogers
+0,0.0335356667637825,Miss,1:55,Right footed,R. Gravenberch
+0,0.03177301213145256,Miss,21:43,Left footed,Mohamed Salah
+0,0.030270462855696678,Miss,14:15,Right footed,D. Szoboszlai
+1,0.027914686128497124,Miss,85:57,Right footed,J. Sancho
+0,0.026613222435116768,Miss,37:55,Right footed,C. Gakpo
+0,0.02453877031803131,Miss,17:00,Header,C. Gakpo
+1,0.019911225885152817,Miss,62:43,Right footed,R. Barkley
+1,0.015514036640524864,Miss,18:08,Right footed,M. Cash
+1,0.015462552197277546,Miss,20:44,Right footed,M. Rogers
+1,0.014906811527907848,Miss,39:59,Right footed,M. Cash
+0,0.011828700080513954,Miss,45+3:10,Right footed,C. Bradley

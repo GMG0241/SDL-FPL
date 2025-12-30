@@ -1,0 +1,33 @@
+0,0.34510305523872375,Miss,35:50,Right footed,A. Gordon
+0,0.2924167811870575,Miss,39:12,Left footed,A. Isak
+0,0.24013932049274445,Miss,64:13,Header,A. Isak
+0,0.17227703332901,Miss,17:51,Header,L. Kelly
+1,0.12154591828584671,Goal,9:06,Header,T. Souček
+0,0.11287946999073029,Miss,35:52,Right footed,J. Willock
+1,0.10270418971776962,Miss,58:25,Right footed,T. Souček
+1,0.10214147716760635,Miss,79:01,Right footed,D. Ings
+1,0.09144897758960724,Miss,58:11,Right footed,T. Souček
+0,0.08218086510896683,Miss,28:34,Header,S. Longstaff
+1,0.07992026209831238,Miss,76:43,Right footed,J. Bowen
+0,0.07278665900230408,Miss,14:29,Right footed,J. Willock
+1,0.06775958836078644,Goal,53:00,Right footed,A. Wan-Bissaka
+0,0.0662502720952034,Miss,90+1:28,Left footed,A. Isak
+0,0.05793438106775284,Miss,17:15,Right footed,A. Isak
+1,0.05532137677073479,Miss,54:35,Left footed,J. Bowen
+1,0.05098151043057442,Miss,10:38,Left footed,Lucas Paquetá
+0,0.049763843417167664,Miss,51:43,Left footed,A. Gordon
+1,0.04556999355554581,Miss,22:24,Right footed,Carlos Soler
+1,0.04395671933889389,Miss,62:00,Right footed,Carlos Soler
+1,0.04189867898821831,Miss,78:53,Right footed,D. Ings
+0,0.0349280945956707,Miss,7:47,Right footed,A. Gordon
+0,0.03315581753849983,Miss,48:25,Left footed,L. Hall
+0,0.027887903153896332,Miss,77:58,Left footed,L. Hall
+1,0.02542681246995926,Miss,45+2:16,Left footed,J. Bowen
+0,0.02295512519776821,Miss,48:45,Right footed,A. Isak
+0,0.021718041971325874,Miss,33:49,Left footed,L. Hall
+0,0.020291896536946297,Miss,59:41,Right footed,F. Schär
+0,0.017728200182318687,Miss,1:48,Right footed,A. Isak
+1,0.017589634284377098,Miss,38:31,Left footed,J. Bowen
+1,0.011594066396355629,Miss,75:42,Left footed,Carlos Soler
+1,0.006123298313468695,Miss,26:52,Right footed,Carlos Soler
+0,0.005916622467339039,Miss,47:50,Right footed,F. Schär

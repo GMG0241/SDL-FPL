@@ -1,0 +1,27 @@
+1,0.9613573551177979,Goal,8:03,Left footed,E. Fernández
+0,0.9539764523506165,Goal,56:35,Left footed,Marco Asensio
+0,0.494846910238266,Miss,28:42,Left footed,O. Watkins
+0,0.4598750174045563,Miss,87:58,Left footed,D. Malen
+1,0.229055255651474,Miss,75:06,Left footed,C. Palmer
+0,0.15885287523269653,Miss,20:32,Right footed,O. Watkins
+1,0.15051327645778656,Miss,53:29,Right footed,Pedro Neto
+1,0.14297114312648773,Miss,1:54,Left footed,Pedro Neto
+1,0.14259198307991028,Miss,29:20,Left footed,C. Palmer
+0,0.12150232493877411,Goal,88:59,Left footed,Marco Asensio
+1,0.12056148052215576,Miss,17:43,Header,E. Fernández
+0,0.11964148283004761,Miss,90+6:35,Right footed,L. Bailey
+0,0.11905891448259354,Miss,18:24,Right footed,O. Watkins
+1,0.09868978708982468,Miss,61:28,Left footed,Pedro Neto
+1,0.06676509976387024,Miss,69:02,Left footed,C. Palmer
+1,0.043476976454257965,Miss,36:50,Right footed,C. Nkunku
+0,0.04019341245293617,Miss,90+2:15,Right footed,M. Rashford
+1,0.035691700875759125,Miss,25:03,Right footed,E. Fernández
+1,0.03289272263646126,Miss,42:03,Right footed,R. James
+0,0.030818752944469452,Miss,87:08,Left footed,Marco Asensio
+1,0.027243999764323235,Miss,52:31,Right footed,Pedro Neto
+1,0.025236746296286583,Miss,30:07,Left footed,M. Gusto
+0,0.022923005744814873,Miss,35:13,Left footed,O. Watkins
+1,0.02270568162202835,Miss,42:01,Header,L. Colwill
+1,0.022251348942518234,Miss,78:11,Right footed,E. Fernández
+0,0.022064466029405594,Miss,45+6:00,Left footed,J. McGinn
+0,0.0188133642077446,Miss,74:09,Right footed,M. Rashford

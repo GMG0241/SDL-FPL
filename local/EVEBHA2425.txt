@@ -1,0 +1,19 @@
+1,0.8083270788192749,Goal,25:00,Right footed,K. Mitoma
+0,0.13831783831119537,Miss,50:53,Header,A. Doucouré
+1,0.12505997717380524,Miss,27:15,Left footed,D. Welbeck
+1,0.09970253705978394,Miss,62:48,Right footed,K. Mitoma
+1,0.09829796850681305,Miss,71:55,Right footed,S. Adingra
+0,0.07604151964187622,Miss,36:00,Left footed,T. Iroegbunam
+1,0.07013135403394699,Goal,55:22,Left footed,D. Welbeck
+1,0.06795517355203629,Goal,86:02,Left footed,S. Adingra
+1,0.06731928884983063,Miss,14:58,Header,L. Dunk
+0,0.06103629618883133,Miss,19:02,Right footed,T. Iroegbunam
+0,0.06019856035709381,Miss,58:15,Left footed,J. Harrison
+0,0.05298110097646713,Miss,11:06,Left footed,J. Harrison
+1,0.03846956044435501,Miss,66:59,Left footed,K. Mitoma
+1,0.028199294582009315,Miss,16:08,Right footed,K. Mitoma
+1,0.02689099684357643,Miss,8:27,Right footed,João Pedro
+0,0.025353791192173958,Miss,3:41,Left footed,J. Harrison
+0,0.023721905425190926,Miss,28:05,Right footed,I. Gueye
+0,0.008961325511336327,Miss,13:01,Header,J. Tarkowski
+0,0.008056353777647018,Miss,58:17,Right footed,M. Keane

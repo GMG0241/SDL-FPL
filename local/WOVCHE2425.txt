@@ -1,0 +1,26 @@
+0,0.4921944737434387,Goal,45+5:04,Right footed,J. Strand Larsen
+0,0.4576984643936157,Goal,26:39,Right footed,Matheus Cunha
+1,0.4186883270740509,Miss,17:17,Left footed,C. Palmer
+0,0.28919506072998047,Miss,17:32,Right footed,Matheus Cunha
+0,0.2531284987926483,Miss,9:16,Header,Y. Mosquera
+1,0.225661039352417,Goal,62:03,Right footed,N. Madueke
+1,0.16618965566158295,Goal,1:39,Header,N. Jackson
+1,0.15488295257091522,Goal,79:36,Right footed,João Félix
+0,0.14518402516841888,Miss,41:24,Right footed,Matheus Cunha
+0,0.1260698139667511,Miss,86:11,Right footed,J. Strand Larsen
+1,0.10723364353179932,Miss,87:48,Left footed,João Félix
+1,0.10071912407875061,Miss,89:09,Right footed,N. Madueke
+1,0.09179070591926575,Miss,61:07,Right footed,C. Palmer
+1,0.07460486143827438,Goal,48:04,Left footed,N. Madueke
+1,0.0669577494263649,Goal,57:45,Right footed,N. Madueke
+1,0.06692778319120407,Miss,69:08,Left footed,C. Palmer
+0,0.06161726638674736,Miss,42:15,Left footed,R. Aït-Nouri
+1,0.057788070291280746,Miss,1:12,Right footed,N. Madueke
+1,0.05623531714081764,Miss,17:04,Left footed,N. Madueke
+0,0.05371371656656265,Miss,56:31,Right footed,M. Lemina
+1,0.04908101260662079,Miss,35:21,Left footed,C. Palmer
+1,0.038542382419109344,Goal,44:21,Left footed,C. Palmer
+0,0.03418823704123497,Miss,40:13,Right footed,Matheus Cunha
+0,0.017214875668287277,Miss,44:06,Right footed,João Gomes
+0,0.015353715978562832,Miss,90+7:43,Left footed,Pablo Sarabia
+0,0.013221316039562225,Miss,90+3:41,Right footed,Rodrigo Gomes

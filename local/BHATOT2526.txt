@@ -1,0 +1,23 @@
+0,0.7444203495979309,Goal,7:24,Left footed,Y. Minteh
+1,0.5123831033706665,Goal,42:06,Right footed,Richarlison
+1,0.1537483036518097,Miss,69:25,Right footed,X. Simons
+1,0.10861232876777649,Miss,27:30,Right footed,W. Odobert
+0,0.09455408155918121,Miss,86:25,Right footed,Y. Ayari
+1,0.094456247985363,Miss,42:03,Left footed,M. Kudus
+1,0.07810794562101364,Miss,24:17,Left footed,Richarlison
+0,0.07293901592493057,Miss,61:34,Right footed,Y. Ayari
+1,0.07191021740436554,Miss,40:24,Left footed,Richarlison
+0,0.06922359019517899,Miss,78:05,Right footed,K. Mitoma
+0,0.05846451222896576,Miss,83:10,Left footed,D. Welbeck
+0,0.0550260990858078,Miss,87:05,Right footed,Y. Ayari
+1,0.05311528965830803,Miss,67:16,Right footed,X. Simons
+0,0.05195809528231621,Miss,26:45,Left footed,B. Gruda
+1,0.050569936633110046,Miss,80:25,Right footed,Richarlison
+1,0.04553322494029999,Miss,41:11,Header,Richarlison
+0,0.04456615447998047,Miss,26:23,Right footed,Y. Ayari
+1,0.04032164812088013,Miss,63:20,Right footed,X. Simons
+0,0.03510833531618118,Miss,79:47,Right footed,F. Kadıoğlu
+0,0.018693022429943085,Goal,30:31,Right footed,Y. Ayari
+0,0.016469566151499748,Miss,75:54,Right footed,D. Gómez
+1,0.01606420986354351,Miss,90+3:04,Left footed,M. Kudus
+0,0.014626284129917622,Miss,58:03,Right footed,L. Dunk

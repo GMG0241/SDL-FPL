@@ -1,0 +1,25 @@
+0,0.7289515137672424,Miss,86:03,Right footed,C. Gakpo
+0,0.4228654205799103,Miss,26:54,Right footed,D. Szoboszlai
+0,0.33637920022010803,Goal,60:29,Header,A. Mac Allister
+0,0.3045342266559601,Miss,86:06,Left footed,Mohamed Salah
+0,0.2758743166923523,Miss,46:57,Header,V. van Dijk
+1,0.10710679739713669,Miss,74:45,Right footed,K. Mbappé
+1,0.08969423919916153,Miss,44:07,Left footed,J. Bellingham
+0,0.08444026112556458,Miss,27:55,Header,V. van Dijk
+0,0.08075983822345734,Miss,48:04,Header,H. Ekitiké
+1,0.07261897623538971,Miss,44:18,Left footed,A. Güler
+0,0.06513936072587967,Miss,9:46,Right footed,A. Mac Allister
+1,0.06356355547904968,Miss,16:42,Right footed,K. Mbappé
+0,0.05636381730437279,Miss,47:44,Header,H. Ekitiké
+0,0.0488305538892746,Miss,51:27,Right footed,D. Szoboszlai
+1,0.043607547879219055,Miss,58:21,Left footed,Álvaro Carreras
+0,0.038612477481365204,Miss,84:06,Left footed,Mohamed Salah
+0,0.038220327347517014,Miss,29:12,Right footed,D. Szoboszlai
+0,0.03669169917702675,Miss,16:26,Right footed,H. Ekitiké
+1,0.03259847313165665,Miss,26:19,Right footed,A. Tchouaméni
+1,0.021707026287913322,Miss,74:28,Right footed,K. Mbappé
+0,0.018550388514995575,Miss,45+1:46,Right footed,A. Mac Allister
+0,0.018405171111226082,Miss,0:59,Right footed,A. Mac Allister
+1,0.018180008977651596,Miss,16:15,Left footed,Éder Militão
+0,0.014582866802811623,Miss,36:11,Right footed,D. Szoboszlai
+0,0.013107712380588055,Miss,42:19,Right footed,D. Szoboszlai

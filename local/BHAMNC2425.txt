@@ -1,0 +1,25 @@
+1,0.6589397192001343,Goal,22:21,Right footed,E. Haaland
+1,0.6196268200874329,Miss,22:19,Left footed,E. Haaland
+0,0.5187138915061951,Goal,82:13,Left footed,M. O'Riley
+1,0.49993371963500977,Miss,14:53,Left footed,Savinho
+0,0.34882843494415283,Miss,51:27,Header,J. Hinshelwood
+0,0.2887980341911316,Miss,68:22,Left footed,João Pedro
+0,0.265304297208786,Miss,34:50,Right footed,D. Welbeck
+1,0.24744245409965515,Miss,25:59,Header,E. Haaland
+0,0.24386517703533173,Goal,77:37,Right footed,João Pedro
+0,0.2168835550546646,Miss,67:50,Left footed,K. Mitoma
+0,0.18229229748249054,Miss,64:30,Header,G. Rutter
+1,0.17760330438613892,Miss,16:47,Right footed,E. Haaland
+0,0.11571088433265686,Miss,34:51,Left footed,P. Estupiñán
+1,0.0756695568561554,Miss,62:14,Left footed,Savinho
+1,0.0728972926735878,Miss,90+8:36,Header,Bernardo Silva
+0,0.0709519013762474,Miss,90+6:26,Right footed,C. Baleba
+1,0.0535491444170475,Miss,90+5:04,Header,J. Gvardiol
+1,0.05096917971968651,Miss,31:51,Left footed,P. Foden
+1,0.04722091555595398,Miss,25:25,Right footed,E. Haaland
+0,0.039314154535532,Miss,38:10,Right footed,D. Welbeck
+1,0.034653715789318085,Miss,88:31,Right footed,K. De Bruyne
+1,0.03231674060225487,Miss,90+1:11,Left footed,P. Foden
+1,0.022449806332588196,Miss,30:40,Right footed,M. Kovačić
+1,0.020259909331798553,Miss,30:50,Left footed,E. Haaland
+1,0.017130589112639427,Miss,54:04,Left footed,E. Haaland

@@ -1,0 +1,24 @@
+1,0.3432901203632355,Miss,90:03,Right footed,A. Elanga
+1,0.21562057733535767,Miss,63:04,Right footed,N. Williams
+1,0.21119427680969238,Goal,60:06,Left footed,M. Gibbs-White
+1,0.1961144059896469,Miss,12:39,Header,C. Wood
+0,0.16838033497333527,Miss,73:42,Right footed,O. Mangala
+0,0.16280481219291687,Miss,4:49,Right footed,I. Ndiaye
+1,0.14713506400585175,Miss,90:05,Left footed,T. Awoniyi
+0,0.13249292969703674,Miss,21:03,Header,J. Branthwaite
+1,0.12754470109939575,Goal,14:57,Right footed,C. Wood
+0,0.11276710778474808,Miss,80:23,Header,D. Calvert-Lewin
+1,0.10665471851825714,Miss,63:05,Left footed,R. Sosa
+1,0.09456989914178848,Miss,45+1:01,Right footed,R. Sosa
+1,0.08444478362798691,Miss,51:55,Right footed,M. Gibbs-White
+0,0.049529243260622025,Miss,50:31,Right footed,A. Doucouré
+1,0.0493,Miss,10:13,Right footed,C. Wood
+0,0.04502910375595093,Miss,79:30,Left footed,I. Ndiaye
+0,0.038587212562561035,Miss,87:38,Header,Beto
+0,0.03844459354877472,Miss,57:25,Left footed,J. Lindstrøm
+1,0.03594287857413292,Miss,63:02,Right footed,R. Sosa
+0,0.032324809581041336,Miss,77:31,Right footed,J. Lindstrøm
+0,0.03203628584742546,Miss,82:42,Header,D. Calvert-Lewin
+0,0.030887583270668983,Miss,43:52,Left footed,A. Broja
+0,0.021832145750522614,Miss,30:57,Header,A. Broja
+0,0.02012997306883335,Miss,26:26,Header,A. Broja

@@ -1,0 +1,16 @@
+0,0.36350134015083313,Miss,4:02,Left footed,N. Madueke
+1,0.16264115273952484,Miss,51:22,Left footed,M. Mount
+1,0.1345444768667221,Miss,20:57,Right footed,M. Mount
+0,0.13354787230491638,Goal,70:28,Header,Marc Cucurella
+0,0.10088805109262466,Miss,72:47,Left footed,N. Madueke
+0,0.03904777392745018,Miss,45:02,Left footed,C. Palmer
+0,0.03424404188990593,Miss,48:16,Right footed,R. James
+0,0.03420756012201309,Miss,27:53,Header,T. Adarabioyo
+0,0.03279738500714302,Miss,28:01,Right footed,E. Fernández
+1,0.02796277217566967,Miss,79:25,Header,H. Maguire
+0,0.02486104890704155,Miss,27:13,Left footed,C. Palmer
+1,0.024277176707983017,Miss,78:45,Left footed,A. Diallo
+1,0.024044208228588104,Miss,54:53,Right footed,Bruno Fernandes
+0,0.020879307761788368,Miss,23:51,Right footed,R. James
+0,0.019113807007670403,Miss,77:56,Left footed,Pedro Neto
+0,0.01871119625866413,Miss,33:23,Right footed,M. Caicedo

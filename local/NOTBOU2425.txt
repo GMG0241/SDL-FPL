@@ -1,0 +1,27 @@
+0,0.7060626745223999,Goal,22:24,Right footed,C. Wood
+1,0.3015434741973877,Goal,85:58,Left footed,A. Semenyo
+1,0.2712865173816681,Miss,76:31,Header,M. Tavernier
+1,0.2193310260772705,Miss,4:54,Header,D. Ouattara
+0,0.13002975285053253,Miss,22:23,Right footed,R. Yates
+1,0.11529487371444702,Miss,45+6:29,Left footed,L. Sinisterra
+0,0.11506149172782898,Miss,90:01,Header,T. Awoniyi
+0,0.08445777744054794,Miss,89:13,Right footed,M. Gibbs-White
+0,0.07212205231189728,Miss,60:57,Header,W. Boly
+0,0.06338788568973541,Miss,85:03,Left footed,R. Yates
+1,0.05981453135609627,Miss,4:15,Right footed,A. Semenyo
+1,0.053694646805524826,Miss,45+10:24,Left footed,M. Tavernier
+0,0.04961415380239487,Miss,40:28,Right footed,R. Yates
+0,0.04390309378504753,Miss,45+6:18,Right footed,C. Hudson-Odoi
+1,0.03841233253479004,Miss,45+9:07,Left footed,M. Tavernier
+1,0.036760929971933365,Miss,30:41,Left footed,L. Sinisterra
+0,0.03470573201775551,Miss,40:32,Right footed,N. Williams
+1,0.03043980337679386,Miss,58:24,Left footed,M. Tavernier
+1,0.030323565006256104,Miss,45:47,Left footed,A. Semenyo
+1,0.028842998668551445,Miss,64:08,Right footed,A. Semenyo
+1,0.022050580009818077,Miss,77:30,Left footed,M. Tavernier
+0,0.021754862740635872,Miss,30:14,Right footed,C. Hudson-Odoi
+0,0.020988883450627327,Miss,26:03,Right footed,O. Aina
+0,0.018308987841010094,Miss,17:27,Right footed,M. Gibbs-White
+0,0.018283594399690628,Miss,29:29,Right footed,A. Elanga
+0,0.01720305159687996,Miss,80:45,Left footed,H. Toffolo
+1,0.014760097488760948,Miss,62:07,Right footed,A. Semenyo

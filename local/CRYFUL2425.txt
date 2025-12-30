@@ -1,0 +1,30 @@
+0,0.4925103783607483,Miss,48:04,Left footed,D. Muñoz
+1,0.48138701915740967,Miss,56:28,Right footed,Andreas Pereira
+1,0.44942334294319153,Goal,82:45,Left footed,H. Wilson
+0,0.4085368514060974,Miss,43:24,Header,J. Mateta
+0,0.18550004065036774,Miss,32:07,Header,J. Mateta
+1,0.1504853367805481,Goal,45+1:31,Left footed,E. Smith Rowe
+1,0.1436017006635666,Miss,13:24,Right footed,R. Nelson
+0,0.11121495813131332,Miss,39:35,Left footed,J. Mateta
+0,0.10841448605060577,Miss,48:06,Left footed,J. Devenny
+1,0.09376890957355499,Miss,69:56,Right footed,A. Iwobi
+1,0.07525728642940521,Miss,58:20,Right footed,R. Jiménez
+0,0.06449668109416962,Miss,27:31,Header,M. Guéhi
+1,0.05923740565776825,Miss,5:49,Right footed,R. Jiménez
+1,0.05841947719454765,Miss,70:35,Right footed,R. Nelson
+0,0.05829780921339989,Miss,9:05,Right footed,J. Mateta
+1,0.048680901527404785,Miss,22:07,Right footed,K. Tete
+1,0.04586150497198105,Miss,30:38,Left footed,A. Robinson
+1,0.04396948590874672,Miss,41:58,Right footed,A. Iwobi
+1,0.039621662348508835,Miss,57:44,Right footed,Andreas Pereira
+1,0.03416133671998978,Miss,36:31,Header,J. Andersen
+1,0.03207686170935631,Miss,15:52,Right footed,R. Nelson
+0,0.029639381915330887,Miss,64:37,Right footed,M. Guéhi
+1,0.029044408351182938,Miss,22:00,Right footed,E. Smith Rowe
+1,0.028728937730193138,Miss,68:02,Right footed,R. Nelson
+0,0.027460923418402672,Miss,26:57,Left footed,J. Mateta
+0,0.023532310500741005,Miss,73:51,Right footed,C. Doucouré
+0,0.02317378669977188,Miss,84:41,Left footed,D. Muñoz
+0,0.022707289084792137,Miss,68:26,Left footed,J. Mateta
+0,0.01779862865805626,Miss,89:01,Right footed,M. Lacroix
+1,0.01616748981177807,Miss,45:46,Right footed,A. Robinson

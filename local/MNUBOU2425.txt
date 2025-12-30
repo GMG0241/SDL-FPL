@@ -1,0 +1,33 @@
+1,0.7884,Goal,60:49,Right footed,J. Kluivert
+0,0.30335643887519836,Miss,90+1:36,Right footed,L. Yoro
+0,0.2840241491794586,Miss,54:55,Header,Diogo Dalot
+1,0.24618811905384064,Goal,62:58,Left footed,A. Semenyo
+0,0.21871471405029297,Miss,40:59,Right footed,Bruno Fernandes
+0,0.18030814826488495,Miss,90+1:37,Right footed,L. Yoro
+0,0.1758771687746048,Miss,34:55,Header,M. Ugarte
+0,0.1709946095943451,Miss,64:47,Right footed,A. Garnacho
+0,0.14441315829753876,Miss,40:08,Right footed,Bruno Fernandes
+0,0.14218921959400177,Miss,85:16,Left footed,N. Mazraoui
+1,0.13989605009555817,Miss,46:24,Left footed,A. Semenyo
+0,0.13776841759681702,Miss,5:47,Left footed,A. Diallo
+1,0.11284484714269638,Goal,28:43,Header,Dean Huijsen
+0,0.09593143314123154,Miss,42:10,Header,Lisandro Martínez
+0,0.08015631139278412,Miss,72:34,Left footed,A. Diallo
+1,0.07353828847408295,Miss,8:33,Left footed,A. Semenyo
+1,0.07205948233604431,Miss,30:50,Right footed,Evanilson
+1,0.0689568817615509,Miss,90+3:00,Left footed,E. Ünal
+0,0.0666239857673645,Miss,33:35,Right footed,Bruno Fernandes
+1,0.061444465070962906,Miss,80:20,Left footed,M. Kerkez
+0,0.059158291667699814,Miss,79:33,Left footed,R. Højlund
+1,0.05606095492839813,Miss,23:45,Right footed,J. Kluivert
+0,0.04622233286499977,Miss,35:28,Left footed,Lisandro Martínez
+0,0.0452883243560791,Miss,35:34,Header,J. Zirkzee
+0,0.03938203677535057,Miss,81:53,Left footed,A. Diallo
+0,0.036053165793418884,Miss,44:09,Right footed,K. Mainoo
+0,0.02221038192510605,Miss,52:46,Right footed,Diogo Dalot
+0,0.0203922837972641,Miss,68:44,Left footed,R. Højlund
+0,0.01970548741519451,Miss,43:18,Right footed,Bruno Fernandes
+0,0.018033329397439957,Miss,69:29,Right footed,Bruno Fernandes
+0,0.01644257642328739,Miss,90+5:10,Left footed,Bruno Fernandes
+0,0.015452434308826923,Miss,17:40,Right footed,Bruno Fernandes
+1,0.013495533727109432,Miss,27:14,Right footed,A. Semenyo

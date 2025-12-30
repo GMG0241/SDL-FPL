@@ -1,0 +1,27 @@
+1,0.8804177641868591,Goal,17:31,Right footed,B. Johnson
+0,0.20589002966880798,Goal,35:25,Left footed,O. Hutchinson
+0,0.19536307454109192,Miss,2:08,Right footed,L. Delap
+1,0.18007434904575348,Goal,25:14,Left footed,B. Johnson
+0,0.15495304763317108,Miss,0:24,Right footed,J. Philogene
+1,0.12077710777521133,Miss,40:57,Right footed,R. Bentancur
+1,0.10542560368776321,Goal,76:26,Right footed,D. Spence
+1,0.09990948438644409,Miss,26:55,Left footed,Son Heung-Min
+0,0.09309881925582886,Miss,59:39,Left footed,O. Hutchinson
+0,0.08945036679506302,Miss,0:21,Left footed,L. Delap
+0,0.08753901720046997,Miss,70:15,Right footed,N. Broadhead
+0,0.06930458545684814,Miss,38:24,Right footed,O. Hutchinson
+1,0.06101120263338089,Miss,45:17,Right footed,Son Heung-Min
+1,0.047951776534318924,Miss,12:25,Right footed,L. Bergvall
+0,0.04727700725197792,Miss,5:42,Header,L. Delap
+1,0.047152310609817505,Miss,61:37,Right footed,B. Johnson
+1,0.04651666060090065,Goal,83:25,Left footed,D. Kulusevski
+1,0.03293050453066826,Miss,17:30,Left footed,Son Heung-Min
+0,0.028797239065170288,Miss,20:08,Right footed,L. Delap
+0,0.026691824197769165,Miss,19:25,Header,J. Clarke
+0,0.02351314201951027,Miss,5:46,Right footed,J. Philogene
+0,0.023040886968374252,Miss,90+3:09,Left footed,O. Hutchinson
+0,0.02114713191986084,Miss,23:14,Right footed,L. Delap
+0,0.021016769111156464,Miss,20:48,Right footed,J. Philogene
+0,0.0197435412555933,Miss,6:59,Left footed,J. Philogene
+0,0.01451005507260561,Miss,59:42,Right footed,K. Phillips
+0,0.009834776632487774,Miss,86:31,Header,D. O'Shea

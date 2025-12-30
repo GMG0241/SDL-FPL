@@ -1,0 +1,18 @@
+1,0.7884,Goal,60:12,Left footed,Mohamed Salah
+1,0.7503780126571655,Miss,39:11,Right footed,D. Szoboszlai
+1,0.4933890104293823,Miss,49:19,Right footed,Mohamed Salah
+0,0.3781548738479614,Goal,55:59,Right footed,R. Aït-Nouri
+1,0.12180162966251373,Miss,25:18,Right footed,L. Díaz
+0,0.10546360164880753,Miss,71:12,Right footed,Carlos Forbs
+1,0.10479341447353363,Goal,45+1:35,Header,I. Konaté
+1,0.08600334823131561,Miss,77:56,Right footed,C. Jones
+1,0.07485491037368774,Miss,31:12,Right footed,T. Alexander-Arnold
+1,0.06470740586519241,Miss,82:53,Header,I. Konaté
+0,0.0420350655913353,Miss,4:40,Right footed,J. Bellegarde
+0,0.041779663413763046,Miss,14:01,Header,J. Strand Larsen
+1,0.04177246615290642,Miss,64:02,Left footed,Mohamed Salah
+0,0.030941525474190712,Miss,21:18,Left footed,Matheus Cunha
+0,0.016554519534111023,Miss,67:20,Right footed,Matheus Cunha
+1,0.01569068245589733,Miss,39:53,Right footed,T. Alexander-Arnold
+0,0.011193652637302876,Miss,75:50,Right footed,Nélson Semedo
+0,0.008480262011289597,Miss,45+2:42,Right footed,M. Lemina

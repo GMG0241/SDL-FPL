@@ -1,0 +1,27 @@
+0,0.7884,Goal,16:18,Right footed,D. Solanke
+1,0.7884,Goal,87:48,Left footed,M. O'Riley
+0,0.6562110185623169,Miss,37:41,Left footed,M. Tel
+0,0.4820132553577423,Miss,55:45,Right footed,B. Johnson
+1,0.4555397629737854,Goal,63:39,Right footed,J. Hinshelwood
+1,0.141521617770195,Goal,50:43,Right footed,J. Hinshelwood
+1,0.10757168382406235,Miss,67:35,Header,A. Webster
+1,0.08686588704586029,Miss,36:15,Right footed,S. Adingra
+1,0.08294066786766052,Miss,62:03,Right footed,J. van Hecke
+1,0.0690174400806427,Miss,29:43,Header,J. Hinshelwood
+1,0.0657799243927002,Miss,56:46,Right footed,Y. Minteh
+1,0.06249021738767624,Miss,52:59,Right footed,D. Gómez
+1,0.05456256866455078,Miss,61:13,Left footed,Y. Minteh
+1,0.050181202590465546,Miss,29:46,Header,A. Webster
+1,0.04541319981217384,Miss,24:34,Header,B. Gruda
+1,0.03748338297009468,Miss,50:41,Header,A. Webster
+1,0.03609231859445572,Miss,54:58,Header,A. Webster
+1,0.029994556680321693,Miss,61:59,Left footed,C. Baleba
+1,0.028296852484345436,Miss,2:13,Right footed,S. Adingra
+0,0.027801383286714554,Miss,6:52,Right footed,M. Tel
+1,0.025134749710559845,Miss,76:06,Left footed,C. Baleba
+1,0.021016955375671387,Miss,29:51,Right footed,Y. Ayari
+1,0.02020339109003544,Miss,11:57,Right footed,S. Adingra
+1,0.019575029611587524,Miss,36:23,Left footed,C. Baleba
+1,0.017165925353765488,Goal,90+2:40,Right footed,D. Gómez
+1,0.015688126906752586,Miss,9:53,Right footed,M. Wieffer
+1,0.013032978400588036,Miss,81:43,Header,D. Gómez

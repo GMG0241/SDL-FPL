@@ -1,0 +1,22 @@
+1,0.7884,Goal,2:41,Right footed,J. Kluivert
+1,0.7884,Goal,17:09,Right footed,J. Kluivert
+1,0.7884,Goal,73:38,Right footed,J. Kluivert
+1,0.43970465660095215,Miss,10:37,Right footed,Evanilson
+0,0.12700507044792175,Goal,4:57,Header,J. Strand Larsen
+1,0.11169467866420746,Miss,62:21,Header,T. Adams
+1,0.09893748909235,Miss,87:34,Left footed,E. Ünal
+0,0.09757637232542038,Goal,68:47,Right footed,J. Strand Larsen
+1,0.07183729112148285,Miss,34:34,Right footed,M. Tavernier
+1,0.06547695398330688,Miss,4:08,Left footed,Evanilson
+0,0.05760740116238594,Miss,11:14,Right footed,Matheus Cunha
+1,0.053511202335357666,Goal,7:59,Left footed,M. Kerkez
+0,0.052262794226408005,Miss,45:44,Right footed,Matheus Cunha
+0,0.05009394511580467,Miss,26:52,Left footed,R. Aït-Nouri
+1,0.04922031611204147,Miss,54:47,Left footed,J. Kluivert
+0,0.017115967348217964,Miss,35:56,Header,João Gomes
+1,0.016751613467931747,Miss,10:00,Left footed,R. Christie
+0,0.016367236152291298,Miss,27:00,Header,J. Strand Larsen
+0,0.015688126906752586,Miss,58:43,Left footed,Toti Gomes
+0,0.015668369829654694,Miss,79:29,Right footed,Gonçalo Guedes
+1,0.013063657097518444,Miss,30:13,Left footed,M. Tavernier
+0,0.011631119064986706,Miss,60:25,Right footed,Nélson Semedo

@@ -1,0 +1,21 @@
+0,0.7884,Goal,28:11,Left footed,Mohamed Salah
+0,0.6873014569282532,Goal,50:57,Right footed,C. Jones
+1,0.28774282336235046,Goal,47:22,Right footed,N. Jackson
+0,0.21866503357887268,Miss,36:16,Right footed,D. Szoboszlai
+1,0.13011384010314941,Miss,24:06,Right footed,C. Palmer
+1,0.11605177074670792,Miss,90+2:11,Header,Renato Veiga
+0,0.11182387918233871,Miss,45+1:06,Left footed,C. Jones
+1,0.10318325459957123,Miss,70:06,Left footed,C. Palmer
+1,0.08854594826698303,Miss,45+5:35,Left footed,C. Palmer
+1,0.05856190621852875,Miss,63:50,Left footed,C. Palmer
+1,0.04961700737476349,Miss,90+3:49,Right footed,C. Nkunku
+1,0.04456349462270737,Miss,90+7:03,Right footed,M. Gusto
+0,0.04176350682973862,Miss,90+5:34,Right footed,L. Díaz
+1,0.04157101735472679,Miss,32:55,Right footed,N. Jackson
+0,0.029055222868919373,Miss,79:31,Right footed,L. Díaz
+1,0.026028232648968697,Miss,70:08,Left footed,M. Gusto
+1,0.02424835041165352,Miss,61:57,Right footed,N. Madueke
+0,0.023353107273578644,Miss,59:41,Right footed,C. Gakpo
+1,0.020118799060583115,Miss,72:37,Right footed,Pedro Neto
+0,0.019539175555109978,Miss,0:23,Right footed,V. van Dijk
+0,0.016113348305225372,Miss,25:57,Left footed,Mohamed Salah

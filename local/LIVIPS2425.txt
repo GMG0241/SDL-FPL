@@ -1,0 +1,19 @@
+0,0.5622462034225464,Goal,43:08,Right footed,C. Gakpo
+0,0.5060861706733704,Goal,65:00,Header,C. Gakpo
+0,0.4758331775665283,Miss,43:06,Right footed,D. Szoboszlai
+1,0.25380784273147583,Goal,89:14,Header,J. Greaves
+1,0.19505484402179718,Miss,84:15,Header,G. Hirst
+0,0.15501552820205688,Goal,34:06,Left footed,Mohamed Salah
+0,0.12573504447937012,Goal,10:23,Left footed,D. Szoboszlai
+0,0.11048809438943863,Miss,77:00,Right footed,T. Alexander-Arnold
+0,0.04619475081562996,Miss,45+6:29,Left footed,D. Szoboszlai
+0,0.03757806494832039,Miss,7:49,Left footed,Mohamed Salah
+0,0.03701072186231613,Miss,32:11,Left footed,Mohamed Salah
+0,0.03589089214801788,Miss,85:40,Header,V. van Dijk
+0,0.03567298874258995,Miss,23:17,Right footed,V. van Dijk
+1,0.030352341011166573,Miss,59:31,Left footed,O. Hutchinson
+0,0.029958341270685196,Miss,70:04,Right footed,H. Elliott
+0,0.02408614754676819,Miss,63:37,Right footed,D. Szoboszlai
+0,0.022147802636027336,Miss,73:54,Right footed,T. Alexander-Arnold
+0,0.021794473752379417,Miss,20:19,Right footed,A. Mac Allister
+0,0.019662337377667427,Miss,0:45,Right footed,C. Gakpo

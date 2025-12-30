@@ -1,0 +1,22 @@
+1,0.22539818286895752,Goal,63:43,Header,Gabriel Magalhães
+1,0.1706162542104721,Miss,18:44,Right footed,Gabriel Martinelli
+0,0.1486208438873291,Miss,27:18,Header,D. Solanke
+0,0.0961793065071106,Miss,62:18,Right footed,B. Johnson
+1,0.08899420499801636,Miss,22:44,Header,K. Havertz
+0,0.07914609462022781,Miss,4:44,Left footed,D. Kulusevski
+1,0.07853809744119644,Miss,17:16,Header,K. Havertz
+1,0.07388976216316223,Miss,62:38,Left footed,B. Saka
+1,0.05141361802816391,Miss,22:37,Left footed,L. Trossard
+1,0.05082765594124794,Miss,16:48,Right footed,J. Timber
+0,0.04960086569190025,Miss,45:15,Right footed,B. Johnson
+0,0.044471677392721176,Miss,81:33,Right footed,P. Sarr
+0,0.04401032626628876,Miss,42:37,Right footed,B. Johnson
+0,0.042599450796842575,Miss,47:42,Header,D. Solanke
+0,0.04125654697418213,Miss,87:58,Header,C. Romero
+0,0.039481986314058304,Miss,7:33,Left footed,D. Kulusevski
+0,0.025284521281719208,Miss,90:59,Left footed,D. Kulusevski
+0,0.02252851240336895,Miss,48:18,Header,M. van de Ven
+0,0.02206961251795292,Miss,90+3:45,Right footed,W. Odobert
+0,0.021823201328516006,Miss,59:57,Left footed,B. Johnson
+0,0.018920639529824257,Miss,72:29,Right footed,P. Sarr
+0,0.018361445516347885,Miss,90+5:22,Left footed,Son Heung-Min

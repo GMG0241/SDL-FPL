@@ -1,0 +1,23 @@
+0,0.8632201552391052,Goal,24:32,Right footed,Son Heung-Min
+1,0.2756905257701874,Miss,16:16,Left footed,J. Harrison
+0,0.2694835364818573,Goal,70:17,Header,C. Romero
+1,0.2660800814628601,Miss,15:49,Left footed,J. Harrison
+0,0.25118306279182434,Goal,76:51,Left footed,Son Heung-Min
+0,0.24693799018859863,Miss,2:06,Right footed,C. Romero
+0,0.17952996492385864,Miss,10:54,Header,B. Johnson
+0,0.168557271361351,Miss,67:30,Right footed,J. Maddison
+0,0.15507915616035461,Miss,10:16,Right footed,J. Maddison
+1,0.1060199961066246,Miss,43:53,Header,J. Tarkowski
+0,0.09607525169849396,Goal,13:49,Right footed,Y. Bissouma
+1,0.09556681662797928,Miss,44:37,Header,J. Tarkowski
+0,0.08335576951503754,Miss,65:18,Left footed,J. Maddison
+1,0.06765618175268173,Miss,45:11,Right footed,A. Doucouré
+1,0.052059948444366455,Miss,34:35,Header,D. Calvert-Lewin
+0,0.049314893782138824,Miss,37:32,Header,W. Odobert
+1,0.040785763412714005,Miss,57:32,Right footed,J. Lindstrøm
+1,0.04068968817591667,Miss,60:50,Right footed,I. Ndiaye
+0,0.030352439731359482,Miss,45+3:02,Left footed,Pedro Porro
+1,0.02867424301803112,Miss,43:56,Left footed,D. McNeil
+0,0.026118654757738113,Miss,5:33,Right footed,Son Heung-Min
+1,0.02448132261633873,Miss,45:09,Header,J. Tarkowski
+0,0.014348955824971199,Miss,1:58,Header,C. Romero

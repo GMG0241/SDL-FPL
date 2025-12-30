@@ -1,0 +1,23 @@
+0,0.31360048055648804,Miss,55:06,Right footed,J. Arias
+1,0.11721321195363998,Goal,85:10,Header,J. van Hecke
+1,0.09068793803453445,Miss,27:00,Left footed,B. Gruda
+1,0.0870223343372345,Miss,57:20,Left footed,G. Rutter
+1,0.0846608430147171,Miss,10:33,Right footed,M. Wieffer
+1,0.07234788686037064,Miss,85:08,Header,S. Tzimas
+0,0.06681617349386215,Miss,28:48,Right footed,Hwang Hee-Chan
+0,0.06547537446022034,Miss,20:57,Right footed,M. Munetsi
+1,0.06338540464639664,Miss,61:34,Header,D. Gómez
+1,0.061757490038871765,Miss,51:10,Right footed,L. Dunk
+1,0.06131201609969139,Miss,13:31,Right footed,F. Kadıoğlu
+1,0.05281473696231842,Miss,74:57,Left footed,G. Rutter
+0,0.0486694872379303,Miss,74:35,Right footed,J. Strand Larsen
+1,0.04826686903834343,Miss,25:00,Right footed,B. Gruda
+1,0.035221491008996964,Miss,72:27,Left footed,M. De Cuyper
+1,0.032081134617328644,Miss,32:51,Right footed,D. Gómez
+0,0.030420128256082535,Miss,43:55,Right footed,J. Arias
+0,0.029717853292822838,Miss,23:33,Header,L. Krejčí
+1,0.029452409595251083,Miss,58:17,Right footed,Y. Ayari
+1,0.02931087464094162,Miss,81:28,Header,G. Rutter
+1,0.026771368458867073,Miss,24:12,Left footed,B. Gruda
+1,0.023103605955839157,Miss,9:29,Left footed,M. Wieffer
+1,0.005417074542492628,Miss,82:12,Left footed,Y. Minteh

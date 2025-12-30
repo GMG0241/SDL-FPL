@@ -1,0 +1,30 @@
+0,0.7884,Goal,11:17,Right footed,João Pedro
+0,0.3738226890563965,Goal,74:43,Left footed,D. Welbeck
+0,0.3572416305541992,Miss,36:10,Right footed,K. Mitoma
+0,0.2676589787006378,Miss,8:51,Right footed,K. Mitoma
+0,0.25012320280075073,Miss,7:38,Header,G. Rutter
+1,0.24872052669525146,Miss,68:28,Right footed,D. Ouattara
+1,0.18840673565864563,Miss,33:28,Left footed,A. Semenyo
+0,0.15606743097305298,Miss,47:16,Header,J. van Hecke
+1,0.13604509830474854,Miss,78:12,Header,J. Hill
+1,0.12935055792331696,Miss,17:02,Header,D. Ouattara
+1,0.0998525321483612,Miss,30:29,Right footed,J. Kluivert
+1,0.08513513207435608,Miss,86:04,Header,L. Sinisterra
+1,0.08369172364473343,Miss,70:39,Right footed,D. Ouattara
+1,0.08039132505655289,Miss,64:25,Left footed,D. Ouattara
+1,0.06695329397916794,Miss,15:26,Left footed,R. Christie
+0,0.062103066593408585,Miss,18:35,Right footed,G. Rutter
+1,0.06098543480038643,Miss,90+4:11,Header,Kepa
+0,0.05664733797311783,Miss,19:21,Left footed,Y. Minteh
+1,0.04946240782737732,Miss,39:30,Left footed,D. Brooks
+1,0.041187796741724014,Miss,28:35,Header,J. Hill
+0,0.04010125994682312,Miss,58:35,Left footed,G. Rutter
+0,0.03786364942789078,Miss,60:24,Right footed,G. Rutter
+1,0.03774435073137283,Miss,82:25,Right footed,A. Semenyo
+1,0.03665716201066971,Miss,1:17,Left footed,R. Christie
+0,0.03208966553211212,Miss,60:21,Right footed,D. Gómez
+1,0.02940559573471546,Goal,60:52,Right footed,J. Kluivert
+1,0.02686445601284504,Miss,80:14,Left footed,M. Tavernier
+1,0.026230918243527412,Miss,67:55,Left footed,M. Tavernier
+1,0.019091444090008736,Miss,68:26,Left footed,M. Tavernier
+1,0.011111120693385601,Miss,90+2:27,Right footed,J. Kluivert

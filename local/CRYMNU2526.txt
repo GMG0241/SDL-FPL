@@ -1,0 +1,28 @@
+0,0.7884,Goal,35:42,Right footed,J. Mateta
+1,0.491534024477005,Miss,0:43,Left footed,Casemiro
+1,0.3355821669101715,Miss,0:42,Left footed,B. Mbeumo
+0,0.18195350468158722,Miss,25:38,Right footed,Yeremy Pino
+0,0.1436411738395691,Miss,14:22,Right footed,J. Mateta
+1,0.13539452850818634,Miss,9:56,Header,Casemiro
+0,0.12868262827396393,Miss,12:33,Right footed,A. Wharton
+0,0.1279323697090149,Miss,23:36,Right footed,D. Kamada
+0,0.08606108278036118,Miss,45+2:19,Right footed,E. Nketiah
+0,0.07585311681032181,Miss,20:05,Header,M. Lacroix
+1,0.06824374198913574,Miss,81:10,Left footed,M. Mount
+1,0.0637931227684021,Miss,6:20,Header,M. de Ligt
+0,0.05966911092400551,Miss,60:34,Left footed,J. Mateta
+0,0.05886263772845268,Miss,90+5:10,Left footed,J. Devenny
+0,0.05244751274585724,Miss,90+1:14,Right footed,E. Nketiah
+1,0.05140422284603119,Miss,76:08,Right footed,B. Mbeumo
+1,0.04565580561757088,Miss,40:53,Right footed,Diogo Dalot
+0,0.03939541429281235,Miss,68:12,Header,E. Nketiah
+0,0.03642778843641281,Miss,19:30,Header,C. Richards
+1,0.03163345158100128,Goal,53:01,Left footed,J. Zirkzee
+1,0.02790859341621399,Miss,64:09,Left footed,A. Diallo
+1,0.02615439146757126,Miss,75:04,Right footed,Diogo Dalot
+1,0.026121020317077637,Miss,46:08,Right footed,Casemiro
+1,0.02480827458202839,Miss,83:53,Left footed,B. Mbeumo
+0,0.024111762642860413,Miss,7:19,Right footed,J. Mateta
+1,0.0178514551371336,Goal,62:28,Right footed,M. Mount
+0,0.015528003685176373,Miss,56:36,Right footed,E. Nketiah
+1,0.010986030101776123,Miss,41:20,Right footed,Bruno Fernandes

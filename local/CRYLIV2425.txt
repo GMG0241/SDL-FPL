@@ -1,0 +1,25 @@
+1,0.3510623872280121,Miss,61:37,Header,Diogo Jota
+1,0.24563206732273102,Goal,8:06,Right footed,Diogo Jota
+1,0.2156154364347458,Miss,33:26,Right footed,Diogo Jota
+0,0.19571498036384583,Miss,69:41,Right footed,T. Chalobah
+1,0.1842515766620636,Miss,55:57,Left footed,Mohamed Salah
+0,0.13097849488258362,Miss,69:01,Left footed,E. Eze
+0,0.1079917922616005,Miss,83:49,Right footed,E. Eze
+0,0.0760674849152565,Miss,45+1:21,Right footed,I. Sarr
+0,0.07169798761606216,Miss,63:12,Right footed,E. Nketiah
+1,0.0686444640159607,Miss,89:19,Left footed,L. Díaz
+1,0.05593450739979744,Miss,55:42,Right footed,R. Gravenberch
+1,0.03413262963294983,Miss,85:20,Right footed,C. Gakpo
+1,0.032325517386198044,Miss,28:29,Right footed,T. Alexander-Arnold
+1,0.03126264363527298,Miss,39:54,Header,V. van Dijk
+1,0.030881503596901894,Miss,41:48,Left footed,K. Tsimikas
+1,0.029249830171465874,Miss,67:42,Left footed,T. Alexander-Arnold
+1,0.028445539996027946,Miss,33:36,Right footed,C. Jones
+1,0.027790050953626633,Miss,45+2:07,Left footed,Mohamed Salah
+1,0.021103475242853165,Miss,27:02,Right footed,C. Gakpo
+1,0.019391555339097977,Miss,90+3:13,Right footed,D. Szoboszlai
+1,0.0192571971565485,Miss,65:19,Right footed,D. Szoboszlai
+0,0.018864382058382034,Miss,80:41,Right footed,J. Lerma
+0,0.017698341980576515,Miss,66:53,Right footed,T. Chalobah
+0,0.01610853336751461,Miss,79:21,Left footed,W. Hughes
+0,0.009746918454766273,Miss,74:27,Right footed,N. Clyne

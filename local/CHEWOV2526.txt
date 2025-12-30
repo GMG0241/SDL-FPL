@@ -1,0 +1,23 @@
+0,0.767164945602417,Goal,72:14,Right footed,Pedro Neto
+0,0.5531953573226929,Goal,50:34,Header,M. Gusto
+0,0.48842287063598633,Miss,4:00,Right footed,A. Garnacho
+0,0.3727279603481293,Miss,81:34,Right footed,Marc Guiu
+0,0.3096446692943573,Miss,77:43,Left footed,Marc Guiu
+0,0.20053067803382874,Goal,64:48,Right footed,João Pedro
+0,0.12598095834255219,Miss,77:40,Right footed,João Pedro
+0,0.09893100708723068,Miss,43:09,Right footed,E. Fernández
+0,0.09345511347055435,Miss,22:17,Left footed,W. Fofana
+0,0.08096010237932205,Miss,43:11,Right footed,João Pedro
+1,0.06886667013168335,Miss,88:19,Left footed,J. Strand Larsen
+0,0.0672435387969017,Miss,9:13,Left footed,L. Delap
+1,0.06702669709920883,Miss,84:13,Right footed,M. Munetsi
+0,0.05740969255566597,Miss,53:43,Right footed,L. Delap
+0,0.04229569435119629,Miss,2:47,Right footed,E. Fernández
+0,0.03595772758126259,Miss,6:20,Header,E. Fernández
+1,0.03156687319278717,Miss,60:41,Right footed,J. Bellegarde
+0,0.030179990455508232,Miss,6:18,Left footed,Marc Cucurella
+0,0.02989187091588974,Miss,90:40,Right footed,A. Garnacho
+0,0.021816778928041458,Miss,67:53,Right footed,E. Fernández
+0,0.019885974004864693,Miss,28:54,Right footed,A. Garnacho
+0,0.01616843044757843,Miss,21:00,Right footed,E. Fernández
+0,0.012130307964980602,Miss,14:48,Left footed,Marc Cucurella

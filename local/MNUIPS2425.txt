@@ -1,0 +1,22 @@
+1,0.959513783454895,Goal,3:39,Left footed,J. Philogene
+0,0.30679601430892944,Goal,25:36,Left footed,M. de Ligt
+0,0.11868609488010406,Miss,25:34,Right footed,Diogo Dalot
+1,0.09122861921787262,Miss,82:59,Header,G. Hirst
+0,0.08749178797006607,Miss,25:33,Header,H. Maguire
+0,0.07234788686037064,Goal,46:56,Header,H. Maguire
+1,0.06327978521585464,Miss,56:25,Right footed,L. Delap
+1,0.052127011120319366,Miss,59:52,Left footed,J. Cajuste
+1,0.04812050983309746,Miss,57:58,Right footed,J. Cajuste
+1,0.04704098030924797,Miss,0:34,Left footed,L. Delap
+0,0.04634729027748108,Miss,35:52,Left footed,P. Dorgu
+0,0.04471210390329361,Miss,38:34,Right footed,A. Garnacho
+1,0.04176654294133186,Miss,45+4:06,Left footed,J. Philogene
+0,0.03955377638339996,Miss,19:08,Right footed,J. Zirkzee
+0,0.03681522607803345,Miss,9:00,Header,H. Maguire
+1,0.034868065267801285,Miss,72:23,Right footed,J. Taylor
+1,0.03030422143638134,Miss,49:13,Right footed,L. Delap
+0,0.027252232655882835,Miss,9:02,Right footed,Diogo Dalot
+1,0.024176277220249176,Miss,86:58,Left footed,J. Philogene
+1,0.016314487904310226,Miss,77:00,Right footed,A. Tuanzebe
+1,0.015353715978562832,Goal,45+1:57,Left footed,J. Philogene
+0,0.006654501426964998,Miss,90+7:13,Right footed,Casemiro

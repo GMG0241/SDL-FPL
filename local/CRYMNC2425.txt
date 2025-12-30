@@ -1,0 +1,24 @@
+0,0.5206272602081299,Goal,55:53,Header,M. Lacroix
+1,0.41465678811073303,Miss,6:26,Left footed,E. Haaland
+0,0.1822536438703537,Miss,28:17,Right footed,J. Lerma
+1,0.16800463199615479,Miss,22:55,Left footed,Savinho
+1,0.1506592184305191,Goal,67:11,Right footed,R. Lewis
+0,0.1407783329486847,Miss,51:39,Left footed,E. Eze
+0,0.1397351175546646,Goal,3:42,Right footed,D. Muñoz
+1,0.13785803318023682,Goal,29:39,Header,E. Haaland
+1,0.13646815717220306,Miss,74:30,Header,E. Haaland
+1,0.11135850846767426,Miss,12:24,Header,J. Gvardiol
+1,0.09965255856513977,Miss,11:27,Right footed,İ. Gündoğan
+0,0.07465863972902298,Miss,90+1:45,Left footed,J. Devenny
+0,0.07339011132717133,Miss,24:22,Left footed,W. Hughes
+1,0.07013135403394699,Miss,54:17,Right footed,Matheus Nunes
+1,0.06851702928543091,Miss,74:01,Right footed,Savinho
+0,0.062177497893571854,Miss,19:49,Right footed,I. Sarr
+1,0.05349723622202873,Miss,41:52,Left footed,Savinho
+0,0.04338536784052849,Miss,45+2:53,Left footed,E. Eze
+0,0.035098589956760406,Miss,55:08,Left footed,W. Hughes
+0,0.03091134876012802,Miss,65:42,Right footed,J. Mateta
+1,0.027386780828237534,Miss,22:52,Left footed,İ. Gündoğan
+0,0.021335190162062645,Miss,86:43,Header,J. Lerma
+1,0.015321367420256138,Miss,72:41,Right footed,K. De Bruyne
+0,0.01083320565521717,Miss,90+4:02,Left footed,W. Hughes

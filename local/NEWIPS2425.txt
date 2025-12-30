@@ -1,0 +1,29 @@
+0,0.7884,Goal,45+3:53,Right footed,A. Isak
+0,0.4723086655139923,Goal,55:25,Header,D. Burn
+0,0.26081612706184387,Miss,34:39,Right footed,A. Isak
+0,0.25087693333625793,Miss,34:08,Header,A. Isak
+0,0.17261023819446564,Miss,42:06,Right footed,Bruno Guimarães
+0,0.16794274747371674,Miss,42:04,Header,J. Willock
+0,0.14361326396465302,Miss,44:21,Right footed,A. Isak
+0,0.09159372746944427,Miss,44:27,Right footed,S. Tonali
+0,0.08799748122692108,Miss,86:59,Right footed,Bruno Guimarães
+0,0.06887196004390717,Miss,47:02,Right footed,S. Tonali
+0,0.06695329397916794,Miss,50:28,Right footed,A. Isak
+0,0.06244867667555809,Miss,47:45,Right footed,H. Barnes
+0,0.05720240995287895,Miss,53:16,Left footed,H. Barnes
+1,0.05541945993900299,Miss,4:03,Right footed,L. Delap
+0,0.04597926884889603,Goal,79:11,Header,W. Osula
+0,0.04336893558502197,Miss,90:07,Right footed,A. Gordon
+0,0.03773796185851097,Miss,45:03,Right footed,J. Murphy
+0,0.03549322113394737,Miss,54:40,Right footed,J. Willock
+1,0.034975018352270126,Miss,12:38,Left footed,L. Delap
+0,0.03285369649529457,Miss,61:35,Right footed,J. Murphy
+0,0.031024353578686714,Miss,90+1:07,Left footed,W. Osula
+0,0.03062671795487404,Miss,86:45,Right footed,Bruno Guimarães
+0,0.024458255618810654,Miss,90+3:54,Right footed,A. Gordon
+0,0.022403502836823463,Miss,55:05,Right footed,A. Isak
+0,0.01894698105752468,Miss,23:22,Right footed,H. Barnes
+0,0.01865888200700283,Miss,70:22,Right footed,F. Schär
+1,0.01765836961567402,Miss,31:38,Right footed,J. Enciso
+0,0.012378969229757786,Miss,37:48,Right footed,H. Barnes
+1,0.010763050988316536,Miss,35:45,Right footed,L. Delap

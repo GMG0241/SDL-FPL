@@ -1,0 +1,30 @@
+0,0.5610007047653198,Miss,90+5:24,Left footed,H. Ekitiké
+0,0.3844658434391022,Goal,5:32,Left footed,Mohamed Salah
+0,0.36092373728752136,Miss,71:44,Header,H. Ekitiké
+1,0.2837335467338562,Miss,90+6:05,Header,A. Sørloth
+0,0.25098147988319397,Miss,39:11,Left footed,Mohamed Salah
+0,0.17475758492946625,Miss,64:45,Left footed,Mohamed Salah
+0,0.1222672313451767,Miss,41:58,Left footed,J. Frimpong
+0,0.12032035738229752,Miss,66:10,Left footed,H. Ekitiké
+0,0.10141655802726746,Goal,3:32,Left footed,A. Robertson
+0,0.1013217344880104,Miss,3:30,Left footed,Mohamed Salah
+0,0.09933629631996155,Miss,84:58,Header,I. Konaté
+1,0.07411596179008484,Goal,45+2:22,Right footed,Marcos Llorente
+0,0.06772991269826889,Miss,60:14,Right footed,D. Szoboszlai
+1,0.06104198098182678,Goal,80:24,Right footed,Marcos Llorente
+0,0.05753204971551895,Miss,30:33,Left footed,Mohamed Salah
+1,0.04221635311841965,Miss,80:21,Right footed,Pablo Barrios
+0,0.03618050366640091,Miss,40:33,Right footed,A. Isak
+0,0.03548053652048111,Miss,87:44,Header,V. van Dijk
+0,0.035101860761642456,Miss,56:19,Header,D. Szoboszlai
+1,0.03257124498486519,Miss,51:05,Right footed,G. Raspadori
+0,0.02964284084737301,Miss,38:46,Right footed,A. Isak
+1,0.029629971832036972,Miss,71:27,Right footed,Koke
+1,0.026353688910603523,Miss,23:39,Header,C. Lenglet
+1,0.023050326853990555,Miss,72:48,Left footed,Marcos Llorente
+0,0.02134018763899803,Miss,90:16,Right footed,D. Szoboszlai
+1,0.021049095317721367,Miss,16:11,Left footed,G. Raspadori
+0,0.018588129431009293,Goal,90+1:42,Header,V. van Dijk
+1,0.017074590548872948,Miss,25:37,Left footed,N. González
+0,0.01546996459364891,Miss,20:27,Left footed,Mohamed Salah
+0,0.009186252020299435,Miss,45+4:41,Header,V. van Dijk

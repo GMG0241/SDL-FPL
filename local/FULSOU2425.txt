@@ -1,0 +1,20 @@
+0,0.1703414022922516,Miss,66:49,Left footed,H. Wilson
+0,0.1374960094690323,Miss,62:16,Header,A. Iwobi
+0,0.10637030005455017,Miss,72:02,Right footed,R. Jiménez
+1,0.10526062548160553,Miss,5:22,Right footed,A. Armstrong
+0,0.08073616027832031,Miss,85:58,Left footed,Adama Traoré
+0,0.05632326751947403,Miss,41:30,Header,Rodrigo Muniz
+1,0.04968699812889099,Miss,55:28,Right footed,A. Armstrong
+0,0.04628784582018852,Miss,18:08,Left footed,A. Iwobi
+1,0.04598945751786232,Miss,80:19,Right footed,Mateus Fernandes
+0,0.04048008471727371,Miss,37:15,Right footed,A. Iwobi
+0,0.03701072186231613,Miss,87:07,Left footed,Carlos Vinícius
+0,0.03545770049095154,Miss,72:21,Left footed,T. Cairney
+0,0.034870680421590805,Miss,32:00,Right footed,A. Iwobi
+0,0.03420908749103546,Miss,7:02,Left footed,H. Wilson
+0,0.03334492817521095,Miss,25:42,Left footed,H. Wilson
+1,0.031089596450328827,Miss,57:02,Right footed,C. Archer
+0,0.026847895234823227,Miss,27:03,Left footed,H. Wilson
+1,0.025941899046301842,Miss,60:30,Right footed,Y. Sugawara
+0,0.021106332540512085,Miss,81:16,Right footed,A. Iwobi
+0,0.01721498742699623,Miss,2:48,Left footed,A. Iwobi

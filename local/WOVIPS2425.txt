@@ -1,0 +1,26 @@
+1,0.3601817190647125,Miss,14:32,Right footed,O. Hutchinson
+1,0.33474963903427124,Miss,58:15,Left footed,L. Delap
+0,0.23247401416301727,Miss,84:43,Left footed,Matheus Cunha
+0,0.21349629759788513,Miss,32:42,Left footed,J. Strand Larsen
+0,0.20673196017742157,Miss,82:59,Left footed,J. Strand Larsen
+1,0.15887822210788727,Miss,14:35,Left footed,C. Chaplin
+0,0.12895499169826508,Miss,23:29,Right footed,J. Bellegarde
+1,0.11425826698541641,Goal,90+3:05,Header,J. Taylor
+0,0.08920678496360779,Miss,84:45,Right footed,Matheus Cunha
+0,0.07039082795381546,Miss,75:01,Right footed,J. Strand Larsen
+1,0.06014867126941681,Miss,90:50,Left footed,Ali Al Hamadi
+0,0.05059496685862541,Goal,71:05,Left footed,Matheus Cunha
+0,0.04970516264438629,Miss,86:17,Right footed,T. Doyle
+0,0.04877448454499245,Miss,67:02,Left footed,R. Aït-Nouri
+1,0.04471210390329361,Miss,90:00,Right footed,J. Clarke
+0,0.044404756277799606,Miss,77:47,Right footed,J. Strand Larsen
+0,0.040760334581136703,Miss,75:31,Right footed,Matheus Cunha
+1,0.03976108133792877,Miss,65:40,Left footed,L. Davis
+0,0.03301110118627548,Miss,36:02,Right footed,M. Lemina
+1,0.03229706361889839,Miss,47:56,Right footed,W. Burns
+1,0.032007575035095215,Miss,11:03,Left footed,C. Chaplin
+0,0.02804805524647236,Miss,18:32,Right footed,M. Lemina
+1,0.019104735925793648,Miss,38:34,Left footed,O. Hutchinson
+0,0.018167829141020775,Miss,85:22,Right footed,T. Doyle
+0,0.017807651311159134,Miss,35:22,Right footed,J. Strand Larsen
+0,0.01614575833082199,Miss,81:56,Right footed,Matheus Cunha

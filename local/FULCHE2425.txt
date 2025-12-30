@@ -1,0 +1,19 @@
+1,0.22425086796283722,Miss,55:19,Left footed,Pedro Neto
+1,0.19379250705242157,Miss,47:30,Right footed,L. Colwill
+1,0.0801413357257843,Miss,61:36,Right footed,Marc Cucurella
+1,0.07055259495973587,Goal,90+2:31,Left footed,Pedro Neto
+1,0.06874223798513412,Goal,82:59,Right footed,T. George
+1,0.06599843502044678,Miss,33:39,Right footed,N. Jackson
+1,0.06292137503623962,Miss,86:34,Left footed,Pedro Neto
+1,0.057573288679122925,Miss,68:29,Left footed,C. Palmer
+1,0.04837996885180473,Miss,24:25,Header,L. Colwill
+0,0.04632893204689026,Miss,65:17,Left footed,K. Tete
+0,0.0441850945353508,Miss,25:23,Right footed,K. Tete
+0,0.04004749655723572,Goal,19:53,Left footed,A. Iwobi
+0,0.039872705936431885,Miss,57:06,Right footed,K. Tete
+0,0.03776060789823532,Miss,85:47,Right footed,Andreas Pereira
+1,0.031184999272227287,Miss,13:37,Right footed,R. James
+1,0.02599005587399006,Miss,52:13,Left footed,M. Gusto
+1,0.025388337671756744,Miss,60:52,Right footed,J. Sancho
+0,0.014936263673007488,Miss,90:12,Right footed,Andreas Pereira
+1,0.014540893957018852,Miss,9:52,Left footed,C. Palmer

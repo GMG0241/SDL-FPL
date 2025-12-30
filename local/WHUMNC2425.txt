@@ -1,0 +1,33 @@
+1,0.546739935874939,Goal,82:47,Left footed,E. Haaland
+1,0.458900511264801,Goal,9:58,Left footed,E. Haaland
+1,0.4032386839389801,Miss,5:36,Header,E. Haaland
+1,0.24550418555736542,Miss,68:01,Right footed,Rúben Dias
+0,0.2193310260772705,Miss,70:44,Header,M. Kilman
+1,0.21632124483585358,Miss,90+4:35,Left footed,E. Haaland
+1,0.187935471534729,Miss,63:17,Left footed,Bernardo Silva
+1,0.1425960510969162,Miss,12:18,Right footed,J. Grealish
+0,0.1347341686487198,Miss,78:11,Left footed,T. Souček
+0,0.10806728154420853,Miss,58:34,Right footed,M. Antonio
+1,0.10424403846263885,Miss,17:36,Right footed,K. De Bruyne
+1,0.09294884651899338,Miss,37:18,Right footed,R. Lewis
+1,0.08377933502197266,Miss,17:38,Right footed,J. Grealish
+1,0.08332841098308563,Miss,48:31,Header,Bernardo Silva
+1,0.08076348900794983,Goal,29:16,Left footed,E. Haaland
+0,0.0652889758348465,Miss,61:58,Left footed,J. Bowen
+1,0.06205064803361893,Miss,44:36,Right footed,K. De Bruyne
+0,0.061483584344387054,Miss,90+4:56,Right footed,C. Summerville
+1,0.05473345145583153,Miss,9:28,Header,J. Gvardiol
+1,0.05154252052307129,Miss,8:01,Right footed,K. De Bruyne
+1,0.04754246771335602,Miss,39:56,Left footed,J. Doku
+0,0.04491103067994118,Miss,51:19,Left footed,M. Kudus
+0,0.03838907927274704,Miss,45:29,Left footed,M. Kudus
+1,0.034652289003133774,Miss,40:41,Header,Rúben Dias
+1,0.027552692219614983,Miss,41:35,Left footed,J. Gvardiol
+1,0.023921001702547073,Miss,21:12,Right footed,K. De Bruyne
+0,0.023502245545387268,Miss,90+4:07,Left footed,M. Kudus
+0,0.01940380036830902,Miss,2:45,Left footed,J. Bowen
+1,0.01775498315691948,Miss,12:53,Right footed,K. De Bruyne
+1,0.016881991177797318,Miss,40:43,Header,Bernardo Silva
+1,0.01391920167952776,Miss,24:54,Header,J. Gvardiol
+0,0.012051195837557316,Miss,59:13,Right footed,G. Rodríguez
+1,0.010815223678946495,Miss,66:58,Right footed,K. De Bruyne

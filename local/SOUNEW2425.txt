@@ -1,0 +1,29 @@
+1,0.7884,Goal,25:10,Right footed,A. Isak
+1,0.5926489233970642,Goal,50:27,Right footed,S. Tonali
+1,0.5828053951263428,Goal,29:10,Right footed,A. Isak
+1,0.3237697184085846,Miss,63:52,Right footed,Joelinton
+0,0.2217126488685608,Goal,9:34,Header,J. Bednarek
+0,0.21048270165920258,Miss,48:39,Right footed,T. Harwood-Bellis
+1,0.13101260364055634,Miss,90+1:16,Header,D. Burn
+1,0.07628578692674637,Miss,33:42,Right footed,A. Isak
+1,0.07024998217821121,Miss,35:07,Right footed,F. Schär
+0,0.06688923388719559,Miss,73:41,Left footed,Mateus Fernandes
+1,0.0617598332464695,Miss,55:20,Right footed,A. Gordon
+1,0.05295455455780029,Miss,90:22,Right footed,M. Almirón
+1,0.052359309047460556,Miss,28:19,Right footed,A. Isak
+1,0.05184582993388176,Miss,89:47,Left footed,L. Hall
+0,0.04797994717955589,Miss,63:05,Left footed,Mateus Fernandes
+1,0.04081355035305023,Miss,79:57,Right footed,A. Gordon
+0,0.04057914763689041,Miss,90+4:18,Right footed,C. Archer
+0,0.031730715185403824,Miss,81:07,Right footed,J. Bree
+0,0.03062937967479229,Miss,44:16,Header,K. Walker-Peters
+0,0.029172247275710106,Miss,81:04,Right footed,Mateus Fernandes
+1,0.02842468023300171,Miss,4:38,Right footed,Joelinton
+0,0.025595178827643394,Miss,13:25,Right footed,A. Armstrong
+1,0.025355547666549683,Miss,16:30,Right footed,J. Murphy
+1,0.02453332208096981,Miss,90+1:15,Right footed,T. Livramento
+0,0.02032189443707466,Miss,14:56,Left footed,A. Armstrong
+0,0.018657702952623367,Miss,77:17,Right footed,L. Ugochukwu
+1,0.017391366884112358,Miss,55:35,Left footed,J. Murphy
+0,0.017003687098622322,Miss,49:18,Header,T. Harwood-Bellis
+1,0.013643968850374222,Miss,90+5:15,Right footed,J. Willock

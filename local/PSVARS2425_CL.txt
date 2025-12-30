@@ -1,0 +1,27 @@
+0,0.7884,Goal,42:26,Right footed,N. Lang
+1,0.3689640760421753,Goal,84:48,Right footed,R. Calafiori
+1,0.3048926889896393,Goal,46:03,Left footed,M. Ødegaard
+0,0.18922564387321472,Miss,45:31,Header,L. de Jong
+1,0.18074004352092743,Miss,60:07,Header,Gabriel Magalhães
+1,0.17237086594104767,Miss,54:06,Left footed,E. Nwaneri
+1,0.16907818615436554,Goal,47:42,Right footed,L. Trossard
+1,0.16523781418800354,Goal,17:18,Header,J. Timber
+0,0.12237660586833954,Miss,15:28,Right footed,I. Saibari
+1,0.09187282621860504,Goal,30:19,Left footed,Mikel Merino
+1,0.0862896740436554,Goal,72:39,Left footed,M. Ødegaard
+1,0.08529271930456161,Miss,80:26,Left footed,O. Zinchenko
+1,0.07762990146875381,Miss,55:07,Left footed,E. Nwaneri
+1,0.0708312913775444,Goal,20:45,Left footed,E. Nwaneri
+0,0.06494797766208649,Miss,51:52,Right footed,I. Perišić
+0,0.05254924297332764,Miss,15:29,Right footed,R. Flamingo
+0,0.05217406153678894,Miss,52:28,Header,L. de Jong
+1,0.04416634887456894,Miss,59:18,Left footed,E. Nwaneri
+0,0.042930860072374344,Miss,24:01,Right footed,N. Lang
+1,0.03515419363975525,Miss,43:14,Right footed,D. Rice
+1,0.03258147090673447,Miss,30:16,Right footed,J. Timber
+1,0.027653096243739128,Miss,54:55,Right footed,L. Trossard
+0,0.02430618181824684,Miss,80:58,Right footed,I. Perišić
+0,0.01940741203725338,Miss,50:42,Right footed,N. Lang
+0,0.01873009093105793,Miss,74:41,Right footed,T. Malacia
+0,0.016879791393876076,Miss,26:22,Right footed,R. Ledezma
+0,0.014349367469549179,Miss,62:06,Left footed,T. Malacia

@@ -1,0 +1,19 @@
+0,0.7884,Goal,48:56,Right footed,C. Wood
+0,0.22132472693920135,Miss,53:00,Header,Murillo
+1,0.20028777420520782,Miss,22:55,Header,C. Burgess
+0,0.16619239747524261,Miss,6:10,Right footed,C. Hudson-Odoi
+1,0.13986831903457642,Miss,68:13,Left footed,J. Clarke
+0,0.13494689762592316,Miss,6:11,Left footed,R. Yates
+1,0.1022268757224083,Miss,83:39,Header,C. Burgess
+0,0.07871906459331512,Miss,25:57,Header,Jota Silva
+0,0.05981453135609627,Miss,45:37,Right footed,C. Hudson-Odoi
+1,0.05811599642038345,Miss,32:57,Right footed,O. Hutchinson
+0,0.0535384938120842,Miss,28:01,Right footed,M. Gibbs-White
+1,0.041366998106241226,Miss,3:55,Right footed,L. Delap
+0,0.039566945284605026,Miss,90+4:44,Right footed,R. Yates
+0,0.03785359114408493,Miss,6:54,Header,N. Milenković
+0,0.037794072180986404,Miss,0:56,Header,M. Gibbs-White
+0,0.03164331987500191,Miss,34:17,Right footed,N. Williams
+0,0.02898991107940674,Miss,59:23,Right footed,M. Gibbs-White
+1,0.02745048701763153,Miss,85:46,Header,C. Burgess
+1,0.016562828794121742,Miss,83:06,Right footed,J. Taylor

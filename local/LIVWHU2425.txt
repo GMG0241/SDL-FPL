@@ -1,0 +1,26 @@
+0,0.5663065314292908,Goal,17:38,Right footed,L. Díaz
+1,0.38668155670166016,Miss,66:35,Left footed,J. Bowen
+0,0.31918755173683167,Miss,33:16,Header,L. Díaz
+1,0.29656732082366943,Miss,45:24,Header,K. Mavropanos
+1,0.2209061235189438,Miss,20:50,Left footed,Carlos Soler
+0,0.18793313205242157,Miss,32:18,Right footed,A. Mac Allister
+1,0.14126016199588776,Miss,20:58,Header,Carlos Soler
+1,0.12331032752990723,Miss,90+3:23,Header,N. Füllkrug
+1,0.11135298758745193,Miss,61:11,Right footed,Carlos Soler
+0,0.10299350321292877,Goal,88:40,Header,V. van Dijk
+0,0.09532439708709717,Miss,87:58,Header,J. Quansah
+0,0.09119804948568344,Miss,16:36,Left footed,Mohamed Salah
+1,0.08035548031330109,Miss,76:52,Left footed,M. Kudus
+0,0.0784422755241394,Miss,87:15,Right footed,L. Díaz
+0,0.07314065098762512,Miss,13:30,Right footed,C. Bradley
+0,0.07217639684677124,Miss,87:53,Header,V. van Dijk
+0,0.06115091219544411,Miss,46:27,Right footed,A. Mac Allister
+1,0.054224539548158646,Miss,20:54,Left footed,M. Kudus
+1,0.045940108597278595,Miss,20:57,Left footed,J. Ward-Prowse
+0,0.03701072186231613,Miss,5:23,Right footed,L. Díaz
+0,0.03095114417374134,Miss,6:18,Header,A. Mac Allister
+1,0.026883697137236595,Miss,70:44,Left footed,M. Kudus
+0,0.023488443344831467,Miss,88:13,Right footed,A. Mac Allister
+0,0.019782163202762604,Miss,24:53,Right footed,R. Gravenberch
+0,0.01802508905529976,Miss,14:21,Left footed,C. Jones
+1,0.017077729105949402,Miss,42:28,Left footed,M. Kudus

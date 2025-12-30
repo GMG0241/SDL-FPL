@@ -1,0 +1,36 @@
+0,0.5769831538200378,Goal,8:46,Right footed,I. Sarr
+0,0.5015748739242554,Miss,22:40,Right footed,J. Mateta
+0,0.43023917078971863,Goal,90+6:59,Left footed,E. Nketiah
+1,0.3675185441970825,Miss,58:04,Right footed,F. Wirtz
+1,0.2957284450531006,Miss,69:18,Header,A. Isak
+1,0.270574152469635,Miss,75:40,Left footed,Mohamed Salah
+1,0.24526357650756836,Goal,86:21,Right footed,F. Chiesa
+0,0.24267643690109253,Miss,45+6:00,Left footed,J. Mateta
+0,0.23683466017246246,Miss,10:46,Left footed,Yeremy Pino
+0,0.19697339832782745,Miss,21:24,Left footed,D. Muñoz
+0,0.13846305012702942,Miss,78:35,Header,E. Nketiah
+0,0.13513942062854767,Miss,64:47,Header,J. Mateta
+1,0.133711040019989,Miss,18:33,Left footed,Mohamed Salah
+0,0.1119033470749855,Miss,39:47,Right footed,I. Sarr
+1,0.11058811843395233,Miss,63:42,Right footed,A. Isak
+1,0.10989169776439667,Miss,45:57,Left footed,F. Wirtz
+0,0.10275565832853317,Miss,85:38,Left footed,D. Muñoz
+0,0.08724053204059601,Miss,21:25,Header,D. Muñoz
+1,0.08201166242361069,Miss,45+8:06,Left footed,Mohamed Salah
+1,0.07424978911876678,Miss,37:01,Header,I. Konaté
+0,0.0625109076499939,Miss,41:33,Right footed,I. Sarr
+1,0.05958840623497963,Miss,65:12,Header,C. Gakpo
+1,0.05720240995287895,Miss,51:08,Right footed,C. Gakpo
+1,0.04589436948299408,Miss,84:52,Left footed,F. Chiesa
+0,0.044411201030015945,Miss,45+5:07,Right footed,J. Mateta
+1,0.04320267587900162,Miss,75:27,Left footed,C. Jones
+0,0.04280039668083191,Miss,22:43,Left footed,A. Wharton
+1,0.042262542992830276,Miss,18:36,Right footed,R. Gravenberch
+1,0.04179147258400917,Miss,46:01,Right footed,A. Mac Allister
+1,0.03597983345389366,Miss,59:01,Left footed,C. Gakpo
+1,0.03290076181292534,Miss,59:44,Right footed,R. Gravenberch
+1,0.03167517110705376,Miss,75:38,Right footed,D. Szoboszlai
+1,0.031561218202114105,Miss,18:39,Left footed,M. Kerkez
+0,0.027949094772338867,Miss,85:35,Right footed,J. Lerma
+1,0.025251232087612152,Miss,27:48,Right footed,A. Isak
+0,0.020318541675806046,Miss,79:53,Right footed,J. Lerma

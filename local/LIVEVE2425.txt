@@ -1,0 +1,22 @@
+0,0.4744671583175659,Miss,1:48,Header,I. Konaté
+1,0.3128061294555664,Miss,32:16,Right footed,Beto
+1,0.1679801046848297,Miss,45+3:56,Header,C. Alcaraz
+0,0.1289500594139099,Miss,10:09,Right footed,Diogo Jota
+1,0.1255367547273636,Miss,16:49,Left footed,C. Alcaraz
+0,0.10443949699401855,Goal,56:35,Right footed,Diogo Jota
+0,0.10071069747209549,Miss,53:25,Right footed,Diogo Jota
+0,0.07268210500478745,Miss,42:13,Left footed,A. Robertson
+0,0.07148076593875885,Miss,81:15,Right footed,L. Díaz
+0,0.06586483865976334,Miss,27:29,Header,Mohamed Salah
+0,0.06341245025396347,Miss,14:01,Right footed,D. Szoboszlai
+0,0.05834193527698517,Miss,26:38,Right footed,Diogo Jota
+0,0.04764784872531891,Miss,31:54,Right footed,L. Díaz
+0,0.04344252496957779,Miss,44:22,Right footed,R. Gravenberch
+0,0.04037832096219063,Miss,55:48,Right footed,L. Díaz
+0,0.035636454820632935,Miss,84:32,Right footed,C. Jones
+1,0.031275346875190735,Miss,45+2:05,Right footed,C. Alcaraz
+0,0.02964908629655838,Miss,51:43,Left footed,Diogo Jota
+1,0.027367565780878067,Miss,51:13,Left footed,J. Harrison
+0,0.021679712459445,Miss,52:06,Right footed,R. Gravenberch
+0,0.019023770466446877,Miss,53:13,Right footed,A. Mac Allister
+0,0.01424947939813137,Miss,90+6:11,Right footed,D. Núñez

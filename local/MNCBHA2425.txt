@@ -1,0 +1,26 @@
+0,0.7884,Goal,10:36,Left footed,E. Haaland
+1,0.4400252401828766,Miss,81:56,Left footed,C. Baleba
+1,0.34975218772888184,Miss,40:15,Header,D. Gómez
+0,0.26622048020362854,Miss,31:53,Left footed,Savinho
+1,0.26252785325050354,Miss,5:46,Right footed,K. Mitoma
+1,0.23444922268390656,Miss,42:27,Left footed,João Pedro
+1,0.22462160885334015,Miss,47:32,Right footed,J. Hinshelwood
+1,0.14994850754737854,Miss,62:48,Left footed,K. Mitoma
+0,0.12247709184885025,Miss,78:37,Header,Nico González
+0,0.1175272986292839,Miss,28:20,Right footed,E. Haaland
+0,0.11418953537940979,Miss,23:30,Left footed,Savinho
+1,0.11066998541355133,Miss,58:11,Right footed,D. Gómez
+0,0.09585636854171753,Miss,78:39,Right footed,Rúben Dias
+0,0.08451883494853973,Miss,73:31,Header,E. Haaland
+1,0.07507636398077011,Miss,79:01,Right footed,J. Hinshelwood
+1,0.06441742181777954,Goal,20:54,Left footed,P. Estupiñán
+0,0.06292012333869934,Goal,38:11,Right footed,Omar Marmoush
+1,0.05852953717112541,Miss,2:16,Right footed,João Pedro
+0,0.053710922598838806,Miss,69:49,Right footed,Omar Marmoush
+1,0.049698423594236374,Miss,34:43,Left footed,Y. Minteh
+0,0.03897884860634804,Miss,37:14,Right footed,İ. Gündoğan
+1,0.03679783269762993,Miss,50:41,Right footed,C. Baleba
+0,0.03445817902684212,Miss,53:45,Left footed,İ. Gündoğan
+1,0.024910636246204376,Miss,60:16,Left footed,Y. Minteh
+1,0.01712522655725479,Miss,17:45,Right footed,João Pedro
+1,0.009987006895244122,Miss,27:26,Header,J. van Hecke

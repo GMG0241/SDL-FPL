@@ -1,0 +1,21 @@
+1,0.6332762837409973,Miss,61:18,Right footed,M. Munetsi
+1,0.5886716842651367,Goal,35:14,Right footed,Matheus Cunha
+0,0.504281222820282,Miss,15:49,Left footed,J. Kluivert
+1,0.16588841378688812,Miss,8:23,Right footed,J. Bellegarde
+1,0.13884012401103973,Miss,55:55,Right footed,Nélson Semedo
+0,0.12635961174964905,Miss,26:31,Right footed,R. Christie
+1,0.11231062561273575,Miss,11:26,Right footed,R. Aït-Nouri
+0,0.09084820002317429,Miss,39:00,Left footed,D. Ouattara
+1,0.08448325842618942,Miss,23:21,Right footed,Matheus Cunha
+1,0.07075992971658707,Miss,51:31,Right footed,J. Strand Larsen
+0,0.06700948625802994,Miss,82:33,Left footed,A. Semenyo
+1,0.05513569712638855,Miss,90+3:25,Right footed,Pedro Lima
+0,0.038947224617004395,Miss,33:48,Header,J. Hill
+1,0.03892490640282631,Miss,12:26,Header,Toti Gomes
+0,0.037377726286649704,Miss,33:10,Left footed,D. Ouattara
+1,0.03193541616201401,Miss,11:33,Left footed,Matheus Cunha
+1,0.030188078060746193,Miss,8:21,Left footed,Nélson Semedo
+1,0.027789508923888206,Miss,81:59,Left footed,Pablo Sarabia
+1,0.02231793850660324,Miss,49:14,Right footed,M. Munetsi
+0,0.016397640109062195,Miss,1:37,Left footed,M. Tavernier
+0,0.007559466175734997,Miss,16:32,Left footed,R. Christie

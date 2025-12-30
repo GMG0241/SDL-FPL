@@ -1,0 +1,27 @@
+1,0.8905961513519287,Goal,67:39,Right footed,L. Nmecha
+1,0.7884,Miss,67:37,Right footed,L. Nmecha
+0,0.6600300073623657,Goal,24:22,Right footed,J. Gvardiol
+0,0.5153259634971619,Miss,24:20,Header,N. O'Reilly
+0,0.37702158093452454,Miss,45+2:38,Other body part,N. O'Reilly
+0,0.3258832097053528,Miss,19:05,Left footed,P. Foden
+0,0.25450631976127625,Goal,0:59,Left footed,P. Foden
+1,0.15092934668064117,Miss,47:08,Right footed,E. Ampadu
+1,0.1438748836517334,Goal,48:50,Right footed,D. Calvert-Lewin
+0,0.13426770269870758,Miss,87:40,Header,E. Haaland
+0,0.1327240765094757,Miss,89:03,Header,Omar Marmoush
+1,0.11799013614654541,Miss,90+4:50,Header,J. Bijol
+0,0.1175357848405838,Miss,19:08,Right footed,Nico González
+0,0.1139509305357933,Miss,19:49,Left footed,J. Gvardiol
+0,0.09727410227060318,Goal,90:31,Left footed,P. Foden
+0,0.0901181548833847,Miss,43:50,Right footed,T. Reijnders
+0,0.07078644633293152,Miss,43:22,Left footed,Bernardo Silva
+0,0.06311675161123276,Miss,62:50,Right footed,T. Reijnders
+1,0.05798490345478058,Miss,8:30,Header,P. Struijk
+1,0.05514063686132431,Miss,55:20,Header,P. Struijk
+1,0.03702092170715332,Miss,31:04,Left footed,L. Nmecha
+0,0.03354091942310333,Miss,42:43,Right footed,T. Reijnders
+0,0.029791714623570442,Miss,34:23,Right footed,T. Reijnders
+0,0.02931225672364235,Miss,43:35,Right footed,Nico González
+0,0.027682442218065262,Miss,21:12,Left footed,Rúben Dias
+0,0.025238413363695145,Miss,23:48,Left footed,P. Foden
+1,0.008425039239227772,Miss,85:16,Right footed,G. Gudmundsson

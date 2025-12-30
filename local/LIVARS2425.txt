@@ -1,0 +1,29 @@
+0,0.9853817224502563,Goal,20:33,Left footed,L. Díaz
+1,0.742534875869751,Goal,69:44,Header,Mikel Merino
+0,0.38927483558654785,Goal,19:06,Header,C. Gakpo
+0,0.29674363136291504,Miss,7:14,Right footed,L. Díaz
+1,0.2838771641254425,Goal,46:28,Header,Gabriel Martinelli
+1,0.25595760345458984,Miss,45:55,Right footed,Mikel Merino
+1,0.24635544419288635,Miss,2:59,Left footed,B. Saka
+1,0.21199743449687958,Miss,14:03,Right footed,L. Trossard
+0,0.18089669942855835,Miss,18:57,Right footed,C. Gakpo
+0,0.14251405000686646,Miss,88:34,Left footed,A. Robertson
+1,0.11996684968471527,Miss,60:35,Left footed,Gabriel Martinelli
+0,0.10479341447353363,Miss,45+3:13,Header,I. Konaté
+0,0.10161634534597397,Miss,23:06,Right footed,C. Jones
+1,0.09546671062707901,Miss,90+4:23,Left footed,M. Ødegaard
+1,0.09233210235834122,Miss,50:50,Right footed,L. Trossard
+0,0.08635759353637695,Miss,83:30,Left footed,Diogo Jota
+0,0.08309114724397659,Miss,75:15,Right footed,R. Gravenberch
+1,0.05954708904027939,Miss,28:58,Left footed,B. Saka
+0,0.054709650576114655,Miss,81:05,Right footed,T. Alexander-Arnold
+0,0.05270528048276901,Miss,90:46,Left footed,H. Elliott
+1,0.04787994921207428,Miss,62:01,Left footed,B. Saka
+1,0.04589436948299408,Miss,22:54,Left footed,Mikel Merino
+1,0.037900518625974655,Miss,53:53,Right footed,B. White
+1,0.03604373708367348,Miss,69:43,Left footed,M. Ødegaard
+1,0.03072657249867916,Miss,40:58,Right footed,M. Ødegaard
+0,0.02900555171072483,Miss,88:18,Right footed,D. Szoboszlai
+0,0.02862650901079178,Miss,55:25,Right footed,D. Szoboszlai
+1,0.027893636375665665,Miss,49:52,Left footed,B. Saka
+0,0.023692168295383453,Miss,52:26,Left footed,A. Robertson

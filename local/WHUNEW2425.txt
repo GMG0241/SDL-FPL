@@ -1,0 +1,18 @@
+1,0.4832288324832916,Goal,62:51,Right footed,Bruno Guimarães
+1,0.41751763224601746,Miss,60:54,Right footed,A. Isak
+0,0.3945218622684479,Miss,0:44,Left footed,T. Souček
+1,0.2182559072971344,Miss,19:26,Right footed,H. Barnes
+1,0.1278967559337616,Miss,24:26,Header,H. Barnes
+0,0.07285106182098389,Miss,90+3:29,Right footed,M. Kudus
+0,0.06793880462646484,Miss,42:50,Left footed,J. Bowen
+0,0.0608426034450531,Miss,22:40,Left footed,J. Bowen
+1,0.04248565435409546,Miss,41:15,Right footed,J. Murphy
+0,0.04045373573899269,Miss,53:59,Left footed,M. Kudus
+1,0.03509628027677536,Miss,36:13,Right footed,Joelinton
+1,0.0327410064637661,Miss,62:46,Right footed,H. Barnes
+0,0.027365483343601227,Miss,29:20,Left footed,M. Kudus
+1,0.022300435230135918,Miss,19:26,Right footed,K. Trippier
+1,0.022155005484819412,Miss,17:24,Left footed,H. Barnes
+0,0.021992219612002373,Miss,50:24,Left footed,J. Bowen
+0,0.017064429819583893,Miss,90+1:04,Right footed,E. Ferguson
+0,0.014148981310427189,Miss,74:26,Left footed,J. Bowen

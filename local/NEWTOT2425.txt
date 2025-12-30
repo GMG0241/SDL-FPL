@@ -1,0 +1,29 @@
+0,0.9232311248779297,Goal,77:41,Left footed,A. Isak
+0,0.45831194519996643,Goal,36:34,Right footed,H. Barnes
+1,0.2710765600204468,Miss,55:17,Right footed,B. Johnson
+0,0.1858915239572525,Miss,15:59,Header,L. Kelly
+1,0.1606016308069229,Miss,52:53,Left footed,W. Odobert
+1,0.12633664906024933,Miss,54:21,Right footed,Son Heung-Min
+0,0.08897027373313904,Miss,46:22,Right footed,A. Isak
+1,0.07991847395896912,Miss,26:18,Left footed,W. Odobert
+1,0.07956533879041672,Miss,59:03,Right footed,Pedro Porro
+0,0.076393261551857,Miss,65:43,Right footed,J. Murphy
+1,0.06610579043626785,Miss,45:32,Left footed,D. Kulusevski
+1,0.056063178926706314,Miss,69:31,Right footed,W. Odobert
+1,0.0504775196313858,Miss,75:20,Left footed,B. Johnson
+1,0.0451151467859745,Miss,22:36,Right footed,W. Odobert
+1,0.044990357011556625,Miss,24:21,Right footed,P. Sarr
+1,0.043965715914964676,Miss,55:15,Right footed,J. Maddison
+1,0.04246926307678223,Miss,31:44,Right footed,Pedro Porro
+0,0.03979701176285744,Miss,8:04,Right footed,H. Barnes
+1,0.03977334499359131,Miss,73:53,Left footed,J. Maddison
+1,0.030877530574798584,Miss,74:29,Right footed,Pedro Porro
+1,0.028857199475169182,Miss,75:19,Right footed,Pedro Porro
+0,0.02854890748858452,Miss,15:00,Right footed,E. Krafth
+1,0.027994446456432343,Miss,25:27,Left footed,D. Kulusevski
+1,0.026106595993041992,Miss,26:30,Right footed,P. Sarr
+1,0.020737918093800545,Miss,31:47,Right footed,Pedro Porro
+1,0.017963306978344917,Miss,70:04,Header,R. Drăgușin
+0,0.014406283386051655,Miss,77:04,Right footed,J. Murphy
+0,0.012340324930846691,Miss,4:52,Right footed,A. Isak
+1,0.010788612999022007,Miss,28:31,Right footed,Pedro Porro

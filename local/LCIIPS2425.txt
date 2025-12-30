@@ -1,0 +1,29 @@
+1,0.27027180790901184,Miss,40:28,Left footed,O. Hutchinson
+0,0.23351286351680756,Goal,27:55,Right footed,J. Vardy
+1,0.15073442459106445,Miss,55:57,Header,J. Cajuste
+1,0.14488351345062256,Miss,66:32,Right footed,G. Hirst
+1,0.14399482309818268,Miss,59:21,Left footed,J. Enciso
+1,0.12153302133083344,Miss,17:09,Header,G. Hirst
+1,0.1153969019651413,Miss,76:54,Right footed,N. Broadhead
+0,0.09011265635490417,Miss,31:01,Left footed,J. Ayew
+0,0.08533603698015213,Goal,68:25,Right footed,K. McAteer
+1,0.08074187487363815,Miss,25:30,Left footed,O. Hutchinson
+1,0.07991847395896912,Miss,90+3:07,Left footed,C. Chaplin
+0,0.07823044061660767,Miss,19:31,Right footed,J. Vardy
+0,0.06548336148262024,Miss,21:47,Left footed,J. Vardy
+1,0.06394992023706436,Miss,51:16,Right footed,J. Clarke
+1,0.06358398497104645,Miss,38:56,Header,D. O'Shea
+0,0.061191681772470474,Miss,61:45,Left footed,K. McAteer
+1,0.0598074346780777,Miss,6:11,Left footed,L. Davis
+0,0.042008910328149796,Miss,89:03,Left footed,B. El Khannouss
+1,0.04019341245293617,Miss,61:24,Left footed,J. Cajuste
+1,0.03910316154360771,Miss,62:14,Left footed,O. Hutchinson
+1,0.03122064657509327,Miss,72:10,Left footed,C. Chaplin
+1,0.03121701441705227,Miss,6:10,Right footed,L. Davis
+1,0.031120019033551216,Miss,72:07,Right footed,D. O'Shea
+1,0.02953512966632843,Miss,53:52,Right footed,J. Enciso
+1,0.02812095545232296,Miss,50:24,Left footed,J. Enciso
+0,0.025233933702111244,Miss,62:54,Left footed,K. McAteer
+0,0.023353107273578644,Miss,82:15,Left footed,J. Monga
+1,0.018779315054416656,Miss,8:13,Right footed,Sam Morsy
+1,0.016083046793937683,Miss,16:01,Left footed,J. Enciso

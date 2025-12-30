@@ -1,0 +1,22 @@
+0,0.20248451828956604,Goal,45+3:38,Right footed,I. Gueye
+0,0.18296627700328827,Miss,90+3:20,Header,Beto
+0,0.1826726198196411,Miss,6:03,Header,T. Barry
+1,0.1747274547815323,Miss,38:52,Right footed,R. Jiménez
+0,0.1640840619802475,Miss,45+3:36,Header,J. Tarkowski
+0,0.15869662165641785,Goal,80:04,Other body part,M. Keane
+0,0.14792262017726898,Miss,1:42,Right footed,T. Barry
+0,0.11517444252967834,Miss,73:46,Right footed,K. Dewsbury-Hall
+1,0.060958269983530045,Miss,33:38,Right footed,R. Jiménez
+0,0.05609671026468277,Miss,90:05,Right footed,J. Garner
+1,0.04973182454705238,Miss,59:25,Right footed,Rodrigo Muniz
+0,0.04825818911194801,Miss,45:12,Right footed,J. Garner
+0,0.046316515654325485,Miss,27:58,Right footed,J. Garner
+0,0.03702429309487343,Miss,26:24,Left footed,I. Ndiaye
+0,0.03504995256662369,Miss,90+3:54,Right footed,J. Grealish
+1,0.03457700461149216,Miss,83:56,Right footed,Adama Traoré
+0,0.03366786241531372,Miss,10:48,Right footed,J. Garner
+1,0.030069610103964806,Miss,20:27,Header,A. Iwobi
+0,0.028828375041484833,Miss,69:22,Left footed,I. Gueye
+1,0.01962861977517605,Miss,38:55,Right footed,Kevin
+1,0.019010139629244804,Miss,45+5:51,Right footed,Kevin
+1,0.01703372783958912,Miss,47:02,Left footed,H. Wilson

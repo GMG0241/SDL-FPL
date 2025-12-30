@@ -1,0 +1,32 @@
+1,0.24803894758224487,Miss,59:21,Right footed,J. Bowen
+1,0.2461467981338501,Goal,90+4:05,Right footed,D. Ings
+0,0.21693645417690277,Miss,79:20,Header,Adama Traoré
+0,0.20577941834926605,Goal,23:15,Left footed,R. Jiménez
+0,0.17716766893863678,Miss,22:28,Header,Adama Traoré
+0,0.12990880012512207,Miss,71:03,Left footed,E. Smith Rowe
+0,0.09832574427127838,Miss,45:43,Right footed,Adama Traoré
+0,0.07765427976846695,Miss,45:15,Left footed,Andreas Pereira
+0,0.07507632672786713,Miss,90+5:59,Header,C. Bassey
+1,0.07488041371107101,Miss,90+2:42,Header,K. Mavropanos
+0,0.06917041540145874,Miss,71:05,Right footed,K. Tete
+0,0.06555070728063583,Miss,14:56,Right footed,Adama Traoré
+0,0.057195182889699936,Miss,70:45,Right footed,E. Smith Rowe
+0,0.0570593923330307,Miss,6:50,Right footed,R. Jiménez
+0,0.05385933443903923,Miss,84:17,Right footed,R. Nelson
+1,0.03928300365805626,Miss,32:00,Right footed,T. Souček
+0,0.03850681334733963,Miss,19:06,Right footed,A. Iwobi
+0,0.03672235831618309,Miss,37:57,Right footed,Andreas Pereira
+0,0.03639646992087364,Miss,82:49,Left footed,Andreas Pereira
+0,0.035831645131111145,Miss,17:59,Right footed,E. Smith Rowe
+0,0.032737795263528824,Miss,35:40,Right footed,Andreas Pereira
+1,0.02895980328321457,Miss,11:34,Header,T. Souček
+1,0.02758229710161686,Miss,27:31,Left footed,J. Bowen
+0,0.02645142935216427,Miss,7:36,Left footed,Andreas Pereira
+1,0.023482216522097588,Miss,5:22,Right footed,M. Antonio
+0,0.023353107273578644,Miss,70:58,Right footed,R. Nelson
+1,0.02004212699830532,Miss,47:36,Header,K. Mavropanos
+0,0.019447563216090202,Miss,70:49,Right footed,K. Tete
+1,0.01859227940440178,Miss,62:48,Left footed,Lucas Paquetá
+1,0.015688126906752586,Miss,64:03,Right footed,M. Kudus
+1,0.013637803494930267,Miss,80:28,Left footed,M. Kudus
+0,0.010380998253822327,Miss,19:40,Header,J. Andersen

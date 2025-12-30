@@ -1,0 +1,22 @@
+1,0.23475900292396545,Miss,47:22,Left footed,P. Foden
+0,0.17866046726703644,Miss,76:54,Right footed,M. Mount
+0,0.16807134449481964,Miss,2:16,Right footed,Bruno Fernandes
+0,0.15885290503501892,Miss,28:05,Left footed,M. Ugarte
+0,0.11409648507833481,Miss,76:52,Left footed,J. Zirkzee
+0,0.08022559434175491,Miss,86:41,Right footed,J. Zirkzee
+0,0.06747526675462723,Miss,70:05,Right footed,M. Ugarte
+1,0.06496381014585495,Miss,14:54,Left footed,Omar Marmoush
+1,0.05367163568735123,Miss,64:00,Right footed,Omar Marmoush
+0,0.047059014439582825,Miss,53:21,Right footed,M. Ugarte
+1,0.0313020758330822,Miss,38:57,Right footed,İ. Gündoğan
+0,0.030103184282779694,Miss,39:52,Right footed,Casemiro
+1,0.029285771772265434,Miss,52:20,Left footed,K. De Bruyne
+0,0.028853384777903557,Miss,78:27,Right footed,A. Garnacho
+0,0.027885325253009796,Miss,26:45,Left footed,P. Dorgu
+1,0.025388337671756744,Miss,9:44,Left footed,P. Foden
+1,0.01808185689151287,Miss,17:30,Left footed,K. De Bruyne
+0,0.017873967066407204,Miss,88:01,Left footed,P. Dorgu
+1,0.014856667257845402,Miss,55:29,Right footed,Omar Marmoush
+0,0.013140945695340633,Miss,77:34,Right footed,N. Mazraoui
+1,0.01307221781462431,Miss,68:19,Right footed,Omar Marmoush
+0,0.008306660689413548,Miss,53:38,Right footed,A. Garnacho

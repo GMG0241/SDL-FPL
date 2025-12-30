@@ -1,0 +1,33 @@
+0,0.6460689306259155,Miss,70:58,Left footed,T. Adams
+0,0.46862319111824036,Miss,15:20,Right footed,Evanilson
+0,0.38970038294792175,Goal,16:15,Header,Dean Huijsen
+1,0.35036060214042664,Miss,59:34,Right footed,J. Maddison
+0,0.27746424078941345,Miss,79:55,Left footed,M. Tavernier
+0,0.26480555534362793,Miss,90+1:50,Left footed,T. Adams
+0,0.26249393820762634,Miss,76:00,Left footed,D. Ouattara
+0,0.2483808994293213,Miss,86:34,Header,D. Ouattara
+0,0.2420363426208496,Miss,86:50,Left footed,E. Ünal
+0,0.16376185417175293,Miss,52:23,Right footed,J. Kluivert
+0,0.12373208999633789,Miss,82:22,Right footed,D. Ouattara
+1,0.10401196032762527,Miss,10:21,Left footed,D. Solanke
+1,0.09662730246782303,Miss,7:33,Right footed,D. Solanke
+0,0.09061653167009354,Miss,82:19,Right footed,D. Ouattara
+0,0.08600015938282013,Miss,43:22,Header,M. Tavernier
+0,0.06736436486244202,Miss,28:45,Left footed,A. Semenyo
+0,0.06736436486244202,Miss,65:51,Right footed,R. Christie
+1,0.06443196535110474,Miss,5:15,Right footed,D. Kulusevski
+0,0.06092463806271553,Miss,66:13,Right footed,Evanilson
+1,0.05603669956326485,Miss,64:32,Right footed,Pedro Porro
+0,0.053882379084825516,Miss,59:18,Right footed,Evanilson
+0,0.052860863506793976,Miss,88:58,Left footed,D. Ouattara
+1,0.05152904987335205,Miss,58:00,Right footed,D. Kulusevski
+0,0.04179101437330246,Miss,74:43,Left footed,M. Tavernier
+0,0.04019341245293617,Miss,70:41,Left footed,A. Semenyo
+0,0.03988088667392731,Miss,90+2:49,Header,E. Ünal
+1,0.037170346826314926,Miss,87:55,Right footed,Son Heung-Min
+1,0.027316147461533546,Miss,50:00,Right footed,Y. Bissouma
+1,0.02728499285876751,Miss,83:00,Left footed,T. Werner
+1,0.020967015996575356,Miss,53:28,Left footed,A. Gray
+1,0.020128656178712845,Miss,19:03,Left footed,D. Kulusevski
+0,0.019726522266864777,Miss,42:23,Left footed,M. Tavernier
+1,0.016257354989647865,Miss,18:25,Header,D. Solanke

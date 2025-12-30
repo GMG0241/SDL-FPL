@@ -1,0 +1,32 @@
+1,0.9473528861999512,Goal,63:59,Right footed,F. Buonanotte
+1,0.7884,Goal,73:42,Right footed,J. Vardy
+0,0.5761826038360596,Goal,27:03,Left footed,J. Aribo
+1,0.43557432293891907,Miss,10:04,Right footed,W. Faes
+0,0.42912861704826355,Goal,7:03,Left footed,C. Archer
+0,0.3757842481136322,Miss,4:04,Right footed,C. Archer
+1,0.22386585175991058,Miss,19:11,Left footed,F. Buonanotte
+0,0.1951892226934433,Miss,31:40,Right footed,F. Downes
+1,0.18350724875926971,Miss,56:20,Right footed,J. Vardy
+1,0.1570778787136078,Miss,71:10,Header,A. Fatawu
+0,0.15267236530780792,Miss,66:21,Header,T. Harwood-Bellis
+0,0.13938845694065094,Miss,62:14,Right footed,C. Archer
+1,0.1229727640748024,Miss,90+3:39,Left footed,F. Buonanotte
+1,0.09809836745262146,Goal,90+7:35,Right footed,J. Ayew
+0,0.0745370090007782,Miss,65:38,Left footed,C. Archer
+0,0.05320936441421509,Miss,45:44,Left footed,R. Manning
+1,0.04640687629580498,Miss,41:00,Right footed,B. El Khannouss
+0,0.04411819577217102,Miss,4:00,Header,J. Aribo
+0,0.04097466170787811,Miss,62:56,Left footed,T. Dibling
+1,0.036327164620161057,Miss,28:58,Header,J. Vardy
+1,0.036174532026052475,Miss,82:39,Right footed,S. Mavididi
+1,0.02701484225690365,Miss,56:39,Left footed,F. Buonanotte
+0,0.022672954946756363,Miss,31:38,Header,T. Harwood-Bellis
+0,0.021866008639335632,Miss,68:29,Header,P. Onuachu
+1,0.020165085792541504,Miss,88:48,Right footed,B. De Cordova-Reid
+1,0.019800113514065742,Miss,18:29,Right footed,J. Vardy
+0,0.019511111080646515,Miss,90:43,Right footed,K. Sulemana
+0,0.01821724884212017,Miss,51:05,Header,J. Aribo
+1,0.017682788893580437,Miss,12:34,Other body part,J. Justin
+1,0.017543787136673927,Miss,70:56,Left footed,A. Fatawu
+1,0.015261945314705372,Miss,76:04,Left footed,F. Buonanotte
+1,0.014834065921604633,Miss,33:52,Header,J. Justin

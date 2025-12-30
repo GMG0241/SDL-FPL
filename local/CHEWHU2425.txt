@@ -1,0 +1,36 @@
+1,0.41696032881736755,Miss,90+3:50,Left footed,M. Kudus
+0,0.28014513850212097,Miss,30:02,Right footed,E. Fernández
+0,0.27737706899642944,Miss,63:25,Left footed,E. Fernández
+1,0.23483550548553467,Miss,69:09,Header,M. Kudus
+0,0.14929421246051788,Miss,45:59,Header,T. Adarabioyo
+0,0.1322478950023651,Goal,63:27,Left footed,Pedro Neto
+0,0.09895002841949463,Miss,40:31,Right footed,J. Sancho
+0,0.09482409805059433,Miss,14:32,Left footed,N. Madueke
+1,0.08266839385032654,Miss,58:23,Left footed,J. Bowen
+1,0.08121105283498764,Goal,41:17,Left footed,J. Bowen
+0,0.07672881335020065,Miss,78:50,Left footed,C. Palmer
+1,0.07351251691579819,Miss,45:28,Left footed,Emerson
+0,0.06450597941875458,Miss,73:15,Right footed,C. Palmer
+1,0.06366953998804092,Miss,37:38,Right footed,M. Kudus
+1,0.05829620361328125,Miss,68:06,Left footed,M. Kudus
+0,0.057584892958402634,Miss,59:31,Right footed,T. Adarabioyo
+0,0.05509381368756294,Miss,77:18,Header,L. Colwill
+0,0.054692476987838745,Miss,24:02,Header,Marc Cucurella
+1,0.053267430514097214,Miss,57:41,Left footed,A. Cresswell
+1,0.04847203567624092,Miss,90+4:17,Right footed,D. Ings
+0,0.03732261061668396,Miss,23:52,Right footed,J. Sancho
+0,0.036386821419000626,Miss,85:20,Header,T. Adarabioyo
+0,0.034587178379297256,Miss,85:32,Right footed,Pedro Neto
+0,0.034532275050878525,Miss,22:15,Left footed,C. Palmer
+1,0.03395115211606026,Miss,17:58,Left footed,J. Bowen
+0,0.03379824757575989,Miss,45:25,Left footed,C. Palmer
+0,0.031050046905875206,Miss,6:06,Left footed,C. Palmer
+0,0.030917495489120483,Miss,59:01,Right footed,Pedro Neto
+0,0.026233620941638947,Miss,49:54,Left footed,C. Palmer
+0,0.02525329776108265,Miss,45+1:02,Header,N. Jackson
+1,0.024312390014529228,Miss,90+6:39,Left footed,K. Mavropanos
+1,0.02363884449005127,Miss,51:00,Left footed,A. Cresswell
+0,0.018603963777422905,Miss,45+2:34,Left footed,C. Palmer
+0,0.01657058112323284,Miss,1:40,Right footed,N. Jackson
+1,0.015791600570082664,Miss,18:42,Left footed,A. Irving
+1,0.009429958648979664,Miss,90+5:39,Header,K. Mavropanos

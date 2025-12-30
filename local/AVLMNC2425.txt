@@ -1,0 +1,23 @@
+0,0.5257687568664551,Goal,15:59,Left footed,J. Durán
+0,0.3915424644947052,Miss,0:16,Left footed,J. Durán
+1,0.3513869345188141,Miss,42:39,Header,J. Gvardiol
+1,0.2781553864479065,Goal,90+2:43,Left footed,P. Foden
+0,0.2227351814508438,Miss,2:09,Header,A. Onana
+0,0.14387406408786774,Miss,69:13,Right footed,M. Rogers
+1,0.1133422926068306,Miss,89:37,Header,E. Haaland
+0,0.09147431701421738,Miss,59:03,Right footed,M. Rogers
+0,0.08691955357789993,Miss,81:57,Left footed,O. Watkins
+0,0.0678253173828125,Goal,64:03,Left footed,M. Rogers
+0,0.051773618906736374,Miss,48:00,Right footed,M. Cash
+1,0.04952344298362732,Miss,34:14,Left footed,P. Foden
+0,0.04189160838723183,Miss,1:03,Header,Pau Torres
+1,0.03772072494029999,Miss,4:21,Right footed,J. Grealish
+1,0.03701072186231613,Miss,23:53,Right footed,J. Grealish
+1,0.033003952354192734,Miss,51:07,Left footed,P. Foden
+1,0.028797239065170288,Miss,74:02,Left footed,P. Foden
+1,0.0274463202804327,Miss,37:22,Right footed,J. Grealish
+1,0.0271033626049757,Miss,70:42,Right footed,P. Foden
+0,0.02528531476855278,Miss,7:10,Left footed,J. Durán
+1,0.023744190111756325,Miss,90+2:40,Left footed,P. Foden
+0,0.022966738790273666,Miss,45:00,Right footed,M. Rogers
+1,0.02070031128823757,Miss,11:49,Right footed,M. Kovačić

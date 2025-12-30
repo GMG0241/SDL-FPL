@@ -1,0 +1,32 @@
+1,0.5108433961868286,Miss,2:56,Header,M. Antonio
+0,0.30490973591804504,Miss,73:51,Left footed,J. Mateta
+0,0.25403937697410583,Miss,15:08,Right footed,E. Eze
+0,0.20691972970962524,Miss,18:36,Right footed,O. Édouard
+1,0.19948157668113708,Miss,90+3:39,Left footed,N. Füllkrug
+0,0.13258901238441467,Miss,5:13,Right footed,E. Eze
+0,0.12379861623048782,Miss,65:25,Header,C. Richards
+1,0.11490589380264282,Goal,66:41,Left footed,T. Souček
+1,0.10252166539430618,Goal,71:19,Left footed,J. Bowen
+0,0.10111826658248901,Miss,76:35,Left footed,I. Sarr
+1,0.07901012152433395,Miss,66:37,Left footed,Lucas Paquetá
+1,0.06382838636636734,Miss,8:51,Header,M. Kilman
+0,0.05943478271365166,Miss,22:08,Left footed,O. Édouard
+1,0.05380064249038696,Miss,82:54,Left footed,N. Füllkrug
+1,0.04643024131655693,Miss,15:54,Right footed,M. Antonio
+1,0.04615500569343567,Miss,10:45,Left footed,M. Kudus
+0,0.04333599656820297,Miss,44:13,Left footed,O. Édouard
+1,0.035958509892225266,Miss,10:47,Right footed,M. Kudus
+1,0.034325022250413895,Miss,52:20,Header,Lucas Paquetá
+0,0.03131759539246559,Miss,51:02,Left footed,O. Édouard
+0,0.03083609975874424,Miss,41:45,Right footed,E. Eze
+1,0.029867175966501236,Miss,2:56,Header,T. Souček
+1,0.019156191498041153,Miss,52:27,Left footed,V. Coufal
+0,0.017526529729366302,Miss,90+4:45,Right footed,E. Eze
+1,0.016873927786946297,Miss,2:20,Right footed,G. Rodríguez
+0,0.015817604959011078,Miss,5:57,Right footed,A. Wharton
+0,0.015353629365563393,Miss,25:33,Right footed,J. Lerma
+1,0.014784268103539944,Miss,39:04,Left footed,Lucas Paquetá
+0,0.010340345092117786,Miss,90+1:09,Right footed,E. Eze
+1,0.00954754650592804,Miss,51:48,Right footed,T. Souček
+1,0.008966612629592419,Miss,83:48,Right footed,E. Álvarez
+1,0.006664601620286703,Miss,38:32,Right footed,G. Rodríguez

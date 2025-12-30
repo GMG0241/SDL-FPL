@@ -1,0 +1,16 @@
+1,0.577642023563385,Goal,49:11,Right footed,L. Colwill
+0,0.42425116896629333,Miss,42:27,Right footed,C. Wood
+0,0.3515510857105255,Miss,90+3:36,Right footed,C. Wood
+1,0.3049434721469879,Miss,29:36,Left footed,Pedro Neto
+0,0.17436200380325317,Miss,22:50,Header,C. Wood
+0,0.10294872522354126,Miss,87:40,Right footed,E. Anderson
+0,0.08440180122852325,Miss,87:44,Right footed,E. Anderson
+1,0.07565243542194366,Miss,13:44,Left footed,N. Madueke
+1,0.073725126683712,Miss,88:50,Left footed,R. Lavia
+0,0.07009805738925934,Miss,87:38,Header,N. Milenković
+0,0.03910316154360771,Miss,50:59,Right footed,A. Elanga
+0,0.03896453604102135,Miss,76:02,Right footed,A. Elanga
+0,0.037580471485853195,Miss,62:06,Left footed,O. Aina
+1,0.02802346646785736,Miss,49:10,Left footed,Pedro Neto
+0,0.025387216359376907,Miss,62:05,Left footed,Murillo
+1,0.013563667424023151,Miss,60:18,Left footed,C. Palmer

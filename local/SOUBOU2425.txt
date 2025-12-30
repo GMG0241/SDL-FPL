@@ -1,0 +1,25 @@
+1,0.4772454500198364,Goal,13:08,Header,D. Ouattara
+0,0.329812228679657,Miss,90+4:38,Right footed,C. Archer
+1,0.2227843999862671,Miss,53:13,Right footed,A. Semenyo
+0,0.1316813975572586,Goal,71:21,Left footed,K. Sulemana
+1,0.11314289271831512,Miss,40:54,Left footed,D. Ouattara
+1,0.0951547622680664,Goal,82:35,Left footed,M. Tavernier
+0,0.08218789845705032,Miss,62:03,Left footed,K. Sulemana
+0,0.06455391645431519,Miss,60:18,Right footed,K. Sulemana
+1,0.04902065917849541,Goal,15:38,Left footed,R. Christie
+0,0.04819732531905174,Miss,40:07,Left footed,K. Sulemana
+1,0.048093024641275406,Miss,90+6:00,Right footed,A. Scott
+1,0.03686580806970596,Miss,11:28,Header,D. Ouattara
+1,0.035088732838630676,Miss,54:09,Header,R. Christie
+1,0.03244248405098915,Miss,60:36,Left footed,D. Brooks
+0,0.03152003884315491,Miss,50:41,Right footed,P. Onuachu
+1,0.02408614754676819,Miss,29:16,Right footed,L. Cook
+0,0.023959647864103317,Miss,71:08,Right footed,K. Sulemana
+0,0.02314412221312523,Miss,47:39,Header,P. Onuachu
+1,0.02173573337495327,Miss,30:46,Left footed,M. Kerkez
+0,0.021559560671448708,Miss,73:13,Right footed,J. Bree
+1,0.020194025710225105,Miss,33:59,Right footed,J. Kluivert
+0,0.019447563216090202,Miss,74:25,Right footed,L. Ugochukwu
+0,0.01641106605529785,Miss,65:39,Right footed,Y. Sugawara
+1,0.010725034400820732,Miss,30:40,Left footed,D. Ouattara
+1,0.009511077776551247,Miss,41:35,Header,R. Christie

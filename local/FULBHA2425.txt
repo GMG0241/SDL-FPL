@@ -1,0 +1,19 @@
+0,0.6076892614364624,Goal,3:05,Right footed,A. Iwobi
+1,0.3457452952861786,Miss,53:24,Header,J. van Hecke
+1,0.2237873077392578,Miss,33:28,Left footed,S. Adingra
+1,0.20891207456588745,Miss,13:26,Left footed,João Pedro
+0,0.17631959915161133,Miss,45+2:15,Header,Rodrigo Muniz
+1,0.17487430572509766,Miss,10:29,Right footed,João Pedro
+0,0.15689638257026672,Miss,45:06,Right footed,H. Wilson
+1,0.14334939420223236,Miss,13:24,Right footed,P. Estupiñán
+1,0.09822766482830048,Miss,61:29,Left footed,M. O'Riley
+0,0.0779690146446228,Miss,6:09,Left footed,A. Iwobi
+1,0.06621754914522171,Miss,90+3:24,Right footed,E. Ferguson
+1,0.05885711684823036,Goal,55:05,Left footed,C. Baleba
+1,0.04179210215806961,Miss,9:36,Left footed,C. Baleba
+1,0.036657415330410004,Miss,34:09,Left footed,P. Estupiñán
+1,0.035026438534259796,Miss,23:18,Left footed,S. Adingra
+0,0.025029173120856285,Goal,86:50,Right footed,A. Iwobi
+1,0.0213971808552742,Miss,27:38,Header,M. Wieffer
+1,0.01910576783120632,Miss,34:42,Right footed,K. Mitoma
+0,0.016599753871560097,Miss,12:33,Header,Rodrigo Muniz

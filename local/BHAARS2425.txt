@@ -1,0 +1,20 @@
+0,0.7884,Goal,60:35,Right footed,João Pedro
+0,0.249997079372406,Miss,33:34,Right footed,S. Adingra
+1,0.2400972992181778,Miss,9:23,Right footed,Gabriel Jesus
+1,0.22170430421829224,Miss,39:08,Header,Gabriel Jesus
+0,0.16329970955848694,Miss,20:33,Header,B. Gruda
+1,0.12341304868459702,Miss,57:48,Left footed,Mikel Merino
+0,0.1125095784664154,Miss,76:11,Left footed,Y. Minteh
+1,0.09381517022848129,Miss,88:26,Header,T. Partey
+1,0.06621206551790237,Goal,15:35,Left footed,E. Nwaneri
+0,0.05652574077248573,Miss,18:50,Right footed,S. Adingra
+1,0.04132753238081932,Miss,78:02,Right footed,D. Rice
+0,0.038458600640296936,Miss,84:54,Right footed,Y. Ayari
+0,0.03633059561252594,Miss,42:10,Right footed,C. Baleba
+1,0.034870680421590805,Miss,90+2:23,Right footed,L. Trossard
+1,0.03178492933511734,Miss,38:10,Right footed,L. Trossard
+0,0.030163630843162537,Miss,18:06,Right footed,S. Adingra
+1,0.024151034653186798,Miss,5:03,Right footed,L. Trossard
+0,0.01905718818306923,Miss,90:02,Header,A. Webster
+0,0.014598195441067219,Miss,32:59,Left footed,M. O'Riley
+0,0.011995166540145874,Miss,47:23,Left footed,P. Estupiñán

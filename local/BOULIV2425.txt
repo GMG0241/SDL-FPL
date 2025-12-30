@@ -1,0 +1,33 @@
+1,0.7884,Goal,29:39,Left footed,Mohamed Salah
+0,0.519835352897644,Miss,49:42,Left footed,A. Semenyo
+1,0.49653151631355286,Miss,31:58,Header,L. Díaz
+0,0.4845235049724579,Miss,69:56,Right footed,J. Kluivert
+1,0.3279404044151306,Miss,86:47,Header,C. Jones
+1,0.17773304879665375,Miss,1:18,Right footed,L. Díaz
+1,0.14572829008102417,Miss,1:17,Right footed,A. Mac Allister
+0,0.13689163327217102,Miss,46:19,Right footed,J. Kluivert
+0,0.10948221385478973,Miss,45:15,Header,D. Ouattara
+1,0.10247885435819626,Miss,39:52,Header,T. Alexander-Arnold
+1,0.0783245861530304,Miss,43:03,Right footed,D. Szoboszlai
+0,0.05761437490582466,Miss,12:43,Left footed,J. Kluivert
+0,0.05632077902555466,Miss,82:16,Right footed,A. Semenyo
+1,0.052440840750932693,Miss,58:53,Right footed,A. Mac Allister
+1,0.05220913514494896,Goal,74:13,Left footed,Mohamed Salah
+1,0.049996573477983475,Miss,61:39,Left footed,C. Jones
+1,0.04826855659484863,Miss,22:31,Right footed,D. Szoboszlai
+0,0.039167847484350204,Miss,90+3:36,Left footed,M. Tavernier
+1,0.03910316154360771,Miss,45+2:30,Left footed,R. Gravenberch
+1,0.03401178494095802,Miss,56:43,Right footed,D. Szoboszlai
+0,0.03293963521718979,Miss,19:58,Left footed,A. Semenyo
+0,0.03242158889770508,Miss,0:11,Right footed,A. Semenyo
+0,0.031210264191031456,Miss,81:23,Header,A. Semenyo
+1,0.029055295512080193,Miss,72:20,Right footed,C. Bradley
+0,0.028053803369402885,Miss,69:54,Left footed,M. Tavernier
+0,0.02720773033797741,Miss,20:01,Left footed,R. Christie
+1,0.02645142935216427,Miss,15:01,Right footed,T. Alexander-Arnold
+0,0.02609158866107464,Miss,13:41,Right footed,A. Semenyo
+1,0.025308240205049515,Miss,24:05,Left footed,Mohamed Salah
+1,0.019039487466216087,Miss,61:42,Right footed,T. Alexander-Arnold
+1,0.018657702952623367,Miss,16:01,Right footed,C. Gakpo
+0,0.016008688136935234,Miss,90+1:28,Right footed,Dean Huijsen
+1,0.012647710740566254,Miss,59:31,Left footed,Mohamed Salah

@@ -1,0 +1,30 @@
+1,0.7884,Goal,60:24,Left footed,C. Palmer
+1,0.7884,Goal,83:14,Left footed,C. Palmer
+0,0.7575454711914062,Miss,34:28,Left footed,D. Solanke
+0,0.5117635726928711,Miss,33:52,Header,P. Sarr
+0,0.4681347608566284,Goal,90+5:55,Right footed,Son Heung-Min
+0,0.3164772689342499,Miss,67:40,Right footed,Son Heung-Min
+0,0.2430557906627655,Miss,90+3:45,Left footed,Son Heung-Min
+1,0.1993567943572998,Miss,47:57,Right footed,J. Sancho
+1,0.18901824951171875,Miss,3:19,Header,L. Colwill
+0,0.1382369101047516,Miss,71:26,Header,M. van de Ven
+1,0.13755781948566437,Miss,40:36,Right footed,N. Jackson
+1,0.13686339557170868,Miss,76:24,Left footed,J. Sancho
+1,0.1253211349248886,Miss,48:45,Header,N. Jackson
+0,0.10829433053731918,Miss,90+2:17,Left footed,J. Maddison
+0,0.09665792435407639,Goal,4:45,Right footed,D. Solanke
+0,0.09038768708705902,Miss,89:15,Right footed,D. Solanke
+1,0.08011768013238907,Miss,30:59,Left footed,C. Palmer
+1,0.07185392081737518,Miss,31:02,Left footed,Pedro Neto
+1,0.058536093682050705,Goal,17:00,Right footed,J. Sancho
+1,0.05767417326569557,Miss,37:57,Right footed,N. Jackson
+0,0.055399227887392044,Miss,90+5:13,Right footed,Pedro Porro
+0,0.05451900511980057,Miss,23:18,Right footed,Son Heung-Min
+0,0.054138265550136566,Goal,10:25,Left footed,D. Kulusevski
+1,0.04982713982462883,Miss,51:18,Right footed,E. Fernández
+1,0.04162834584712982,Goal,72:51,Left footed,E. Fernández
+1,0.03428802639245987,Miss,2:04,Right footed,E. Fernández
+1,0.027790050953626633,Miss,72:48,Left footed,C. Palmer
+1,0.026727046817541122,Miss,56:04,Right footed,M. Gusto
+1,0.014058073982596397,Miss,44:05,Left footed,Marc Cucurella
+0,0.006002506241202354,Miss,90+5:15,Right footed,Pedro Porro

@@ -1,0 +1,29 @@
+0,0.7884,Goal,90+1:32,Right footed,J. Mateta
+1,0.6352145075798035,Goal,20:29,Right footed,J. Vardy
+0,0.5021955966949463,Goal,46:50,Right footed,J. Mateta
+0,0.27859562635421753,Miss,34:35,Right footed,E. Eze
+1,0.25637054443359375,Goal,45:21,Right footed,S. Mavididi
+0,0.14369066059589386,Miss,74:29,Left footed,E. Eze
+1,0.10256699472665787,Miss,44:51,Left footed,S. Mavididi
+0,0.10054416209459305,Miss,17:51,Right footed,D. Muñoz
+1,0.08763895183801651,Miss,4:19,Right footed,J. Ayew
+0,0.08736713230609894,Miss,32:18,Right footed,E. Nketiah
+0,0.07884234935045242,Miss,85:18,Left footed,I. Sarr
+0,0.06960303336381912,Miss,15:09,Header,E. Nketiah
+0,0.06485345214605331,Miss,84:33,Left footed,D. Kamada
+0,0.05558488890528679,Miss,67:27,Right footed,E. Nketiah
+0,0.053336020559072495,Miss,18:47,Right footed,J. Mateta
+0,0.052872467786073685,Miss,32:16,Right footed,D. Muñoz
+1,0.05276894196867943,Miss,23:24,Left footed,S. Mavididi
+1,0.04906809702515602,Miss,55:36,Right footed,J. Justin
+0,0.04564422369003296,Miss,30:10,Right footed,E. Nketiah
+0,0.04123205319046974,Miss,79:14,Right footed,E. Eze
+0,0.03984341770410538,Miss,18:58,Left footed,E. Nketiah
+0,0.03903813287615776,Miss,83:07,Left footed,T. Mitchell
+0,0.03882213309407234,Miss,17:54,Left footed,E. Nketiah
+0,0.02862650901079178,Miss,65:12,Right footed,D. Kamada
+0,0.021043680608272552,Miss,28:00,Right footed,C. Doucouré
+1,0.019739743322134018,Miss,24:07,Header,C. Okoli
+0,0.015328441746532917,Miss,85:58,Header,J. Mateta
+1,0.011887085624039173,Miss,60:42,Header,J. Ayew
+1,0.010397793725132942,Miss,81:00,Left footed,A. Fatawu

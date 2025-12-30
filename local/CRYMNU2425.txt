@@ -1,0 +1,24 @@
+1,0.4037756025791168,Miss,12:32,Header,M. de Ligt
+0,0.34831634163856506,Miss,71:46,Right footed,E. Eze
+1,0.300909161567688,Miss,26:35,Right footed,A. Garnacho
+0,0.22413724660873413,Miss,64:21,Right footed,I. Sarr
+1,0.20511490106582642,Miss,13:17,Left footed,Lisandro Martínez
+1,0.18160158395767212,Miss,26:37,Right footed,Bruno Fernandes
+0,0.15585534274578094,Miss,43:40,Right footed,E. Eze
+1,0.13751846551895142,Miss,9:07,Left footed,A. Garnacho
+0,0.1318349987268448,Miss,64:19,Left footed,E. Nketiah
+1,0.10112019628286362,Miss,32:33,Header,J. Zirkzee
+1,0.09965214878320694,Miss,51:49,Right footed,Bruno Fernandes
+0,0.08495446294546127,Miss,90+1:34,Right footed,I. Sarr
+1,0.0705702155828476,Miss,2:39,Header,M. de Ligt
+1,0.06465525925159454,Miss,67:42,Left footed,M. de Ligt
+1,0.03869974613189697,Miss,34:26,Right footed,Bruno Fernandes
+1,0.03802073746919632,Miss,40:23,Right footed,K. Mainoo
+1,0.03643098473548889,Miss,50:33,Right footed,Bruno Fernandes
+0,0.03235497325658798,Miss,78:51,Left footed,W. Hughes
+1,0.02874438278377056,Miss,62:44,Left footed,A. Diallo
+0,0.02780088782310486,Miss,64:59,Header,J. Lerma
+1,0.027276305481791496,Miss,62:15,Right footed,A. Garnacho
+0,0.021997379139065742,Miss,82:05,Header,M. Lacroix
+1,0.01894892193377018,Miss,49:55,Left footed,A. Diallo
+0,0.013417071662843227,Miss,45:16,Left footed,E. Nketiah

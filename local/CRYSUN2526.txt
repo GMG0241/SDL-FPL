@@ -1,0 +1,20 @@
+0,0.5856044292449951,Miss,35:40,Right footed,Yeremy Pino
+0,0.48915380239486694,Miss,78:41,Left footed,J. Mateta
+1,0.20371322333812714,Miss,40:19,Right footed,C. Talbi
+0,0.18582382798194885,Miss,88:59,Header,C. Richards
+0,0.11976658552885056,Miss,49:01,Right footed,Yeremy Pino
+0,0.10149039328098297,Miss,49:00,Right footed,J. Mateta
+0,0.09591629356145859,Miss,90+4:33,Left footed,D. Muñoz
+1,0.061449211090803146,Miss,57:07,Right footed,W. Isidor
+1,0.053210314363241196,Miss,14:08,Left footed,N. Sadiki
+1,0.03675759583711624,Miss,15:31,Right footed,W. Isidor
+0,0.036485686898231506,Miss,71:44,Right footed,D. Kamada
+0,0.032007575035095215,Miss,90+1:42,Left footed,W. Hughes
+0,0.03131909668445587,Miss,87:25,Right footed,D. Kamada
+1,0.028734887018799782,Miss,70:20,Left footed,H. Diarra
+0,0.02737221121788025,Miss,90+2:31,Header,M. Guéhi
+0,0.02563146874308586,Miss,8:16,Right footed,J. Lerma
+0,0.021279504522681236,Miss,77:50,Right footed,D. Muñoz
+0,0.020936110988259315,Miss,19:14,Right footed,Yeremy Pino
+1,0.011056986637413502,Miss,55:54,Right footed,W. Isidor
+0,0.00924650114029646,Miss,87:22,Right footed,C. Uche

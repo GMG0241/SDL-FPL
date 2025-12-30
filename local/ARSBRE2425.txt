@@ -1,0 +1,17 @@
+0,0.22405771911144257,Goal,60:15,Right footed,T. Partey
+0,0.1803971529006958,Miss,34:47,Right footed,Gabriel Martinelli
+1,0.13090194761753082,Goal,73:31,Right footed,Y. Wissa
+0,0.08501390367746353,Miss,79:51,Left footed,B. Saka
+0,0.052477046847343445,Miss,8:59,Left footed,E. Nwaneri
+0,0.047877222299575806,Miss,90+2:19,Left footed,J. Kiwior
+0,0.04587371274828911,Miss,87:28,Header,Mikel Merino
+0,0.031658414751291275,Miss,41:35,Header,L. Trossard
+1,0.030762432143092155,Miss,30:03,Left footed,M. Damsgaard
+0,0.029004637151956558,Miss,40:03,Left footed,D. Rice
+0,0.028157709166407585,Miss,90+5:44,Left footed,B. Saka
+0,0.026261262595653534,Miss,43:54,Left footed,L. Trossard
+1,0.02395826019346714,Miss,21:13,Right footed,K. Ajer
+0,0.022007454186677933,Miss,32:07,Left footed,O. Zinchenko
+0,0.019135624170303345,Miss,22:55,Right footed,Gabriel Martinelli
+0,0.01828325167298317,Miss,76:12,Right footed,Jorginho
+0,0.011484338901937008,Miss,45+1:39,Right footed,L. Trossard

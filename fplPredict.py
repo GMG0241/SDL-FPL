@@ -5,6 +5,7 @@ import random
 import time
 import re
 import unidecode
+import os
 from datetime import datetime as dt
 from tensorflow import keras
 from tensorflow.keras import layers
@@ -41,14 +42,15 @@ MY_ABBRV_TO_DATA = {"CHE":"Chelsea",
                     "SUN":"Sunderland"}
 DATA_TO_MY_ABBRV = {value:key for key, value in MY_ABBRV_TO_DATA.items()}
 OPPONENT_TEAM_TO_NAME = {i+1:name for i, name in enumerate(sorted(list(DATA_TO_MY_ABBRV)))} 
-GAMES_LOCATION = r"C:\Users\gabeg\Documents\Accurate xG\accuratexG\local"
+GAMES_LOCATION = r"C:\Users\gabeg\Documents\Uni Work\Strategic Leadership\FPL Code\\"
 TEAM_IDS_FILE = r"C:\Users\gabeg\Documents\Uni Work\Strategic Leadership\FPL Code\teamIds.csv"
 TEAM_IDS = {}
 with open(TEAM_IDS_FILE,"r") as f:
     for line in f.readlines():
         teamID, name = line.replace("\n","").split(",")
         TEAM_IDS[name] = teamID
-ELO_FILE_LOCATIONS = r"C:\Users\gabeg\Documents\Accurate xG\OptaScrape\exampleEnv\ResultXG\teams\{teamID}\elo.json"
+TEAM_ID_TO_LONGNAME = {value:key for key, value in TEAM_IDS.items()}
+ELO_FILE_LOCATIONS = r"C:\Users\gabeg\Documents\Uni Work\Strategic Leadership\FPL Code\teams\{teamID}\elo.json"
 ML_MAX_GOALS_SCORED = 3
 RANDOM_SEED = 42
 random.seed(RANDOM_SEED)
@@ -208,7 +210,7 @@ def sanitise2526Df(df2425:pd.DataFrame, df2526:pd.DataFrame, updatePlayerFile=Fa
 
     ID_TO_POSITION = {i+1:elm for i, elm in enumerate(["GK","DEF","MID","FWD"])}
     PLAYER_FILE = r"C:\Users\gabeg\Documents\Uni Work\Strategic Leadership\FPL Code\2526NamesTo2425.json"
-    GAME_STATS_LOCATION = r"C:\Users\gabeg\Documents\Accurate xG\OptaScrape\exampleEnv\updateResultApp\competitionFolders\0\2526\games\\"
+    GAME_STATS_LOCATION = r"C:\Users\gabeg\Documents\Uni Work\Strategic Leadership\FPL Code\games\\"
 
     df2526 = df2526.rename(columns={"element_type":"position","web_name":"name","team_name":"team","opponent_team_name":"opponent_team","gameweek":"GW"})
     df2526["matchFile"] = df2526.apply(lambda row: f"{TEAM_IDS[row["team"]]}_{TEAM_IDS[row["opponent_team"]]}" if row["was_home"] else f"{TEAM_IDS[row["opponent_team"]]}_{TEAM_IDS[row["team"]]}", axis=1)
@@ -704,6 +706,26 @@ with open(SCRAPED_GAMES,"r", encoding="UTF-8") as f:
         obj["away_cleanSheet"] = obj["distribution"]["homeXG"][0]
         gameStats.append(obj)
 
+FILE_LOCATION = r"C:\Users\gabeg\Documents\Uni Work\Strategic Leadership\FPL Code\games\\"
+for matchup in os.listdir(FILE_LOCATION):
+    rxgFile = f"{FILE_LOCATION}{matchup}"
+
+    homeTeamID, awayTeamID = matchup.split(".rxg")[0].split("_")
+
+
+    obj = {"home":TEAM_ID_TO_LONGNAME[homeTeamID], "away":TEAM_ID_TO_LONGNAME[awayTeamID]}
+
+    with open(rxgFile,"r") as f:
+        lines = [line.replace("\n","") for line in f.readlines()]
+    metaLines = lines[0].split(",")
+    
+    obj["scoreline"] = metaLines[1]
+    obj["date"] = dt.strftime(dt.strptime(metaLines[2],"%d/%m/%y"),"%b %d, %Y")
+    obj["distribution"] = calculateStatsFromLines(lines[1:])
+
+
+    gameStats.append(obj)
+
 #for each input
 #10 prior game data - elo diff, home or not, probability of keeping a clean sheet
 #this games elo diff, home or not, y value is probability of keeping a clean sheet
@@ -762,7 +784,10 @@ for i,prediction in enumerate(y):
     squaredError += prediction**2 - y_validate_pg[i]**2
 mae = absoluteError/len(y)
 mse = absoluteError/len(y)
-print(f"We validated our PG model on {len(y)} pieces of data. We found that the model accurately decided to predict at least one goal {count/len(y)*100}% of the time. The actual probability accuracy was a loss (MSE) of {mse} (RMSE: {mse**0.5}), and a MAE of {mae}")
+print(f"We validated our PG model on {len(y)} pieces of data. We found that the model accurately decided to predict whether a player would score a goal or not {count/len(y)*100}% of the time. The actual probability accuracy was a loss (MSE) of {mse} (RMSE: {mse**0.5}), and a MAE of {mae}")
+
+
+
 
 
 '''testNames = list(set(df["name"]))

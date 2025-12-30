@@ -1,0 +1,29 @@
+0,0.7884,Goal,27:22,Right footed,O. Watkins
+0,0.27232906222343445,Miss,74:40,Left footed,J. Durán
+1,0.2690263092517853,Goal,53:54,Right footed,M. Damsgaard
+1,0.22680401802062988,Miss,53:49,Header,K. Schade
+0,0.185623899102211,Miss,57:01,Right footed,O. Watkins
+0,0.1511465609073639,Miss,84:31,Left footed,J. Durán
+0,0.12363189458847046,Miss,22:25,Right footed,M. Rogers
+0,0.1229911744594574,Miss,75:22,Header,T. Mings
+0,0.1086590588092804,Miss,43:34,Header,O. Watkins
+0,0.10595709830522537,Miss,50:01,Left footed,J. McGinn
+0,0.10355566442012787,Miss,88:17,Left footed,J. Durán
+1,0.0965607538819313,Miss,71:07,Right footed,Thiago
+1,0.0945541113615036,Miss,77:38,Right footed,Fábio Carvalho
+0,0.0883665680885315,Miss,22:23,Right footed,L. Bailey
+1,0.07838030159473419,Miss,37:26,Header,K. Schade
+1,0.07797563076019287,Miss,62:34,Left footed,Y. Yarmoliuk
+0,0.07605374604463577,Miss,41:34,Right footed,O. Watkins
+1,0.0752098560333252,Miss,90+3:30,Left footed,V. Janelt
+0,0.06081303209066391,Goal,20:33,Right footed,M. Rogers
+0,0.05588970333337784,Miss,82:29,Right footed,M. Rogers
+1,0.04869881272315979,Miss,53:48,Header,Y. Wissa
+0,0.039063405245542526,Miss,52:09,Header,O. Watkins
+0,0.03655105084180832,Miss,13:57,Right footed,O. Watkins
+0,0.033018872141838074,Miss,88:45,Left footed,R. Barkley
+0,0.03239171952009201,Miss,47:15,Header,T. Mings
+1,0.029898079112172127,Miss,5:14,Right footed,K. Schade
+0,0.02258468046784401,Goal,33:34,Right footed,M. Cash
+0,0.02184455841779709,Miss,45:48,Left footed,L. Digne
+0,0.016241401433944702,Miss,32:34,Right footed,Y. Tielemans

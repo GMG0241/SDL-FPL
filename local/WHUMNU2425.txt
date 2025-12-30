@@ -1,0 +1,30 @@
+0,0.7884,Goal,90+1:34,Left footed,J. Bowen
+0,0.7624129056930542,Miss,61:15,Right footed,Emerson
+1,0.5861479043960571,Miss,11:47,Left footed,R. Højlund
+0,0.5291422009468079,Goal,73:06,Right footed,C. Summerville
+1,0.46185100078582764,Miss,31:12,Right footed,Diogo Dalot
+0,0.334481418132782,Miss,72:23,Header,M. Kilman
+1,0.3014209270477295,Miss,12:01,Header,Bruno Fernandes
+1,0.2898210287094116,Goal,80:22,Header,Casemiro
+0,0.20418918132781982,Miss,73:04,Right footed,D. Ings
+1,0.11687751859426498,Miss,1:52,Right footed,A. Garnacho
+0,0.09640094637870789,Miss,90+8:16,Left footed,Emerson
+0,0.08764662593603134,Miss,85:27,Header,J. Bowen
+1,0.08020267635583878,Miss,90+13:08,Right footed,J. Zirkzee
+1,0.07870554178953171,Miss,7:53,Right footed,A. Garnacho
+1,0.07808399945497513,Miss,44:58,Header,Casemiro
+1,0.07305222749710083,Miss,36:16,Right footed,Bruno Fernandes
+1,0.07131661474704742,Miss,80:20,Header,J. Zirkzee
+0,0.051900602877140045,Miss,54:35,Right footed,M. Antonio
+1,0.04566401243209839,Miss,77:14,Right footed,Bruno Fernandes
+0,0.04249264672398567,Miss,51:31,Left footed,J. Bowen
+0,0.037459276616573334,Miss,64:03,Header,M. Kilman
+0,0.03706054016947746,Miss,27:26,Header,Lucas Paquetá
+1,0.035392582416534424,Miss,53:10,Left footed,A. Garnacho
+0,0.03157660737633705,Miss,61:28,Right footed,T. Souček
+1,0.02608218975365162,Miss,90+11:47,Right footed,Bruno Fernandes
+1,0.024318279698491096,Miss,2:08,Left footed,Bruno Fernandes
+1,0.02076808363199234,Miss,56:41,Left footed,R. Højlund
+1,0.018188921734690666,Miss,83:55,Left footed,A. Diallo
+1,0.017198335379362106,Miss,76:07,Left footed,A. Diallo
+1,0.01584504172205925,Miss,50:42,Right footed,C. Eriksen

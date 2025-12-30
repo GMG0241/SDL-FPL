@@ -1,0 +1,27 @@
+0,0.3724468946456909,Goal,89:56,Right footed,K. Schade
+1,0.3686668276786804,Goal,10:42,Header,A. Isak
+0,0.2904389202594757,Miss,90+2:26,Left footed,B. Mbeumo
+1,0.2832585275173187,Miss,36:35,Header,J. Murphy
+0,0.16808409988880157,Goal,55:10,Left footed,N. Collins
+1,0.16806870698928833,Miss,83:22,Header,S. Tonali
+1,0.10961038619279861,Miss,86:39,Left footed,M. Almirón
+0,0.1078832745552063,Miss,69:31,Left footed,Y. Wissa
+1,0.09139469265937805,Miss,86:38,Left footed,A. Isak
+0,0.08588176965713501,Miss,71:25,Left footed,Y. Yarmoliuk
+1,0.08513955771923065,Goal,31:10,Right footed,H. Barnes
+0,0.06490917503833771,Goal,7:22,Left footed,B. Mbeumo
+1,0.061864692717790604,Miss,23:29,Right footed,Bruno Guimarães
+0,0.04936005175113678,Goal,27:37,Right footed,Y. Wissa
+1,0.04354943707585335,Miss,50:35,Right footed,H. Barnes
+1,0.041706375777721405,Miss,43:15,Right footed,Bruno Guimarães
+1,0.04116686433553696,Miss,1:54,Right footed,S. Longstaff
+0,0.04104330390691757,Miss,12:35,Right footed,Fábio Carvalho
+1,0.040361449122428894,Miss,42:25,Left footed,H. Barnes
+1,0.03598563000559807,Miss,62:30,Right footed,A. Gordon
+1,0.028202801942825317,Miss,8:40,Right footed,A. Isak
+1,0.028039490804076195,Miss,90+2:43,Right footed,A. Gordon
+1,0.027735259383916855,Miss,52:21,Left footed,J. Murphy
+1,0.023968007415533066,Miss,9:33,Right footed,S. Longstaff
+0,0.023186786100268364,Miss,22:47,Right footed,K. Lewis-Potter
+0,0.021135099232196808,Miss,65:09,Left footed,B. Mbeumo
+0,0.007162276655435562,Miss,58:01,Right footed,Y. Wissa

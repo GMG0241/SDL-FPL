@@ -1,0 +1,30 @@
+0,0.8180529475212097,Goal,36:33,Right footed,M. Tavernier
+0,0.7089928388595581,Miss,63:00,Left footed,Evanilson
+1,0.4476231336593628,Goal,76:01,Right footed,A. Gordon
+1,0.3115403950214386,Miss,69:50,Header,Joelinton
+1,0.2206396609544754,Miss,81:15,Header,D. Burn
+1,0.16114307940006256,Miss,66:22,Left footed,H. Barnes
+0,0.13059411942958832,Miss,78:43,Header,D. Ouattara
+0,0.12597569823265076,Miss,49:27,Left footed,A. Semenyo
+1,0.11939705908298492,Miss,69:21,Header,A. Isak
+1,0.09335371851921082,Miss,11:49,Right footed,A. Isak
+1,0.08090974390506744,Miss,72:55,Right footed,J. Willock
+1,0.0636182501912117,Miss,47:59,Header,D. Burn
+0,0.06083996221423149,Miss,78:05,Right footed,A. Semenyo
+0,0.05428570136427879,Miss,32:10,Left footed,M. Tavernier
+0,0.05382866784930229,Miss,18:43,Left footed,Evanilson
+0,0.047878917306661606,Miss,51:20,Left footed,Evanilson
+0,0.04746473953127861,Miss,90+1:25,Right footed,L. Sinisterra
+1,0.0472826212644577,Miss,48:28,Right footed,A. Isak
+1,0.04511299356818199,Miss,82:29,Right footed,Bruno Guimarães
+0,0.041774023324251175,Miss,33:16,Left footed,A. Semenyo
+0,0.03932449594140053,Miss,77:12,Right footed,A. Scott
+1,0.038647234439849854,Miss,10:37,Left footed,A. Isak
+0,0.035985011607408524,Miss,90+7:04,Left footed,A. Semenyo
+1,0.0287760142236948,Miss,90:01,Left footed,Bruno Guimarães
+0,0.028143810108304024,Miss,56:48,Header,J. Kluivert
+0,0.026165997609496117,Miss,52:52,Left footed,A. Semenyo
+0,0.01981731876730919,Miss,26:29,Left footed,A. Semenyo
+1,0.018986068665981293,Miss,7:36,Right footed,A. Gordon
+1,0.01766522042453289,Miss,47:10,Right footed,A. Isak
+0,0.016052139922976494,Miss,58:47,Right footed,A. Semenyo

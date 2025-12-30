@@ -1,0 +1,27 @@
+0,0.22470134496688843,Miss,36:17,Header,B. Saka
+0,0.15552835166454315,Miss,49:54,Right footed,K. Havertz
+0,0.1413487195968628,Goal,24:31,Header,K. Havertz
+0,0.11501521617174149,Miss,54:20,Header,Gabriel Magalhães
+0,0.08527950197458267,Miss,18:22,Right footed,D. Rice
+1,0.07873519510030746,Miss,35:12,Header,J. Strand Larsen
+0,0.0768316239118576,Miss,43:46,Right footed,Gabriel Martinelli
+1,0.0761990174651146,Miss,90+3:13,Left footed,Pablo Sarabia
+1,0.06946343183517456,Miss,28:10,Right footed,J. Bellegarde
+0,0.06703946739435196,Miss,58:54,Right footed,K. Havertz
+0,0.06023460254073143,Miss,79:06,Left footed,K. Havertz
+0,0.0571601465344429,Miss,57:59,Left footed,T. Partey
+1,0.056597571820020676,Miss,67:20,Left footed,Matheus Cunha
+1,0.05404273793101311,Miss,64:42,Right footed,Rodrigo Gomes
+1,0.04535791650414467,Miss,5:01,Right footed,M. Doherty
+0,0.045022256672382355,Miss,39:58,Left footed,B. Saka
+1,0.0378146693110466,Miss,90+5:06,Left footed,Daniel Podence
+0,0.035658229142427444,Miss,13:15,Right footed,B. White
+0,0.03403852880001068,Miss,17:53,Right footed,B. Saka
+1,0.03292250633239746,Miss,90+1:43,Header,M. Doherty
+0,0.03162664547562599,Miss,15:15,Right footed,B. White
+0,0.026279175654053688,Goal,73:05,Left footed,B. Saka
+0,0.023287074640393257,Miss,13:55,Left footed,K. Havertz
+0,0.022119294852018356,Miss,14:02,Left footed,B. Saka
+0,0.020901145413517952,Miss,70:07,Right footed,J. Timber
+1,0.01833532378077507,Miss,61:27,Left footed,R. Aït-Nouri
+0,0.015050368383526802,Miss,69:26,Left footed,M. Ødegaard

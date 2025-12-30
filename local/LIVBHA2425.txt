@@ -1,0 +1,29 @@
+1,0.3308473527431488,Miss,26:21,Left footed,G. Rutter
+0,0.2462412714958191,Miss,25:23,Right footed,Mohamed Salah
+0,0.22479888796806335,Miss,55:33,Left footed,Mohamed Salah
+0,0.2227351814508438,Miss,29:34,Header,I. Konaté
+0,0.16354528069496155,Miss,46:37,Header,J. Gomez
+1,0.16242536902427673,Miss,35:12,Right footed,F. Kadıoğlu
+0,0.14929068088531494,Miss,29:35,Left footed,I. Konaté
+0,0.13651837408542633,Miss,84:47,Header,J. Gomez
+0,0.10713730752468109,Miss,80:25,Left footed,C. Jones
+1,0.10211467742919922,Miss,40:39,Right footed,D. Welbeck
+1,0.07468356192111969,Miss,45:17,Right footed,D. Welbeck
+0,0.0674341693520546,Miss,8:52,Right footed,D. Núñez
+1,0.06617580354213715,Miss,72:41,Right footed,K. Mitoma
+0,0.05727419629693031,Goal,71:08,Left footed,Mohamed Salah
+0,0.05596688762307167,Miss,64:53,Right footed,C. Gakpo
+1,0.052788518369197845,Goal,13:56,Right footed,F. Kadıoğlu
+0,0.052748583257198334,Miss,67:22,Right footed,C. Jones
+0,0.04814387112855911,Miss,52:26,Header,A. Mac Allister
+1,0.04735589772462845,Miss,70:45,Right footed,D. Welbeck
+0,0.04611735790967941,Miss,80:45,Left footed,K. Tsimikas
+1,0.04400419816374779,Miss,88:24,Right footed,J. van Hecke
+1,0.04002858325839043,Miss,82:31,Right footed,K. Mitoma
+1,0.033768776804208755,Miss,21:50,Right footed,D. Welbeck
+0,0.03369113430380821,Miss,84:09,Right footed,R. Gravenberch
+1,0.03183949738740921,Miss,86:08,Header,M. Wieffer
+0,0.0285078976303339,Miss,45+1:32,Left footed,C. Gakpo
+1,0.016183121129870415,Miss,41:28,Right footed,Y. Ayari
+0,0.013710669241845608,Goal,69:01,Right footed,C. Gakpo
+1,0.006536267232149839,Miss,89:15,Left footed,G. Rutter

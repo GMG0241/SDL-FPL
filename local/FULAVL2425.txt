@@ -1,0 +1,24 @@
+0,0.7884,Miss,26:28,Right footed,Andreas Pereira
+1,0.519815981388092,Miss,41:56,Right footed,M. Rogers
+1,0.3341585099697113,Miss,17:13,Left footed,O. Watkins
+0,0.2633807361125946,Miss,45+3:52,Header,R. Jiménez
+0,0.26217448711395264,Miss,10:34,Header,R. Jiménez
+0,0.1542658805847168,Miss,90+8:18,Header,R. Jiménez
+1,0.12995149195194244,Miss,65:50,Left footed,L. Digne
+0,0.12762540578842163,Miss,1:58,Header,Andreas Pereira
+1,0.12166577577590942,Miss,58:27,Header,Pau Torres
+1,0.11002576351165771,Miss,75:04,Header,R. Barkley
+1,0.09253349155187607,Miss,12:02,Left footed,M. Rogers
+1,0.08027466386556625,Miss,57:56,Left footed,J. Ramsey
+1,0.07827311754226685,Goal,58:51,Header,O. Watkins
+0,0.057454392313957214,Goal,4:18,Left footed,R. Jiménez
+0,0.05386067554354668,Miss,85:17,Header,K. Tete
+1,0.050411470234394073,Miss,65:52,Left footed,L. Digne
+1,0.04213139787316322,Miss,66:48,Right footed,J. Philogene
+1,0.03922467678785324,Miss,90+1:53,Left footed,L. Digne
+1,0.038317177444696426,Goal,8:44,Right footed,M. Rogers
+0,0.028908444568514824,Miss,81:03,Header,I. Diop
+1,0.024622172117233276,Miss,21:31,Left footed,L. Bailey
+0,0.023866359144449234,Miss,62:09,Left footed,A. Robinson
+1,0.018463686108589172,Miss,90:22,Left footed,J. Durán
+0,0.017744990065693855,Miss,2:06,Left footed,K. Tete

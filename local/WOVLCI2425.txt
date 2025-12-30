@@ -1,0 +1,28 @@
+1,0.7884,Miss,71:08,Right footed,J. Vardy
+0,0.46687808632850647,Miss,51:41,Left footed,J. Strand Larsen
+0,0.27452579140663147,Goal,32:02,Right footed,Matheus Cunha
+0,0.16799476742744446,Miss,36:19,Right footed,J. Strand Larsen
+0,0.14712853729724884,Goal,84:34,Right footed,Rodrigo Gomes
+0,0.12919186055660248,Miss,81:29,Right footed,João Gomes
+1,0.10814739018678665,Miss,17:26,Header,C. Coady
+0,0.09535262733697891,Miss,89:14,Left footed,Pablo Sarabia
+0,0.0940294936299324,Miss,26:33,Right footed,Matheus Cunha
+0,0.08547104895114899,Miss,51:38,Right footed,Matheus Cunha
+0,0.08209310472011566,Miss,8:25,Right footed,André
+0,0.08202338218688965,Miss,90+4:47,Right footed,Gonçalo Guedes
+0,0.08184491842985153,Goal,55:02,Right footed,J. Strand Larsen
+0,0.062103066593408585,Miss,79:04,Right footed,Rodrigo Gomes
+1,0.05635979399085045,Miss,37:13,Right footed,F. Buonanotte
+1,0.0512770339846611,Miss,90+1:39,Left footed,J. Ayew
+1,0.044054724276065826,Miss,54:26,Right footed,B. El Khannouss
+0,0.04314778372645378,Miss,45+5:46,Right footed,Matheus Cunha
+0,0.04216083139181137,Miss,29:03,Header,J. Strand Larsen
+0,0.040803760290145874,Miss,5:19,Right footed,Matheus Cunha
+1,0.040560126304626465,Miss,37:10,Right footed,B. De Cordova-Reid
+0,0.03944102302193642,Miss,28:27,Left footed,R. Aït-Nouri
+1,0.031699635088443756,Miss,21:13,Header,J. Vardy
+0,0.031132102012634277,Miss,29:36,Right footed,R. Aït-Nouri
+1,0.026800960302352905,Miss,63:20,Right footed,O. Skipp
+0,0.02594280242919922,Miss,21:54,Right footed,Matheus Cunha
+0,0.02281189151108265,Miss,51:35,Left footed,R. Aït-Nouri
+0,0.008384762331843376,Miss,90+3:15,Right footed,E. Agbadou

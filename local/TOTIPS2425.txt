@@ -1,0 +1,25 @@
+1,0.8840990662574768,Goal,42:07,Left footed,L. Delap
+0,0.522648811340332,Miss,2:53,Right footed,B. Johnson
+1,0.22333376109600067,Miss,1:23,Right footed,S. Szmodics
+1,0.2016293853521347,Goal,30:44,Right footed,S. Szmodics
+0,0.16766056418418884,Miss,83:19,Left footed,T. Werner
+0,0.13806022703647614,Miss,90+4:55,Right footed,D. Solanke
+0,0.12560003995895386,Miss,18:48,Right footed,D. Solanke
+1,0.11246423423290253,Miss,8:23,Header,C. Burgess
+0,0.10943829268217087,Miss,48:12,Header,R. Bentancur
+0,0.10403922945261002,Goal,68:52,Header,R. Bentancur
+0,0.08033037185668945,Miss,73:31,Header,C. Romero
+1,0.07284734398126602,Miss,57:39,Right footed,O. Hutchinson
+0,0.0690823495388031,Miss,9:41,Right footed,D. Solanke
+1,0.06607071310281754,Miss,1:58,Header,D. O'Shea
+0,0.04183831065893173,Miss,8:42,Right footed,B. Johnson
+1,0.038289204239845276,Miss,16:36,Left footed,L. Davis
+0,0.035548772662878036,Miss,9:39,Right footed,R. Bentancur
+0,0.032070524990558624,Miss,56:38,Right footed,D. Solanke
+0,0.03193507716059685,Miss,47:24,Right footed,Son Heung-Min
+0,0.03156186267733574,Miss,73:34,Left footed,B. Johnson
+1,0.023638194426894188,Miss,86:27,Right footed,J. Clarke
+0,0.022325286641716957,Miss,60:53,Right footed,Son Heung-Min
+0,0.02144806645810604,Miss,10:27,Right footed,Son Heung-Min
+0,0.013204182498157024,Miss,72:39,Right footed,T. Werner
+0,0.007088087033480406,Miss,71:29,Right footed,Son Heung-Min

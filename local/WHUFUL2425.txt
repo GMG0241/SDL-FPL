@@ -1,0 +1,25 @@
+0,0.4980366826057434,Goal,66:08,Left footed,Lucas Paquetá
+1,0.37559154629707336,Miss,90:46,Right footed,S. Lukić
+1,0.3540845215320587,Miss,35:58,Header,R. Jiménez
+0,0.3067871928215027,Goal,32:31,Right footed,T. Souček
+1,0.19511723518371582,Miss,90:35,Header,J. King
+1,0.17226825654506683,Miss,90:48,Left footed,Adama Traoré
+1,0.1306942105293274,Miss,60:45,Right footed,Andreas Pereira
+1,0.11591354757547379,Miss,5:22,Left footed,H. Wilson
+1,0.09366784244775772,Miss,70:42,Right footed,H. Wilson
+1,0.09141804277896881,Miss,90:34,Header,R. Jiménez
+1,0.08669017255306244,Miss,79:04,Right footed,R. Jiménez
+0,0.08045241236686707,Miss,90+2:26,Header,Lucas Paquetá
+0,0.06719180196523666,Goal,30:20,Right footed,Carlos Soler
+1,0.05590387433767319,Miss,17:24,Left footed,E. Smith Rowe
+1,0.05376444384455681,Miss,16:31,Right footed,E. Smith Rowe
+1,0.035587430000305176,Miss,23:54,Left footed,A. Robinson
+1,0.03371671587228775,Miss,73:25,Header,Adama Traoré
+1,0.031507980078458786,Miss,51:33,Left footed,H. Wilson
+1,0.028954969719052315,Miss,57:42,Right footed,S. Lukić
+1,0.024347463622689247,Goal,77:16,Right footed,A. Iwobi
+1,0.020648669451475143,Miss,11:14,Left footed,H. Wilson
+1,0.020573079586029053,Miss,18:57,Right footed,R. Jiménez
+1,0.018698396161198616,Miss,45+3:08,Right footed,Andreas Pereira
+1,0.015353715978562832,Goal,50:24,Right footed,A. Iwobi
+1,0.014540818519890308,Miss,81:14,Left footed,A. Iwobi

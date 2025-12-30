@@ -1,0 +1,36 @@
+1,0.7095339298248291,Miss,27:02,Right footed,Mateus Fernandes
+0,0.707253098487854,Miss,58:44,Right footed,Antony
+0,0.676607608795166,Goal,90+3:09,Right footed,A. Diallo
+0,0.27267903089523315,Goal,81:02,Right footed,A. Diallo
+0,0.2657265365123749,Goal,89:09,Left footed,A. Diallo
+0,0.2233470231294632,Miss,78:52,Right footed,Bruno Fernandes
+0,0.2216852754354477,Miss,21:34,Right footed,R. Højlund
+0,0.16363100707530975,Miss,24:36,Right footed,A. Garnacho
+1,0.1318349987268448,Miss,33:38,Right footed,K. Sulemana
+0,0.11687751859426498,Miss,70:59,Left footed,A. Diallo
+1,0.10834240913391113,Miss,50:43,Right footed,K. Sulemana
+1,0.10327275842428207,Miss,57:18,Right footed,K. Sulemana
+0,0.10197173804044724,Miss,19:30,Right footed,A. Garnacho
+0,0.0876096785068512,Miss,60:31,Right footed,A. Garnacho
+0,0.0814252495765686,Miss,24:34,Left footed,A. Garnacho
+1,0.07901108264923096,Miss,43:49,Left footed,T. Dibling
+0,0.0756162479519844,Miss,37:00,Left footed,Bruno Fernandes
+1,0.0751883015036583,Miss,53:36,Right footed,Mateus Fernandes
+1,0.07169798761606216,Miss,27:42,Left footed,J. Aribo
+1,0.06380021572113037,Miss,27:00,Left footed,T. Dibling
+0,0.06274620443582535,Miss,16:10,Right footed,Bruno Fernandes
+0,0.06007498875260353,Miss,45:52,Left footed,Antony
+0,0.058582939207553864,Miss,45:08,Left footed,Bruno Fernandes
+1,0.056842003017663956,Miss,11:53,Right footed,K. Sulemana
+1,0.04856966808438301,Miss,29:52,Left footed,T. Dibling
+0,0.04318634793162346,Miss,90+5:31,Right footed,A. Garnacho
+0,0.03622416779398918,Miss,47:02,Right footed,M. de Ligt
+1,0.03427903354167938,Miss,15:18,Left footed,Mateus Fernandes
+0,0.02959958277642727,Miss,23:15,Right footed,A. Diallo
+0,0.028983676806092262,Miss,77:41,Right footed,A. Garnacho
+0,0.028436897322535515,Miss,81:00,Left footed,A. Diallo
+1,0.028017841279506683,Miss,90+1:58,Header,T. Harwood-Bellis
+0,0.02567555010318756,Miss,63:41,Right footed,J. Zirkzee
+1,0.02483014017343521,Miss,78:17,Right footed,A. Armstrong
+0,0.024572303518652916,Miss,35:17,Right footed,Bruno Fernandes
+0,0.023165153339505196,Miss,18:24,Right footed,A. Garnacho

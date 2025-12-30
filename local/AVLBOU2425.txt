@@ -1,0 +1,28 @@
+0,0.3156500458717346,Miss,51:22,Left footed,R. Barkley
+0,0.21779803931713104,Miss,73:02,Left footed,J. Durán
+0,0.19937843084335327,Goal,75:57,Right footed,R. Barkley
+0,0.17471784353256226,Miss,14:43,Header,O. Watkins
+0,0.15033964812755585,Miss,22:16,Header,A. Onana
+0,0.10678926110267639,Miss,5:09,Right footed,O. Watkins
+0,0.09279400110244751,Miss,13:46,Left footed,Y. Tielemans
+0,0.08106731623411179,Miss,6:05,Right footed,M. Rogers
+0,0.07674139738082886,Miss,51:04,Left footed,Y. Tielemans
+1,0.06922226399183273,Miss,25:19,Header,E. Ünal
+0,0.06713154166936874,Miss,46:41,Right footed,Y. Tielemans
+0,0.0668049231171608,Miss,39:37,Right footed,E. Konsa
+0,0.06420193612575531,Miss,62:05,Header,O. Watkins
+0,0.061648979783058167,Miss,65:57,Left footed,J. Durán
+0,0.06146315857768059,Miss,22:47,Header,A. Onana
+1,0.042322877794504166,Miss,83:56,Left footed,M. Tavernier
+1,0.0372556634247303,Goal,90+5:44,Header,Evanilson
+1,0.029960455372929573,Miss,45+1:42,Left footed,D. Ouattara
+1,0.0263106357306242,Miss,42:14,Header,E. Ünal
+0,0.02592093124985695,Miss,61:10,Left footed,Pau Torres
+0,0.025141295045614243,Miss,39:59,Header,Pau Torres
+1,0.024905432015657425,Miss,86:08,Right footed,A. Semenyo
+1,0.022911498323082924,Miss,37:45,Right footed,J. Kluivert
+1,0.01880134828388691,Miss,77:56,Right footed,M. Kerkez
+1,0.01726337894797325,Miss,32:02,Right footed,J. Kluivert
+1,0.016860967501997948,Miss,19:56,Left footed,D. Ouattara
+0,0.012992925941944122,Miss,63:09,Left footed,J. Durán
+0,0.012103212997317314,Miss,49:25,Right footed,Y. Tielemans

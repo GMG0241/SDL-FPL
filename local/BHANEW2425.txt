@@ -1,0 +1,18 @@
+1,0.7884,Goal,88:35,Right footed,A. Isak
+0,0.28171804547309875,Miss,90+4:20,Header,D. Gómez
+1,0.18710362911224365,Miss,85:24,Right footed,F. Schär
+0,0.12553727626800537,Goal,27:51,Left footed,Y. Minteh
+0,0.1236572340130806,Miss,79:12,Right footed,P. Estupiñán
+1,0.11905606091022491,Miss,67:05,Right footed,A. Isak
+1,0.11657582223415375,Miss,63:04,Left footed,H. Barnes
+1,0.10782435536384583,Miss,26:06,Right footed,J. Willock
+1,0.09990785270929337,Miss,54:19,Right footed,J. Murphy
+1,0.0789535716176033,Miss,36:41,Left footed,Bruno Guimarães
+1,0.06875848025083542,Miss,59:40,Left footed,F. Schär
+0,0.06808003783226013,Miss,79:02,Left footed,Y. Minteh
+1,0.05172338709235191,Miss,10:56,Left footed,H. Barnes
+1,0.04261491447687149,Miss,80:19,Right footed,A. Gordon
+1,0.042410142719745636,Miss,59:37,Right footed,S. Tonali
+1,0.023940514773130417,Miss,34:19,Right footed,H. Barnes
+1,0.022461622953414917,Miss,90+5:13,Right footed,C. Wilson
+0,0.02108595333993435,Miss,12:24,Left footed,C. Baleba

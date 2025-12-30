@@ -1,0 +1,31 @@
+0,0.45568597316741943,Miss,32:17,Right footed,A. Isak
+1,0.3607495129108429,Goal,34:08,Right footed,D. Welbeck
+0,0.2854745388031006,Miss,65:28,Right footed,Joelinton
+0,0.22505967319011688,Miss,52:21,Header,A. Gordon
+0,0.20101772248744965,Miss,73:43,Right footed,A. Gordon
+1,0.1915672868490219,Miss,71:55,Right footed,F. Kadıoğlu
+0,0.1489894986152649,Miss,11:19,Left footed,A. Isak
+1,0.14324672520160675,Miss,83:13,Left footed,K. Mitoma
+1,0.1371617615222931,Miss,90+1:08,Right footed,M. Wieffer
+0,0.13445456326007843,Miss,64:15,Left footed,Joelinton
+0,0.10242702066898346,Miss,30:31,Header,Joelinton
+1,0.09079527854919434,Miss,48:03,Right footed,L. Dunk
+1,0.06897004693746567,Miss,90+1:15,Right footed,K. Mitoma
+1,0.05981453135609627,Miss,51:40,Left footed,D. Welbeck
+0,0.05207494646310806,Miss,64:18,Right footed,Joelinton
+0,0.05200253054499626,Miss,67:02,Right footed,A. Isak
+0,0.05181333050131798,Miss,90+10:21,Right footed,A. Isak
+0,0.05170435085892677,Miss,62:56,Right footed,A. Isak
+1,0.04770611971616745,Miss,45:40,Left footed,Igor Julio
+0,0.03672235831618309,Miss,24:08,Right footed,F. Schär
+0,0.0327787846326828,Miss,16:50,Right footed,A. Gordon
+0,0.032042667269706726,Miss,68:45,Right footed,H. Barnes
+0,0.02887915074825287,Miss,63:57,Right footed,J. Murphy
+0,0.028486769646406174,Miss,16:56,Right footed,Bruno Guimarães
+0,0.028094416484236717,Miss,40:08,Right footed,A. Gordon
+0,0.024611564353108406,Miss,64:12,Right footed,A. Isak
+0,0.02204936183989048,Miss,89:22,Header,A. Isak
+0,0.01862698420882225,Miss,55:29,Right footed,Bruno Guimarães
+1,0.011219961568713188,Miss,90+6:19,Left footed,J. Enciso
+1,0.010704997926950455,Miss,45:39,Header,J. Hinshelwood
+0,0.007662498392164707,Miss,16:28,Left footed,J. Murphy

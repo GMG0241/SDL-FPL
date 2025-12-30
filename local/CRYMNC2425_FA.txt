@@ -1,0 +1,30 @@
+1,0.7884,Miss,35:18,Right footed,Omar Marmoush
+1,0.22009839117527008,Miss,5:54,Left footed,E. Haaland
+0,0.18318374454975128,Miss,19:18,Right footed,I. Sarr
+1,0.1384078711271286,Miss,42:31,Right footed,K. De Bruyne
+1,0.13773107528686523,Miss,13:29,Header,M. Akanji
+1,0.13254386186599731,Miss,45:44,Right footed,J. Doku
+0,0.13067419826984406,Miss,49:46,Left footed,A. Wharton
+0,0.1240057498216629,Miss,49:45,Right footed,E. Eze
+1,0.09366662800312042,Miss,81:42,Left footed,C. Echeverri
+0,0.08708573877811432,Goal,15:43,Right footed,E. Eze
+1,0.08294989913702011,Miss,81:41,Right footed,C. Echeverri
+1,0.07588567584753036,Miss,55:40,Left footed,Bernardo Silva
+1,0.0702902153134346,Miss,11:06,Header,J. Gvardiol
+1,0.05998759716749191,Miss,90+5:31,Right footed,C. Echeverri
+0,0.05723832920193672,Miss,57:44,Left footed,D. Muñoz
+1,0.055333491414785385,Miss,48:17,Right footed,J. Doku
+1,0.0536695159971714,Miss,90+2:07,Right footed,K. De Bruyne
+0,0.05182211473584175,Miss,85:50,Right footed,D. Muñoz
+1,0.04972519725561142,Miss,71:15,Left footed,K. De Bruyne
+1,0.04782572388648987,Miss,18:13,Right footed,Omar Marmoush
+1,0.044478639960289,Miss,90+5:46,Right footed,C. Echeverri
+1,0.042039163410663605,Miss,37:50,Left footed,J. Doku
+1,0.038841843605041504,Miss,56:19,Left footed,E. Haaland
+1,0.037314124405384064,Miss,71:41,Right footed,K. De Bruyne
+1,0.03617927059531212,Miss,90+9:34,Left footed,J. Doku
+0,0.0355694405734539,Miss,27:34,Left footed,A. Wharton
+1,0.03467419743537903,Miss,42:26,Right footed,J. Doku
+1,0.030828922986984253,Miss,90+3:10,Right footed,C. Echeverri
+1,0.022711830213665962,Miss,80:32,Header,E. Haaland
+1,0.016212429851293564,Miss,74:23,Right footed,Omar Marmoush

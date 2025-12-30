@@ -1,0 +1,40 @@
+0,0.8855826258659363,Goal,90+8:35,Other body part,K. Havertz
+0,0.5974020957946777,Goal,45:43,Right footed,L. Trossard
+0,0.5882205963134766,Miss,68:00,Right footed,K. Havertz
+0,0.3712485134601593,Miss,52:05,Header,R. Calafiori
+0,0.2645590007305145,Miss,57:12,Left footed,L. Trossard
+0,0.19935300946235657,Goal,19:10,Right footed,Gabriel Martinelli
+0,0.17092560231685638,Miss,52:07,Left footed,J. Timber
+0,0.16417789459228516,Miss,73:04,Right footed,L. Trossard
+1,0.14470522105693817,Miss,62:00,Left footed,F. Buonanotte
+0,0.12276937067508698,Miss,88:37,Header,K. Havertz
+0,0.11886735260486603,Miss,52:03,Header,Gabriel Magalhães
+0,0.11864857375621796,Miss,45+2:54,Header,K. Havertz
+0,0.11702009290456772,Miss,72:16,Header,Gabriel Magalhães
+0,0.10546227544546127,Miss,90+8:32,Right footed,Gabriel Jesus
+0,0.08722348511219025,Miss,87:17,Header,R. Calafiori
+0,0.08100873976945877,Miss,67:57,Left footed,B. Saka
+0,0.07994353026151657,Miss,66:51,Left footed,L. Trossard
+0,0.07334545254707336,Miss,66:48,Header,K. Havertz
+0,0.07001610100269318,Miss,57:11,Left footed,B. Saka
+0,0.06850548833608627,Miss,15:07,Left footed,Gabriel Martinelli
+1,0.06575904786586761,Miss,4:45,Right footed,J. Justin
+0,0.06555479764938354,Miss,33:55,Right footed,Gabriel Martinelli
+0,0.053961727768182755,Miss,36:24,Header,K. Havertz
+1,0.05343843996524811,Goal,62:46,Right footed,J. Justin
+0,0.052468083798885345,Miss,24:25,Left footed,Gabriel Martinelli
+0,0.045960210263729095,Miss,54:44,Left footed,K. Havertz
+0,0.040978316217660904,Miss,26:09,Left footed,B. Saka
+0,0.03799385949969292,Miss,74:11,Left footed,Gabriel Magalhães
+0,0.03426004946231842,Miss,12:30,Right footed,J. Timber
+0,0.03178492933511734,Miss,86:24,Left footed,B. Saka
+1,0.030746515840291977,Miss,60:44,Left footed,F. Buonanotte
+0,0.02937813103199005,Miss,33:35,Right footed,D. Rice
+1,0.028262989595532417,Goal,46:07,Header,J. Justin
+0,0.027239413931965828,Miss,55:45,Right footed,B. Saka
+0,0.02123926766216755,Miss,85:05,Left footed,E. Nwaneri
+0,0.021023180335760117,Miss,90+2:05,Right footed,D. Rice
+0,0.019108377397060394,Miss,24:04,Left footed,R. Calafiori
+0,0.017266452312469482,Miss,53:24,Right footed,B. Saka
+0,0.01719086617231369,Miss,14:33,Left footed,B. Saka
+0,0.013204052112996578,Miss,72:39,Right footed,D. Rice

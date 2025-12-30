@@ -1,0 +1,21 @@
+0,0.25432899594306946,Miss,13:54,Left footed,Lucas Paquetá
+1,0.23983031511306763,Miss,90+2:41,Left footed,M. Kudus
+0,0.20160336792469025,Miss,52:47,Header,M. Kilman
+1,0.15305683016777039,Miss,37:15,Header,P. Sarr
+1,0.12560130655765533,Goal,46:39,Header,P. Sarr
+1,0.11157041043043137,Miss,90:51,Right footed,M. Kudus
+1,0.11087419092655182,Miss,59:02,Header,João Palhinha
+1,0.10035987943410873,Goal,56:01,Header,L. Bergvall
+1,0.08679278194904327,Goal,63:20,Right footed,M. van de Ven
+1,0.07398233562707901,Miss,90+4:16,Header,João Palhinha
+1,0.06723633408546448,Miss,42:04,Left footed,C. Romero
+0,0.06422120332717896,Miss,48:35,Left footed,J. Bowen
+1,0.055905088782310486,Miss,66:56,Left footed,M. Kudus
+0,0.03191836550831795,Miss,68:32,Left footed,J. Bowen
+1,0.03055785782635212,Miss,17:17,Right footed,X. Simons
+1,0.024775518104434013,Miss,73:40,Right footed,João Palhinha
+0,0.020839951932430267,Miss,45:15,Left footed,J. Bowen
+1,0.019010288640856743,Miss,0:46,Right footed,M. Kudus
+1,0.017332714051008224,Miss,50:38,Right footed,M. Tel
+0,0.01342827919870615,Miss,21:22,Header,T. Souček
+0,0.012898404151201248,Miss,49:18,Header,E. Diouf

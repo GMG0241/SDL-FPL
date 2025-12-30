@@ -1,0 +1,14 @@
+0,0.5528327822685242,Goal,83:03,Left footed,J. McAtee
+1,0.4130728244781494,Miss,59:04,Left footed,L. Miley
+0,0.35383298993110657,Goal,18:27,Right footed,Omar Marmoush
+0,0.3354252874851227,Miss,27:31,Left footed,Savinho
+0,0.22589248418807983,Goal,32:20,Right footed,Omar Marmoush
+0,0.10099504142999649,Miss,56:00,Header,E. Haaland
+0,0.08120659738779068,Goal,23:20,Right footed,Omar Marmoush
+0,0.06804657727479935,Miss,40:23,Header,E. Haaland
+0,0.06730427592992783,Miss,82:15,Left footed,Savinho
+0,0.0452946238219738,Miss,54:34,Left footed,Savinho
+0,0.04470318183302879,Miss,15:40,Left footed,Omar Marmoush
+1,0.036181677132844925,Miss,29:31,Right footed,A. Isak
+1,0.033462975174188614,Miss,38:23,Header,Bruno Guimarães
+0,0.028556780889630318,Miss,58:14,Left footed,P. Foden

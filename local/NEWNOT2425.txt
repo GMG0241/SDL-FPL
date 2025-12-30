@@ -1,0 +1,30 @@
+0,0.9793639779090881,Goal,24:44,Right footed,J. Murphy
+0,0.7884,Goal,32:04,Right footed,A. Isak
+1,0.7559722661972046,Miss,53:09,Right footed,A. Elanga
+1,0.38766899704933167,Goal,89:50,Right footed,R. Yates
+0,0.3852393329143524,Miss,18:28,Left footed,A. Gordon
+1,0.3165556788444519,Goal,62:47,Right footed,N. Milenković
+0,0.28720125555992126,Miss,44:41,Right footed,J. Murphy
+1,0.1556752622127533,Miss,45:46,Left footed,M. Gibbs-White
+1,0.14809755980968475,Miss,89:49,Right footed,M. Gibbs-White
+0,0.14653541147708893,Goal,33:55,Left footed,A. Isak
+0,0.08606451749801636,Goal,22:06,Left footed,L. Miley
+0,0.0842084139585495,Miss,21:56,Header,Bruno Guimarães
+1,0.07970494031906128,Miss,61:59,Right footed,E. Anderson
+0,0.07795058935880661,Miss,9:41,Right footed,L. Miley
+0,0.06771993637084961,Miss,48:01,Header,F. Schär
+0,0.06337346136569977,Miss,44:44,Right footed,A. Gordon
+1,0.05561232939362526,Miss,78:08,Header,Murillo
+1,0.05141962692141533,Miss,84:41,Header,N. Milenković
+1,0.05070123076438904,Miss,67:39,Right footed,E. Anderson
+0,0.04102269560098648,Miss,90+4:05,Right footed,C. Wilson
+0,0.035697996616363525,Miss,45+4:40,Left footed,A. Isak
+1,0.034083664417266846,Miss,90+1:17,Header,R. Yates
+0,0.028436897322535515,Miss,82:08,Left footed,H. Barnes
+1,0.027440145611763,Miss,68:08,Right footed,E. Anderson
+1,0.025393949821591377,Miss,24:24,Right footed,C. Hudson-Odoi
+1,0.02370270900428295,Goal,5:41,Right footed,C. Hudson-Odoi
+1,0.02185455895960331,Miss,45+2:57,Right footed,M. Gibbs-White
+1,0.02142820507287979,Miss,45:45,Header,C. Wood
+1,0.015756502747535706,Miss,56:53,Right footed,M. Gibbs-White
+1,0.009312550537288189,Miss,90+3:45,Right footed,O. Aina

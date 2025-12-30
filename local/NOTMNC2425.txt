@@ -1,0 +1,23 @@
+0,0.2132008671760559,Miss,84:47,Right footed,C. Wood
+1,0.15705253183841705,Miss,30:11,Left footed,P. Foden
+1,0.1392006129026413,Miss,34:06,Left footed,Bernardo Silva
+0,0.12067708373069763,Miss,63:52,Left footed,M. Gibbs-White
+0,0.1179732009768486,Miss,32:49,Right footed,M. Gibbs-White
+1,0.10261054337024689,Miss,14:03,Left footed,E. Haaland
+0,0.07894826680421829,Miss,38:51,Left footed,M. Gibbs-White
+1,0.0746418759226799,Miss,64:50,Left footed,Savinho
+1,0.07000433653593063,Miss,90:45,Right footed,M. Kovačić
+1,0.06423579156398773,Miss,71:16,Left footed,K. De Bruyne
+0,0.05757564306259155,Goal,82:33,Right footed,C. Hudson-Odoi
+1,0.04971054196357727,Miss,6:59,Right footed,E. Haaland
+1,0.04319669306278229,Miss,77:04,Right footed,K. De Bruyne
+0,0.04192298650741577,Miss,46:48,Right footed,N. Domínguez
+0,0.04075666144490242,Miss,42:52,Left footed,C. Wood
+1,0.03911793604493141,Miss,63:04,Right footed,Rúben Dias
+1,0.03579491004347801,Miss,24:11,Right footed,Nico González
+1,0.03474247455596924,Miss,41:59,Right footed,J. Doku
+0,0.03264235705137253,Miss,66:02,Right footed,C. Hudson-Odoi
+1,0.027807941660284996,Miss,67:18,Left footed,J. Doku
+0,0.022603554651141167,Miss,51:49,Header,M. Gibbs-White
+1,0.013085457496345043,Miss,55:39,Left footed,Bernardo Silva
+1,0.012137453071773052,Miss,13:09,Right footed,Nico González

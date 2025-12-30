@@ -1,0 +1,28 @@
+0,0.4834822118282318,Goal,17:50,Left footed,E. Smith Rowe
+1,0.2011711150407791,Goal,37:42,Header,W. Faes
+0,0.1971226930618286,Miss,4:46,Header,Rodrigo Muniz
+0,0.16492946445941925,Goal,69:29,Left footed,A. Iwobi
+0,0.1311105340719223,Miss,55:54,Header,K. Tete
+0,0.12843486666679382,Miss,48:09,Right footed,Rodrigo Muniz
+0,0.12249462306499481,Miss,24:46,Left footed,Adama Traoré
+1,0.09483740478754044,Miss,90+2:48,Right footed,W. Ndidi
+1,0.09187833219766617,Miss,9:45,Header,W. Faes
+1,0.08895951509475708,Miss,78:45,Right footed,J. Ayew
+0,0.08784128725528717,Miss,43:04,Header,Rodrigo Muniz
+0,0.07296651601791382,Miss,60:43,Right footed,Rodrigo Muniz
+0,0.06235964968800545,Miss,20:05,Header,Rodrigo Muniz
+0,0.05840055271983147,Miss,21:31,Left footed,K. Tete
+0,0.0497090108692646,Miss,7:28,Right footed,A. Iwobi
+0,0.04499659687280655,Miss,3:19,Left footed,Adama Traoré
+0,0.04193367436528206,Miss,4:01,Right footed,E. Smith Rowe
+0,0.0415872260928154,Miss,50:13,Right footed,Adama Traoré
+0,0.041418734937906265,Miss,74:52,Right footed,Andreas Pereira
+1,0.04105295240879059,Miss,90:24,Header,W. Faes
+1,0.033690083771944046,Miss,72:01,Left footed,A. Fatawu
+1,0.022372480481863022,Miss,8:59,Right footed,B. De Cordova-Reid
+0,0.0192571971565485,Miss,23:32,Right footed,Andreas Pereira
+0,0.01686832867562771,Miss,50:49,Header,Rodrigo Muniz
+1,0.014381085522472858,Miss,81:55,Left footed,A. Fatawu
+0,0.011729207821190357,Miss,65:33,Header,Rodrigo Muniz
+1,0.011476962827146053,Miss,12:20,Left footed,A. Fatawu
+1,0.008178219199180603,Miss,33:57,Header,J. Vestergaard

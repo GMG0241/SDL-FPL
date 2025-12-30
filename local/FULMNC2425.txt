@@ -1,0 +1,33 @@
+1,0.7884,Goal,71:59,Left footed,E. Haaland
+0,0.5130759477615356,Miss,42:46,Left footed,Andreas Pereira
+1,0.47771409153938293,Goal,20:27,Right footed,İ. Gündoğan
+1,0.4078748822212219,Miss,53:13,Header,M. Akanji
+0,0.28890466690063477,Miss,90+4:28,Left footed,S. Berge
+1,0.18114566802978516,Miss,20:26,Right footed,Matheus Nunes
+0,0.18042334914207458,Miss,25:45,Right footed,Adama Traoré
+0,0.1708688735961914,Miss,51:50,Left footed,Andreas Pereira
+1,0.16707779467105865,Miss,44:46,Right footed,J. Doku
+1,0.16144251823425293,Miss,48:35,Header,J. Gvardiol
+1,0.12583260238170624,Miss,40:13,Right footed,Omar Marmoush
+0,0.1231645867228508,Miss,65:42,Left footed,R. Jiménez
+1,0.12056189775466919,Miss,59:17,Header,E. Haaland
+1,0.10475731641054153,Miss,40:15,Right footed,Nico González
+0,0.09696944802999496,Miss,35:01,Left footed,T. Cairney
+0,0.09487539529800415,Miss,35:06,Left footed,T. Cairney
+1,0.08900469541549683,Miss,45:28,Right footed,Omar Marmoush
+0,0.08354460448026657,Miss,90+5:41,Right footed,R. Jiménez
+0,0.062082018703222275,Miss,25:42,Left footed,H. Wilson
+0,0.06002361327409744,Miss,42:43,Left footed,H. Wilson
+0,0.0560164749622345,Miss,88:22,Right footed,K. Tete
+1,0.047903694212436676,Miss,5:41,Right footed,Omar Marmoush
+1,0.0455295667052269,Miss,28:01,Right footed,Omar Marmoush
+1,0.0422072634100914,Miss,46:04,Left footed,J. Doku
+1,0.042111773043870926,Miss,33:10,Right footed,J. Doku
+1,0.034374091774225235,Miss,75:16,Left footed,E. Haaland
+0,0.03369883447885513,Miss,80:17,Header,J. King
+1,0.02738295868039131,Miss,24:35,Right footed,Omar Marmoush
+1,0.02120797522366047,Miss,54:45,Left footed,E. Haaland
+0,0.018057938665151596,Miss,90+1:02,Right footed,A. Iwobi
+1,0.01771422289311886,Miss,52:21,Right footed,J. Doku
+1,0.011834641918540001,Miss,39:28,Right footed,Omar Marmoush
+1,0.011319105513393879,Miss,7:59,Right footed,J. Doku

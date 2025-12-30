@@ -1,0 +1,30 @@
+0,0.5014870762825012,Miss,23:06,Header,M. Gusto
+1,0.4373691976070404,Miss,90+5:12,Right footed,L. Trossard
+0,0.3604380190372467,Miss,52:04,Right footed,W. Fofana
+1,0.28560870885849,Miss,26:37,Left footed,Gabriel Martinelli
+1,0.2365647852420807,Miss,9:23,Right footed,T. Partey
+1,0.2339225858449936,Goal,59:19,Right footed,Gabriel Martinelli
+0,0.16908417642116547,Miss,18:57,Header,N. Madueke
+1,0.10092221200466156,Miss,73:25,Header,Mikel Merino
+0,0.07700986415147781,Miss,26:55,Left footed,N. Madueke
+1,0.057819925248622894,Miss,86:27,Left footed,M. Ødegaard
+0,0.055022455751895905,Miss,82:50,Header,N. Jackson
+1,0.05420224741101265,Miss,65:01,Left footed,M. Ødegaard
+0,0.05417370796203613,Miss,45+2:18,Left footed,C. Palmer
+0,0.05336356908082962,Miss,54:21,Left footed,M. Gusto
+0,0.052504606544971466,Miss,44:55,Left footed,C. Palmer
+0,0.042576681822538376,Miss,5:06,Right footed,M. Gusto
+1,0.03626056760549545,Miss,65:22,Right footed,J. Timber
+0,0.0354008786380291,Miss,39:22,Left footed,C. Palmer
+0,0.02794823795557022,Miss,69:09,Header,N. Jackson
+1,0.027859684079885483,Miss,78:20,Right footed,L. Trossard
+0,0.02450963668525219,Goal,69:30,Left footed,Pedro Neto
+1,0.022428253665566444,Miss,50:29,Right footed,Gabriel Martinelli
+1,0.02165153995156288,Miss,9:33,Right footed,B. White
+1,0.020853791385889053,Miss,26:35,Left footed,B. Saka
+0,0.019536631181836128,Miss,48:15,Left footed,N. Madueke
+0,0.01786702126264572,Miss,76:23,Left footed,Pedro Neto
+0,0.017733333632349968,Miss,2:22,Left footed,C. Palmer
+0,0.016939552500844002,Miss,68:56,Left footed,Pedro Neto
+0,0.014693164266645908,Miss,10:26,Left footed,N. Madueke
+1,0.012103396467864513,Miss,13:51,Left footed,B. Saka

@@ -1,0 +1,21 @@
+1,0.7884,Miss,64:06,Right footed,P. Zieliński
+1,0.6749354600906372,Goal,37:31,Right footed,M. Thuram
+0,0.27198338508605957,Miss,55:24,Right footed,J. Moder
+1,0.13642753660678864,Miss,90+4:44,Header,A. Bastoni
+1,0.11170528084039688,Miss,49:05,Left footed,P. Zieliński
+1,0.08663144707679749,Goal,49:09,Right footed,L. Martínez
+1,0.07823801785707474,Miss,39:24,Right footed,L. Martínez
+1,0.07094916701316833,Miss,57:40,Header,L. Martínez
+1,0.06723374128341675,Miss,10:39,Right footed,L. Martínez
+1,0.06249157339334488,Miss,45+2:02,Right footed,K. Asllani
+1,0.060267794877290726,Miss,34:53,Left footed,F. Acerbi
+0,0.059713080525398254,Miss,79:41,Header,D. Hancko
+1,0.05681838467717171,Miss,65:27,Right footed,D. Dumfries
+1,0.03265061601996422,Miss,75:31,Header,D. Frattesi
+0,0.027522070333361626,Miss,45:04,Header,J. Carranza
+0,0.025355547666549683,Miss,2:29,Left footed,I. Osman
+0,0.023574266582727432,Miss,10:53,Left footed,I. Osman
+1,0.02269015833735466,Miss,29:54,Right footed,D. Dumfries
+0,0.016409404575824738,Miss,21:08,Right footed,I. Osman
+0,0.010763050988316536,Miss,31:14,Right footed,J. Moder
+0,0.009950332343578339,Miss,26:07,Left footed,D. Hancko

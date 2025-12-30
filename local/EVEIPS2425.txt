@@ -1,0 +1,20 @@
+1,0.2794362008571625,Goal,78:27,Header,G. Hirst
+0,0.18762212991714478,Goal,25:46,Header,Beto
+1,0.1305197775363922,Miss,14:30,Right footed,L. Delap
+1,0.11301519721746445,Miss,38:21,Right footed,J. Enciso
+0,0.10987377911806107,Miss,7:13,Header,Beto
+1,0.08412881940603256,Miss,75:53,Right footed,J. Enciso
+0,0.0684194266796112,Miss,38:03,Header,Beto
+0,0.055771853774785995,Miss,13:43,Header,Beto
+1,0.055157363414764404,Miss,57:27,Right footed,J. Enciso
+0,0.04561295360326767,Miss,88:34,Header,D. Calvert-Lewin
+1,0.04143357276916504,Miss,3:36,Right footed,L. Delap
+1,0.03695341572165489,Miss,19:54,Left footed,O. Hutchinson
+1,0.03652859851717949,Miss,36:26,Left footed,J. Enciso
+0,0.031087642535567284,Miss,24:50,Right footed,I. Ndiaye
+0,0.030250409618020058,Goal,34:29,Left footed,D. McNeil
+0,0.02528139017522335,Miss,11:11,Right footed,Beto
+1,0.022221196442842484,Miss,43:14,Header,D. O'Shea
+1,0.019365273416042328,Goal,40:43,Right footed,J. Enciso
+1,0.018293440341949463,Miss,19:59,Right footed,J. Enciso
+1,0.012047166004776955,Miss,90:21,Right footed,K. Phillips

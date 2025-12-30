@@ -1,0 +1,30 @@
+0,0.8980767726898193,Miss,48:21,Right footed,N. Jackson
+0,0.7884,Goal,27:29,Left footed,C. Palmer
+0,0.6098222732543945,Miss,18:12,Left footed,C. Palmer
+0,0.5423402190208435,Miss,55:27,Right footed,C. Palmer
+1,0.265304297208786,Goal,33:05,Right footed,C. Baleba
+1,0.2404889315366745,Miss,43:35,Right footed,D. Welbeck
+0,0.23178328573703766,Miss,37:25,Left footed,N. Madueke
+0,0.22148741781711578,Goal,20:31,Left footed,C. Palmer
+0,0.18338394165039062,Goal,40:29,Left footed,C. Palmer
+0,0.17778782546520233,Miss,66:39,Right footed,N. Jackson
+0,0.1774957776069641,Miss,52:57,Header,N. Jackson
+1,0.1079164370894432,Miss,35:20,Right footed,D. Welbeck
+1,0.08624443411827087,Goal,6:14,Header,G. Rutter
+1,0.0839744582772255,Miss,73:55,Left footed,Y. Minteh
+0,0.07977764308452606,Miss,3:46,Right footed,J. Sancho
+0,0.07075992971658707,Miss,90+3:10,Left footed,Pedro Neto
+0,0.06490404903888702,Miss,75:42,Right footed,N. Jackson
+1,0.05813056603074074,Miss,79:24,Right footed,D. Welbeck
+0,0.05525711923837662,Miss,46:08,Left footed,N. Jackson
+1,0.046825118362903595,Miss,33:54,Right footed,C. Baleba
+0,0.045511502772569656,Goal,30:19,Left footed,C. Palmer
+1,0.04353917017579079,Miss,90:15,Left footed,J. Enciso
+1,0.038590095937252045,Miss,88:14,Right footed,J. Enciso
+1,0.0313308984041214,Miss,45+1:47,Header,G. Rutter
+1,0.029699042439460754,Miss,54:23,Right footed,C. Baleba
+1,0.0223972387611866,Miss,45:59,Left footed,G. Rutter
+1,0.022172216325998306,Miss,61:20,Right footed,Y. Ayari
+1,0.018909625709056854,Miss,45+2:56,Left footed,K. Mitoma
+0,0.01609153114259243,Miss,51:08,Left footed,C. Palmer
+1,0.013268811628222466,Miss,20:00,Right footed,K. Mitoma

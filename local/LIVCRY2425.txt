@@ -1,0 +1,22 @@
+1,0.6476093530654907,Miss,32:39,Right footed,J. Mateta
+0,0.5414897203445435,Miss,64:15,Right footed,D. Núñez
+1,0.5256659388542175,Goal,8:08,Right footed,I. Sarr
+0,0.5025634169578552,Miss,36:14,Left footed,L. Díaz
+1,0.22398750483989716,Miss,90+3:09,Right footed,E. Nketiah
+0,0.20612746477127075,Goal,83:58,Left footed,Mohamed Salah
+0,0.18634957075119019,Miss,74:22,Left footed,Diogo Jota
+0,0.17908267676830292,Miss,28:27,Header,L. Díaz
+0,0.1646508127450943,Miss,49:16,Left footed,Mohamed Salah
+1,0.1580805629491806,Miss,65:26,Right footed,I. Sarr
+0,0.14724113047122955,Miss,71:48,Header,Diogo Jota
+1,0.08720579743385315,Miss,90+3:37,Right footed,Matheus França
+1,0.07151419669389725,Miss,65:31,Left footed,J. Devenny
+0,0.06294722855091095,Miss,66:44,Left footed,Mohamed Salah
+0,0.04590380936861038,Miss,33:48,Header,D. Szoboszlai
+0,0.04472352936863899,Miss,25:28,Right footed,L. Díaz
+1,0.036675192415714264,Miss,51:26,Right footed,J. Mateta
+0,0.032028160989284515,Miss,83:56,Header,C. Gakpo
+0,0.027828332036733627,Miss,66:11,Right footed,C. Gakpo
+0,0.02526693604886532,Miss,63:12,Right footed,C. Jones
+1,0.015293042175471783,Miss,40:17,Left footed,W. Hughes
+0,0.005063713062554598,Miss,57:08,Left footed,T. Alexander-Arnold

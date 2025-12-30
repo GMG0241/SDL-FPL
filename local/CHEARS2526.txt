@@ -1,0 +1,19 @@
+1,0.30954140424728394,Miss,90+3:15,Header,J. Timber
+1,0.2843552529811859,Goal,58:38,Header,Mikel Merino
+0,0.24337710440158844,Miss,46:38,Header,João Pedro
+1,0.13372020423412323,Miss,12:07,Right footed,B. Saka
+1,0.13126245141029358,Miss,45:22,Right footed,Gabriel Martinelli
+0,0.11509604007005692,Miss,77:48,Right footed,W. Fofana
+0,0.0899958461523056,Miss,17:26,Right footed,Estêvão
+1,0.08992021530866623,Miss,90+3:21,Header,Mikel Merino
+0,0.0811862125992775,Miss,31:20,Right footed,E. Fernández
+0,0.0708012804389,Miss,15:14,Right footed,Pedro Neto
+0,0.05756155773997307,Goal,47:03,Header,T. Chalobah
+1,0.056063178926706314,Miss,87:07,Left footed,Mikel Merino
+0,0.03727418929338455,Miss,70:37,Other body part,Pedro Neto
+1,0.03477005660533905,Miss,78:13,Right footed,B. Saka
+0,0.030125726014375687,Miss,18:48,Left footed,Estêvão
+0,0.028750406578183174,Miss,77:56,Right footed,L. Delap
+0,0.024406742304563522,Miss,86:08,Left footed,Pedro Neto
+1,0.02384789101779461,Miss,49:30,Left footed,B. Saka
+0,0.016143977642059326,Miss,45:48,Right footed,R. James

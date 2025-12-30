@@ -1,0 +1,24 @@
+0,0.6123967170715332,Goal,30:19,Right footed,L. Delap
+1,0.3896279036998749,Goal,86:38,Left footed,P. Onuachu
+0,0.20018978416919708,Miss,70:54,Left footed,J. Enciso
+0,0.17007075250148773,Miss,32:32,Left footed,N. Broadhead
+0,0.16909712553024292,Miss,23:13,Right footed,L. Delap
+0,0.15050503611564636,Miss,44:28,Left footed,O. Hutchinson
+1,0.13915768265724182,Miss,60:59,Left footed,J. Aribo
+0,0.13522151112556458,Miss,45+1:48,Right footed,N. Broadhead
+1,0.13337983191013336,Goal,20:22,Left footed,J. Aribo
+0,0.10851086676120758,Miss,74:11,Left footed,L. Davis
+1,0.10069969296455383,Miss,32:20,Right footed,A. Grønbæk
+0,0.07330194115638733,Miss,57:55,Left footed,J. Enciso
+1,0.0628826767206192,Miss,60:57,Header,J. Bednarek
+0,0.04259289428591728,Miss,53:17,Left footed,J. Cajuste
+0,0.04215502738952637,Miss,40:10,Right footed,J. Enciso
+1,0.04174891114234924,Miss,86:36,Right footed,K. Sulemana
+0,0.0406070314347744,Miss,16:54,Left footed,J. Enciso
+0,0.033852674067020416,Miss,8:58,Right footed,J. Enciso
+0,0.027380989864468575,Miss,70:28,Right footed,L. Delap
+1,0.02231091819703579,Miss,60:15,Right footed,J. Bree
+0,0.021223852410912514,Miss,63:48,Right footed,L. Delap
+1,0.01952735334634781,Miss,35:31,Header,P. Onuachu
+1,0.015536798164248466,Miss,32:18,Right footed,A. Grønbæk
+0,0.014917494729161263,Miss,4:37,Left footed,J. Enciso

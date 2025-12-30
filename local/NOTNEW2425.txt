@@ -1,0 +1,26 @@
+1,0.2735958993434906,Goal,53:45,Right footed,A. Isak
+1,0.2242869883775711,Miss,53:44,Header,S. Longstaff
+1,0.2067130208015442,Miss,67:51,Right footed,A. Isak
+1,0.187583789229393,Miss,90+6:38,Left footed,H. Barnes
+0,0.1683257520198822,Goal,21:02,Header,Murillo
+1,0.14711542427539825,Miss,63:56,Header,A. Gordon
+0,0.12913426756858826,Miss,37:10,Header,M. Gibbs-White
+1,0.10151663422584534,Miss,32:36,Right footed,D. Burn
+1,0.087354376912117,Miss,16:18,Right footed,A. Gordon
+1,0.08095966279506683,Goal,82:20,Right footed,H. Barnes
+1,0.08024127781391144,Miss,23:52,Left footed,Bruno Guimarães
+1,0.07165613025426865,Miss,32:21,Left footed,A. Isak
+0,0.06563907116651535,Miss,77:57,Header,A. Elanga
+1,0.06318399310112,Goal,71:51,Left footed,Joelinton
+1,0.06244966760277748,Miss,28:59,Header,Joelinton
+0,0.0596897192299366,Miss,60:54,Header,R. Yates
+0,0.05411548912525177,Miss,73:57,Right footed,R. Sosa
+0,0.04398037865757942,Miss,30:23,Left footed,A. Elanga
+1,0.03683391585946083,Miss,11:03,Left footed,J. Willock
+1,0.028849070891737938,Miss,49:38,Right footed,Bruno Guimarães
+1,0.026303606107831,Miss,50:30,Right footed,J. Willock
+0,0.021993588656187057,Miss,86:43,Right footed,N. Milenković
+0,0.01919054612517357,Miss,52:39,Right footed,N. Domínguez
+1,0.018160361796617508,Miss,45+2:50,Right footed,F. Schär
+0,0.015411869622766972,Miss,90+2:49,Left footed,Murillo
+1,0.007039345800876617,Miss,76:56,Right footed,Bruno Guimarães

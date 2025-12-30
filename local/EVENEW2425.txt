@@ -1,0 +1,22 @@
+1,0.7884,Miss,34:20,Right footed,A. Gordon
+0,0.39382404088974,Miss,66:12,Left footed,I. Gueye
+1,0.1867486834526062,Miss,55:14,Left footed,Bruno Guimarães
+1,0.17930345237255096,Miss,81:32,Right footed,A. Gordon
+1,0.16161923110485077,Miss,45+5:05,Left footed,Joelinton
+1,0.16139109432697296,Miss,86:13,Left footed,M. Almirón
+0,0.13057510554790497,Miss,66:10,Right footed,D. Calvert-Lewin
+1,0.12849754095077515,Miss,47:06,Left footed,S. Tonali
+1,0.11484210938215256,Miss,51:12,Header,Joelinton
+1,0.09754582494497299,Miss,65:12,Right footed,S. Tonali
+0,0.0833953320980072,Miss,14:37,Right footed,D. Calvert-Lewin
+1,0.0719369649887085,Miss,9:25,Right footed,Bruno Guimarães
+1,0.05418655648827553,Miss,16:06,Right footed,J. Murphy
+0,0.038928285241127014,Miss,90+4:06,Right footed,J. Garner
+1,0.03189060091972351,Miss,43:58,Right footed,D. Burn
+1,0.030228758230805397,Miss,71:42,Left footed,M. Almirón
+1,0.02436121739447117,Miss,40:29,Right footed,Joelinton
+1,0.021816778928041458,Miss,89:13,Right footed,Joelinton
+0,0.019177379086613655,Miss,69:40,Left footed,D. McNeil
+0,0.0189068540930748,Miss,26:53,Right footed,O. Mangala
+0,0.018266240134835243,Miss,53:09,Left footed,D. McNeil
+0,0.014539998956024647,Miss,59:29,Right footed,I. Gueye

@@ -1,0 +1,26 @@
+0,0.5044499039649963,Miss,75:23,Left footed,Savinho
+0,0.37772661447525024,Goal,31:24,Left footed,E. Haaland
+1,0.3446009159088135,Goal,0:22,Header,Y. Wissa
+0,0.2138630598783493,Miss,80:09,Left footed,E. Haaland
+0,0.19238832592964172,Miss,68:08,Right footed,E. Haaland
+1,0.18969601392745972,Miss,3:25,Right footed,B. Mbeumo
+1,0.17379575967788696,Miss,27:17,Header,E. Pinnock
+0,0.15663762390613556,Miss,80:12,Left footed,E. Haaland
+1,0.1414911448955536,Miss,8:39,Right footed,N. Collins
+0,0.11881896108388901,Miss,80:48,Left footed,E. Haaland
+0,0.0822976678609848,Miss,40:18,Right footed,J. Grealish
+0,0.08202338218688965,Miss,77:22,Left footed,Savinho
+0,0.0812617838382721,Miss,64:19,Right footed,Savinho
+0,0.07073014974594116,Goal,19:00,Right footed,E. Haaland
+0,0.07005850225687027,Miss,66:52,Right footed,J. Grealish
+0,0.05731038376688957,Miss,12:27,Header,İ. Gündoğan
+0,0.04589436948299408,Miss,73:34,Left footed,K. De Bruyne
+1,0.042532358318567276,Miss,90:49,Right footed,Y. Yarmoliuk
+0,0.04180237650871277,Miss,33:49,Left footed,Savinho
+0,0.03378882259130478,Miss,71:02,Right footed,K. Walker
+1,0.031512148678302765,Miss,28:21,Header,E. Pinnock
+0,0.030663108453154564,Miss,36:29,Left footed,Savinho
+0,0.027420613914728165,Miss,69:58,Left footed,İ. Gündoğan
+1,0.02365940995514393,Miss,45+1:09,Right footed,K. Lewis-Potter
+0,0.018657702952623367,Miss,25:44,Left footed,K. De Bruyne
+1,0.01670687273144722,Miss,45+1:02,Left footed,E. Pinnock

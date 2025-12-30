@@ -1,0 +1,27 @@
+0,0.7884,Goal,57:30,Right footed,A. Gordon
+0,0.20659829676151276,Miss,79:56,Right footed,S. Longstaff
+1,0.17076453566551208,Miss,75:42,Header,E. Haaland
+1,0.1393222212791443,Miss,90+4:48,Header,E. Haaland
+0,0.10888548940420151,Miss,45:40,Left footed,Joelinton
+0,0.09815996140241623,Miss,63:46,Left footed,H. Barnes
+1,0.09179533272981644,Miss,26:05,Right footed,İ. Gündoğan
+0,0.08772287517786026,Miss,60:38,Right footed,H. Barnes
+0,0.08145090937614441,Miss,15:24,Header,Joelinton
+1,0.07568681985139847,Goal,34:26,Right footed,J. Gvardiol
+0,0.0756114274263382,Miss,50:28,Header,F. Schär
+1,0.07345758378505707,Miss,90+1:41,Left footed,Bernardo Silva
+1,0.060041606426239014,Miss,72:01,Left footed,P. Foden
+1,0.05719732865691185,Miss,6:13,Left footed,E. Haaland
+1,0.05593263357877731,Miss,74:31,Left footed,E. Haaland
+0,0.037719808518886566,Miss,45:44,Left footed,D. Burn
+0,0.03495624288916588,Miss,0:25,Right footed,H. Barnes
+0,0.03291838988661766,Miss,45:54,Right footed,H. Barnes
+1,0.0325019508600235,Miss,42:42,Right footed,M. Akanji
+1,0.028273435309529305,Miss,84:33,Right footed,M. Kovačić
+0,0.02535885013639927,Miss,14:17,Right footed,K. Trippier
+1,0.02509920299053192,Miss,51:19,Left footed,E. Haaland
+1,0.02316441386938095,Miss,59:02,Right footed,M. Kovačić
+1,0.023061348125338554,Miss,4:14,Right footed,M. Akanji
+1,0.019660664722323418,Miss,27:33,Left footed,Bernardo Silva
+1,0.01900726743042469,Miss,39:14,Right footed,İ. Gündoğan
+1,0.018310772255063057,Miss,3:31,Right footed,J. Grealish

@@ -1,0 +1,22 @@
+0,0.36141785979270935,Goal,2:57,Right footed,B. Aaronson
+0,0.25366994738578796,Goal,14:08,Header,J. Rodon
+1,0.2382362186908722,Miss,45+10:56,Header,T. Souček
+0,0.13964605331420898,Miss,38:22,Left footed,E. Ampadu
+0,0.12691925466060638,Miss,31:18,Left footed,B. Aaronson
+0,0.10729128867387772,Miss,2:56,Header,N. Okafor
+0,0.10381794720888138,Miss,56:31,Right footed,D. Calvert-Lewin
+0,0.09459225088357925,Miss,45+5:54,Right footed,E. Ampadu
+1,0.09316080808639526,Miss,73:55,Right footed,C. Wilson
+1,0.0881681889295578,Miss,64:37,Right footed,Lucas Paquetá
+0,0.08792602270841599,Miss,45+2:26,Right footed,N. Okafor
+0,0.07817278057336807,Miss,58:34,Right footed,B. Aaronson
+1,0.07443322986364365,Goal,89:23,Header,Mateus Fernandes
+1,0.07056716829538345,Miss,9:15,Left footed,J. Bowen
+0,0.06736436486244202,Miss,29:31,Right footed,A. Tanaka
+0,0.04455680772662163,Miss,61:05,Left footed,J. Harrison
+0,0.03135160729289055,Miss,59:27,Right footed,J. Harrison
+0,0.029659640043973923,Miss,45+9:21,Right footed,J. Bogle
+1,0.028515052050352097,Miss,36:57,Left footed,J. Bowen
+1,0.022968357428908348,Miss,82:06,Left footed,E. Diouf
+1,0.01704832911491394,Miss,77:15,Left footed,E. Diouf
+1,0.016782836988568306,Miss,83:37,Right footed,Mateus Fernandes

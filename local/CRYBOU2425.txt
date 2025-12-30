@@ -1,0 +1,20 @@
+0,0.19928863644599915,Miss,80:53,Right footed,D. Muñoz
+1,0.18102194368839264,Miss,27:36,Header,D. Ouattara
+1,0.0857696458697319,Miss,63:26,Header,Evanilson
+1,0.0662389025092125,Miss,33:16,Right footed,Evanilson
+1,0.06422120332717896,Miss,42:53,Left footed,A. Semenyo
+0,0.060705315321683884,Miss,31:10,Left footed,W. Hughes
+1,0.05179893597960472,Miss,58:37,Header,Evanilson
+0,0.04290560260415077,Miss,62:45,Right footed,J. Mateta
+1,0.0415872260928154,Miss,66:56,Right footed,D. Ouattara
+0,0.038458600640296936,Miss,37:37,Right footed,E. Eze
+1,0.0383506640791893,Miss,52:47,Right footed,A. Smith
+1,0.037530671805143356,Miss,60:51,Left footed,M. Tavernier
+1,0.03279495611786842,Miss,16:36,Right footed,A. Semenyo
+1,0.029793722555041313,Miss,11:42,Left footed,A. Scott
+0,0.026329675689339638,Miss,18:38,Right footed,A. Wharton
+1,0.026323242112994194,Miss,88:05,Right footed,Dean Huijsen
+1,0.02296704240143299,Miss,90+3:33,Right footed,A. Semenyo
+1,0.01662425324320793,Miss,53:09,Left footed,Dean Huijsen
+1,0.015685778111219406,Miss,19:16,Right footed,D. Ouattara
+1,0.014043898321688175,Miss,68:24,Left footed,A. Smith

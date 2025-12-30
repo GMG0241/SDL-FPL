@@ -1,0 +1,24 @@
+0,0.3719441294670105,Miss,85:45,Left footed,S. Chukwueze
+0,0.22012187540531158,Goal,8:24,Left footed,R. Sessegnon
+0,0.12923647463321686,Miss,85:43,Left footed,E. Smith Rowe
+0,0.11170528084039688,Miss,61:16,Right footed,S. Berge
+0,0.09502798318862915,Miss,85:47,Left footed,T. Cairney
+1,0.07468356192111969,Miss,90+4:03,Right footed,T. Arokodare
+0,0.07021094113588333,Miss,55:47,Right footed,K. Tete
+1,0.06887685507535934,Miss,45+5:19,Header,L. Krejčí
+0,0.05661272257566452,Goal,61:18,Left footed,H. Wilson
+0,0.05179654434323311,Miss,51:54,Right footed,J. Andersen
+0,0.05115020275115967,Miss,87:05,Left footed,S. Chukwueze
+0,0.046381108462810516,Miss,69:23,Left footed,H. Wilson
+0,0.043857332319021225,Miss,30:33,Left footed,H. Wilson
+1,0.03919567912817001,Miss,2:40,Left footed,J. Bellegarde
+1,0.03656755015254021,Miss,45+2:36,Left footed,J. Bellegarde
+0,0.033018872141838074,Miss,68:05,Right footed,J. King
+0,0.03214075416326523,Miss,90+4:18,Right footed,Rodrigo Muniz
+0,0.024467360228300095,Miss,55:29,Right footed,A. Iwobi
+1,0.02072441391646862,Miss,19:51,Header,M. Munetsi
+0,0.020173916593194008,Miss,90:44,Right footed,Adama Traoré
+0,0.017526529729366302,Miss,51:19,Right footed,K. Tete
+0,0.016211645677685738,Miss,21:47,Left footed,H. Wilson
+0,0.01555320993065834,Miss,16:04,Left footed,H. Wilson
+0,0.01500171422958374,Miss,52:47,Right footed,K. Tete

@@ -1,0 +1,35 @@
+0,0.5695884227752686,Miss,54:15,Left footed,S. Coleman
+1,0.47799116373062134,Miss,90+2:59,Header,M. Tavernier
+1,0.4617595374584198,Goal,86:37,Right footed,A. Semenyo
+0,0.3337075412273407,Goal,56:08,Right footed,D. Calvert-Lewin
+1,0.3269340395927429,Goal,90+5:37,Header,L. Sinisterra
+1,0.2505457401275635,Miss,90+3:00,Right footed,M. Tavernier
+0,0.20994479954242706,Goal,49:58,Right footed,M. Keane
+1,0.20176270604133606,Miss,13:36,Left footed,Evanilson
+1,0.19250166416168213,Goal,90+1:14,Header,L. Cook
+1,0.18668489158153534,Miss,81:22,Header,I. Zabarnyi
+0,0.13081786036491394,Miss,64:25,Right footed,I. Ndiaye
+0,0.1282491236925125,Miss,70:42,Header,J. Tarkowski
+1,0.09968190640211105,Miss,34:56,Right footed,J. Kluivert
+0,0.09546671062707901,Miss,16:33,Left footed,J. Harrison
+0,0.09436143934726715,Miss,32:05,Right footed,I. Ndiaye
+0,0.07941490411758423,Miss,90:34,Left footed,D. McNeil
+1,0.07587113231420517,Miss,6:35,Left footed,A. Semenyo
+1,0.06378845125436783,Miss,90+3:40,Left footed,A. Semenyo
+0,0.061894528567790985,Miss,11:50,Header,D. Calvert-Lewin
+0,0.05760986730456352,Miss,14:22,Right footed,I. Gueye
+0,0.047720376402139664,Miss,52:08,Right footed,I. Gueye
+0,0.04416634887456894,Miss,45:20,Left footed,T. Iroegbunam
+0,0.04055972769856453,Miss,68:11,Right footed,I. Ndiaye
+1,0.04029134288430214,Miss,81:58,Right footed,L. Sinisterra
+0,0.03495624288916588,Miss,79:24,Right footed,T. Iroegbunam
+1,0.03152875602245331,Miss,90+3:23,Left footed,A. Semenyo
+1,0.025896934792399406,Miss,81:39,Left footed,M. Tavernier
+0,0.02136087231338024,Miss,68:46,Left footed,J. Harrison
+1,0.01928260363638401,Miss,47:50,Left footed,M. Tavernier
+1,0.015984924510121346,Miss,39:40,Left footed,M. Tavernier
+0,0.015802795067429543,Miss,43:20,Left footed,D. McNeil
+1,0.015043455176055431,Miss,34:44,Left footed,A. Semenyo
+0,0.014621968381106853,Miss,20:56,Header,M. Keane
+0,0.00907869078218937,Miss,21:04,Header,M. Keane
+1,0.005863544996827841,Miss,28:28,Left footed,M. Kerkez

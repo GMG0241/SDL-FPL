@@ -1,0 +1,17 @@
+0,0.9744879007339478,Goal,1:49,Left footed,Pablo Sarabia
+1,0.17481566965579987,Miss,38:48,Header,T. Harwood-Bellis
+1,0.12350248545408249,Miss,90+2:35,Right footed,B. Brereton
+1,0.10636502504348755,Miss,11:41,Right footed,Mateus Fernandes
+0,0.09284762293100357,Miss,48:57,Left footed,R. Aït-Nouri
+1,0.06718835979700089,Miss,38:15,Left footed,Mateus Fernandes
+1,0.05470728129148483,Miss,7:50,Right footed,A. Armstrong
+1,0.04987908899784088,Miss,90+3:49,Right footed,Y. Sugawara
+0,0.04589436948299408,Miss,49:34,Right footed,João Gomes
+1,0.04412439838051796,Miss,45+1:51,Right footed,Mateus Fernandes
+0,0.03998434916138649,Goal,50:31,Right footed,Matheus Cunha
+0,0.03631378710269928,Miss,53:54,Header,J. Strand Larsen
+1,0.02913755550980568,Miss,58:53,Left footed,T. Dibling
+0,0.02789100632071495,Miss,75:54,Right footed,J. Bellegarde
+0,0.02108256332576275,Miss,15:00,Right footed,Matheus Cunha
+0,0.019116686657071114,Miss,14:57,Left footed,M. Lemina
+1,0.0055707539431750774,Miss,24:01,Right footed,J. Bednarek

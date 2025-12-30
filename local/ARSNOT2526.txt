@@ -1,0 +1,21 @@
+0,0.46463698148727417,Goal,45:46,Right footed,V. Gyökeres
+0,0.2974216341972351,Miss,28:21,Header,J. Timber
+0,0.18308304250240326,Miss,9:24,Header,Gabriel Magalhães
+0,0.16512025892734528,Miss,45+3:12,Right footed,V. Gyökeres
+0,0.13734719157218933,Miss,20:17,Header,V. Gyökeres
+0,0.12913024425506592,Miss,6:49,Right footed,Mikel Merino
+1,0.09285750240087509,Miss,90+4:05,Right footed,A. Kalimuendo
+0,0.08431000262498856,Goal,78:38,Header,Martín Zubimendi
+0,0.0727553516626358,Miss,58:26,Right footed,V. Gyökeres
+0,0.06251301616430283,Miss,56:15,Left footed,E. Nwaneri
+0,0.04953465238213539,Miss,22:35,Left footed,E. Nwaneri
+1,0.043313249945640564,Miss,45:07,Right footed,M. Gibbs-White
+0,0.04149584844708443,Miss,35:45,Right footed,Martín Zubimendi
+0,0.0360652394592762,Goal,31:10,Right footed,Martín Zubimendi
+0,0.035026438534259796,Miss,51:33,Left footed,E. Nwaneri
+1,0.031490884721279144,Miss,51:04,Other body part,C. Wood
+0,0.03103119134902954,Miss,26:50,Right footed,E. Eze
+0,0.026623772457242012,Miss,13:34,Right footed,E. Eze
+1,0.020200276747345924,Miss,66:37,Right footed,A. Kalimuendo
+0,0.019126925617456436,Miss,35:12,Left footed,Gabriel Magalhães
+1,0.012065580114722252,Miss,90+2:45,Right footed,N. Williams

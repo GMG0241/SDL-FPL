@@ -1,0 +1,29 @@
+0,0.8448857069015503,Goal,7:13,Left footed,Bernardo Silva
+0,0.3719397783279419,Miss,14:43,Header,J. Gvardiol
+1,0.3391755521297455,Miss,29:09,Right footed,C. Wood
+0,0.1871333122253418,Miss,20:19,Left footed,J. Gvardiol
+0,0.14475345611572266,Goal,30:38,Right footed,K. De Bruyne
+0,0.13892808556556702,Miss,12:46,Header,M. Akanji
+1,0.12445864081382751,Miss,48:48,Right footed,C. Wood
+0,0.11801964789628983,Miss,5:32,Right footed,E. Haaland
+1,0.11786846071481705,Miss,28:27,Header,N. Milenković
+1,0.10537577420473099,Miss,40:05,Header,N. Milenković
+0,0.09105559438467026,Miss,63:46,Right footed,K. De Bruyne
+0,0.09046191722154617,Goal,56:37,Right footed,J. Doku
+1,0.08527950197458267,Miss,16:42,Right footed,M. Gibbs-White
+1,0.07331579178571701,Miss,73:55,Right footed,A. Elanga
+0,0.07147330790758133,Miss,86:47,Right footed,J. Doku
+0,0.07002777606248856,Miss,68:05,Right footed,J. Grealish
+1,0.0655980259180069,Miss,37:51,Right footed,A. Elanga
+0,0.06206429377198219,Miss,7:13,Header,K. De Bruyne
+0,0.06108361482620239,Miss,2:36,Left footed,İ. Gündoğan
+0,0.047324180603027344,Miss,90+1:43,Left footed,E. Haaland
+1,0.04131324589252472,Miss,8:49,Header,C. Wood
+0,0.031824562698602676,Miss,22:53,Right footed,K. De Bruyne
+0,0.03048999421298504,Miss,72:29,Right footed,J. Grealish
+0,0.03028528019785881,Miss,60:32,Left footed,J. Doku
+1,0.030119754374027252,Miss,39:10,Right footed,Álex Moreno
+1,0.026720937341451645,Miss,82:08,Right footed,E. Anderson
+0,0.01868218369781971,Miss,59:53,Right footed,K. De Bruyne
+1,0.01614575833082199,Miss,52:34,Left footed,Murillo
+1,0.013537809252738953,Miss,9:58,Right footed,Jota Silva

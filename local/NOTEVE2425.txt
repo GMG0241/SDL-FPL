@@ -1,0 +1,23 @@
+1,0.3703073561191559,Miss,54:25,Right footed,I. Ndiaye
+1,0.29656273126602173,Goal,90+3:03,Right footed,A. Doucouré
+1,0.22288064658641815,Miss,74:56,Left footed,J. Harrison
+0,0.15796735882759094,Miss,26:54,Right footed,Jota Silva
+0,0.08918029069900513,Miss,53:55,Right footed,C. Hudson-Odoi
+1,0.08657560497522354,Miss,90+1:08,Right footed,C. Alcaraz
+1,0.07044850289821625,Miss,35:23,Header,I. Ndiaye
+0,0.06841172277927399,Miss,61:16,Right footed,M. Gibbs-White
+1,0.0592326857149601,Miss,80:22,Right footed,J. Garner
+1,0.04975706338882446,Miss,24:25,Right footed,J. Garner
+0,0.04518905282020569,Miss,57:34,Left footed,Jota Silva
+1,0.037377726286649704,Miss,72:51,Left footed,A. Doucouré
+1,0.03118273988366127,Miss,68:27,Right footed,J. O'Brien
+1,0.02977306768298149,Miss,4:15,Right footed,I. Gueye
+0,0.0272551029920578,Miss,44:28,Right footed,C. Hudson-Odoi
+0,0.02476736158132553,Miss,90+5:44,Right footed,M. Gibbs-White
+0,0.020118799060583115,Miss,60:35,Right footed,N. Williams
+1,0.020096680149435997,Miss,22:02,Left footed,I. Ndiaye
+0,0.020096080377697945,Miss,19:47,Left footed,N. Domínguez
+0,0.01990932784974575,Miss,29:51,Header,Jota Silva
+0,0.016206953674554825,Miss,41:31,Right footed,M. Gibbs-White
+1,0.014439930208027363,Miss,3:13,Left footed,I. Gueye
+1,0.00985482893884182,Miss,18:35,Left footed,J. Harrison

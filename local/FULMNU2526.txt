@@ -1,0 +1,23 @@
+1,0.7884,Miss,37:20,Right footed,Bruno Fernandes
+0,0.6737950444221497,Goal,72:04,Right footed,E. Smith Rowe
+0,0.2762642204761505,Miss,45:39,Right footed,T. Castagne
+1,0.23541197180747986,Miss,13:16,Left footed,Matheus Cunha
+1,0.1784176230430603,Miss,57:30,Header,L. Yoro
+0,0.17790046334266663,Miss,40:45,Header,Rodrigo Muniz
+0,0.15115869045257568,Miss,12:11,Right footed,J. King
+1,0.12470894306898117,Miss,1:59,Right footed,Matheus Cunha
+0,0.11839056760072708,Miss,60:47,Header,Rodrigo Muniz
+0,0.11033836007118225,Miss,16:15,Header,C. Bassey
+1,0.10291469097137451,Miss,2:02,Left footed,A. Diallo
+1,0.10099504142999649,Miss,87:49,Header,H. Maguire
+0,0.039831772446632385,Miss,45:40,Right footed,Rodrigo Muniz
+1,0.03591667488217354,Miss,9:42,Right footed,Bruno Fernandes
+0,0.03425735980272293,Miss,90+2:03,Left footed,E. Smith Rowe
+0,0.03049292229115963,Miss,15:40,Right footed,A. Iwobi
+0,0.029675055295228958,Miss,68:12,Right footed,A. Iwobi
+1,0.027280570939183235,Miss,47:44,Left footed,A. Diallo
+0,0.023861141875386238,Miss,15:38,Header,T. Castagne
+0,0.022779682651162148,Miss,62:31,Right footed,A. Iwobi
+1,0.021511487662792206,Miss,1:15,Right footed,Matheus Cunha
+0,0.016727769747376442,Miss,24:31,Right footed,J. King
+1,0.011646542698144913,Miss,75:29,Right footed,Diogo Dalot

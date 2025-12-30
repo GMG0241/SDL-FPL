@@ -1,0 +1,25 @@
+1,0.43861067295074463,Goal,59:26,Left footed,Diogo Jota
+1,0.41355207562446594,Goal,64:48,Left footed,Mohamed Salah
+1,0.35471540689468384,Miss,58:16,Header,Diogo Jota
+1,0.2889946401119232,Miss,54:47,Right footed,L. Díaz
+1,0.21200452744960785,Miss,70:16,Left footed,Mohamed Salah
+1,0.15632539987564087,Miss,77:35,Header,Diogo Jota
+0,0.1305554062128067,Miss,31:02,Left footed,O. Hutchinson
+1,0.12385661154985428,Miss,90+3:20,Right footed,C. Bradley
+1,0.11632127314805984,Miss,58:02,Right footed,D. Szoboszlai
+1,0.11631288379430771,Miss,90+3:06,Right footed,C. Bradley
+1,0.11241018027067184,Miss,87:56,Right footed,L. Díaz
+0,0.10154549777507782,Miss,67:14,Right footed,O. Hutchinson
+1,0.07438524812459946,Miss,58:04,Right footed,A. Mac Allister
+0,0.06862986087799072,Miss,40:28,Header,A. Tuanzebe
+0,0.0669264867901802,Miss,19:26,Header,J. Greaves
+1,0.05908545106649399,Miss,47:45,Right footed,L. Díaz
+1,0.05532682314515114,Miss,44:45,Right footed,T. Alexander-Arnold
+1,0.05500089004635811,Miss,90+3:04,Left footed,Mohamed Salah
+0,0.04019341245293617,Miss,1:47,Right footed,O. Hutchinson
+0,0.028639886528253555,Miss,90+7:18,Left footed,J. Greaves
+1,0.023263568058609962,Miss,90+1:59,Right footed,A. Mac Allister
+1,0.02288307435810566,Miss,46:34,Left footed,Mohamed Salah
+1,0.019615942612290382,Miss,15:58,Right footed,D. Szoboszlai
+1,0.016276629641652107,Miss,30:48,Left footed,D. Szoboszlai
+0,0.015754416584968567,Miss,90+7:12,Right footed,J. Taylor

@@ -1,0 +1,26 @@
+0,0.5518876910209656,Miss,11:58,Right footed,D. Ouattara
+0,0.53803950548172,Goal,12:00,Left footed,D. Ouattara
+1,0.260309100151062,Miss,80:50,Right footed,O. Watkins
+1,0.204825758934021,Miss,56:08,Right footed,A. Onana
+1,0.15864886343479156,Miss,51:20,Right footed,E. Buendía
+0,0.10618402063846588,Miss,76:30,Left footed,Igor Thiago
+0,0.0996914952993393,Miss,26:53,Right footed,K. Schade
+1,0.07268369942903519,Miss,37:15,Header,T. Mings
+0,0.07096698880195618,Miss,25:44,Header,Igor Thiago
+1,0.07096698880195618,Miss,62:44,Header,M. Rogers
+1,0.06515759229660034,Miss,30:54,Left footed,T. Mings
+0,0.06420193612575531,Miss,26:34,Header,Igor Thiago
+1,0.06075447052717209,Miss,69:14,Right footed,O. Watkins
+0,0.06053685024380684,Miss,2:31,Right footed,M. Damsgaard
+1,0.05208165571093559,Miss,45+6:23,Left footed,Pau Torres
+1,0.050088219344615936,Miss,88:54,Header,O. Watkins
+1,0.04827265441417694,Miss,48:35,Left footed,M. Rogers
+0,0.046505074948072433,Miss,25:47,Left footed,J. Henderson
+1,0.045462705194950104,Miss,45+5:15,Left footed,O. Watkins
+1,0.044309087097644806,Miss,30:52,Left footed,J. McGinn
+1,0.03803001716732979,Miss,54:14,Right footed,E. Buendía
+1,0.03148991987109184,Miss,30:16,Left footed,Y. Tielemans
+0,0.027742037549614906,Miss,26:59,Right footed,Y. Yarmoliuk
+1,0.014310707338154316,Miss,77:40,Right footed,I. Maatsen
+1,0.012210611253976822,Miss,59:34,Left footed,A. Onana
+1,0.0057839443907141685,Miss,18:23,Right footed,Y. Tielemans

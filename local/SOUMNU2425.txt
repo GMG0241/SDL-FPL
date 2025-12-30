@@ -1,0 +1,26 @@
+0,0.7884,Miss,32:17,Right footed,C. Archer
+1,0.7114742398262024,Miss,14:28,Right footed,J. Zirkzee
+1,0.3968745172023773,Miss,90:25,Right footed,J. Zirkzee
+1,0.33763718605041504,Goal,34:49,Header,M. de Ligt
+1,0.29553309082984924,Goal,90+5:40,Right footed,A. Garnacho
+1,0.28504136204719543,Miss,39:51,Right footed,M. Rashford
+0,0.2118041217327118,Miss,27:28,Other body part,L. Ugochukwu
+1,0.09597659856081009,Miss,48:13,Right footed,N. Mazraoui
+1,0.07992026209831238,Miss,50:48,Right footed,M. Rashford
+1,0.07620986551046371,Miss,43:11,Left footed,M. de Ligt
+1,0.07610191404819489,Miss,18:40,Left footed,Bruno Fernandes
+1,0.06170813739299774,Miss,87:21,Right footed,Bruno Fernandes
+0,0.06038523092865944,Miss,32:18,Header,C. Archer
+1,0.05822642892599106,Miss,38:28,Right footed,Bruno Fernandes
+1,0.049552448093891144,Miss,77:17,Right footed,K. Mainoo
+0,0.04372179135680199,Miss,22:40,Left footed,Y. Sugawara
+0,0.03255615383386612,Miss,6:43,Left footed,T. Dibling
+1,0.02874281257390976,Miss,34:02,Right footed,J. Zirkzee
+1,0.027806196361780167,Miss,16:39,Right footed,N. Mazraoui
+0,0.02753502130508423,Miss,11:35,Right footed,C. Archer
+1,0.02399301901459694,Miss,59:48,Right footed,M. Rashford
+1,0.019355328753590584,Miss,28:52,Left footed,A. Diallo
+1,0.016826767474412918,Miss,90+3:07,Right footed,A. Garnacho
+1,0.01139797829091549,Miss,42:21,Right footed,Bruno Fernandes
+1,0.010076697915792465,Miss,60:22,Left footed,Bruno Fernandes
+1,0.008007936179637909,Goal,40:48,Right footed,M. Rashford

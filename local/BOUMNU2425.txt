@@ -1,0 +1,33 @@
+1,0.5363291501998901,Miss,37:09,Right footed,A. Garnacho
+1,0.48236510157585144,Goal,90+5:36,Right footed,R. Højlund
+1,0.2155030518770218,Miss,63:23,Right footed,Casemiro
+1,0.18853917717933655,Miss,75:37,Left footed,C. Obi
+1,0.18792134523391724,Miss,88:43,Right footed,M. Mount
+0,0.13313372433185577,Goal,22:23,Left footed,A. Semenyo
+1,0.1282617449760437,Miss,90+5:35,Right footed,M. Ugarte
+0,0.10395451635122299,Miss,11:47,Header,D. Ouattara
+1,0.09413441270589828,Miss,90+2:26,Right footed,A. Garnacho
+0,0.09243197739124298,Miss,4:30,Right footed,D. Ouattara
+1,0.0786069706082344,Miss,90:53,Left footed,C. Obi
+0,0.078426793217659,Miss,59:26,Right footed,I. Zabarnyi
+1,0.07480120658874512,Miss,82:26,Right footed,A. Garnacho
+1,0.06558921933174133,Miss,35:35,Right footed,N. Mazraoui
+1,0.05123688280582428,Miss,82:15,Right footed,M. Mount
+1,0.04890049621462822,Miss,35:37,Right footed,A. Garnacho
+1,0.04873796924948692,Miss,63:24,Header,H. Maguire
+0,0.04490213468670845,Miss,46:10,Left footed,A. Semenyo
+1,0.044109951704740524,Miss,45:54,Left footed,A. Garnacho
+1,0.04290560260415077,Miss,90+2:23,Right footed,C. Eriksen
+1,0.0404600128531456,Miss,82:24,Left footed,A. Garnacho
+0,0.03692861646413803,Miss,59:23,Left footed,D. Ouattara
+1,0.034543927758932114,Miss,89:14,Left footed,L. Shaw
+0,0.029815437272191048,Miss,13:42,Right footed,J. Kluivert
+1,0.024637769907712936,Miss,34:43,Right footed,K. Mainoo
+1,0.0239790640771389,Miss,77:07,Right footed,M. Ugarte
+1,0.022620590403676033,Miss,9:48,Right footed,K. Mainoo
+1,0.022365275770425797,Miss,90+2:28,Right footed,Bruno Fernandes
+1,0.020230641588568687,Miss,15:54,Right footed,A. Garnacho
+1,0.016201861202716827,Miss,90+3:41,Right footed,Bruno Fernandes
+1,0.014278779737651348,Miss,66:19,Right footed,Bruno Fernandes
+1,0.009402924217283726,Miss,90+1:30,Right footed,A. Garnacho
+0,0.007679061032831669,Miss,15:27,Header,I. Zabarnyi

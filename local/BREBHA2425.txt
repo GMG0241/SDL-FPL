@@ -1,0 +1,28 @@
+0,0.489884614944458,Goal,8:37,Right footed,B. Mbeumo
+1,0.41094455122947693,Miss,78:31,Left footed,K. Mitoma
+0,0.27542969584465027,Miss,64:11,Right footed,K. Schade
+0,0.25231024622917175,Miss,53:56,Header,Y. Wissa
+0,0.25162753462791443,Miss,53:57,Left footed,C. Nørgaard
+0,0.19270995259284973,Miss,2:24,Right footed,Y. Wissa
+0,0.18751218914985657,Miss,55:08,Header,N. Collins
+1,0.17379368841648102,Miss,11:30,Header,Y. Minteh
+0,0.1382369101047516,Goal,90+4:29,Header,C. Nørgaard
+1,0.12828674912452698,Miss,18:27,Left footed,M. O'Riley
+1,0.1213194876909256,Goal,80:06,Left footed,K. Mitoma
+0,0.11669953167438507,Goal,57:11,Right footed,Y. Wissa
+0,0.11285941302776337,Miss,90+10:11,Header,S. van den Berg
+1,0.09920696169137955,Goal,45+2:59,Header,D. Welbeck
+1,0.0700421929359436,Miss,28:22,Left footed,D. Welbeck
+1,0.0698702409863472,Miss,90+8:19,Right footed,D. Gómez
+0,0.06699715554714203,Miss,54:00,Right footed,Y. Wissa
+1,0.05835443735122681,Miss,17:09,Header,J. Hinshelwood
+1,0.05177092179656029,Miss,1:21,Left footed,M. O'Riley
+0,0.04590905085206032,Goal,47:32,Left footed,B. Mbeumo
+0,0.04150146245956421,Miss,45:52,Header,K. Schade
+0,0.03962192311882973,Miss,2:27,Right footed,C. Nørgaard
+0,0.032442834228277206,Miss,90+9:30,Left footed,B. Mbeumo
+1,0.03178148716688156,Miss,33:39,Right footed,João Pedro
+1,0.021390527486801147,Miss,85:53,Right footed,K. Mitoma
+0,0.020997939631342888,Miss,23:12,Header,K. Schade
+0,0.01606420986354351,Miss,69:36,Left footed,B. Mbeumo
+1,0.015403400175273418,Miss,84:11,Right footed,D. Gómez

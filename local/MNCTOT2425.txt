@@ -1,0 +1,32 @@
+1,0.9734270572662354,Goal,90+2:19,Right footed,B. Johnson
+1,0.6630281209945679,Goal,12:29,Left footed,J. Maddison
+0,0.3088545799255371,Miss,42:49,Left footed,P. Foden
+1,0.3078273832798004,Goal,52:00,Right footed,Pedro Porro
+0,0.25201302766799927,Miss,10:44,Left footed,E. Haaland
+0,0.20470064878463745,Miss,60:23,Right footed,J. Gvardiol
+1,0.15208186209201813,Miss,87:12,Left footed,B. Johnson
+0,0.1459384560585022,Miss,78:57,Left footed,E. Haaland
+0,0.13797305524349213,Miss,68:25,Header,E. Haaland
+1,0.12992899119853973,Goal,19:09,Left footed,J. Maddison
+0,0.12362352758646011,Miss,4:00,Left footed,E. Haaland
+1,0.11734432727098465,Miss,65:19,Left footed,D. Kulusevski
+1,0.11529137939214706,Miss,27:48,Right footed,D. Solanke
+0,0.09797583520412445,Miss,63:53,Left footed,J. Gvardiol
+0,0.09671714156866074,Miss,76:07,Right footed,İ. Gündoğan
+0,0.09181905537843704,Miss,21:37,Left footed,E. Haaland
+0,0.09065882116556168,Miss,58:49,Left footed,N. Aké
+0,0.08641483634710312,Miss,15:10,Left footed,P. Foden
+0,0.06863172352313995,Miss,35:57,Left footed,Savinho
+0,0.06756558269262314,Miss,26:04,Left footed,P. Foden
+0,0.05298110097646713,Miss,83:14,Left footed,Bernardo Silva
+0,0.048129476606845856,Miss,66:17,Right footed,R. Lewis
+0,0.04127167537808418,Miss,82:47,Right footed,M. Akanji
+0,0.03974803164601326,Miss,83:01,Left footed,K. De Bruyne
+0,0.036082152277231216,Miss,2:32,Header,E. Haaland
+0,0.03572063148021698,Miss,44:29,Header,M. Akanji
+0,0.03431914374232292,Miss,42:05,Left footed,Savinho
+0,0.03383282572031021,Miss,59:25,Left footed,E. Haaland
+1,0.031871479004621506,Miss,41:12,Right footed,Y. Bissouma
+0,0.029627885669469833,Miss,76:46,Left footed,P. Foden
+1,0.019355328753590584,Miss,17:41,Right footed,Son Heung-Min
+0,0.018785668537020683,Miss,72:10,Left footed,P. Foden

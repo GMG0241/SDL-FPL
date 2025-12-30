@@ -1,0 +1,28 @@
+0,0.3789187967777252,Goal,81:25,Right footed,J. Mateta
+0,0.2980506122112274,Miss,48:15,Right footed,E. Eze
+1,0.20821145176887512,Miss,37:26,Right footed,N. Jackson
+1,0.2071167677640915,Miss,27:51,Header,J. Acheampong
+1,0.1797596514225006,Goal,13:29,Left footed,C. Palmer
+1,0.1349201649427414,Miss,19:03,Right footed,N. Jackson
+1,0.11099754273891449,Miss,77:17,Right footed,Pedro Neto
+0,0.08702866733074188,Miss,68:27,Right footed,E. Eze
+1,0.07605057954788208,Miss,70:00,Left footed,N. Jackson
+1,0.06695329397916794,Miss,69:36,Right footed,E. Fernández
+0,0.06104319915175438,Miss,55:03,Header,C. Richards
+1,0.05772239342331886,Miss,64:51,Left footed,Pedro Neto
+0,0.049636103212833405,Miss,41:13,Right footed,E. Eze
+1,0.04794876649975777,Miss,41:48,Right footed,M. Caicedo
+0,0.044651955366134644,Miss,72:37,Header,J. Lerma
+1,0.04331861436367035,Miss,64:53,Left footed,Pedro Neto
+0,0.03698080778121948,Miss,90+2:42,Right footed,M. Lacroix
+0,0.03405946493148804,Miss,71:58,Right footed,J. Mateta
+0,0.02912052907049656,Miss,33:41,Right footed,J. Mateta
+1,0.028256049379706383,Miss,8:54,Right footed,N. Jackson
+1,0.025336699560284615,Miss,19:02,Other body part,Pedro Neto
+1,0.025315571576356888,Miss,2:43,Right footed,J. Sancho
+0,0.024974089115858078,Miss,35:55,Right footed,E. Eze
+0,0.024128278717398643,Miss,49:43,Right footed,C. Doucouré
+1,0.014881246723234653,Miss,43:13,Left footed,C. Palmer
+1,0.014669408090412617,Miss,85:14,Right footed,E. Fernández
+0,0.008542351424694061,Miss,34:59,Right footed,J. Lerma
+0,0.005451906006783247,Miss,69:00,Header,D. Kamada

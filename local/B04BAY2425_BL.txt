@@ -1,0 +1,17 @@
+0,0.3574666976928711,Miss,90:44,Left footed,A. Adli
+0,0.35538366436958313,Miss,24:12,Right footed,N. Tella
+0,0.34605270624160767,Miss,20:50,Header,J. Frimpong
+0,0.3222152590751648,Miss,90:47,Right footed,F. Wirtz
+0,0.29735004901885986,Miss,65:25,Header,N. Tella
+0,0.18091946840286255,Miss,20:48,Right footed,F. Wirtz
+0,0.10254351049661636,Miss,58:44,Right footed,N. Tella
+0,0.08643928915262222,Miss,73:54,Right footed,N. Tella
+0,0.03771481662988663,Miss,32:04,Right footed,F. Wirtz
+0,0.03313785418868065,Miss,47:22,Left footed,P. Hincapié
+0,0.031864430755376816,Miss,65:29,Left footed,E. Tapsoba
+0,0.030626259744167328,Miss,17:16,Right footed,N. Tella
+1,0.02946370467543602,Miss,80:15,Header,L. Goretzka
+0,0.028592491522431374,Miss,75:18,Right footed,F. Wirtz
+0,0.02651488222181797,Miss,90+4:09,Right footed,J. Frimpong
+0,0.016896510496735573,Miss,34:08,Right footed,N. Tella
+1,0.01579413376748562,Miss,72:51,Right footed,H. Kane

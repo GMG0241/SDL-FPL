@@ -1,0 +1,19 @@
+0,0.8660321235656738,Goal,90+3:37,Left footed,J. Durán
+0,0.2124561369419098,Goal,87:30,Right footed,E. Konsa
+0,0.16366392374038696,Miss,69:39,Header,J. Durán
+0,0.16260772943496704,Miss,67:11,Header,O. Watkins
+0,0.1266455501317978,Goal,72:31,Right footed,O. Watkins
+1,0.10479341447353363,Miss,17:29,Header,M. Lemina
+1,0.08144759386777878,Miss,4:22,Left footed,M. Lemina
+0,0.07081728428602219,Miss,84:05,Left footed,L. Bailey
+1,0.06820394098758698,Miss,44:30,Header,C. Dawson
+1,0.06067277491092682,Miss,30:30,Right footed,R. Aït-Nouri
+1,0.057768747210502625,Miss,31:18,Right footed,André
+0,0.05136346444487572,Miss,62:11,Left footed,R. Barkley
+0,0.050815049558877945,Miss,34:30,Left footed,O. Watkins
+1,0.03697635605931282,Miss,45:34,Left footed,R. Aït-Nouri
+1,0.028147587552666664,Goal,24:05,Right footed,Matheus Cunha
+1,0.02804073877632618,Miss,43:48,Right footed,R. Aït-Nouri
+1,0.025147009640932083,Miss,31:14,Header,J. Strand Larsen
+0,0.0250319205224514,Miss,35:05,Left footed,J. McGinn
+1,0.023353107273578644,Miss,41:50,Right footed,J. Strand Larsen

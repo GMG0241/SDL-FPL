@@ -1,0 +1,32 @@
+0,0.7884,Goal,69:11,Left footed,Mohamed Salah
+0,0.4248329997062683,Miss,13:38,Right footed,C. Gakpo
+0,0.3129800260066986,Miss,15:19,Right footed,A. Mac Allister
+1,0.3107283413410187,Miss,90+6:31,Right footed,H. Maguire
+0,0.276512086391449,Miss,90:18,Header,V. van Dijk
+0,0.2010927051305771,Miss,89:16,Right footed,Diogo Jota
+0,0.15509937703609467,Miss,12:26,Right footed,L. Díaz
+1,0.1302710771560669,Miss,24:08,Header,M. de Ligt
+0,0.12458121031522751,Miss,74:26,Left footed,Mohamed Salah
+1,0.12237660586833954,Goal,79:16,Left footed,A. Diallo
+1,0.11529137939214706,Miss,19:38,Right footed,K. Mainoo
+1,0.1111811175942421,Miss,41:50,Left footed,R. Højlund
+1,0.0767698660492897,Goal,51:25,Left footed,Lisandro Martínez
+0,0.07233143597841263,Goal,58:06,Right footed,C. Gakpo
+0,0.06566914170980453,Miss,42:14,Left footed,Mohamed Salah
+0,0.06300335377454758,Miss,90+4:31,Right footed,Diogo Jota
+0,0.059475451707839966,Miss,37:53,Right footed,A. Mac Allister
+0,0.05546354502439499,Miss,12:24,Right footed,T. Alexander-Arnold
+0,0.052815478295087814,Miss,45:20,Right footed,R. Gravenberch
+0,0.04844636842608452,Miss,89:25,Right footed,C. Bradley
+1,0.043651480227708817,Miss,41:52,Right footed,Bruno Fernandes
+1,0.03919567912817001,Miss,19:35,Right footed,N. Mazraoui
+0,0.03323953226208687,Miss,66:15,Header,A. Mac Allister
+1,0.03013382852077484,Miss,90:44,Left footed,A. Garnacho
+1,0.02899559587240219,Miss,48:29,Left footed,Diogo Dalot
+1,0.027793580666184425,Miss,88:57,Left footed,A. Diallo
+0,0.024152154102921486,Miss,90+3:51,Header,V. van Dijk
+0,0.019571755081415176,Miss,65:11,Right footed,A. Mac Allister
+0,0.0192571971565485,Miss,28:53,Right footed,R. Gravenberch
+0,0.018888579681515694,Miss,90+3:20,Left footed,Mohamed Salah
+1,0.014518043026328087,Miss,88:28,Right footed,Bruno Fernandes
+1,0.008074581623077393,Miss,42:03,Right footed,Diogo Dalot

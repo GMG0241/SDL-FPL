@@ -1,0 +1,25 @@
+0,0.4585649371147156,Miss,67:11,Right footed,J. Vardy
+0,0.2709854543209076,Miss,61:41,Right footed,J. Justin
+1,0.23976768553256989,Miss,6:54,Right footed,E. Haaland
+1,0.2095373421907425,Miss,34:59,Left footed,E. Haaland
+1,0.1885957419872284,Goal,20:14,Left footed,Savinho
+1,0.18299908936023712,Goal,73:09,Header,E. Haaland
+0,0.1711822748184204,Miss,18:32,Right footed,J. Vardy
+0,0.11441173404455185,Miss,36:26,Right footed,J. Justin
+1,0.08831343799829483,Miss,38:14,Header,E. Haaland
+1,0.08149804919958115,Miss,27:04,Header,E. Haaland
+1,0.06970220059156418,Miss,79:13,Header,E. Haaland
+0,0.059030380100011826,Miss,37:56,Header,F. Buonanotte
+1,0.0480952225625515,Miss,11:37,Right footed,K. De Bruyne
+1,0.04576796293258667,Miss,45:06,Right footed,M. Kovačić
+0,0.0416947603225708,Miss,88:45,Header,J. Vardy
+0,0.03910316154360771,Miss,77:22,Right footed,J. Vardy
+1,0.033331722021102905,Miss,84:10,Left footed,J. McAtee
+0,0.0324992910027504,Miss,90+5:13,Header,J. Vestergaard
+0,0.031168606132268906,Miss,37:54,Header,J. Justin
+1,0.027669597417116165,Miss,4:11,Left footed,K. De Bruyne
+1,0.021443888545036316,Miss,75:53,Header,Savinho
+0,0.020773254334926605,Miss,53:09,Right footed,B. El Khannouss
+0,0.020408092066645622,Miss,4:58,Right footed,S. Mavididi
+1,0.016699770465493202,Miss,76:29,Right footed,M. Kovačić
+1,0.015016808174550533,Miss,20:11,Left footed,P. Foden

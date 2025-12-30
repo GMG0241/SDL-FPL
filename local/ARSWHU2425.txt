@@ -1,0 +1,25 @@
+1,0.8090420961380005,Goal,43:24,Header,J. Bowen
+0,0.25769513845443726,Miss,13:56,Left footed,Mikel Merino
+1,0.209734708070755,Miss,25:42,Right footed,J. Bowen
+0,0.14332091808319092,Miss,62:48,Right footed,L. Trossard
+0,0.1362248659133911,Miss,84:05,Right footed,R. Sterling
+1,0.08758039772510529,Miss,17:52,Header,T. Souček
+0,0.0706111341714859,Miss,90+2:33,Header,Gabriel Magalhães
+0,0.0701640397310257,Miss,34:21,Left footed,R. Calafiori
+0,0.0625687912106514,Miss,84:10,Left footed,Gabriel Magalhães
+0,0.06225638836622238,Miss,58:57,Header,Mikel Merino
+1,0.0621139258146286,Miss,33:17,Header,T. Souček
+0,0.05966911092400551,Miss,89:55,Right footed,L. Trossard
+0,0.052177123725414276,Miss,61:44,Left footed,O. Zinchenko
+0,0.04799322411417961,Miss,90+5:17,Right footed,B. White
+0,0.045181721448898315,Miss,62:03,Right footed,L. Trossard
+0,0.034366995096206665,Miss,23:11,Right footed,L. Trossard
+0,0.03291093930602074,Miss,11:17,Left footed,M. Ødegaard
+0,0.030387943610548973,Miss,61:46,Right footed,O. Zinchenko
+0,0.029587989673018456,Miss,21:29,Left footed,R. Calafiori
+1,0.0266353040933609,Miss,74:14,Right footed,A. Wan-Bissaka
+0,0.02423200197517872,Miss,53:54,Right footed,L. Trossard
+0,0.02111467719078064,Miss,38:12,Left footed,M. Ødegaard
+0,0.018715614452958107,Miss,38:07,Right footed,D. Rice
+0,0.017944224178791046,Miss,40:47,Left footed,M. Ødegaard
+0,0.011839701794087887,Miss,23:09,Left footed,E. Nwaneri

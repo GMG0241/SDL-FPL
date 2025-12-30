@@ -1,0 +1,20 @@
+0,0.47870510816574097,Miss,32:55,Right footed,Omar Marmoush
+0,0.4705894887447357,Goal,28:59,Right footed,Omar Marmoush
+0,0.38770273327827454,Goal,1:49,Right footed,J. Grealish
+0,0.17780731618404388,Miss,58:58,Left footed,Omar Marmoush
+0,0.1613488644361496,Miss,36:31,Left footed,Savinho
+0,0.16101017594337463,Miss,42:18,Right footed,Omar Marmoush
+0,0.11913695186376572,Miss,1:10,Header,Omar Marmoush
+0,0.10407847911119461,Miss,54:17,Left footed,N. O'Reilly
+0,0.09189216047525406,Miss,55:19,Left footed,İ. Gündoğan
+0,0.07814224064350128,Miss,46:58,Right footed,J. Grealish
+1,0.0629,Miss,87:58,Header,Ricardo Pereira
+0,0.061757490038871765,Miss,90:16,Right footed,Omar Marmoush
+0,0.049760833382606506,Miss,34:55,Left footed,J. Gvardiol
+0,0.04968857392668724,Miss,34:57,Right footed,Omar Marmoush
+0,0.03728635236620903,Miss,84:58,Right footed,Omar Marmoush
+0,0.03574609011411667,Miss,39:01,Left footed,Savinho
+0,0.025083910673856735,Miss,41:38,Left footed,Omar Marmoush
+0,0.02039378136396408,Miss,90:19,Left footed,J. McAtee
+1,0.019171547144651413,Miss,15:52,Right footed,B. El Khannouss
+0,0.014475451782345772,Miss,78:07,Left footed,J. McAtee

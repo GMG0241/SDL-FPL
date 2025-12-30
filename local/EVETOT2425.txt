@@ -1,0 +1,23 @@
+0,0.48504090309143066,Miss,45+6:58,Header,D. Calvert-Lewin
+0,0.3561319410800934,Goal,29:33,Left footed,I. Ndiaye
+1,0.262259304523468,Miss,23:06,Right footed,Son Heung-Min
+1,0.24118563532829285,Goal,90+1:27,Left footed,Richarlison
+0,0.2233983278274536,Miss,25:40,Right footed,O. Mangala
+0,0.1946302354335785,Miss,45+5:36,Header,J. Tarkowski
+0,0.15472686290740967,Miss,10:39,Right footed,I. Ndiaye
+1,0.12276751548051834,Miss,76:20,Right footed,M. Moore
+0,0.11091447621583939,Miss,60:34,Left footed,D. Calvert-Lewin
+1,0.10789050161838531,Goal,76:22,Left footed,D. Kulusevski
+0,0.10753601044416428,Miss,25:45,Header,D. Calvert-Lewin
+1,0.09343135356903076,Miss,72:31,Right footed,J. Maddison
+0,0.08887074142694473,Miss,60:01,Left footed,V. Mykolenko
+0,0.08742811530828476,Goal,12:20,Right footed,D. Calvert-Lewin
+0,0.0870223343372345,Miss,70:35,Right footed,D. Calvert-Lewin
+1,0.08610692620277405,Miss,83:37,Left footed,Richarlison
+1,0.06576864421367645,Miss,26:32,Left footed,Son Heung-Min
+1,0.05991435423493385,Miss,83:38,Right footed,Richarlison
+1,0.03690376877784729,Miss,32:47,Right footed,L. Bergvall
+1,0.036235447973012924,Miss,21:35,Right footed,D. Spence
+0,0.03507360816001892,Miss,6:09,Right footed,J. Lindstrøm
+0,0.021121198311448097,Miss,52:18,Header,D. Calvert-Lewin
+1,0.019845010712742805,Miss,90+3:26,Right footed,J. Maddison

@@ -1,0 +1,26 @@
+1,0.676320493221283,Goal,81:38,Right footed,Rodrigo Muniz
+1,0.23220865428447723,Goal,60:51,Right footed,R. Jiménez
+0,0.16484852135181427,Goal,36:43,Right footed,J. Murphy
+0,0.15951144695281982,Miss,27:52,Left footed,F. Schär
+1,0.14623622596263885,Miss,49:27,Header,C. Bassey
+0,0.12104995548725128,Miss,62:47,Header,D. Burn
+1,0.08192253112792969,Miss,33:36,Header,Adama Traoré
+1,0.08026193827390671,Miss,29:59,Right footed,R. Jiménez
+0,0.0715661495923996,Miss,39:27,Right footed,T. Livramento
+1,0.06422120332717896,Miss,55:52,Right footed,R. Jiménez
+0,0.04829303175210953,Miss,26:02,Right footed,A. Gordon
+1,0.04776918888092041,Miss,47:49,Left footed,E. Smith Rowe
+0,0.04776816815137863,Miss,90+1:13,Header,L. Kelly
+0,0.04526285082101822,Miss,3:13,Header,Bruno Guimarães
+1,0.04209914803504944,Miss,59:04,Header,R. Jiménez
+0,0.03749055787920952,Miss,74:39,Right footed,A. Isak
+1,0.03625638410449028,Miss,45:23,Right footed,Adama Traoré
+1,0.03373873606324196,Miss,39:51,Right footed,R. Jiménez
+1,0.030599497258663177,Miss,64:48,Right footed,A. Robinson
+1,0.026808790862560272,Miss,45:52,Right footed,E. Smith Rowe
+0,0.02271561324596405,Miss,34:42,Right footed,S. Tonali
+1,0.021066857501864433,Miss,64:55,Right footed,Adama Traoré
+1,0.020612899214029312,Miss,38:53,Left footed,A. Robinson
+0,0.019543053582310677,Miss,14:17,Right footed,J. Murphy
+1,0.016018036752939224,Miss,58:36,Header,R. Jiménez
+0,0.012266108766198158,Miss,73:43,Right footed,A. Gordon

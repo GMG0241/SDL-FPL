@@ -1,0 +1,22 @@
+0,0.7884,Goal,68:14,Right footed,R. Jiménez
+1,0.7884,Goal,70:58,Right footed,L. Delap
+0,0.7884,Goal,90:18,Right footed,R. Jiménez
+1,0.28078439831733704,Miss,37:13,Other body part,B. Johnson
+1,0.20775626599788666,Goal,37:17,Right footed,S. Szmodics
+0,0.1592465341091156,Miss,19:53,Header,R. Jiménez
+0,0.12356936186552048,Miss,62:25,Header,E. Smith Rowe
+1,0.09637440741062164,Miss,82:25,Left footed,L. Davis
+1,0.07534490525722504,Miss,63:15,Right footed,N. Broadhead
+1,0.06989111006259918,Miss,88:34,Right footed,J. Clarke
+1,0.06970898807048798,Miss,47:22,Left footed,S. Szmodics
+0,0.06525523215532303,Miss,41:31,Left footed,H. Wilson
+0,0.05847582593560219,Miss,20:44,Right footed,R. Jiménez
+0,0.04819732531905174,Miss,41:53,Right footed,R. Jiménez
+0,0.03910316154360771,Miss,58:56,Left footed,A. Iwobi
+0,0.03846215456724167,Miss,21:04,Right footed,A. Iwobi
+0,0.037674929946660995,Miss,43:37,Left footed,H. Wilson
+0,0.03726667910814285,Miss,86:20,Left footed,H. Wilson
+0,0.017374956980347633,Miss,90+7:49,Right footed,Rodrigo Muniz
+0,0.01591869816184044,Miss,78:10,Header,R. Jiménez
+0,0.012854366563260555,Miss,44:05,Left footed,T. Cairney
+0,0.010631384328007698,Miss,12:31,Right footed,S. Lukić

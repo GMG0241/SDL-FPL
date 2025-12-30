@@ -1,0 +1,33 @@
+0,0.38831982016563416,Miss,18:49,Left footed,Marco Asensio
+1,0.312732994556427,Miss,80:42,Header,J. Willock
+1,0.2898305356502533,Goal,17:21,Header,F. Schär
+0,0.2524162530899048,Miss,60:16,Left footed,J. McGinn
+0,0.21018251776695251,Goal,63:49,Left footed,I. Maatsen
+0,0.20710489153862,Miss,26:50,Header,O. Watkins
+0,0.19403240084648132,Miss,74:14,Right footed,M. Rogers
+0,0.18128567934036255,Miss,26:52,Right footed,O. Watkins
+1,0.09965462982654572,Miss,43:25,Right footed,T. Livramento
+1,0.08553749322891235,Miss,45+1:05,Right footed,Bruno Guimarães
+0,0.08381620794534683,Miss,52:10,Left footed,I. Maatsen
+0,0.08040682971477509,Miss,4:39,Left footed,O. Watkins
+0,0.07740408182144165,Miss,78:20,Right footed,J. Ramsey
+0,0.07550669461488724,Miss,52:07,Header,Y. Tielemans
+0,0.06945303082466125,Goal,74:20,Right footed,A. Onana
+1,0.06558921933174133,Miss,67:18,Right footed,Joelinton
+0,0.06331556290388107,Miss,55:20,Left footed,M. Rogers
+0,0.06002361327409744,Miss,36:24,Left footed,M. Rogers
+0,0.0599469356238842,Miss,90+1:54,Right footed,D. Malen
+0,0.05456697940826416,Miss,60:22,Right footed,M. Rogers
+1,0.05371502786874771,Miss,3:36,Right footed,H. Barnes
+0,0.05310966446995735,Miss,49:58,Left footed,J. McGinn
+1,0.05011077597737312,Miss,62:31,Right footed,A. Isak
+0,0.04953153058886528,Miss,27:16,Left footed,Marco Asensio
+0,0.04019341245293617,Goal,0:33,Right footed,O. Watkins
+0,0.03165585175156593,Miss,56:44,Header,T. Mings
+0,0.03150692209601402,Miss,42:13,Left footed,O. Watkins
+1,0.028838610276579857,Miss,34:14,Header,D. Burn
+1,0.025284521281719208,Miss,33:22,Right footed,S. Tonali
+0,0.02089773863554001,Miss,15:03,Left footed,B. Kamara
+0,0.017578940838575363,Miss,15:46,Left footed,I. Maatsen
+1,0.011173762381076813,Miss,3:33,Header,D. Burn
+0,0.010358775965869427,Miss,90+2:52,Right footed,R. Barkley

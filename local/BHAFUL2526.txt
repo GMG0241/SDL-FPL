@@ -1,0 +1,17 @@
+0,0.7884,Goal,54:28,Left footed,M. O'Riley
+0,0.37882739305496216,Miss,88:59,Right footed,B. Gruda
+1,0.17678852379322052,Miss,47:51,Left footed,J. King
+1,0.16306081414222717,Miss,47:54,Right footed,R. Jiménez
+1,0.14796783030033112,Goal,90+6:00,Left footed,Rodrigo Muniz
+1,0.10822069644927979,Miss,1:17,Left footed,R. Jiménez
+0,0.09337938576936722,Miss,86:13,Header,L. Dunk
+0,0.08498968183994293,Miss,64:54,Left footed,Y. Minteh
+0,0.07070936262607574,Miss,27:42,Header,K. Mitoma
+1,0.057289812713861465,Miss,90+5:38,Right footed,E. Smith Rowe
+1,0.0565899983048439,Miss,42:44,Header,H. Wilson
+0,0.03454844653606415,Miss,37:18,Left footed,G. Rutter
+0,0.031263016164302826,Miss,25:04,Right footed,G. Rutter
+0,0.026703588664531708,Miss,75:46,Right footed,D. Gómez
+0,0.0200505331158638,Miss,42:03,Header,M. Wieffer
+0,0.015912730246782303,Miss,13:54,Right footed,C. Baleba
+1,0.010763050988316536,Miss,57:44,Right footed,A. Iwobi

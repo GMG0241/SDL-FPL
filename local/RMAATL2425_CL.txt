@@ -1,0 +1,19 @@
+0,0.1554429531097412,Goal,3:28,Left footed,Rodrygo
+0,0.10373949259519577,Miss,73:38,Header,Raúl Asencio
+0,0.10283537209033966,Miss,90:32,Right footed,L. Modrić
+0,0.09512075781822205,Goal,54:22,Right footed,Brahim Díaz
+0,0.05730770155787468,Miss,12:03,Right footed,Vinícius Júnior
+1,0.04936763644218445,Miss,52:56,Right footed,R. De Paul
+1,0.046834737062454224,Miss,16:40,Right footed,G. Simeone
+1,0.029689069837331772,Miss,26:18,Right footed,Pablo Barrios
+1,0.02916586957871914,Miss,59:46,Right footed,A. Griezmann
+0,0.029085425660014153,Miss,90+2:52,Left footed,Vinícius Júnior
+1,0.02668309584259987,Goal,31:43,Right footed,J. Alvarez
+0,0.026354139670729637,Miss,46:33,Left footed,K. Mbappé
+0,0.025900011882185936,Miss,44:53,Right footed,F. Valverde
+0,0.022251348942518234,Miss,64:50,Right footed,F. Mendy
+1,0.021368226036429405,Miss,60:46,Right footed,J. Giménez
+0,0.019137445837259293,Miss,68:25,Right footed,Rodrygo
+0,0.015691043809056282,Miss,35:55,Right footed,A. Rüdiger
+0,0.014917494729161263,Miss,72:14,Right footed,A. Rüdiger
+0,0.012830065563321114,Miss,21:44,Right footed,Vinícius Júnior

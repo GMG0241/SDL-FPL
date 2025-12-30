@@ -1,0 +1,17 @@
+1,0.5088300108909607,Miss,82:09,Header,João Gomes
+0,0.3410370349884033,Miss,89:06,Left footed,J. Vardy
+1,0.2599603235721588,Goal,35:29,Other body part,Rodrigo Gomes
+0,0.12206395715475082,Miss,42:17,Left footed,J. Vardy
+0,0.10588002949953079,Miss,80:36,Left footed,J. Vardy
+1,0.09461439400911331,Goal,43:17,Right footed,Matheus Cunha
+1,0.09285886585712433,Miss,84:02,Right footed,João Gomes
+0,0.0718027874827385,Miss,59:24,Right footed,J. Ayew
+0,0.053572677075862885,Miss,56:48,Right footed,J. Vardy
+1,0.051678817719221115,Miss,68:45,Header,S. Bueno
+0,0.04970617592334747,Miss,62:41,Header,J. Vardy
+1,0.04550069943070412,Goal,18:51,Right footed,Gonçalo Guedes
+1,0.0388840027153492,Miss,71:42,Right footed,Matheus Cunha
+0,0.02759604901075363,Miss,24:35,Right footed,S. Mavididi
+0,0.024195745587348938,Miss,23:34,Left footed,J. Justin
+1,0.02038903534412384,Miss,24:10,Right footed,Matheus Cunha
+0,0.005158135201781988,Miss,45:22,Right footed,J. Vardy

@@ -1,0 +1,29 @@
+0,0.7884,Miss,37:51,Right footed,Evanilson
+1,0.3004027009010315,Goal,85:08,Right footed,C. Nkunku
+1,0.19063933193683624,Miss,65:36,Right footed,N. Jackson
+0,0.17079192399978638,Miss,22:17,Right footed,J. Kluivert
+0,0.12368424981832504,Miss,51:19,Right footed,J. Kluivert
+0,0.09160763770341873,Miss,83:17,Right footed,L. Sinisterra
+0,0.08633637428283691,Miss,7:08,Header,Evanilson
+0,0.07984964549541473,Miss,58:09,Left footed,R. Christie
+0,0.07940006256103516,Miss,16:58,Left footed,M. Tavernier
+1,0.07546470314264297,Miss,55:29,Right footed,N. Jackson
+0,0.05605832859873772,Miss,90+4:46,Header,E. Ünal
+1,0.05143777281045914,Miss,19:38,Left footed,N. Madueke
+0,0.051073599606752396,Miss,38:24,Left footed,M. Kerkez
+0,0.04859061911702156,Miss,88:33,Right footed,A. Semenyo
+1,0.04805630072951317,Miss,5:44,Right footed,N. Madueke
+1,0.04058205336332321,Miss,33:36,Left footed,N. Jackson
+0,0.03851088136434555,Miss,57:24,Right footed,A. Semenyo
+0,0.032052185386419296,Miss,45+1:09,Right footed,Evanilson
+0,0.02815479412674904,Miss,90+4:39,Right footed,E. Ünal
+1,0.02702062577009201,Miss,15:53,Header,Renato Veiga
+0,0.024566104635596275,Miss,3:31,Left footed,M. Tavernier
+1,0.02314596436917782,Miss,63:52,Right footed,M. Caicedo
+0,0.01964573934674263,Miss,43:44,Right footed,L. Cook
+0,0.017120780423283577,Miss,23:14,Right footed,L. Cook
+0,0.016747616231441498,Miss,49:47,Left footed,M. Kerkez
+0,0.014985742047429085,Miss,12:05,Right footed,A. Semenyo
+1,0.014625053852796555,Miss,77:53,Left footed,Renato Veiga
+1,0.00901166070252657,Miss,16:01,Left footed,N. Madueke
+0,0.008179948665201664,Miss,45:46,Right footed,L. Cook

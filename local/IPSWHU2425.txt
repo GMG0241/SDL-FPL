@@ -1,0 +1,24 @@
+1,0.3694174587726593,Goal,42:13,Right footed,J. Ward-Prowse
+0,0.18969233334064484,Miss,66:03,Left footed,C. Chaplin
+0,0.17415808141231537,Miss,88:03,Right footed,O. Hutchinson
+1,0.17379724979400635,Miss,27:48,Right footed,N. Füllkrug
+1,0.1195651963353157,Miss,38:27,Right footed,J. Ward-Prowse
+1,0.08331643044948578,Miss,50:22,Left footed,T. Souček
+1,0.07920319586992264,Goal,86:18,Left footed,M. Kudus
+1,0.07565243542194366,Miss,33:03,Left footed,Edson Álvarez
+0,0.06280943006277084,Miss,89:01,Right footed,J. Clarke
+0,0.05887538194656372,Miss,23:59,Right footed,N. Broadhead
+0,0.05223098397254944,Miss,0:33,Left footed,C. Chaplin
+0,0.04249400272965431,Goal,51:41,Right footed,N. Broadhead
+0,0.041710395365953445,Miss,81:20,Right footed,J. Clarke
+1,0.039063792675733566,Miss,38:25,Left footed,J. Bowen
+0,0.03683239221572876,Miss,90+5:08,Right footed,L. Delap
+1,0.03041187860071659,Miss,3:17,Right footed,J. Bowen
+0,0.02913079783320427,Miss,61:59,Left footed,O. Hutchinson
+1,0.02590477280318737,Goal,54:41,Left footed,J. Bowen
+0,0.02517939917743206,Miss,9:35,Header,J. Greaves
+0,0.023353107273578644,Miss,24:07,Left footed,O. Hutchinson
+1,0.022738462314009666,Miss,33:17,Left footed,J. Bowen
+0,0.021756872534751892,Miss,11:29,Right footed,O. Hutchinson
+0,0.01868423819541931,Miss,25:44,Right footed,Sam Morsy
+0,0.01643431931734085,Miss,59:29,Right footed,Sam Morsy

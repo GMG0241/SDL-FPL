@@ -1,0 +1,32 @@
+1,0.9643241763114929,Goal,76:00,Left footed,C. Palmer
+0,0.7052807807922363,Goal,10:08,Left footed,J. Aribo
+1,0.6396371126174927,Goal,16:25,Right footed,C. Nkunku
+1,0.500856876373291,Miss,45+3:16,Right footed,João Félix
+1,0.45485639572143555,Miss,23:55,Right footed,C. Palmer
+1,0.3373834490776062,Miss,20:53,Right footed,N. Madueke
+0,0.33312851190567017,Miss,57:59,Left footed,Mateus Fernandes
+1,0.2793689966201782,Miss,53:56,Right footed,N. Madueke
+1,0.260777086019516,Miss,53:54,Left footed,C. Palmer
+1,0.2503458559513092,Miss,68:57,Right footed,N. Madueke
+1,0.24522219598293304,Goal,6:32,Header,A. Disasi
+0,0.22603482007980347,Miss,1:47,Left footed,J. Aribo
+0,0.19269497692584991,Miss,39:48,Header,Mateus Fernandes
+1,0.18950645625591278,Miss,84:46,Right footed,C. Nkunku
+1,0.18035443127155304,Miss,75:59,Left footed,C. Nkunku
+1,0.14415498077869415,Miss,64:19,Left footed,N. Madueke
+1,0.14097900688648224,Miss,24:35,Header,T. Adarabioyo
+1,0.13806648552417755,Miss,35:43,Header,C. Nkunku
+1,0.1274113655090332,Goal,86:21,Right footed,J. Sancho
+1,0.11493575572967529,Miss,45:29,Header,João Félix
+1,0.0962749719619751,Goal,33:28,Left footed,N. Madueke
+1,0.08450660854578018,Miss,58:14,Left footed,C. Palmer
+1,0.07443688064813614,Miss,21:33,Right footed,João Félix
+0,0.07163836807012558,Miss,31:47,Right footed,C. Archer
+1,0.06644053757190704,Miss,29:44,Right footed,E. Fernández
+1,0.04030555114150047,Miss,45+4:20,Left footed,N. Madueke
+1,0.040073852986097336,Miss,45+1:45,Right footed,M. Caicedo
+1,0.03381812199950218,Miss,52:19,Left footed,T. Adarabioyo
+1,0.03231674060225487,Miss,20:57,Left footed,C. Palmer
+1,0.03208867833018303,Miss,20:52,Left footed,N. Madueke
+0,0.03141035884618759,Miss,36:32,Left footed,C. Archer
+1,0.031161366030573845,Miss,52:24,Left footed,C. Palmer

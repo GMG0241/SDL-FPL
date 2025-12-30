@@ -1,0 +1,21 @@
+0,0.6975670456886292,Goal,18:53,Right footed,J. Murphy
+0,0.4605950713157654,Goal,51:03,Right footed,A. Gordon
+1,0.3915499746799469,Miss,89:31,Header,M. Lewis-Skelly
+0,0.2706378996372223,Miss,48:11,Right footed,A. Gordon
+1,0.12401871383190155,Miss,18:02,Right footed,M. Ødegaard
+1,0.10296988487243652,Miss,22:45,Right footed,L. Trossard
+1,0.09604281187057495,Miss,17:40,Left footed,M. Ødegaard
+0,0.06810995191335678,Miss,45:36,Right footed,A. Gordon
+0,0.05513691529631615,Miss,35:20,Left footed,F. Schär
+0,0.05393882840871811,Miss,45+1:38,Left footed,A. Gordon
+1,0.04802527278661728,Miss,85:18,Left footed,K. Havertz
+1,0.04019032046198845,Miss,20:55,Right footed,M. Ødegaard
+0,0.03970160335302353,Miss,87:42,Right footed,Bruno Guimarães
+1,0.03878369927406311,Miss,73:25,Left footed,E. Nwaneri
+0,0.03735428676009178,Miss,18:51,Left footed,A. Isak
+0,0.03576028347015381,Miss,58:57,Right footed,A. Isak
+1,0.029032176360487938,Miss,88:37,Left footed,D. Rice
+1,0.026256294921040535,Miss,32:02,Left footed,Gabriel Martinelli
+1,0.022853238508105278,Miss,21:31,Left footed,M. Ødegaard
+1,0.022084228694438934,Miss,48:47,Left footed,L. Trossard
+0,0.015970725566148758,Miss,9:49,Header,S. Botman

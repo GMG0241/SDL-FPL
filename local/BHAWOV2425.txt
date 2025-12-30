@@ -1,0 +1,33 @@
+0,0.4513612389564514,Goal,44:36,Right footed,D. Welbeck
+1,0.23424752056598663,Miss,8:09,Right footed,T. Doyle
+1,0.20892155170440674,Miss,70:42,Header,S. Bueno
+1,0.1830935925245285,Miss,74:49,Header,J. Strand Larsen
+1,0.17478440701961517,Miss,87:39,Right footed,C. Dawson
+1,0.16383758187294006,Miss,83:16,Header,C. Dawson
+0,0.11012478917837143,Miss,31:23,Left footed,K. Mitoma
+1,0.07954210042953491,Miss,66:49,Left footed,Matheus Cunha
+0,0.07707911729812622,Miss,36:16,Right footed,G. Rutter
+0,0.07592012733221054,Goal,84:50,Right footed,E. Ferguson
+0,0.0715121477842331,Miss,4:50,Header,D. Welbeck
+0,0.06655962020158768,Miss,61:17,Left footed,D. Welbeck
+0,0.06270795315504074,Miss,21:30,Right footed,K. Mitoma
+0,0.06224018707871437,Miss,19:57,Header,G. Rutter
+1,0.0604667142033577,Miss,87:37,Header,Matheus Cunha
+1,0.056045543402433395,Goal,87:41,Left footed,R. Aït-Nouri
+1,0.052879322320222855,Miss,52:13,Other body part,J. Strand Larsen
+1,0.05116206407546997,Goal,90+2:19,Right footed,Matheus Cunha
+0,0.05080568045377731,Miss,63:49,Right footed,Y. Ayari
+0,0.04286142811179161,Miss,38:05,Right footed,G. Rutter
+1,0.041197843849658966,Miss,32:32,Left footed,Nélson Semedo
+0,0.03784589096903801,Miss,12:07,Header,D. Welbeck
+0,0.03620394691824913,Miss,49:53,Left footed,P. Estupiñán
+0,0.03378882259130478,Miss,22:09,Left footed,C. Baleba
+0,0.03192863613367081,Miss,42:04,Left footed,K. Mitoma
+1,0.03132927790284157,Miss,37:03,Right footed,João Gomes
+0,0.02820984087884426,Miss,38:07,Right footed,C. Baleba
+0,0.02508433535695076,Miss,32:52,Left footed,K. Mitoma
+0,0.021912554278969765,Miss,69:16,Left footed,C. Baleba
+0,0.01505504734814167,Miss,25:19,Right footed,J. Veltman
+1,0.013588380999863148,Miss,90:49,Right footed,Matheus Cunha
+1,0.013067777268588543,Miss,90:34,Right footed,Matheus Cunha
+0,0.007917292416095734,Miss,58:21,Header,G. Rutter

@@ -1,0 +1,16 @@
+1,0.17488674819469452,Miss,50:00,Left footed,S. Adingra
+1,0.16160976886749268,Goal,58:07,Right footed,K. Mitoma
+0,0.14451847970485687,Miss,56:14,Right footed,W. Burns
+1,0.12617656588554382,Miss,21:09,Header,J. van Hecke
+1,0.10753375291824341,Miss,64:39,Left footed,Y. Minteh
+1,0.10705730319023132,Goal,81:01,Right footed,G. Rutter
+1,0.06903757899999619,Miss,21:14,Header,João Pedro
+1,0.066127710044384,Miss,67:56,Left footed,G. Rutter
+1,0.05638222023844719,Miss,66:11,Left footed,João Pedro
+0,0.05385912209749222,Miss,37:55,Left footed,O. Hutchinson
+0,0.049897655844688416,Miss,22:11,Right footed,N. Broadhead
+1,0.0452161580324173,Miss,39:36,Header,P. Estupiñán
+1,0.03596830740571022,Miss,72:43,Left footed,João Pedro
+1,0.022107066586613655,Miss,12:33,Right footed,K. Mitoma
+0,0.01869773305952549,Miss,42:03,Right footed,O. Hutchinson
+0,0.016314487904310226,Miss,27:58,Right footed,L. Delap

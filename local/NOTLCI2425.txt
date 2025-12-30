@@ -1,0 +1,25 @@
+1,0.40589722990989685,Goal,15:26,Header,C. Coady
+0,0.28353187441825867,Miss,43:03,Header,C. Wood
+0,0.19339920580387115,Goal,24:52,Header,M. Gibbs-White
+0,0.18597683310508728,Goal,55:16,Header,C. Wood
+1,0.16855928301811218,Miss,68:44,Header,W. Faes
+0,0.15204927325248718,Miss,3:59,Header,C. Wood
+1,0.14935500919818878,Miss,75:18,Header,K. McAteer
+1,0.13478456437587738,Miss,90+6:27,Left footed,J. Monga
+0,0.10321959853172302,Miss,43:00,Right footed,N. Domínguez
+1,0.09538774192333221,Goal,80:46,Right footed,F. Buonanotte
+0,0.08058594912290573,Miss,52:21,Header,N. Domínguez
+0,0.0694952979683876,Miss,2:15,Left footed,C. Wood
+1,0.06531959772109985,Miss,15:25,Right footed,B. El Khannouss
+0,0.061573658138513565,Miss,42:16,Right footed,E. Anderson
+0,0.05117762088775635,Miss,90+1:28,Right footed,R. Yates
+0,0.04673152044415474,Miss,54:36,Header,C. Wood
+0,0.03526677191257477,Miss,40:13,Right footed,M. Gibbs-White
+1,0.03144385665655136,Miss,65:47,Header,F. Buonanotte
+0,0.028354501351714134,Miss,57:07,Right footed,A. Elanga
+1,0.021608274430036545,Miss,51:27,Right footed,J. Justin
+0,0.02055087871849537,Miss,90+6:11,Right footed,M. Gibbs-White
+0,0.018757089972496033,Miss,19:19,Right footed,M. Gibbs-White
+1,0.013131513260304928,Miss,45+1:42,Header,J. Vardy
+1,0.012567120604217052,Miss,90+5:10,Left footed,J. Monga
+0,0.008961398154497147,Miss,79:51,Right footed,M. Gibbs-White

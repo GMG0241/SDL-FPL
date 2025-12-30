@@ -1,0 +1,18 @@
+0,0.6420601010322571,Miss,20:06,Right footed,M. Kudus
+0,0.5487005114555359,Goal,20:08,Left footed,T. Souček
+0,0.26009833812713623,Miss,90+1:44,Header,K. Mavropanos
+0,0.11271917819976807,Miss,79:43,Right footed,E. Ferguson
+1,0.06783147901296616,Miss,72:12,Left footed,W. Ndidi
+1,0.05767223984003067,Miss,66:50,Header,J. Vestergaard
+0,0.054008204489946365,Miss,42:20,Right footed,J. Bowen
+1,0.04746473953127861,Miss,68:47,Right footed,J. Justin
+1,0.04451639577746391,Miss,1:45,Right footed,W. Ndidi
+1,0.03840690851211548,Miss,66:25,Right footed,B. El Khannouss
+1,0.03429238498210907,Miss,45+1:15,Right footed,J. Justin
+1,0.033823490142822266,Miss,82:09,Left footed,V. Kristiansen
+1,0.032877784222364426,Miss,61:00,Left footed,S. Mavididi
+0,0.03008379600942135,Miss,38:10,Left footed,J. Bowen
+1,0.024571944028139114,Miss,81:06,Right footed,W. Faes
+0,0.020317431539297104,Miss,54:18,Left footed,O. Scarles
+0,0.012215201742947102,Miss,25:03,Header,M. Kilman
+1,0.008058659732341766,Miss,59:55,Header,W. Ndidi

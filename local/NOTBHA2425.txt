@@ -1,0 +1,24 @@
+0,0.8337903618812561,Goal,63:19,Right footed,C. Wood
+0,0.7884,Goal,68:59,Right footed,C. Wood
+0,0.5039964318275452,Goal,31:03,Header,C. Wood
+0,0.35529160499572754,Miss,88:39,Left footed,T. Awoniyi
+0,0.2887125611305237,Goal,88:42,Right footed,N. Williams
+1,0.2535379230976105,Miss,26:10,Left footed,Y. Minteh
+0,0.16857513785362244,Miss,36:24,Left footed,A. Elanga
+1,0.13835012912750244,Miss,38:06,Right footed,D. Welbeck
+0,0.11977409571409225,Miss,27:52,Right footed,N. Williams
+1,0.11227498948574066,Miss,35:45,Left footed,Y. Minteh
+1,0.10776107013225555,Miss,87:36,Header,G. Rutter
+0,0.07012390345335007,Goal,24:39,Header,M. Gibbs-White
+0,0.0617905929684639,Goal,90:37,Right footed,Jota Silva
+0,0.06064826622605324,Miss,66:25,Right footed,M. Gibbs-White
+1,0.0582394115626812,Miss,87:16,Left footed,M. O'Riley
+1,0.0518585741519928,Miss,15:24,Right footed,J. Hinshelwood
+0,0.05124087259173393,Miss,18:37,Right footed,A. Elanga
+1,0.0503857396543026,Miss,2:21,Right footed,João Pedro
+1,0.04197578504681587,Miss,29:56,Right footed,T. Lamptey
+0,0.041267845779657364,Miss,29:29,Other body part,M. Gibbs-White
+0,0.03541622683405876,Miss,28:49,Right footed,C. Wood
+1,0.03486863151192665,Miss,90+5:59,Left footed,G. Rutter
+1,0.03086300753057003,Miss,48:24,Right footed,S. Adingra
+0,0.02950241044163704,Miss,90+4:49,Left footed,Jota Silva

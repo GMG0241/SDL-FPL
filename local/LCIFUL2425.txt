@@ -1,0 +1,25 @@
+1,0.812775731086731,Goal,47:20,Header,E. Smith Rowe
+1,0.34551897644996643,Miss,86:05,Left footed,Rodrigo Muniz
+0,0.2785918116569519,Miss,27:52,Right footed,V. Kristiansen
+1,0.2706993818283081,Miss,42:14,Left footed,C. Bassey
+1,0.16521413624286652,Miss,47:18,Header,S. Lukić
+0,0.1306176334619522,Miss,1:09,Right footed,J. Ayew
+1,0.12808966636657715,Goal,67:25,Right footed,Adama Traoré
+1,0.06834788620471954,Miss,90+4:26,Left footed,T. Cairney
+1,0.0621919110417366,Miss,36:51,Right footed,A. Iwobi
+0,0.05921752005815506,Miss,83:26,Right footed,O. Skipp
+1,0.05895242840051651,Miss,42:13,Left footed,A. Robinson
+0,0.05338214710354805,Miss,61:20,Right footed,J. Ayew
+1,0.0482964850962162,Miss,69:32,Right footed,R. Jiménez
+1,0.039925605058670044,Miss,36:53,Left footed,A. Robinson
+1,0.03958128020167351,Miss,20:09,Right footed,E. Smith Rowe
+1,0.03706105425953865,Miss,10:05,Left footed,A. Iwobi
+0,0.036762796342372894,Miss,55:19,Left footed,S. Mavididi
+0,0.03393522650003433,Miss,2:42,Right footed,J. Ayew
+1,0.029149027541279793,Miss,10:15,Left footed,H. Wilson
+0,0.025764767080545425,Miss,56:44,Left footed,H. Winks
+1,0.02533172443509102,Miss,52:29,Header,R. Jiménez
+1,0.023353107273578644,Miss,35:18,Left footed,C. Bassey
+1,0.020264174789190292,Miss,26:49,Header,S. Lukić
+0,0.02012997306883335,Miss,38:37,Header,J. Vardy
+1,0.019678160548210144,Miss,69:41,Left footed,S. Lukić

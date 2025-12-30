@@ -1,0 +1,30 @@
+0,0.48802119493484497,Miss,79:47,Header,S. van den Berg
+1,0.22331053018569946,Miss,0:54,Header,C. Nkunku
+0,0.21042296290397644,Miss,2:24,Left footed,Y. Wissa
+1,0.16354528069496155,Miss,45+1:56,Header,T. Adarabioyo
+0,0.10730116814374924,Miss,26:20,Right footed,M. Damsgaard
+1,0.09970121085643768,Miss,89:33,Left footed,E. Fernández
+0,0.09211385995149612,Miss,78:49,Left footed,B. Mbeumo
+0,0.0896419882774353,Miss,19:33,Left footed,Y. Wissa
+0,0.08175500482320786,Miss,80:37,Header,Y. Wissa
+1,0.07937068492174149,Miss,48:45,Right footed,N. Jackson
+1,0.07262841612100601,Miss,90+3:51,Left footed,C. Palmer
+1,0.07227965444326401,Miss,71:17,Left footed,Pedro Neto
+1,0.07170651853084564,Miss,71:14,Left footed,C. Palmer
+1,0.07092506438493729,Miss,12:21,Right footed,J. Sancho
+0,0.0686701238155365,Miss,36:05,Header,K. Lewis-Potter
+1,0.06476609408855438,Miss,71:20,Left footed,N. Jackson
+0,0.057779308408498764,Miss,31:05,Left footed,B. Mbeumo
+1,0.05546772852540016,Miss,63:25,Right footed,C. Palmer
+1,0.051413118839263916,Miss,77:22,Left footed,Pedro Neto
+1,0.04213246703147888,Miss,60:08,Left footed,Pedro Neto
+1,0.04186893254518509,Miss,63:02,Header,R. James
+1,0.03781227394938469,Miss,73:51,Right footed,E. Fernández
+1,0.03428802639245987,Miss,33:38,Left footed,N. Madueke
+1,0.03361647203564644,Miss,62:01,Left footed,Pedro Neto
+0,0.027444371953606606,Miss,29:01,Right footed,M. Damsgaard
+1,0.023877380415797234,Miss,53:53,Header,T. Chalobah
+1,0.023048032075166702,Miss,60:51,Left footed,M. Gusto
+1,0.020151842385530472,Miss,90:28,Right footed,E. Fernández
+1,0.02002132683992386,Miss,52:50,Right footed,R. James
+1,0.018090201541781425,Miss,87:22,Right footed,E. Fernández

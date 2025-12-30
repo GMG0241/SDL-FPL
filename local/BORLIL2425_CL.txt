@@ -1,0 +1,16 @@
+1,0.43136918544769287,Goal,67:08,Right footed,H. Haraldsson
+1,0.10966372489929199,Miss,52:59,Right footed,J. David
+1,0.1052262932062149,Miss,87:58,Header,J. David
+0,0.07854016870260239,Miss,9:42,Left footed,S. Guirassy
+1,0.07406967133283615,Miss,53:03,Left footed,E. Mbappé
+0,0.05721239745616913,Miss,45+1:09,Header,E. Can
+1,0.05255025252699852,Miss,62:05,Left footed,E. Mbappé
+0,0.040925998240709305,Goal,21:14,Left footed,K. Adeyemi
+1,0.03945349529385567,Miss,42:56,Right footed,T. Meunier
+1,0.036946382373571396,Miss,1:34,Right footed,B. André
+0,0.03279251605272293,Miss,73:42,Right footed,M. Beier
+0,0.030509229749441147,Miss,45:44,Right footed,J. Brandt
+0,0.02851112186908722,Miss,2:29,Left footed,K. Adeyemi
+1,0.01833532378077507,Miss,7:33,Left footed,Alexsandro Ribeiro
+0,0.015457999892532825,Miss,37:23,Right footed,N. Schlotterbeck
+1,0.010520842857658863,Miss,25:51,Left footed,N. Mukau

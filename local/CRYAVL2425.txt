@@ -1,0 +1,25 @@
+0,0.9678328633308411,Goal,90:32,Right footed,E. Nketiah
+0,0.8315348029136658,Goal,28:18,Right footed,I. Sarr
+0,0.7779531478881836,Miss,37:03,Right footed,I. Sarr
+0,0.5580927133560181,Miss,73:17,Left footed,T. Mitchell
+0,0.3746050000190735,Miss,37:02,Left footed,I. Sarr
+0,0.27163609862327576,Miss,39:13,Right footed,J. Mateta
+0,0.17537158727645874,Miss,33:58,Right footed,E. Eze
+0,0.16617195308208466,Goal,70:43,Right footed,I. Sarr
+0,0.13484826683998108,Goal,58:52,Left footed,J. Mateta
+1,0.1314811110496521,Goal,51:03,Left footed,M. Rogers
+0,0.07671838253736496,Miss,58:14,Header,J. Lerma
+1,0.07399220019578934,Miss,55:30,Header,A. Disasi
+0,0.06598278880119324,Miss,50:24,Right footed,E. Eze
+1,0.06036454811692238,Miss,67:09,Header,E. Konsa
+1,0.04735681414604187,Miss,20:12,Header,Y. Tielemans
+0,0.041526004672050476,Miss,45+3:10,Header,T. Mitchell
+1,0.04083450138568878,Miss,80:27,Left footed,L. Bailey
+0,0.034232430160045624,Miss,46:50,Left footed,E. Eze
+0,0.029220841825008392,Miss,78:50,Right footed,D. Muñoz
+0,0.028175756335258484,Miss,57:03,Right footed,E. Eze
+0,0.028126781806349754,Miss,58:17,Left footed,A. Wharton
+0,0.02427840232849121,Miss,28:16,Header,C. Richards
+1,0.023087020963430405,Miss,90+5:18,Header,Y. Tielemans
+0,0.018826698884367943,Miss,68:37,Left footed,M. Lacroix
+0,0.017175791785120964,Miss,46:42,Right footed,W. Hughes

@@ -1,0 +1,16 @@
+0,0.4639483690261841,Miss,90+4:08,Header,D. Jebbison
+1,0.3622131049633026,Goal,45+5:32,Left footed,O. Watkins
+1,0.34919068217277527,Miss,45+1:35,Header,B. Kamara
+1,0.10662101209163666,Miss,13:03,Right footed,J. Ramsey
+0,0.08807086944580078,Miss,90+4:07,Right footed,A. Semenyo
+1,0.07604151964187622,Miss,42:47,Left footed,Marco Asensio
+0,0.07542473822832108,Miss,81:45,Header,Evanilson
+1,0.059158291667699814,Miss,45:29,Left footed,B. Kamara
+0,0.0454140268266201,Miss,19:35,Header,Evanilson
+1,0.03909643366932869,Miss,45+1:37,Header,M. Cash
+0,0.037377726286649704,Miss,80:41,Right footed,A. Semenyo
+0,0.034257642924785614,Miss,90:35,Header,M. Senesi
+0,0.03151705116033554,Miss,82:25,Left footed,M. Kerkez
+0,0.030321452766656876,Miss,26:14,Right footed,A. Scott
+0,0.026561865583062172,Miss,85:35,Header,I. Zabarnyi
+0,0.009055054746568203,Miss,68:00,Left footed,M. Tavernier

@@ -1,0 +1,36 @@
+0,0.8888927698135376,Goal,89:52,Right footed,Fábio Carvalho
+0,0.7884,Goal,19:59,Left footed,B. Mbeumo
+0,0.5282421708106995,Goal,1:16,Header,N. Collins
+0,0.3218744993209839,Miss,73:19,Right footed,K. Schade
+0,0.3135598301887512,Goal,27:20,Right footed,C. Nørgaard
+1,0.289233535528183,Goal,3:57,Right footed,Matheus Cunha
+0,0.24843692779541016,Miss,2:36,Header,K. Lewis-Potter
+0,0.2150314450263977,Miss,29:31,Header,K. Schade
+0,0.18668489158153534,Miss,64:53,Header,N. Collins
+1,0.1625785231590271,Goal,25:53,Right footed,J. Strand Larsen
+1,0.1557544320821762,Miss,90+2:37,Header,M. Lemina
+0,0.1529962420463562,Miss,90+4:41,Right footed,Y. Konak
+0,0.13925504684448242,Miss,74:25,Header,S. van den Berg
+0,0.08915286511182785,Miss,64:12,Header,E. Pinnock
+0,0.08717416226863861,Miss,53:59,Left footed,V. Janelt
+0,0.0760434940457344,Miss,30:17,Header,E. Pinnock
+1,0.056434061378240585,Goal,90+2:50,Left footed,R. Aït-Nouri
+1,0.055968355387449265,Miss,80:43,Left footed,Matheus Cunha
+0,0.0549786277115345,Miss,85:53,Left footed,B. Mbeumo
+1,0.04950539767742157,Miss,51:17,Right footed,Matheus Cunha
+1,0.049278032034635544,Miss,87:25,Header,C. Dawson
+0,0.045868318527936935,Miss,5:39,Header,S. van den Berg
+0,0.0424964502453804,Miss,6:22,Header,C. Nørgaard
+1,0.04048486426472664,Miss,79:13,Right footed,Gonçalo Guedes
+1,0.03722652420401573,Miss,32:32,Header,M. Lemina
+1,0.03540877625346184,Miss,9:42,Right footed,Nélson Semedo
+0,0.032348040491342545,Miss,53:56,Right footed,C. Nørgaard
+0,0.028776729479432106,Goal,45+1:05,Header,E. Pinnock
+1,0.023176074028015137,Miss,34:24,Right footed,Matheus Cunha
+1,0.02311544679105282,Miss,55:26,Right footed,Matheus Cunha
+1,0.021272961050271988,Miss,39:34,Right footed,João Gomes
+1,0.01726337894797325,Miss,68:11,Right footed,M. Lemina
+1,0.014653785154223442,Miss,58:13,Right footed,M. Lemina
+1,0.011791525408625603,Miss,21:39,Right footed,André
+1,0.011035948060452938,Miss,25:13,Left footed,Toti Gomes
+0,0.009394235908985138,Miss,66:13,Left footed,V. Janelt

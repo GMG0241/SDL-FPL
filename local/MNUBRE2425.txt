@@ -1,0 +1,31 @@
+1,0.4193958342075348,Goal,45+4:57,Header,E. Pinnock
+0,0.40059757232666016,Goal,61:57,Left footed,R. Højlund
+0,0.16717837750911713,Miss,67:57,Right footed,Diogo Dalot
+0,0.1382206380367279,Goal,46:30,Right footed,A. Garnacho
+1,0.12574860453605652,Miss,90+4:38,Left footed,Fábio Carvalho
+1,0.08724793791770935,Miss,44:56,Header,K. Schade
+1,0.07610207796096802,Miss,15:54,Right footed,M. Damsgaard
+0,0.071969173848629,Miss,83:25,Right footed,A. Garnacho
+0,0.06707244366407394,Miss,32:50,Right footed,C. Eriksen
+1,0.06471492350101471,Miss,13:50,Right footed,K. Lewis-Potter
+0,0.05687228962779045,Miss,36:21,Left footed,A. Garnacho
+0,0.04203919693827629,Miss,61:12,Header,Bruno Fernandes
+0,0.038957517594099045,Miss,41:31,Left footed,A. Garnacho
+0,0.03695780038833618,Miss,88:50,Right footed,M. Rashford
+0,0.03585869073867798,Miss,51:31,Right footed,Casemiro
+1,0.034219179302453995,Miss,6:07,Left footed,B. Mbeumo
+0,0.033516690135002136,Miss,83:03,Right footed,M. Rashford
+1,0.02992090955376625,Miss,84:11,Left footed,Fábio Carvalho
+0,0.029004637151956558,Miss,25:05,Left footed,A. Garnacho
+0,0.02590770274400711,Miss,59:43,Right footed,Bruno Fernandes
+0,0.025676432996988297,Miss,77:03,Right footed,Casemiro
+0,0.02461971715092659,Miss,90+5:58,Right footed,Bruno Fernandes
+0,0.02098313346505165,Miss,20:16,Header,Lisandro Martínez
+0,0.02078404277563095,Miss,50:27,Right footed,A. Garnacho
+0,0.020173916593194008,Miss,40:42,Right footed,A. Garnacho
+1,0.01976495422422886,Miss,30:32,Right footed,C. Nørgaard
+0,0.018942629918456078,Miss,51:55,Right footed,Bruno Fernandes
+0,0.01873009093105793,Miss,38:58,Right footed,R. Højlund
+0,0.017575014382600784,Miss,19:26,Right footed,A. Garnacho
+0,0.01281425729393959,Miss,34:42,Right footed,Casemiro
+0,0.005859088152647018,Miss,35:22,Right footed,Bruno Fernandes

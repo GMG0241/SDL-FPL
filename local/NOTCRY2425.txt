@@ -1,0 +1,40 @@
+0,0.5989180207252502,Miss,45+1:58,Right footed,C. Wood
+0,0.15580931305885315,Miss,14:58,Left footed,E. Anderson
+0,0.139945849776268,Miss,16:01,Header,C. Wood
+0,0.13860097527503967,Miss,15:43,Header,C. Wood
+1,0.13746964931488037,Miss,27:05,Right footed,D. Kamada
+0,0.1315261721611023,Miss,73:09,Header,R. Yates
+0,0.10910294950008392,Miss,21:49,Header,R. Yates
+1,0.10860579460859299,Miss,52:29,Left footed,E. Eze
+1,0.10483584553003311,Miss,53:36,Left footed,W. Hughes
+1,0.08927014470100403,Miss,13:03,Right footed,E. Nketiah
+1,0.07561884820461273,Miss,67:00,Right footed,T. Chalobah
+0,0.06338523328304291,Miss,46:17,Right footed,N. Domínguez
+0,0.059641946107149124,Miss,55:29,Left footed,N. Domínguez
+1,0.05792661011219025,Miss,4:15,Left footed,E. Eze
+0,0.05772465094923973,Miss,69:50,Right footed,E. Anderson
+0,0.05478893592953682,Miss,15:42,Header,R. Yates
+1,0.047909803688526154,Miss,45:03,Left footed,E. Eze
+1,0.04017965495586395,Miss,9:05,Left footed,D. Kamada
+0,0.03896116837859154,Miss,14:54,Right footed,C. Hudson-Odoi
+0,0.03824356943368912,Miss,87:08,Right footed,R. Sosa
+1,0.03795677423477173,Miss,80:20,Left footed,J. Schlupp
+1,0.03364108130335808,Miss,19:29,Right footed,E. Nketiah
+1,0.033462055027484894,Miss,24:29,Right footed,E. Nketiah
+1,0.033290136605501175,Miss,88:16,Right footed,E. Eze
+0,0.031864702701568604,Miss,63:24,Left footed,E. Anderson
+1,0.029382025822997093,Miss,45:07,Right footed,T. Chalobah
+1,0.028252815827727318,Miss,90+2:56,Header,J. Mateta
+0,0.02794349379837513,Miss,46:19,Right footed,Álex Moreno
+0,0.027509476989507675,Miss,12:16,Right footed,E. Anderson
+0,0.02742728963494301,Miss,63:29,Right footed,C. Hudson-Odoi
+1,0.026793424040079117,Miss,79:03,Right footed,J. Mateta
+1,0.020589645951986313,Miss,60:11,Right footed,E. Eze
+1,0.019402606412768364,Miss,90+2:13,Right footed,A. Agbinone
+0,0.019221439957618713,Miss,32:02,Left footed,Álex Moreno
+0,0.01823456957936287,Miss,69:54,Right footed,R. Yates
+1,0.01743714138865471,Miss,60:56,Left footed,E. Eze
+1,0.016079094260931015,Miss,90+1:06,Right footed,J. Lerma
+0,0.015552298165857792,Goal,64:31,Right footed,C. Wood
+1,0.012585559859871864,Miss,25:43,Right footed,E. Nketiah
+0,0.01070190779864788,Miss,76:04,Header,Murillo

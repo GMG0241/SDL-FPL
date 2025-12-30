@@ -1,0 +1,16 @@
+0,0.21442395448684692,Miss,74:38,Header,Marc Cucurella
+0,0.1706531047821045,Miss,73:43,Right footed,N. Madueke
+1,0.15642602741718292,Miss,45:03,Header,A. Doucouré
+1,0.15012690424919128,Miss,86:40,Left footed,D. McNeil
+0,0.13544130325317383,Miss,25:50,Left footed,Marc Cucurella
+0,0.09189216047525406,Goal,26:42,Right footed,N. Jackson
+0,0.07991847395896912,Miss,13:32,Right footed,N. Madueke
+0,0.05606095492839813,Miss,32:48,Right footed,E. Fernández
+0,0.05064667388796806,Miss,48:16,Left footed,N. Madueke
+1,0.04001825675368309,Miss,71:12,Right footed,Youssef Chermiti
+1,0.03886960819363594,Miss,66:42,Right footed,I. Gueye
+1,0.030182696878910065,Miss,62:17,Right footed,Beto
+0,0.0282834954559803,Miss,67:04,Right footed,M. Caicedo
+0,0.026998739689588547,Miss,84:02,Left footed,Marc Cucurella
+0,0.026849599555134773,Miss,36:49,Header,N. Madueke
+1,0.026089347898960114,Miss,53:12,Right footed,C. Alcaraz

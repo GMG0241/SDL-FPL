@@ -1,0 +1,26 @@
+0,0.1451500952243805,Miss,25:28,Right footed,Gabriel Jesus
+0,0.14020925760269165,Miss,13:54,Left footed,M. Ødegaard
+0,0.12825457751750946,Miss,1:40,Right footed,L. Trossard
+0,0.11902029812335968,Miss,21:37,Right footed,M. Ødegaard
+1,0.0908239483833313,Miss,24:23,Header,R. Yates
+0,0.07788952440023422,Goal,14:06,Left footed,B. Saka
+0,0.07615499943494797,Miss,39:13,Left footed,B. Saka
+0,0.07516592741012573,Goal,85:10,Left footed,E. Nwaneri
+1,0.07247952371835709,Miss,70:04,Right footed,Jota Silva
+0,0.06759913265705109,Miss,90+1:54,Left footed,Gabriel Magalhães
+0,0.05150502547621727,Miss,41:26,Left footed,B. Saka
+1,0.046625226736068726,Miss,62:23,Header,N. Milenković
+0,0.04658769816160202,Miss,45:52,Right footed,J. Timber
+0,0.04398634657263756,Miss,65:56,Left footed,Mikel Merino
+0,0.040615513920784,Goal,51:02,Right footed,T. Partey
+1,0.03560546040534973,Miss,75:32,Header,R. Yates
+1,0.03401414304971695,Miss,90+3:01,Left footed,Murillo
+0,0.03268502652645111,Miss,1:39,Right footed,B. Saka
+0,0.0319349505007267,Miss,39:17,Right footed,L. Trossard
+0,0.028294416144490242,Miss,83:52,Left footed,E. Nwaneri
+0,0.027790050953626633,Miss,44:36,Left footed,B. Saka
+1,0.027476659044623375,Miss,36:16,Header,N. Domínguez
+1,0.025360506027936935,Miss,88:09,Right footed,C. Hudson-Odoi
+0,0.020186729729175568,Miss,81:01,Right footed,T. Partey
+0,0.019380152225494385,Miss,77:57,Left footed,B. Saka
+0,0.015702513977885246,Miss,79:46,Right footed,L. Trossard

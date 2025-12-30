@@ -1,0 +1,19 @@
+0,0.47569146752357483,Miss,77:19,Right footed,J. Zirkzee
+0,0.34384772181510925,Miss,72:00,Left footed,Lisandro Martínez
+0,0.3323068916797638,Miss,62:49,Header,J. Zirkzee
+1,0.320331871509552,Goal,41:42,Right footed,L. Díaz
+1,0.3161992132663727,Miss,56:40,Left footed,Mohamed Salah
+1,0.2909775972366333,Goal,34:10,Header,L. Díaz
+1,0.27747175097465515,Miss,87:39,Right footed,C. Gakpo
+1,0.2005036622285843,Goal,55:24,Left footed,Mohamed Salah
+1,0.14688678085803986,Miss,88:41,Right footed,D. Núñez
+0,0.07516191899776459,Miss,51:42,Right footed,J. Zirkzee
+1,0.06020888313651085,Miss,66:09,Header,C. Gakpo
+1,0.059799712151288986,Miss,57:30,Left footed,Mohamed Salah
+0,0.05548228323459625,Miss,31:36,Right footed,N. Mazraoui
+1,0.04441463202238083,Miss,58:21,Right footed,I. Konaté
+1,0.04396134614944458,Miss,3:51,Left footed,Diogo Jota
+0,0.03325091674923897,Miss,80:09,Left footed,A. Diallo
+1,0.03137465938925743,Miss,25:59,Header,D. Szoboszlai
+0,0.023353107273578644,Miss,38:57,Right footed,N. Mazraoui
+0,0.02185545302927494,Miss,85:53,Right footed,Bruno Fernandes

@@ -1,0 +1,35 @@
+1,0.9146053194999695,Goal,2:36,Right footed,B. Johnson
+1,0.8724281787872314,Goal,76:52,Right footed,D. Solanke
+1,0.38837072253227234,Goal,46:58,Left footed,D. Kulusevski
+1,0.3367496728897095,Miss,10:16,Left footed,J. Maddison
+1,0.33098238706588745,Miss,38:02,Right footed,T. Werner
+1,0.3025062680244446,Miss,90:01,Right footed,D. Solanke
+1,0.29385751485824585,Miss,90:03,Header,P. Sarr
+1,0.2820250391960144,Miss,55:48,Right footed,T. Werner
+0,0.24833111464977264,Miss,21:53,Left footed,J. Zirkzee
+1,0.17716802656650543,Miss,76:51,Header,P. Sarr
+0,0.17625169456005096,Miss,71:03,Left footed,Lisandro Martínez
+0,0.17001569271087646,Miss,90+1:05,Right footed,M. de Ligt
+1,0.11777935922145844,Miss,52:49,Left footed,Pedro Porro
+1,0.11305096745491028,Miss,55:50,Left footed,D. Solanke
+0,0.08681009709835052,Miss,62:53,Header,Casemiro
+0,0.08391296863555908,Miss,36:33,Right footed,A. Garnacho
+0,0.0812605693936348,Miss,68:42,Right footed,Casemiro
+1,0.07978663593530655,Miss,32:35,Right footed,C. Romero
+1,0.07238799333572388,Miss,74:59,Right footed,J. Maddison
+1,0.05267893522977829,Miss,40:12,Header,M. van de Ven
+1,0.05147704482078552,Miss,31:48,Left footed,D. Udogie
+1,0.046469904482364655,Miss,30:44,Left footed,D. Kulusevski
+1,0.04380771145224571,Miss,29:36,Right footed,J. Maddison
+0,0.042688801884651184,Miss,59:59,Left footed,Lisandro Martínez
+1,0.041198473423719406,Miss,75:19,Right footed,D. Solanke
+1,0.04085156321525574,Miss,39:41,Left footed,M. van de Ven
+1,0.03974359109997749,Miss,90+5:26,Right footed,M. Moore
+1,0.03773796185851097,Miss,19:23,Right footed,B. Johnson
+1,0.03524922952055931,Miss,11:31,Left footed,D. Udogie
+0,0.029040971770882607,Miss,71:39,Right footed,A. Garnacho
+1,0.023436805233359337,Miss,86:00,Right footed,L. Bergvall
+0,0.022588102146983147,Miss,88:37,Left footed,A. Garnacho
+1,0.016659148037433624,Miss,39:43,Right footed,B. Johnson
+0,0.008783882483839989,Miss,25:10,Left footed,Lisandro Martínez
+0,0.007917292416095734,Miss,59:22,Header,Lisandro Martínez

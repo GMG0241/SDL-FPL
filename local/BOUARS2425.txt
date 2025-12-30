@@ -1,0 +1,19 @@
+0,0.7884,Goal,78:38,Right footed,J. Kluivert
+0,0.3687995970249176,Miss,46:30,Right footed,A. Semenyo
+1,0.36071643233299255,Miss,68:16,Right footed,Gabriel Martinelli
+0,0.15902012586593628,Miss,40:44,Left footed,M. Tavernier
+1,0.1511465609073639,Miss,34:24,Left footed,Mikel Merino
+0,0.12588420510292053,Miss,75:48,Left footed,A. Semenyo
+0,0.11094727367162704,Goal,69:52,Left footed,R. Christie
+1,0.09328176081180573,Miss,68:18,Right footed,Gabriel Martinelli
+0,0.051664434373378754,Miss,40:59,Right footed,M. Kerkez
+1,0.047205887734889984,Miss,45:28,Right footed,T. Partey
+0,0.04160558059811592,Miss,51:21,Right footed,A. Semenyo
+1,0.04142558202147484,Miss,50:31,Header,K. Havertz
+0,0.03895081207156181,Miss,35:29,Left footed,A. Semenyo
+0,0.03545770049095154,Miss,35:21,Right footed,Evanilson
+0,0.03371116518974304,Miss,16:00,Right footed,A. Semenyo
+0,0.029167968779802322,Miss,32:15,Left footed,A. Semenyo
+0,0.021046550944447517,Miss,36:43,Left footed,M. Tavernier
+1,0.0195887703448534,Miss,10:19,Header,Gabriel Magalhães
+0,0.018574785441160202,Miss,59:02,Header,M. Tavernier

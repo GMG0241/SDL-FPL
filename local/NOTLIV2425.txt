@@ -1,0 +1,29 @@
+1,0.33017346262931824,Goal,65:23,Header,Diogo Jota
+1,0.2848924398422241,Miss,68:57,Left footed,Diogo Jota
+1,0.22955350577831268,Miss,76:28,Left footed,Diogo Jota
+1,0.21212978661060333,Miss,27:42,Header,D. Szoboszlai
+1,0.17333972454071045,Miss,78:29,Left footed,Mohamed Salah
+0,0.16409242153167725,Goal,7:49,Left footed,C. Wood
+1,0.07302380353212357,Miss,24:35,Header,C. Gakpo
+1,0.07026652246713638,Miss,80:12,Right footed,Diogo Jota
+1,0.06734123826026917,Miss,58:35,Left footed,Mohamed Salah
+1,0.06612458825111389,Miss,87:56,Left footed,Mohamed Salah
+1,0.06309469044208527,Miss,6:56,Right footed,R. Gravenberch
+1,0.062112174928188324,Miss,87:22,Left footed,Mohamed Salah
+1,0.05299355834722519,Miss,73:02,Right footed,D. Szoboszlai
+1,0.0515747107565403,Miss,82:16,Left footed,Mohamed Salah
+0,0.04904107376933098,Miss,62:36,Right footed,A. Elanga
+1,0.04538971185684204,Miss,88:23,Left footed,Mohamed Salah
+0,0.03680954501032829,Miss,50:33,Right footed,C. Hudson-Odoi
+1,0.03619830682873726,Miss,85:55,Right footed,T. Alexander-Arnold
+1,0.033100198954343796,Miss,80:33,Right footed,D. Szoboszlai
+0,0.033029574900865555,Miss,13:24,Left footed,C. Hudson-Odoi
+0,0.025546332821249962,Miss,9:42,Left footed,Murillo
+1,0.023883754387497902,Miss,40:50,Right footed,T. Alexander-Arnold
+1,0.023746969178318977,Miss,23:01,Right footed,L. Díaz
+1,0.022417057305574417,Miss,40:13,Right footed,A. Mac Allister
+1,0.02037002332508564,Miss,90+1:52,Right footed,C. Gakpo
+1,0.018319323658943176,Miss,2:43,Right footed,A. Mac Allister
+1,0.015172716230154037,Miss,5:05,Right footed,R. Gravenberch
+1,0.01483781635761261,Miss,3:29,Right footed,C. Gakpo
+0,0.0059956819750368595,Miss,57:06,Left footed,Murillo

@@ -1,0 +1,20 @@
+1,0.34533265233039856,Miss,53:14,Right footed,S. Lukić
+0,0.3290250897407532,Miss,16:55,Left footed,J. McGinn
+0,0.2871151268482208,Goal,36:57,Right footed,O. Watkins
+0,0.2688477039337158,Goal,50:41,Right footed,E. Buendía
+1,0.15566019713878632,Miss,22:58,Right footed,J. King
+1,0.1409866213798523,Miss,45+2:23,Left footed,H. Wilson
+1,0.1094311773777008,Miss,90:02,Left footed,S. Chukwueze
+0,0.09270387887954712,Goal,48:59,Left footed,J. McGinn
+1,0.06966584920883179,Miss,81:18,Left footed,S. Chukwueze
+1,0.058751631528139114,Goal,2:41,Header,R. Jiménez
+0,0.050846945494413376,Miss,45+8:01,Left footed,L. Digne
+1,0.04731559380888939,Miss,42:08,Header,J. King
+1,0.043083555996418,Miss,11:32,Right footed,J. King
+1,0.04048912599682808,Miss,39:28,Left footed,H. Wilson
+0,0.025146665051579475,Miss,42:36,Left footed,J. McGinn
+1,0.024946551769971848,Miss,28:52,Left footed,H. Wilson
+0,0.023760519921779633,Miss,15:51,Left footed,H. Elliott
+1,0.023579442873597145,Miss,85:09,Header,S. Lukić
+0,0.019958728924393654,Miss,63:54,Right footed,E. Buendía
+0,0.013817068189382553,Miss,34:13,Right footed,M. Cash

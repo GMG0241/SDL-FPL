@@ -1,0 +1,21 @@
+0,0.2864134907722473,Miss,60:49,Right footed,O. Watkins
+0,0.24027958512306213,Miss,78:49,Left footed,D. Malen
+1,0.17661286890506744,Miss,53:18,Left footed,H. Wilson
+1,0.11089953035116196,Miss,47:44,Left footed,S. Lukić
+0,0.09836403280496597,Goal,11:49,Header,Y. Tielemans
+1,0.09348338842391968,Miss,21:51,Right footed,H. Wilson
+1,0.06847339868545532,Miss,75:48,Right footed,J. Andersen
+1,0.05938949063420296,Miss,86:25,Right footed,Adama Traoré
+0,0.05795716494321823,Miss,48:06,Left footed,M. Rogers
+0,0.056299638003110886,Miss,84:46,Right footed,D. Malen
+1,0.04830646514892578,Miss,10:55,Header,A. Iwobi
+1,0.04447322338819504,Miss,64:10,Header,H. Wilson
+1,0.03988014534115791,Miss,88:01,Right footed,E. Smith Rowe
+0,0.03921806067228317,Miss,90+3:57,Right footed,D. Malen
+0,0.03450911119580269,Miss,6:50,Header,O. Watkins
+1,0.03051851876080036,Miss,45+1:07,Right footed,A. Iwobi
+0,0.02884524129331112,Miss,71:16,Left footed,J. Ramsey
+0,0.024147270247340202,Miss,62:30,Left footed,I. Maatsen
+1,0.022496871650218964,Miss,49:45,Header,S. Lukić
+0,0.014149487018585205,Miss,44:38,Right footed,Y. Tielemans
+1,0.010931654833257198,Miss,43:11,Right footed,R. Jiménez

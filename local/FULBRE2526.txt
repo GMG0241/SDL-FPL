@@ -1,0 +1,22 @@
+0,0.24060676991939545,Miss,15:13,Header,J. Andersen
+0,0.14107875525951385,Goal,39:37,Left footed,H. Wilson
+1,0.13373693823814392,Goal,19:03,Right footed,M. Damsgaard
+0,0.13146130740642548,Goal,37:59,Right footed,A. Iwobi
+1,0.10157793015241623,Miss,57:35,Header,Igor Thiago
+0,0.09555608779191971,Miss,30:42,Right footed,Rodrigo Muniz
+1,0.09141021221876144,Miss,77:04,Left footed,D. Ouattara
+1,0.08952108025550842,Miss,46:53,Header,N. Collins
+1,0.08033118396997452,Miss,89:48,Header,K. Ajer
+0,0.07437033206224442,Miss,13:27,Left footed,H. Wilson
+0,0.060176603496074677,Miss,30:41,Left footed,R. Sessegnon
+1,0.056203264743089676,Miss,28:21,Right footed,K. Schade
+1,0.05141758918762207,Miss,0:41,Right footed,M. Damsgaard
+0,0.04498470202088356,Miss,5:29,Right footed,A. Iwobi
+0,0.04423706978559494,Miss,62:37,Right footed,J. King
+0,0.041366998106241226,Miss,10:30,Left footed,J. King
+0,0.038617782294750214,Miss,12:44,Right footed,S. Lukić
+0,0.02788994461297989,Miss,17:08,Right footed,S. Lukić
+1,0.02725796587765217,Miss,82:18,Left footed,D. Ouattara
+0,0.023375418037176132,Miss,37:53,Left footed,S. Lukić
+0,0.02314596436917782,Miss,15:19,Header,Rodrigo Muniz
+0,0.0073208375833928585,Miss,41:58,Left footed,C. Bassey

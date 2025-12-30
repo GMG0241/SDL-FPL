@@ -1,0 +1,26 @@
+0,0.43062785267829895,Goal,35:23,Right footed,M. Lemina
+1,0.36709392070770264,Miss,90+8:14,Right footed,H. Barnes
+1,0.36099162697792053,Miss,88:42,Left footed,S. Tonali
+1,0.12642894685268402,Miss,22:29,Right footed,A. Gordon
+0,0.12331555783748627,Miss,42:45,Left footed,M. Lemina
+0,0.12062227725982666,Miss,52:11,Right footed,J. Strand Larsen
+0,0.116014763712883,Miss,27:02,Right footed,J. Bellegarde
+1,0.11553952842950821,Miss,6:41,Left footed,J. Murphy
+0,0.0964362770318985,Miss,90+7:14,Right footed,Y. Mosquera
+0,0.09190774708986282,Miss,24:24,Right footed,Matheus Cunha
+1,0.08988197892904282,Miss,46:28,Right footed,J. Willock
+1,0.0811883732676506,Miss,66:36,Right footed,H. Barnes
+1,0.07991847395896912,Miss,48:09,Right footed,A. Gordon
+0,0.07987721264362335,Miss,57:43,Header,João Gomes
+1,0.06255960464477539,Miss,59:19,Right footed,S. Tonali
+1,0.058283481746912,Goal,79:39,Right footed,H. Barnes
+1,0.053815484046936035,Miss,4:44,Left footed,A. Isak
+0,0.050346676260232925,Miss,60:47,Header,J. Strand Larsen
+0,0.0495581217110157,Miss,61:09,Right footed,Matheus Cunha
+1,0.04359790310263634,Miss,46:33,Right footed,F. Schär
+0,0.03190038725733757,Miss,67:42,Right footed,Matheus Cunha
+0,0.029618414118885994,Miss,90+2:07,Right footed,Matheus Cunha
+1,0.027718380093574524,Goal,74:34,Right footed,F. Schär
+1,0.026175417006015778,Miss,46:08,Right footed,Bruno Guimarães
+1,0.025352271273732185,Miss,64:15,Header,D. Burn
+0,0.014582866802811623,Miss,10:42,Left footed,Nélson Semedo

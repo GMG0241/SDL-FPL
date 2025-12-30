@@ -1,0 +1,31 @@
+1,0.5854372382164001,Goal,25:57,Right footed,Andreas Pereira
+1,0.5317144393920898,Miss,67:20,Left footed,Adama Traoré
+1,0.4547911286354065,Miss,28:20,Right footed,Adama Traoré
+0,0.32412034273147583,Miss,24:21,Header,İ. Gündoğan
+1,0.3056434094905853,Miss,16:13,Right footed,Adama Traoré
+1,0.2214198112487793,Goal,87:49,Right footed,Rodrigo Muniz
+0,0.17376627027988434,Miss,86:39,Left footed,Bernardo Silva
+1,0.14584264159202576,Miss,36:46,Right footed,R. Jiménez
+0,0.1330394446849823,Goal,46:34,Right footed,M. Kovačić
+0,0.1312026083469391,Miss,2:41,Left footed,İ. Gündoğan
+1,0.10495598614215851,Miss,75:38,Right footed,R. Jiménez
+0,0.09765710681676865,Miss,3:19,Left footed,E. Haaland
+1,0.09043876826763153,Miss,53:40,Right footed,R. Jiménez
+1,0.07928313314914703,Miss,36:43,Right footed,R. Jiménez
+0,0.07792491465806961,Miss,33:56,Right footed,R. Lewis
+0,0.06886662542819977,Goal,31:23,Right footed,M. Kovačić
+0,0.060982782393693924,Miss,23:50,Right footed,M. Kovačić
+0,0.05966911092400551,Miss,7:53,Right footed,E. Haaland
+0,0.058665741235017776,Miss,6:33,Left footed,E. Haaland
+0,0.055169761180877686,Goal,81:38,Right footed,J. Doku
+0,0.05463045835494995,Miss,58:54,Left footed,P. Foden
+0,0.049478378146886826,Miss,35:07,Header,Rúben Dias
+1,0.04746473953127861,Miss,11:39,Right footed,A. Iwobi
+0,0.04451639577746391,Miss,33:54,Left footed,P. Foden
+0,0.0401308573782444,Miss,34:13,Left footed,J. Gvardiol
+0,0.0353473462164402,Miss,23:53,Left footed,J. Gvardiol
+0,0.03212771937251091,Miss,34:10,Right footed,M. Kovačić
+0,0.030223926529288292,Miss,14:16,Header,E. Haaland
+1,0.029827384278178215,Miss,12:26,Header,R. Jiménez
+0,0.024834832176566124,Miss,42:33,Header,Bernardo Silva
+0,0.019633106887340546,Miss,62:01,Right footed,R. Lewis

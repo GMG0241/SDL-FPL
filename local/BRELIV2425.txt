@@ -1,0 +1,48 @@
+1,0.6238329410552979,Goal,90+2:13,Right footed,D. Núñez
+1,0.3642936050891876,Miss,14:12,Header,L. Díaz
+0,0.26785725355148315,Miss,4:37,Right footed,Y. Wissa
+1,0.2565914988517761,Miss,38:25,Left footed,C. Gakpo
+1,0.1833558827638626,Miss,76:42,Right footed,C. Gakpo
+1,0.16747799515724182,Goal,90:12,Right footed,D. Núñez
+1,0.14475345611572266,Miss,62:16,Right footed,L. Díaz
+1,0.14147397875785828,Miss,32:39,Right footed,D. Szoboszlai
+1,0.11571522802114487,Miss,18:22,Header,V. van Dijk
+1,0.11439508199691772,Miss,54:30,Left footed,L. Díaz
+1,0.10108336061239243,Miss,68:53,Right footed,A. Mac Allister
+0,0.09687346965074539,Miss,77:06,Header,B. Mbeumo
+1,0.0968373566865921,Miss,52:46,Left footed,Mohamed Salah
+1,0.09385208785533905,Miss,1:50,Header,I. Konaté
+1,0.08558216691017151,Miss,10:43,Right footed,L. Díaz
+1,0.07430019229650497,Miss,41:17,Right footed,D. Szoboszlai
+1,0.07075992971658707,Miss,24:53,Right footed,D. Szoboszlai
+1,0.07019126415252686,Miss,41:36,Right footed,L. Díaz
+0,0.06616168469190598,Miss,22:28,Header,C. Nørgaard
+0,0.06410233676433563,Miss,72:09,Left footed,B. Mbeumo
+1,0.060248177498579025,Miss,54:33,Right footed,L. Díaz
+1,0.053425148129463196,Miss,45+1:03,Right footed,A. Mac Allister
+1,0.051664166152477264,Miss,17:41,Right footed,R. Gravenberch
+0,0.05126449465751648,Miss,86:18,Right footed,Y. Yarmoliuk
+1,0.04885553941130638,Miss,45:20,Right footed,D. Szoboszlai
+1,0.04735712707042694,Miss,88:17,Left footed,Mohamed Salah
+1,0.04697052016854286,Miss,33:43,Left footed,D. Szoboszlai
+1,0.04218132421374321,Miss,66:29,Header,D. Núñez
+1,0.04131802171468735,Miss,78:53,Header,V. van Dijk
+0,0.03910316154360771,Miss,19:15,Left footed,B. Mbeumo
+1,0.0376436784863472,Miss,36:34,Right footed,Mohamed Salah
+0,0.03540877625346184,Miss,10:26,Left footed,B. Mbeumo
+0,0.03368496149778366,Miss,72:38,Left footed,K. Schade
+1,0.03343154117465019,Miss,6:29,Header,C. Gakpo
+0,0.03332343325018883,Miss,83:22,Left footed,Y. Wissa
+1,0.03273636847734451,Miss,33:16,Header,I. Konaté
+1,0.030849911272525787,Miss,34:25,Right footed,D. Szoboszlai
+1,0.028376461938023567,Miss,78:52,Right footed,T. Alexander-Arnold
+1,0.027509476989507675,Miss,83:42,Right footed,T. Alexander-Arnold
+1,0.0272542554885149,Miss,20:06,Right footed,I. Konaté
+1,0.0272542554885149,Miss,29:51,Right footed,T. Alexander-Arnold
+1,0.02343975193798542,Miss,69:00,Left footed,A. Mac Allister
+1,0.0199198629707098,Miss,75:06,Right footed,D. Núñez
+0,0.01981442980468273,Miss,20:56,Right footed,Y. Yarmoliuk
+1,0.017983751371502876,Miss,25:35,Right footed,T. Alexander-Arnold
+1,0.017796393483877182,Miss,49:54,Right footed,D. Szoboszlai
+1,0.013499622233211994,Miss,69:24,Header,A. Mac Allister
+0,0.01062633004039526,Miss,58:59,Left footed,S. van den Berg

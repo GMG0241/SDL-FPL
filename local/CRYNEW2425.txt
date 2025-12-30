@@ -1,0 +1,17 @@
+0,0.42775383591651917,Miss,34:59,Left footed,D. Muñoz
+0,0.2941921651363373,Miss,61:35,Right footed,D. Muñoz
+0,0.2010570466518402,Miss,73:31,Left footed,J. Mateta
+0,0.154440775513649,Goal,90+3:26,Header,D. Muñoz
+0,0.13554270565509796,Miss,70:23,Right footed,J. Mateta
+0,0.11244922876358032,Miss,61:33,Left footed,I. Sarr
+0,0.0915539413690567,Miss,45+3:13,Header,M. Lacroix
+0,0.07584499567747116,Miss,45+2:34,Header,M. Lacroix
+0,0.07168616354465485,Miss,69:15,Header,M. Guéhi
+0,0.053896527737379074,Miss,73:05,Right footed,I. Sarr
+0,0.0531090684235096,Miss,58:08,Left footed,W. Hughes
+0,0.04158497229218483,Miss,65:57,Right footed,J. Lerma
+1,0.037057701498270035,Miss,42:06,Header,Joelinton
+0,0.02898472175002098,Miss,39:26,Header,M. Lacroix
+0,0.02327975630760193,Miss,73:30,Header,M. Guéhi
+0,0.01491647120565176,Miss,28:47,Right footed,T. Chalobah
+0,0.010192290879786015,Miss,62:47,Left footed,W. Hughes

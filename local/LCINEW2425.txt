@@ -1,0 +1,23 @@
+1,0.9095291495323181,Goal,33:42,Right footed,H. Barnes
+1,0.847975492477417,Goal,10:12,Right footed,J. Murphy
+1,0.722237229347229,Goal,1:53,Right footed,J. Murphy
+1,0.2879096567630768,Miss,90+2:38,Left footed,H. Barnes
+0,0.19206245243549347,Miss,90:40,Header,W. Faes
+0,0.10309989005327225,Miss,49:13,Right footed,J. Vardy
+1,0.08614511787891388,Miss,21:20,Right footed,H. Barnes
+1,0.07663323730230331,Miss,33:40,Right footed,Joelinton
+1,0.06026988849043846,Miss,33:36,Right footed,A. Isak
+1,0.05981453135609627,Miss,90+4:58,Right footed,S. Tonali
+1,0.05581734701991081,Miss,39:35,Right footed,A. Isak
+0,0.049699991941452026,Miss,30:26,Left footed,B. El Khannouss
+1,0.044259462505578995,Miss,12:38,Right footed,A. Isak
+0,0.04203919693827629,Miss,35:41,Header,J. Vardy
+1,0.0394289456307888,Miss,73:28,Left footed,W. Osula
+1,0.035146020352840424,Miss,47:56,Right footed,K. Trippier
+1,0.032403767108917236,Miss,52:06,Header,D. Burn
+1,0.030104337260127068,Miss,22:31,Right footed,T. Livramento
+0,0.026288071647286415,Miss,0:10,Right footed,J. Vardy
+0,0.026233620941638947,Miss,90+1:42,Left footed,F. Buonanotte
+1,0.01898266188800335,Miss,67:13,Right footed,F. Schär
+1,0.017151523381471634,Miss,10:06,Right footed,F. Schär
+0,0.013514592312276363,Miss,77:28,Header,F. Buonanotte

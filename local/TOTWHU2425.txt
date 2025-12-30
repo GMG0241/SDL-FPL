@@ -1,0 +1,33 @@
+0,0.5555233955383301,Miss,27:06,Other body part,B. Johnson
+1,0.4055973291397095,Miss,61:41,Left footed,M. Kudus
+0,0.23233859241008759,Miss,22:07,Header,B. Johnson
+0,0.22298356890678406,Miss,60:49,Right footed,Son Heung-Min
+0,0.1577056646347046,Goal,51:54,Right footed,Y. Bissouma
+1,0.10062866657972336,Miss,10:08,Right footed,M. Kudus
+0,0.09670031815767288,Goal,35:43,Left footed,D. Kulusevski
+0,0.09619186818599701,Goal,59:08,Left footed,Son Heung-Min
+0,0.08434755355119705,Miss,28:15,Right footed,D. Solanke
+1,0.07221373170614243,Goal,18:00,Right footed,M. Kudus
+0,0.058277830481529236,Miss,50:31,Left footed,D. Udogie
+0,0.055026374757289886,Miss,66:11,Right footed,B. Johnson
+0,0.043912965804338455,Miss,54:15,Left footed,Son Heung-Min
+1,0.0407087616622448,Miss,45:15,Left footed,M. Kudus
+1,0.04010125994682312,Miss,53:28,Right footed,M. Kudus
+0,0.03932776302099228,Miss,15:01,Right footed,Son Heung-Min
+0,0.038914427161216736,Miss,75:46,Header,T. Werner
+1,0.03728172183036804,Miss,72:13,Header,E. Álvarez
+0,0.03464971482753754,Miss,42:52,Right footed,Pedro Porro
+0,0.03396563604474068,Miss,64:05,Left footed,D. Kulusevski
+0,0.0309269018471241,Miss,90+6:40,Header,B. Johnson
+0,0.030204439535737038,Miss,70:31,Right footed,Pedro Porro
+1,0.02931615151464939,Miss,71:47,Left footed,M. Kudus
+1,0.02814090996980667,Miss,17:52,Right footed,A. Wan-Bissaka
+0,0.02555874176323414,Miss,33:21,Right footed,Pedro Porro
+0,0.02081148885190487,Miss,39:29,Right footed,D. Kulusevski
+0,0.019533060491085052,Miss,5:57,Right footed,B. Johnson
+0,0.016249485313892365,Miss,24:55,Right footed,Pedro Porro
+0,0.01602679304778576,Miss,13:55,Left footed,D. Kulusevski
+1,0.014949655160307884,Miss,65:58,Left footed,M. Kudus
+0,0.010627072304487228,Miss,25:16,Left footed,Son Heung-Min
+1,0.007850316353142262,Miss,47:58,Left footed,J. Bowen
+1,0.007552057504653931,Miss,10:53,Left footed,Emerson

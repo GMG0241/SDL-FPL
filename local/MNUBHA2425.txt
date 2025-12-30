@@ -1,0 +1,16 @@
+1,0.8008567690849304,Goal,59:55,Right footed,K. Mitoma
+0,0.7884,Goal,22:03,Right footed,Bruno Fernandes
+1,0.5205379724502563,Goal,4:09,Right footed,Y. Minteh
+1,0.2931390404701233,Miss,42:18,Left footed,D. Welbeck
+1,0.2722975015640259,Goal,75:03,Left footed,G. Rutter
+0,0.1661934107542038,Miss,73:45,Right footed,J. Zirkzee
+0,0.10102447122335434,Miss,48:14,Left footed,A. Diallo
+0,0.09390421211719513,Miss,82:43,Right footed,L. Yoro
+0,0.09014219790697098,Miss,16:48,Right footed,Bruno Fernandes
+0,0.06445135921239853,Miss,19:18,Left footed,J. Zirkzee
+0,0.05721239745616913,Miss,82:42,Header,M. de Ligt
+0,0.04984074458479881,Miss,16:20,Right footed,M. Ugarte
+0,0.03730953484773636,Miss,88:48,Right footed,A. Garnacho
+0,0.028976773843169212,Miss,90:18,Right footed,A. Garnacho
+1,0.023166973143815994,Miss,46:24,Left footed,C. Baleba
+1,0.018514005467295647,Miss,45+1:33,Left footed,Y. Minteh

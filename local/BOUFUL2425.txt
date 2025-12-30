@@ -1,0 +1,24 @@
+0,0.47014525532722473,Miss,16:02,Right footed,Evanilson
+0,0.30853402614593506,Miss,54:36,Right footed,T. Adams
+0,0.183138906955719,Miss,31:22,Right footed,D. Ouattara
+1,0.18204793334007263,Miss,36:32,Header,R. Sessegnon
+1,0.1451600193977356,Miss,31:41,Left footed,R. Sessegnon
+0,0.11945116519927979,Goal,0:53,Left footed,A. Semenyo
+1,0.11084040999412537,Miss,33:13,Header,Rodrigo Muniz
+1,0.09933049976825714,Miss,30:35,Right footed,Rodrigo Muniz
+1,0.0870731920003891,Miss,65:55,Right footed,A. Iwobi
+0,0.08646591007709503,Miss,26:07,Right footed,T. Adams
+0,0.08598034828901291,Miss,45+1:09,Left footed,A. Scott
+1,0.08206778764724731,Miss,31:43,Left footed,R. Sessegnon
+1,0.07541326433420181,Miss,17:04,Left footed,A. Iwobi
+1,0.07352135330438614,Miss,69:16,Right footed,S. Lukić
+0,0.06612659245729446,Miss,26:42,Right footed,L. Cook
+1,0.06305160373449326,Miss,31:53,Right footed,Rodrigo Muniz
+1,0.04926663264632225,Miss,19:36,Header,J. Andersen
+1,0.049128059297800064,Miss,74:51,Left footed,T. Cairney
+1,0.048903465270996094,Miss,31:45,Right footed,S. Lukić
+0,0.033934351056814194,Miss,53:52,Right footed,A. Scott
+0,0.029618380591273308,Miss,25:19,Left footed,A. Scott
+0,0.02545659989118576,Miss,25:22,Right footed,Evanilson
+0,0.022370772436261177,Miss,6:42,Left footed,Evanilson
+0,0.010168006643652916,Miss,61:18,Header,Evanilson

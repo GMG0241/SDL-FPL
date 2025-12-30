@@ -1,0 +1,26 @@
+1,0.7354671359062195,Goal,21:03,Right footed,W. Isidor
+0,0.19391068816184998,Miss,12:04,Header,Marc Guiu
+1,0.14614379405975342,Miss,73:54,Right footed,G. Xhaka
+0,0.12407791614532471,Miss,39:02,Right footed,A. Garnacho
+1,0.11558657884597778,Goal,90+2:21,Right footed,C. Talbi
+0,0.11508691310882568,Miss,12:06,Left footed,Marc Cucurella
+1,0.09431528300046921,Miss,21:02,Left footed,B. Traoré
+0,0.0779690146446228,Miss,59:16,Left footed,Estêvão
+0,0.07308035343885422,Miss,84:42,Header,T. George
+0,0.07020701467990875,Miss,67:19,Left footed,E. Fernández
+1,0.054135531187057495,Miss,0:56,Header,D. Ballard
+1,0.04226890578866005,Miss,1:37,Left footed,W. Isidor
+1,0.04089662432670593,Miss,9:09,Right footed,E. Le Fée
+0,0.040542490780353546,Goal,3:47,Left footed,A. Garnacho
+1,0.029285771772265434,Miss,81:42,Right footed,L. Geertruida
+0,0.028967294842004776,Miss,56:31,Right footed,A. Garnacho
+0,0.027420613914728165,Miss,89:33,Right footed,M. Caicedo
+0,0.026676464825868607,Miss,71:09,Header,E. Fernández
+0,0.02659008279442787,Miss,32:04,Right footed,Marc Guiu
+1,0.026303278282284737,Miss,41:36,Left footed,B. Traoré
+0,0.023557024076581,Miss,12:52,Right footed,A. Garnacho
+1,0.023281941190361977,Miss,27:40,Left footed,W. Isidor
+0,0.020376358181238174,Miss,43:32,Right footed,T. Chalobah
+0,0.01785583607852459,Miss,70:26,Right footed,E. Fernández
+0,0.017079263925552368,Miss,90+4:06,Right footed,E. Fernández
+0,0.011614646762609482,Miss,12:07,Right footed,M. Caicedo

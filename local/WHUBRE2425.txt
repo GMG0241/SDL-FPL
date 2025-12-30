@@ -1,0 +1,27 @@
+1,0.2512066066265106,Miss,3:20,Right footed,K. Schade
+0,0.22987130284309387,Miss,48:03,Right footed,M. Kudus
+1,0.18710362911224365,Miss,35:30,Left footed,B. Mbeumo
+1,0.1863071620464325,Goal,3:25,Left footed,K. Schade
+1,0.17982064187526703,Miss,22:03,Header,Y. Wissa
+1,0.1750953495502472,Miss,28:49,Left footed,K. Schade
+1,0.15095974504947662,Miss,45+3:03,Left footed,B. Mbeumo
+1,0.1320401430130005,Miss,8:09,Right footed,Y. Wissa
+0,0.1191234439611435,Miss,17:23,Right footed,T. Souček
+1,0.09278888255357742,Miss,75:27,Right footed,K. Lewis-Potter
+0,0.08622369170188904,Miss,79:50,Right footed,E. Ferguson
+1,0.0772339478135109,Miss,20:24,Left footed,B. Mbeumo
+1,0.07708563655614853,Miss,21:52,Right footed,M. Damsgaard
+1,0.05889981612563133,Miss,53:25,Header,C. Nørgaard
+1,0.058148592710494995,Miss,25:28,Right footed,Y. Wissa
+0,0.05240563303232193,Miss,67:22,Left footed,Lucas Paquetá
+1,0.04993676394224167,Miss,82:52,Right footed,K. Lewis-Potter
+0,0.04730086028575897,Miss,51:18,Left footed,O. Scarles
+0,0.04544489085674286,Miss,49:45,Left footed,Lucas Paquetá
+0,0.038975223898887634,Miss,50:27,Header,K. Mavropanos
+0,0.038658298552036285,Miss,61:37,Left footed,M. Kudus
+0,0.037986740469932556,Miss,85:37,Left footed,O. Scarles
+0,0.037295449525117874,Miss,85:08,Right footed,J. Ward-Prowse
+0,0.03608191758394241,Miss,42:57,Left footed,M. Kudus
+0,0.03303350508213043,Miss,50:37,Right footed,E. Ferguson
+1,0.02889302931725979,Miss,14:01,Right footed,M. Damsgaard
+0,0.013779466040432453,Miss,18:59,Left footed,Emerson

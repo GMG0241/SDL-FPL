@@ -1,0 +1,28 @@
+1,0.7884,Miss,66:11,Right footed,A. Semenyo
+0,0.4666312634944916,Miss,38:10,Right footed,O. Watkins
+0,0.444288045167923,Miss,87:54,Right footed,D. Malen
+1,0.22608579695224762,Miss,24:04,Left footed,M. Tavernier
+0,0.16850218176841736,Goal,76:04,Header,R. Barkley
+0,0.14897654950618744,Goal,27:27,Right footed,E. Buendía
+1,0.1432623565196991,Miss,43:01,Right footed,Evanilson
+1,0.11194444447755814,Miss,57:45,Header,Evanilson
+1,0.08978195488452911,Miss,89:03,Left footed,D. Brooks
+0,0.06600373238325119,Goal,81:58,Right footed,D. Malen
+0,0.05924000218510628,Miss,86:08,Left footed,D. Malen
+0,0.057520389556884766,Miss,38:09,Header,E. Buendía
+1,0.0560041181743145,Miss,54:56,Right footed,A. Scott
+1,0.054436150938272476,Miss,57:49,Left footed,A. Truffert
+0,0.05420767888426781,Miss,63:40,Left footed,J. McGinn
+0,0.05109511688351631,Miss,30:19,Left footed,O. Watkins
+0,0.04963206872344017,Miss,34:47,Left footed,O. Watkins
+1,0.04470563679933548,Miss,52:06,Right footed,M. Tavernier
+0,0.031857628375291824,Miss,11:10,Right footed,B. Kamara
+1,0.030849911272525787,Miss,45:10,Right footed,J. Kluivert
+1,0.028530534356832504,Miss,45+3:24,Right footed,Álex Jiménez
+0,0.02820703759789467,Miss,69:38,Right footed,M. Rogers
+0,0.026049794629216194,Goal,39:47,Right footed,A. Onana
+0,0.024449830874800682,Miss,81:54,Right footed,Y. Tielemans
+1,0.02165153995156288,Miss,55:57,Right footed,L. Cook
+1,0.014275235123932362,Miss,46:16,Left footed,M. Tavernier
+0,0.012606791220605373,Miss,12:10,Right footed,E. Buendía
+0,0.009354268200695515,Miss,8:45,Right footed,M. Cash

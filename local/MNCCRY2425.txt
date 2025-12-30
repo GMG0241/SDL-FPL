@@ -1,0 +1,29 @@
+0,0.73553067445755,Goal,55:35,Left footed,J. McAtee
+1,0.6493987441062927,Goal,7:44,Right footed,E. Eze
+1,0.5271497368812561,Goal,20:38,Header,C. Richards
+0,0.48148927092552185,Miss,12:18,Right footed,Omar Marmoush
+0,0.4471931755542755,Miss,59:12,Left footed,Omar Marmoush
+1,0.44525814056396484,Miss,25:56,Right footed,I. Sarr
+0,0.35233891010284424,Miss,33:28,Header,J. McAtee
+0,0.3279131352901459,Miss,23:13,Right footed,İ. Gündoğan
+0,0.3150829076766968,Miss,59:14,Right footed,İ. Gündoğan
+0,0.17588955163955688,Miss,35:19,Left footed,İ. Gündoğan
+0,0.1737760603427887,Miss,50:14,Left footed,J. McAtee
+0,0.1537800431251526,Miss,45+1:06,Right footed,K. De Bruyne
+0,0.10927344113588333,Miss,4:33,Left footed,J. McAtee
+0,0.10679380595684052,Miss,12:20,Right footed,K. De Bruyne
+0,0.10624467581510544,Goal,35:21,Right footed,Omar Marmoush
+0,0.09607525169849396,Goal,46:16,Right footed,M. Kovačić
+0,0.0788029134273529,Goal,78:15,Left footed,N. O'Reilly
+0,0.07374726235866547,Miss,90+2:22,Left footed,J. Doku
+0,0.06853621453046799,Goal,32:02,Right footed,K. De Bruyne
+1,0.06344621628522873,Miss,84:51,Left footed,Matheus França
+0,0.056981317698955536,Miss,23:12,Right footed,K. De Bruyne
+1,0.056209858506917953,Miss,85:30,Right footed,J. Lerma
+0,0.056063178926706314,Miss,33:20,Left footed,K. De Bruyne
+0,0.04742337763309479,Miss,54:24,Right footed,M. Kovačić
+1,0.046591438353061676,Miss,3:07,Header,J. Mateta
+0,0.035283301025629044,Miss,59:16,Header,N. O'Reilly
+0,0.02396404929459095,Miss,23:11,Right footed,K. De Bruyne
+1,0.014858867041766644,Miss,39:31,Right footed,E. Eze
+1,0.014364434406161308,Miss,86:02,Right footed,N. Clyne

@@ -1,0 +1,19 @@
+1,0.7884,Miss,58:50,Right footed,K. Schade
+0,0.7884,Goal,81:16,Right footed,E. Le Fée
+0,0.17029978334903717,Miss,67:04,Right footed,H. Diarra
+0,0.1328486055135727,Goal,90+5:17,Header,W. Isidor
+1,0.12311423569917679,Goal,76:17,Header,Igor Thiago
+0,0.1185656487941742,Miss,8:56,Right footed,N. Mukiele
+1,0.10529426485300064,Miss,85:23,Header,D. Ouattara
+0,0.09813147038221359,Miss,74:32,Header,W. Isidor
+1,0.08233372867107391,Miss,41:25,Header,K. Schade
+0,0.07892747968435287,Miss,8:54,Right footed,C. Talbi
+1,0.0776674821972847,Miss,16:44,Header,K. Schade
+0,0.05219600722193718,Miss,45:44,Right footed,H. Diarra
+0,0.047336477786302567,Miss,43:27,Left footed,O. Alderete
+0,0.04014808312058449,Miss,45:42,Left footed,T. Hume
+1,0.02586997300386429,Miss,82:43,Left footed,R. Henry
+0,0.025407275184988976,Miss,84:33,Right footed,H. Diarra
+0,0.02408614754676819,Miss,11:50,Right footed,Reinildo Mandava
+0,0.014538795687258244,Miss,72:09,Right footed,W. Isidor
+1,0.013627557083964348,Miss,45:48,Header,Y. Yarmoliuk

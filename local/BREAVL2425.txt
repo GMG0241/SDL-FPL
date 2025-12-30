@@ -1,0 +1,25 @@
+1,0.3247552812099457,Miss,86:21,Right footed,O. Watkins
+1,0.32253044843673706,Miss,15:20,Left footed,T. Mings
+1,0.134760782122612,Miss,81:24,Left footed,O. Watkins
+0,0.0954403430223465,Miss,5:43,Right footed,Y. Wissa
+1,0.08541513979434967,Miss,32:42,Left footed,Y. Tielemans
+0,0.07880937308073044,Miss,69:43,Left footed,K. Schade
+0,0.07660490274429321,Miss,83:15,Left footed,C. Nørgaard
+1,0.07571811974048615,Miss,32:45,Left footed,M. Rogers
+1,0.06834788620471954,Miss,41:24,Left footed,L. Bailey
+0,0.06698258221149445,Miss,81:56,Right footed,K. Schade
+1,0.06135180592536926,Miss,79:31,Right footed,O. Watkins
+0,0.05973178148269653,Miss,45:16,Left footed,Y. Wissa
+1,0.05926325172185898,Miss,13:47,Header,J. Ramsey
+1,0.05221177637577057,Miss,6:45,Left footed,L. Bailey
+1,0.04883972182869911,Miss,11:03,Right footed,J. Ramsey
+1,0.048534542322158813,Miss,9:09,Left footed,Y. Tielemans
+0,0.044161297380924225,Miss,82:36,Right footed,K. Ajer
+0,0.04103212058544159,Miss,83:24,Right footed,C. Nørgaard
+1,0.04022159427404404,Goal,48:08,Right footed,O. Watkins
+0,0.03884619101881981,Miss,70:50,Left footed,B. Mbeumo
+0,0.03754120320081711,Miss,83:17,Left footed,C. Nørgaard
+0,0.030789222568273544,Miss,83:22,Right footed,N. Collins
+0,0.026463637128472328,Miss,70:38,Right footed,K. Lewis-Potter
+0,0.019956625998020172,Miss,29:46,Right footed,K. Lewis-Potter
+0,0.019738398492336273,Miss,53:28,Header,Y. Wissa

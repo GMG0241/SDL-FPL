@@ -1,0 +1,27 @@
+1,0.5864822268486023,Miss,74:48,Header,C. Nkunku
+1,0.44274938106536865,Goal,17:26,Right footed,N. Jackson
+1,0.26950958371162415,Goal,46:08,Left footed,C. Palmer
+1,0.2222420573234558,Goal,3:18,Right footed,N. Jackson
+1,0.1473967581987381,Miss,10:59,Left footed,C. Palmer
+0,0.13485589623451233,Miss,73:10,Right footed,M. Antonio
+1,0.11112415790557861,Miss,62:22,Left footed,N. Madueke
+1,0.10201434046030045,Miss,65:39,Right footed,João Félix
+0,0.09839300066232681,Miss,45:15,Header,K. Mavropanos
+0,0.09579987823963165,Miss,50:46,Left footed,J. Bowen
+1,0.09430917352437973,Miss,90+3:35,Right footed,João Félix
+1,0.07596688717603683,Miss,66:26,Right footed,M. Caicedo
+1,0.07169798761606216,Miss,33:49,Left footed,N. Jackson
+0,0.0653827115893364,Miss,90+3:17,Left footed,M. Kudus
+0,0.06392242014408112,Miss,2:53,Right footed,M. Kudus
+0,0.062216486781835556,Miss,40:25,Right footed,T. Souček
+0,0.059639882296323776,Miss,26:39,Left footed,M. Kudus
+0,0.058364707976579666,Miss,15:08,Left footed,Lucas Paquetá
+0,0.04766318202018738,Miss,58:09,Right footed,Carlos Soler
+0,0.04490213468670845,Miss,86:05,Right footed,Carlos Soler
+1,0.04460801184177399,Miss,36:21,Left footed,N. Madueke
+0,0.03580380603671074,Miss,72:41,Left footed,A. Irving
+0,0.024126188829541206,Miss,23:01,Left footed,J. Bowen
+0,0.024068782106041908,Miss,58:07,Right footed,K. Mavropanos
+0,0.023573558777570724,Miss,31:06,Left footed,Lucas Paquetá
+1,0.02231173776090145,Miss,60:29,Right footed,N. Jackson
+0,0.014863480813801289,Miss,12:02,Left footed,E. Álvarez

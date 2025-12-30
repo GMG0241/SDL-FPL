@@ -1,0 +1,16 @@
+0,0.4793967008590698,Miss,72:57,Left footed,Bruno Fernandes
+0,0.26099085807800293,Miss,85:14,Right footed,M. Mount
+0,0.2494310587644577,Miss,82:49,Left footed,M. Mount
+1,0.09856445342302322,Miss,57:00,Header,J. Strand Larsen
+1,0.0893641859292984,Goal,76:52,Left footed,Pablo Sarabia
+0,0.06934453547000885,Miss,45:52,Left footed,R. Højlund
+0,0.05044994130730629,Miss,90+3:50,Right footed,Bruno Fernandes
+0,0.03846113011240959,Miss,71:07,Right footed,Bruno Fernandes
+0,0.038458600640296936,Miss,33:01,Right footed,C. Eriksen
+0,0.03446581959724426,Miss,35:41,Right footed,C. Eriksen
+0,0.03132845461368561,Miss,46:53,Left footed,P. Dorgu
+1,0.027532288804650307,Miss,81:06,Left footed,Matheus Cunha
+0,0.026053957641124725,Miss,72:23,Right footed,Bruno Fernandes
+0,0.021404115483164787,Miss,43:16,Right footed,K. Mainoo
+0,0.020782997831702232,Miss,90+6:26,Right footed,A. Garnacho
+1,0.01880134828388691,Miss,21:37,Right footed,Nélson Semedo

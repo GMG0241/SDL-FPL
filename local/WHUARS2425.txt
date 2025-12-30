@@ -1,0 +1,28 @@
+1,0.7884,Goal,33:38,Left footed,M. Ødegaard
+1,0.7884,Goal,45+4:17,Left footed,B. Saka
+1,0.6767308115959167,Goal,26:17,Right footed,L. Trossard
+1,0.5766969323158264,Goal,35:04,Left footed,K. Havertz
+0,0.4772370755672455,Miss,90:53,Right footed,D. Ings
+0,0.41071799397468567,Goal,37:34,Right footed,A. Wan-Bissaka
+1,0.1951766163110733,Goal,9:41,Header,Gabriel Magalhães
+0,0.14475345611572266,Miss,38:23,Right footed,Lucas Paquetá
+1,0.09432029724121094,Miss,84:56,Left footed,R. Sterling
+0,0.09206031262874603,Miss,78:38,Right footed,D. Ings
+0,0.09065603464841843,Goal,39:47,Left footed,Emerson
+1,0.08209099620580673,Miss,88:50,Right footed,R. Sterling
+1,0.08167468011379242,Miss,45+1:00,Header,K. Havertz
+0,0.07753936201334,Miss,76:08,Header,T. Souček
+0,0.056140441447496414,Miss,78:36,Left footed,G. Rodríguez
+1,0.054747749119997025,Miss,24:33,Header,J. Timber
+0,0.05428333207964897,Miss,54:24,Right footed,M. Antonio
+1,0.04693073034286499,Miss,90+3:18,Right footed,Gabriel Jesus
+1,0.046652309596538544,Miss,48:34,Header,R. Calafiori
+1,0.046576276421546936,Miss,28:21,Right footed,J. Timber
+1,0.04484238103032112,Miss,21:39,Left footed,B. Saka
+0,0.04344828426837921,Miss,52:32,Right footed,J. Bowen
+0,0.03816457465291023,Miss,78:34,Right footed,A. Wan-Bissaka
+0,0.03511137515306473,Miss,45+6:43,Left footed,Emerson
+1,0.03461189940571785,Miss,58:55,Left footed,B. Saka
+1,0.027382368221879005,Miss,58:11,Left footed,M. Ødegaard
+0,0.017834341153502464,Miss,37:13,Left footed,J. Bowen
+1,0.014469241723418236,Miss,29:51,Right footed,L. Trossard

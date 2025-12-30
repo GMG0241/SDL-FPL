@@ -1,0 +1,32 @@
+1,0.4739895462989807,Miss,43:17,Left footed,C. Archer
+0,0.4437427222728729,Miss,6:11,Right footed,K. Mitoma
+0,0.1617630571126938,Miss,65:37,Header,G. Rutter
+1,0.15246538817882538,Miss,58:11,Right footed,A. Armstrong
+0,0.12139710783958435,Goal,28:16,Header,K. Mitoma
+0,0.1198868528008461,Miss,23:50,Header,D. Welbeck
+0,0.1028338298201561,Miss,73:27,Header,L. Dunk
+0,0.1010785922408104,Miss,72:45,Right footed,G. Rutter
+1,0.08988934755325317,Miss,58:06,Right footed,A. Armstrong
+1,0.08217577636241913,Goal,58:13,Right footed,F. Downes
+0,0.07925144582986832,Miss,86:56,Right footed,Y. Ayari
+0,0.07891134172677994,Miss,75:02,Header,M. Wieffer
+0,0.06978009641170502,Miss,61:31,Left footed,D. Welbeck
+1,0.05781703442335129,Miss,16:54,Right footed,C. Archer
+0,0.04863825440406799,Miss,15:27,Left footed,G. Rutter
+1,0.04363659396767616,Miss,6:01,Right footed,Mateus Fernandes
+0,0.0425797738134861,Miss,50:40,Left footed,G. Rutter
+1,0.04020019993185997,Miss,37:55,Right footed,Mateus Fernandes
+0,0.04019032046198845,Miss,8:29,Left footed,G. Rutter
+0,0.037797339260578156,Miss,38:16,Header,G. Rutter
+0,0.03762675076723099,Miss,90+12:51,Header,J. van Hecke
+0,0.03643524646759033,Miss,45+2:08,Left footed,João Pedro
+1,0.034935202449560165,Miss,79:43,Left footed,T. Dibling
+0,0.029931243509054184,Miss,40:11,Right footed,João Pedro
+0,0.029437044635415077,Miss,3:51,Right footed,João Pedro
+0,0.025034446269273758,Miss,90+1:40,Header,S. Adingra
+1,0.021741582080721855,Miss,42:06,Left footed,R. Manning
+0,0.019496342167258263,Miss,55:45,Left footed,M. O'Riley
+0,0.0192571971565485,Miss,90+8:45,Right footed,J. van Hecke
+0,0.019158776849508286,Miss,21:12,Header,M. O'Riley
+0,0.01568678766489029,Miss,51:15,Left footed,P. Estupiñán
+1,0.01113426499068737,Miss,82:24,Left footed,T. Dibling

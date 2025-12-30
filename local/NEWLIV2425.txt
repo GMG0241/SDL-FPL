@@ -1,0 +1,33 @@
+1,0.4389770030975342,Goal,67:41,Right footed,Mohamed Salah
+0,0.4072830080986023,Miss,72:36,Right footed,J. Murphy
+0,0.3805510103702545,Miss,37:20,Right footed,A. Gordon
+0,0.2966863512992859,Goal,89:03,Left footed,F. Schär
+1,0.29641321301460266,Miss,78:36,Left footed,D. Núñez
+1,0.2667241394519806,Miss,63:57,Header,C. Jones
+0,0.24658945202827454,Goal,61:54,Right footed,A. Gordon
+1,0.22074081003665924,Goal,49:55,Right footed,C. Jones
+0,0.18765342235565186,Miss,22:26,Left footed,Bruno Guimarães
+1,0.12914571166038513,Goal,82:38,Left footed,Mohamed Salah
+0,0.08549775928258896,Miss,1:11,Right footed,S. Tonali
+0,0.08549166470766068,Miss,43:49,Header,Joelinton
+1,0.0846729651093483,Miss,90+1:13,Right footed,A. Mac Allister
+1,0.08358681201934814,Miss,13:52,Right footed,A. Mac Allister
+0,0.0833953320980072,Miss,59:34,Right footed,A. Gordon
+1,0.07277520000934601,Miss,52:41,Right footed,C. Gakpo
+1,0.07177161425352097,Miss,81:21,Right footed,Mohamed Salah
+0,0.06514246761798859,Miss,90+3:57,Right footed,A. Isak
+1,0.06451752781867981,Miss,14:32,Left footed,A. Mac Allister
+1,0.06031104177236557,Miss,78:35,Right footed,L. Díaz
+0,0.055149223655462265,Goal,34:11,Right footed,A. Isak
+1,0.053168222308158875,Miss,64:18,Right footed,D. Núñez
+0,0.04501695558428764,Miss,77:49,Right footed,A. Gordon
+1,0.04467695206403732,Miss,73:16,Right footed,C. Jones
+1,0.04239277169108391,Miss,24:51,Header,D. Núñez
+1,0.03708944842219353,Miss,13:50,Left footed,Mohamed Salah
+0,0.036143697798252106,Miss,71:48,Header,Joelinton
+0,0.03409786522388458,Miss,2:54,Left footed,L. Hall
+1,0.026349589228630066,Miss,24:02,Right footed,C. Gakpo
+0,0.02231793850660324,Miss,21:34,Right footed,J. Murphy
+0,0.02207692340016365,Miss,42:42,Right footed,Joelinton
+0,0.020299743860960007,Miss,39:06,Right footed,J. Murphy
+0,0.019796615466475487,Miss,61:26,Right footed,A. Gordon

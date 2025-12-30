@@ -1,0 +1,22 @@
+0,0.42429760098457336,Goal,89:59,Right footed,I. Ndiaye
+0,0.3960326313972473,Goal,45+1:33,Right footed,Beto
+0,0.39422520995140076,Miss,44:15,Right footed,A. Doucouré
+0,0.3285275101661682,Goal,0:10,Right footed,A. Doucouré
+0,0.24228911101818085,Miss,72:59,Right footed,J. Lindstrøm
+0,0.23782046139240265,Goal,5:49,Right footed,Beto
+0,0.22539818286895752,Miss,59:18,Header,J. Branthwaite
+1,0.09122950583696365,Miss,77:51,Header,W. Faes
+0,0.06407245248556137,Miss,69:25,Right footed,A. Doucouré
+1,0.052806973457336426,Miss,24:24,Right footed,J. Justin
+1,0.040633391588926315,Miss,72:04,Right footed,J. Ayew
+0,0.0405544750392437,Miss,38:46,Left footed,J. Garner
+1,0.039981234818696976,Miss,72:30,Right footed,P. Daka
+0,0.03827856481075287,Miss,10:38,Header,J. Tarkowski
+0,0.03386650234460831,Miss,74:48,Right footed,I. Ndiaye
+1,0.027444371953606606,Miss,90+3:47,Right footed,J. Ayew
+0,0.026703588664531708,Miss,88:34,Left footed,J. Harrison
+1,0.022707289084792137,Miss,90+2:46,Right footed,B. El Khannouss
+1,0.01888660527765751,Miss,24:27,Left footed,V. Kristiansen
+1,0.01789369061589241,Miss,80:35,Right footed,S. Mavididi
+1,0.015586397610604763,Miss,47:24,Left footed,B. El Khannouss
+0,0.012102705426514149,Miss,45:45,Right footed,I. Gueye

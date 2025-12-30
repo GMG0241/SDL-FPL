@@ -1,0 +1,23 @@
+1,0.5345103740692139,Miss,12:19,Right footed,Beto
+1,0.15553492307662964,Miss,10:53,Left footed,A. Doucouré
+0,0.14780062437057495,Goal,39:07,Right footed,M. Munetsi
+1,0.12478059530258179,Miss,71:45,Right footed,Beto
+0,0.10132618993520737,Miss,16:04,Header,M. Munetsi
+1,0.09801463782787323,Miss,11:53,Header,J. Branthwaite
+1,0.08804351091384888,Miss,82:59,Left footed,C. Alcaraz
+0,0.07843827456235886,Miss,37:46,Right footed,André
+1,0.07829715311527252,Miss,77:25,Header,J. Tarkowski
+1,0.06977509707212448,Miss,49:23,Left footed,A. Doucouré
+0,0.06453514099121094,Miss,15:17,Left footed,R. Aït-Nouri
+1,0.05981453135609627,Miss,6:18,Right footed,A. Doucouré
+0,0.03614013269543648,Miss,71:05,Right footed,J. Strand Larsen
+0,0.033136311918497086,Miss,88:38,Left footed,Pablo Sarabia
+0,0.03298278525471687,Miss,50:15,Left footed,João Gomes
+1,0.032609716057777405,Miss,89:17,Right footed,C. Alcaraz
+0,0.030773522332310677,Miss,51:52,Left footed,Pablo Sarabia
+1,0.029437044635415077,Goal,32:38,Left footed,J. Harrison
+0,0.02767214924097061,Miss,29:57,Right footed,M. Munetsi
+1,0.027439968660473824,Miss,55:20,Right footed,I. Gueye
+0,0.026577040553092957,Miss,34:59,Right footed,J. Bellegarde
+0,0.019513126462697983,Miss,16:35,Right footed,André
+1,0.018167829141020775,Miss,10:47,Right footed,J. Lindstrøm

@@ -1,0 +1,27 @@
+0,0.6453934907913208,Miss,58:34,Right footed,J. Zirkzee
+1,0.3531477749347687,Miss,33:35,Left footed,L. Trossard
+1,0.30444324016571045,Miss,90+1:22,Left footed,Gabriel Martinelli
+0,0.26208075881004333,Miss,90+2:50,Right footed,Bruno Fernandes
+0,0.19063933193683624,Miss,86:03,Left footed,R. Højlund
+1,0.16679203510284424,Miss,84:11,Left footed,L. Trossard
+0,0.1527499109506607,Miss,53:19,Right footed,N. Mazraoui
+1,0.14849413931369781,Miss,90+1:20,Left footed,M. Ødegaard
+1,0.13349787890911102,Miss,70:23,Left footed,M. Ødegaard
+1,0.09550593793392181,Miss,9:03,Left footed,Mikel Merino
+0,0.08565875887870789,Miss,77:02,Header,M. de Ligt
+1,0.07998260855674744,Miss,34:41,Left footed,M. Ødegaard
+1,0.0713672935962677,Goal,73:37,Right footed,D. Rice
+0,0.06621754914522171,Goal,45+1:38,Right footed,Bruno Fernandes
+1,0.06395550072193146,Miss,81:00,Right footed,Gabriel Martinelli
+1,0.05009394511580467,Miss,51:05,Right footed,D. Rice
+1,0.04357567057013512,Miss,65:13,Right footed,L. Trossard
+0,0.037295982241630554,Miss,14:22,Right footed,A. Garnacho
+0,0.035011015832424164,Miss,89:52,Left footed,A. Garnacho
+0,0.03301110118627548,Miss,77:44,Right footed,Bruno Fernandes
+1,0.03298171982169151,Miss,31:15,Right footed,L. Trossard
+1,0.030506499111652374,Miss,50:18,Left footed,M. Ødegaard
+1,0.029125787317752838,Miss,19:16,Left footed,M. Ødegaard
+1,0.023954976350069046,Miss,26:01,Right footed,T. Partey
+1,0.02109634503722191,Miss,90+4:33,Left footed,L. Trossard
+1,0.020934591069817543,Miss,45:41,Right footed,L. Trossard
+0,0.011214028112590313,Miss,47:38,Right footed,Casemiro

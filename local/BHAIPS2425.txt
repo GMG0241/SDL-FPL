@@ -1,0 +1,27 @@
+0,0.493079274892807,Miss,35:04,Right footed,K. Mitoma
+0,0.24173453450202942,Miss,35:05,Right footed,K. Mitoma
+1,0.20589326322078705,Miss,54:06,Right footed,L. Delap
+0,0.18235093355178833,Miss,35:03,Left footed,G. Rutter
+0,0.13283714652061462,Miss,48:05,Left footed,G. Rutter
+0,0.08676043897867203,Miss,80:09,Right footed,L. Dunk
+0,0.07991847395896912,Miss,52:20,Left footed,G. Rutter
+0,0.07469969987869263,Miss,48:44,Left footed,C. Baleba
+0,0.06758272647857666,Miss,90+3:16,Right footed,C. Baleba
+0,0.0666239857673645,Miss,51:56,Right footed,D. Welbeck
+0,0.06116415560245514,Miss,87:39,Right footed,E. Ferguson
+0,0.058878690004348755,Miss,90+1:30,Left footed,Y. Ayari
+0,0.05751528590917587,Miss,45:30,Right footed,D. Welbeck
+0,0.04589436948299408,Miss,68:33,Right footed,J. Enciso
+1,0.0385451503098011,Miss,72:12,Left footed,O. Hutchinson
+0,0.035098589956760406,Miss,3:08,Left footed,C. Baleba
+0,0.03403010219335556,Miss,81:45,Right footed,K. Mitoma
+0,0.03289834409952164,Miss,31:46,Header,D. Welbeck
+0,0.03261291980743408,Miss,87:26,Left footed,S. Adingra
+1,0.030332623049616814,Miss,69:20,Right footed,J. Clarke
+0,0.02956118807196617,Miss,90+1:32,Right footed,F. Kadıoğlu
+1,0.02907499670982361,Miss,76:01,Header,D. O'Shea
+1,0.02901209518313408,Miss,75:58,Header,D. O'Shea
+0,0.025927776470780373,Miss,45:49,Left footed,C. Baleba
+0,0.025688769295811653,Miss,80:48,Right footed,D. Welbeck
+0,0.024055909365415573,Miss,35:53,Right footed,Y. Ayari
+1,0.016952181234955788,Miss,76:00,Left footed,L. Davis

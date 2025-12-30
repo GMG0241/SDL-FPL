@@ -1,0 +1,30 @@
+0,0.7884,Goal,29:17,Right footed,E. Le Fée
+1,0.555221676826477,Miss,6:20,Right footed,Evanilson
+1,0.29527556896209717,Goal,6:24,Left footed,A. Adli
+1,0.290737509727478,Miss,23:12,Right footed,Evanilson
+0,0.1797892302274704,Miss,63:17,Right footed,B. Brobbey
+0,0.1240595206618309,Miss,90:05,Right footed,D. Ballard
+1,0.10211975127458572,Miss,18:08,Right footed,Evanilson
+0,0.08349268138408661,Miss,3:02,Right footed,C. Talbi
+1,0.07497229427099228,Miss,38:58,Left footed,M. Tavernier
+1,0.074611134827137,Miss,0:32,Left footed,M. Tavernier
+0,0.0716250091791153,Goal,68:56,Header,B. Brobbey
+1,0.06340501457452774,Miss,54:54,Left footed,A. Adli
+1,0.05360880866646767,Miss,82:28,Right footed,E. Ünal
+0,0.05204354226589203,Miss,4:59,Right footed,C. Talbi
+1,0.051736872643232346,Miss,84:52,Left footed,M. Tavernier
+1,0.044193532317876816,Miss,18:16,Left footed,A. Truffert
+1,0.04218196123838425,Miss,18:07,Left footed,A. Semenyo
+1,0.03646491467952728,Miss,45+7:00,Right footed,A. Scott
+0,0.03583211451768875,Miss,13:27,Left footed,B. Traoré
+0,0.03490401804447174,Miss,22:36,Right footed,W. Isidor
+1,0.03476348891854286,Miss,33:46,Right footed,A. Scott
+1,0.03428802639245987,Miss,78:19,Left footed,D. Brooks
+1,0.03144385665655136,Miss,88:23,Header,A. Semenyo
+1,0.03053748793900013,Goal,14:21,Right footed,T. Adams
+0,0.03052644245326519,Miss,45+5:57,Right footed,E. Le Fée
+1,0.030346620827913284,Miss,61:44,Left footed,A. Semenyo
+0,0.02921951562166214,Miss,38:07,Header,Reinildo Mandava
+0,0.023980677127838135,Goal,45:51,Left footed,B. Traoré
+0,0.02108124829828739,Miss,30:42,Left footed,B. Traoré
+1,0.0185011588037014,Miss,49:43,Header,B. Diakité

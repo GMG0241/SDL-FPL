@@ -1,0 +1,17 @@
+1,0.31136900186538696,Miss,71:03,Left footed,E. Nketiah
+1,0.18350724875926971,Miss,35:48,Left footed,J. Mateta
+1,0.1271757334470749,Miss,50:59,Right footed,E. Eze
+0,0.1041869968175888,Miss,57:14,Header,P. Onuachu
+0,0.09923058748245239,Miss,8:13,Left footed,Mateus Fernandes
+0,0.08363096415996552,Miss,17:02,Header,P. Onuachu
+0,0.06385519355535507,Goal,19:23,Header,P. Onuachu
+1,0.06232069432735443,Goal,90+1:04,Header,Matheus França
+0,0.06028923764824867,Miss,8:10,Left footed,K. Walker-Peters
+1,0.05898559093475342,Miss,32:37,Right footed,M. Guéhi
+0,0.04542222619056702,Miss,40:47,Right footed,P. Onuachu
+0,0.042728494852781296,Miss,23:50,Right footed,Mateus Fernandes
+1,0.04234278202056885,Miss,1:25,Right footed,J. Mateta
+1,0.0401308573782444,Miss,90+3:19,Right footed,E. Nketiah
+1,0.03881584480404854,Miss,64:39,Right footed,E. Eze
+1,0.019113807007670403,Miss,85:22,Left footed,Matheus França
+0,0.009437221102416515,Miss,68:39,Right footed,L. Ugochukwu

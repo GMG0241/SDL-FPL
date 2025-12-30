@@ -1,0 +1,19 @@
+1,0.41195523738861084,Goal,50:34,Right footed,M. Rashford
+0,0.2220565676689148,Miss,90+3:41,Right footed,Y. Ayari
+0,0.18659746646881104,Miss,35:28,Right footed,K. Mitoma
+0,0.18191687762737274,Miss,90+6:26,Right footed,Y. Ayari
+1,0.18116743862628937,Miss,76:22,Right footed,Marco Asensio
+1,0.17456816136837006,Goal,77:24,Left footed,Marco Asensio
+1,0.17238110303878784,Miss,8:12,Header,J. McGinn
+1,0.10639777034521103,Miss,11:44,Right footed,M. Rashford
+0,0.10498052090406418,Miss,62:15,Header,João Pedro
+0,0.09090747684240341,Miss,90+3:40,Right footed,S. Adingra
+0,0.0725097581744194,Miss,24:37,Right footed,S. Adingra
+1,0.06532031297683716,Miss,4:02,Header,E. Konsa
+1,0.0621948167681694,Goal,90+9:28,Right footed,D. Malen
+0,0.054709650576114655,Miss,41:15,Right footed,Y. Ayari
+0,0.04328190162777901,Miss,15:37,Right footed,K. Mitoma
+1,0.030356431379914284,Miss,20:41,Right footed,M. Cash
+0,0.02252851240336895,Miss,50:25,Header,J. van Hecke
+0,0.01805870793759823,Miss,54:15,Left footed,P. Estupiñán
+0,0.014680765569210052,Miss,88:28,Left footed,C. Baleba

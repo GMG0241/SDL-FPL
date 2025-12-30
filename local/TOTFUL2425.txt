@@ -1,0 +1,22 @@
+1,0.31935542821884155,Miss,35:07,Right footed,R. Jiménez
+0,0.2935233414173126,Goal,53:45,Right footed,B. Johnson
+1,0.21432143449783325,Miss,51:08,Right footed,A. Iwobi
+1,0.21292155981063843,Miss,49:04,Header,I. Diop
+1,0.1902008205652237,Miss,43:17,Right footed,R. Nelson
+0,0.1754135638475418,Miss,0:48,Right footed,Son Heung-Min
+0,0.1362248659133911,Miss,76:33,Right footed,J. Maddison
+1,0.134813129901886,Miss,52:50,Header,R. Jiménez
+1,0.12734214961528778,Miss,43:21,Right footed,R. Jiménez
+1,0.07684403657913208,Miss,36:03,Header,S. Berge
+0,0.07134460657835007,Miss,45:49,Right footed,J. Maddison
+1,0.06857295334339142,Miss,41:32,Right footed,A. Iwobi
+1,0.05557490140199661,Miss,20:02,Right footed,I. Diop
+1,0.05282796919345856,Miss,20:04,Left footed,C. Bassey
+1,0.047382064163684845,Miss,49:43,Right footed,K. Tete
+0,0.04484891518950462,Miss,23:54,Right footed,Pedro Porro
+1,0.029721545055508614,Goal,66:22,Left footed,T. Cairney
+1,0.029285771772265434,Miss,62:49,Right footed,A. Robinson
+0,0.024118084460496902,Miss,24:36,Left footed,Pedro Porro
+1,0.02226235345005989,Miss,11:54,Header,R. Jiménez
+0,0.01852567493915558,Miss,88:40,Header,R. Drăgușin
+0,0.011700715869665146,Miss,37:55,Header,R. Drăgușin

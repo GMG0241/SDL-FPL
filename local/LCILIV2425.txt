@@ -1,0 +1,33 @@
+1,0.3241691589355469,Miss,52:41,Right footed,C. Gakpo
+1,0.3069239854812622,Miss,2:33,Left footed,Mohamed Salah
+1,0.270199716091156,Miss,56:12,Left footed,K. Tsimikas
+1,0.2665956914424896,Miss,41:10,Right footed,Mohamed Salah
+1,0.20584996044635773,Miss,75:14,Left footed,Diogo Jota
+1,0.20237861573696136,Miss,75:13,Header,Mohamed Salah
+1,0.1858915239572525,Miss,75:12,Header,V. van Dijk
+1,0.1748427003622055,Miss,78:17,Header,Diogo Jota
+1,0.14548879861831665,Miss,59:13,Left footed,Mohamed Salah
+1,0.09935644268989563,Miss,54:23,Right footed,L. Díaz
+1,0.0896221250295639,Miss,79:59,Left footed,Mohamed Salah
+0,0.08623600006103516,Miss,82:07,Left footed,F. Buonanotte
+0,0.061331067234277725,Miss,90+5:33,Left footed,F. Buonanotte
+1,0.05666259676218033,Miss,62:55,Header,Diogo Jota
+1,0.04682061821222305,Miss,72:43,Right footed,H. Elliott
+1,0.045922983437776566,Miss,3:21,Right footed,R. Gravenberch
+0,0.04506635293364525,Miss,9:43,Left footed,W. Ndidi
+0,0.03696422651410103,Miss,37:29,Right footed,B. El Khannouss
+1,0.03518316522240639,Miss,27:41,Left footed,Mohamed Salah
+1,0.03059907630085945,Miss,22:34,Left footed,C. Bradley
+1,0.029825888574123383,Miss,45:58,Right footed,L. Díaz
+1,0.020193954929709435,Miss,8:48,Header,V. van Dijk
+1,0.020155835896730423,Miss,39:23,Header,I. Konaté
+1,0.01964031718671322,Miss,26:58,Right footed,D. Szoboszlai
+0,0.018992645666003227,Miss,65:58,Right footed,W. Ndidi
+1,0.017763102427124977,Miss,48:03,Right footed,D. Szoboszlai
+1,0.017399616539478302,Miss,81:01,Left footed,Diogo Jota
+1,0.016756577417254448,Miss,12:10,Right footed,I. Konaté
+1,0.014840611256659031,Goal,75:17,Left footed,T. Alexander-Arnold
+1,0.008115468546748161,Miss,10:05,Left footed,Mohamed Salah
+1,0.004920138046145439,Miss,40:12,Right footed,C. Gakpo
+1,0.0036333517637103796,Miss,36:19,Header,C. Gakpo
+1,0.002920142374932766,Miss,34:00,Header,I. Konaté

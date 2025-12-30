@@ -1,0 +1,21 @@
+0,0.27489224076271057,Miss,84:17,Right footed,J. Veltman
+0,0.25540369749069214,Goal,37:30,Left footed,Y. Minteh
+0,0.18617591261863708,Miss,77:22,Header,João Pedro
+0,0.16481511294841766,Miss,72:11,Left footed,K. Mitoma
+1,0.14439843595027924,Miss,34:27,Left footed,Pedro Neto
+0,0.13915270566940308,Miss,73:55,Right footed,João Pedro
+1,0.1258838027715683,Miss,17:27,Left footed,C. Palmer
+0,0.10307937115430832,Goal,62:14,Left footed,Y. Minteh
+0,0.08535391837358475,Miss,50:20,Right footed,G. Rutter
+1,0.08108735084533691,Miss,67:49,Header,T. Chalobah
+1,0.05948344245553017,Miss,40:23,Left footed,M. Gusto
+1,0.05910440534353256,Miss,70:50,Left footed,T. George
+0,0.04984074458479881,Miss,60:08,Left footed,C. Baleba
+0,0.04735712707042694,Goal,26:07,Right footed,K. Mitoma
+0,0.03495381399989128,Miss,84:23,Right footed,Y. Ayari
+0,0.033050842583179474,Miss,14:00,Header,D. Welbeck
+1,0.02989804558455944,Miss,3:02,Left footed,C. Palmer
+0,0.027801383286714554,Miss,90+2:27,Left footed,T. Lamptey
+1,0.023186786100268364,Miss,29:36,Left footed,Pedro Neto
+0,0.017858102917671204,Miss,28:11,Left footed,C. Baleba
+1,0.017173457890748978,Miss,31:24,Right footed,E. Fernández

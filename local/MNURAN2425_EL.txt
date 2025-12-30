@@ -1,0 +1,27 @@
+0,0.40590012073516846,Miss,35:39,Right footed,A. Diallo
+0,0.3758699893951416,Miss,65:32,Header,H. Maguire
+0,0.34189319610595703,Miss,80:15,Header,M. Ugarte
+0,0.32470467686653137,Miss,60:20,Left footed,A. Garnacho
+1,0.31732839345932007,Miss,8:56,Right footed,N. Raskin
+1,0.31658878922462463,Goal,87:55,Left footed,C. Dessers
+1,0.30654680728912354,Miss,82:37,Right footed,C. Dessers
+0,0.23900246620178223,Goal,90+1:37,Right footed,Bruno Fernandes
+0,0.21340176463127136,Miss,36:52,Right footed,J. Zirkzee
+0,0.14298859238624573,Miss,22:08,Right footed,A. Garnacho
+0,0.1419190913438797,Miss,51:09,Left footed,Bruno Fernandes
+0,0.13352619111537933,Miss,24:37,Header,J. Zirkzee
+0,0.1052,Miss,90+5:04,Right footed,A. Diallo
+1,0.09742261469364166,Miss,10:26,Left footed,R. Yılmaz
+1,0.09321818500757217,Miss,8:57,Left footed,R. Yılmaz
+0,0.0643402636051178,Miss,76:45,Right footed,A. Diallo
+1,0.055680710822343826,Miss,73:44,Left footed,Jefté
+1,0.0489,Miss,48:29,Left footed,B. Rice
+1,0.03773565962910652,Miss,10:34,Right footed,H. Igamane
+1,0.031011398881673813,Miss,74:36,Left footed,F. Curtis
+0,0.02996414341032505,Miss,2:19,Right footed,A. Garnacho
+0,0.02957344613969326,Miss,86:03,Right footed,A. Garnacho
+0,0.029040971770882607,Miss,15:16,Right footed,A. Garnacho
+0,0.025086872279644012,Miss,42:19,Left footed,Lisandro Martínez
+1,0.02293146587908268,Miss,37:55,Right footed,H. Igamane
+1,0.019204601645469666,Miss,49:38,Left footed,V. Černý
+0,0.017294714227318764,Miss,17:29,Left footed,Bruno Fernandes

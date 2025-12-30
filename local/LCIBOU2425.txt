@@ -1,0 +1,25 @@
+1,0.45290040969848633,Miss,71:30,Header,D. Ouattara
+0,0.4447039067745209,Miss,34:32,Left footed,J. Vardy
+1,0.30092853307724,Miss,90+3:15,Right footed,E. Ünal
+1,0.2593972384929657,Miss,52:28,Header,D. Ouattara
+0,0.2305256724357605,Goal,15:20,Left footed,F. Buonanotte
+1,0.19799436628818512,Miss,31:08,Left footed,A. Semenyo
+1,0.13417044281959534,Miss,90+1:14,Right footed,E. Ünal
+1,0.12389928102493286,Miss,26:15,Left footed,M. Tavernier
+1,0.11671926826238632,Miss,5:49,Header,M. Senesi
+1,0.11339103430509567,Miss,48:08,Header,I. Zabarnyi
+1,0.09347634017467499,Miss,51:44,Left footed,R. Christie
+1,0.0765267163515091,Miss,16:50,Left footed,J. Kluivert
+1,0.04800790920853615,Miss,59:40,Right footed,Evanilson
+1,0.04263424873352051,Miss,25:35,Left footed,R. Christie
+1,0.0423760823905468,Miss,89:59,Right footed,A. Semenyo
+1,0.037224456667900085,Miss,78:42,Header,Evanilson
+0,0.033784087747335434,Miss,22:00,Header,F. Buonanotte
+0,0.0324694886803627,Miss,7:46,Left footed,F. Buonanotte
+1,0.03041187860071659,Miss,16:48,Left footed,Evanilson
+0,0.029508424922823906,Miss,86:49,Left footed,A. Fatawu
+1,0.02631884627044201,Miss,89:55,Right footed,L. Sinisterra
+1,0.02369626611471176,Miss,77:39,Left footed,A. Semenyo
+1,0.02222420461475849,Miss,28:52,Right footed,J. Kluivert
+1,0.01979166641831398,Miss,75:33,Left footed,M. Tavernier
+0,0.014654417522251606,Miss,44:59,Right footed,J. Vardy

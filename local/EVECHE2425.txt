@@ -1,0 +1,17 @@
+0,0.5620766878128052,Miss,49:27,Left footed,J. Harrison
+1,0.31037670373916626,Miss,25:09,Right footed,N. Jackson
+1,0.30753326416015625,Miss,25:10,Header,M. Gusto
+0,0.288315087556839,Miss,75:53,Right footed,I. Ndiaye
+1,0.22990743815898895,Miss,30:51,Header,N. Jackson
+0,0.11078000068664551,Miss,37:36,Right footed,O. Mangala
+1,0.09233210235834122,Miss,21:53,Right footed,J. Sancho
+1,0.0845215693116188,Miss,65:31,Right footed,E. Fernández
+1,0.05607347562909126,Miss,74:14,Header,Pedro Neto
+1,0.04188111051917076,Miss,59:14,Left footed,C. Palmer
+1,0.03884764015674591,Miss,9:22,Left footed,Pedro Neto
+0,0.03776060789823532,Miss,17:09,Right footed,A. Young
+1,0.03668737784028053,Miss,2:21,Left footed,C. Palmer
+1,0.033703964203596115,Miss,30:53,Right footed,M. Gusto
+0,0.02742917276918888,Miss,85:29,Left footed,O. Mangala
+1,0.026595748960971832,Miss,30:02,Left footed,N. Jackson
+1,0.017518451437354088,Miss,61:15,Right footed,E. Fernández

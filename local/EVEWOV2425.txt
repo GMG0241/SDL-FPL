@@ -1,0 +1,19 @@
+1,0.5496792197227478,Miss,30:35,Right footed,J. Strand Larsen
+0,0.27363449335098267,Miss,19:37,Left footed,D. Calvert-Lewin
+0,0.16913363337516785,Miss,90+2:35,Left footed,J. Harrison
+0,0.10986854135990143,Miss,86:07,Right footed,J. Harrison
+0,0.10894712805747986,Miss,87:00,Right footed,J. Harrison
+1,0.09698063880205154,Miss,28:26,Right footed,J. Strand Larsen
+0,0.08090144395828247,Goal,32:27,Right footed,O. Mangala
+1,0.0734148845076561,Miss,7:25,Right footed,Matheus Cunha
+0,0.05187150463461876,Goal,9:28,Right footed,A. Young
+0,0.038232751190662384,Miss,79:02,Right footed,I. Ndiaye
+0,0.03584623709321022,Miss,42:23,Left footed,D. McNeil
+0,0.033322859555482864,Miss,43:12,Header,J. Tarkowski
+0,0.0330667570233345,Miss,56:16,Left footed,D. Calvert-Lewin
+0,0.031060274690389633,Miss,32:23,Left footed,V. Mykolenko
+0,0.029796035960316658,Miss,26:41,Left footed,D. McNeil
+0,0.024221863597631454,Miss,45+2:21,Right footed,A. Doucouré
+1,0.023285090923309326,Miss,4:50,Right footed,João Gomes
+1,0.02099905163049698,Miss,45+3:51,Left footed,Gonçalo Guedes
+1,0.01938025653362274,Miss,62:35,Right footed,Matheus Cunha

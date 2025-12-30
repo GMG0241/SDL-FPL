@@ -1,0 +1,13 @@
+0,0.18183906376361847,Miss,90+2:59,Right footed,Rodrigo Muniz
+1,0.1801547259092331,Miss,41:56,Header,M. de Ligt
+0,0.10597053170204163,Miss,87:55,Header,J. Andersen
+0,0.077962227165699,Miss,88:14,Right footed,Rodrigo Muniz
+0,0.07523105293512344,Miss,15:01,Right footed,E. Smith Rowe
+0,0.06249021738767624,Miss,74:27,Right footed,Adama Traoré
+0,0.05101838335394859,Miss,5:07,Left footed,A. Iwobi
+0,0.049439702183008194,Miss,37:37,Left footed,R. Jiménez
+1,0.04511177912354469,Miss,56:48,Right footed,Bruno Fernandes
+0,0.04019341245293617,Miss,18:19,Right footed,A. Iwobi
+0,0.026741139590740204,Miss,36:21,Right footed,R. Jiménez
+1,0.015457999892532825,Goal,77:27,Left footed,Lisandro Martínez
+1,0.013949156738817692,Miss,49:03,Right footed,Bruno Fernandes

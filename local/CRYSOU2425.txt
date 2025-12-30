@@ -1,0 +1,26 @@
+1,0.5618632435798645,Goal,14:01,Left footed,T. Dibling
+0,0.417583167552948,Miss,36:47,Right footed,D. Muñoz
+0,0.24231597781181335,Goal,30:26,Header,T. Chalobah
+0,0.2066527158021927,Miss,29:51,Right footed,J. Mateta
+0,0.20172008872032166,Miss,34:54,Right footed,I. Sarr
+0,0.13951349258422852,Miss,61:37,Right footed,I. Sarr
+1,0.12574860453605652,Miss,63:14,Left footed,Mateus Fernandes
+0,0.11024519801139832,Miss,69:10,Right footed,E. Eze
+1,0.10603174567222595,Miss,14:00,Left footed,A. Armstrong
+0,0.10427897423505783,Miss,9:19,Right footed,J. Mateta
+0,0.09775406867265701,Miss,35:36,Right footed,J. Lerma
+1,0.07563823461532593,Miss,42:52,Left footed,T. Dibling
+0,0.06605157256126404,Miss,0:33,Right footed,E. Eze
+0,0.06216266378760338,Miss,59:01,Right footed,E. Eze
+0,0.06109875068068504,Miss,90+1:24,Right footed,D. Muñoz
+0,0.05694015696644783,Miss,7:59,Right footed,E. Eze
+0,0.05269535258412361,Miss,8:27,Left footed,E. Eze
+0,0.04471210390329361,Miss,88:08,Right footed,D. Kamada
+0,0.04240632802248001,Goal,51:26,Right footed,E. Eze
+0,0.03969716653227806,Miss,10:52,Header,M. Lacroix
+0,0.03940650448203087,Miss,24:45,Right footed,J. Lerma
+0,0.0360419899225235,Miss,24:26,Left footed,D. Muñoz
+1,0.035232242196798325,Miss,19:40,Right footed,J. Bree
+1,0.019403500482439995,Miss,64:03,Header,P. Onuachu
+1,0.01746412180364132,Miss,48:00,Left footed,T. Harwood-Bellis
+0,0.010357833467423916,Miss,4:59,Right footed,I. Sarr

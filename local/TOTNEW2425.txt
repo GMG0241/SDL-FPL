@@ -1,0 +1,27 @@
+1,0.8886576294898987,Goal,37:17,Right footed,A. Isak
+1,0.5222938060760498,Miss,31:15,Left footed,A. Isak
+1,0.21265599131584167,Goal,5:42,Left footed,A. Gordon
+1,0.19245021045207977,Miss,90+4:30,Right footed,H. Barnes
+1,0.18693339824676514,Miss,20:30,Left footed,A. Gordon
+0,0.17175914347171783,Goal,3:23,Header,D. Solanke
+1,0.165105938911438,Miss,56:49,Right footed,A. Gordon
+0,0.13734441995620728,Miss,81:52,Right footed,B. Johnson
+0,0.13650156557559967,Miss,90+6:51,Header,D. Solanke
+1,0.12988464534282684,Miss,56:48,Right footed,S. Tonali
+0,0.11687751859426498,Miss,10:44,Right footed,D. Solanke
+0,0.07277536392211914,Miss,54:47,Right footed,B. Johnson
+0,0.07096637040376663,Miss,81:54,Left footed,Sergio Reguilón
+1,0.05520274490118027,Miss,50:48,Right footed,S. Tonali
+0,0.04525534063577652,Miss,75:31,Left footed,Pedro Porro
+1,0.04385742172598839,Miss,42:52,Right footed,A. Gordon
+0,0.04274116829037666,Miss,54:45,Right footed,P. Sarr
+1,0.038476891815662384,Miss,43:40,Left footed,Joelinton
+0,0.03758908808231354,Miss,10:49,Right footed,P. Sarr
+0,0.03534083440899849,Miss,90+3:33,Header,D. Solanke
+1,0.03464151546359062,Miss,90+5:19,Right footed,J. Willock
+0,0.03286731243133545,Miss,54:52,Right footed,D. Kulusevski
+1,0.03274466097354889,Miss,52:17,Header,S. Botman
+0,0.028916645795106888,Miss,80:39,Right footed,J. Maddison
+0,0.019141200929880142,Miss,27:36,Right footed,Pedro Porro
+1,0.012520012445747852,Miss,90+5:15,Header,D. Burn
+1,0.010287811048328876,Miss,27:17,Right footed,A. Gordon
