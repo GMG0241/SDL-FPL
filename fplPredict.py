@@ -715,15 +715,16 @@ for matchup in os.listdir(FILE_LOCATION):
 
     obj = {"home":TEAM_ID_TO_LONGNAME[homeTeamID], "away":TEAM_ID_TO_LONGNAME[awayTeamID]}
 
-    with open(rxgFile,"r") as f:
+    with open(rxgFile,"r", encoding="UTF-8") as f:
         lines = [line.replace("\n","") for line in f.readlines()]
     metaLines = lines[0].split(",")
     
     obj["scoreline"] = metaLines[1]
     obj["date"] = dt.strftime(dt.strptime(metaLines[2],"%d/%m/%y"),"%b %d, %Y")
+    obj["xGdata"] = ';'.join(lines[1:])
     obj["distribution"] = calculateStatsFromLines(lines[1:])
-
-
+    obj["home_cleanSheet"] = obj["distribution"]["awayXG"][0]
+    obj["away_cleanSheet"] = obj["distribution"]["homeXG"][0]
     gameStats.append(obj)
 
 #for each input
@@ -781,9 +782,9 @@ for i,prediction in enumerate(y):
     if modelInterpret("pg",prediction) == modelInterpret("pg",y_validate_pg[i]):
         count += 1
     absoluteError += abs(prediction - y_validate_pg[i])
-    squaredError += prediction**2 - y_validate_pg[i]**2
+    squaredError += (prediction - y_validate_pg[i])**2
 mae = absoluteError/len(y)
-mse = absoluteError/len(y)
+mse = squaredError/len(y)
 print(f"We validated our PG model on {len(y)} pieces of data. We found that the model accurately decided to predict whether a player would score a goal or not {count/len(y)*100}% of the time. The actual probability accuracy was a loss (MSE) of {mse} (RMSE: {mse**0.5}), and a MAE of {mae}")
 
 
