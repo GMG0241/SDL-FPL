@@ -444,7 +444,7 @@ def buildInputsCS(df, gameStats):
         eloData = getEloData(teamID)
         teamXInputs = []
         teamYInputs = []
-        for rollValue in range(ROLLING_SIZE_CS,max(df["GW"])+1):
+        for rollValue in range(ROLLING_SIZE_CS,len(teamStats)):
             games = teamStats[rollValue-ROLLING_SIZE_CS:rollValue]
             obj = {"X":[],"y":None}
             for i,game in enumerate(games):
@@ -713,7 +713,7 @@ for matchup in os.listdir(FILE_LOCATION):
     homeTeamID, awayTeamID = matchup.split(".rxg")[0].split("_")
 
 
-    obj = {"home":TEAM_ID_TO_LONGNAME[homeTeamID], "away":TEAM_ID_TO_LONGNAME[awayTeamID]}
+    obj = {"home":DATA_TO_MY_ABBRV[TEAM_ID_TO_LONGNAME[homeTeamID]], "away":DATA_TO_MY_ABBRV[TEAM_ID_TO_LONGNAME[awayTeamID]]}
 
     with open(rxgFile,"r", encoding="UTF-8") as f:
         lines = [line.replace("\n","") for line in f.readlines()]
@@ -777,6 +777,7 @@ y = model_PG.predict(np.array(X_validate_pg))
 absoluteError = 0
 squaredError = 0
 count = 0
+print(indexLookup_validate_pg[0])
 for i,prediction in enumerate(y):
     prediction = prediction[0]
     if modelInterpret("pg",prediction) == modelInterpret("pg",y_validate_pg[i]):
@@ -787,8 +788,20 @@ mae = absoluteError/len(y)
 mse = squaredError/len(y)
 print(f"We validated our PG model on {len(y)} pieces of data. We found that the model accurately decided to predict whether a player would score a goal or not {count/len(y)*100}% of the time. The actual probability accuracy was a loss (MSE) of {mse} (RMSE: {mse**0.5}), and a MAE of {mae}")
 
-
-
+X_validate_cs, y_validate_cs, indexLookup_validate_cs = buildInputsCS(validateDf, gameStats)
+y = model_CS.predict(np.array(X_validate_cs))
+absoluteError = 0
+squaredError = 0
+count = 0
+for i,prediction in enumerate(y):
+    prediction = prediction[0]
+    if modelInterpret("cs",prediction) == modelInterpret("cs",y_validate_cs[i]):
+        count += 1
+    absoluteError += abs(prediction - y_validate_cs[i])
+    squaredError += (prediction - y_validate_cs[i])**2
+mae = absoluteError/len(y)
+mse = squaredError/len(y)
+print(f"We validated our CS model on {len(y)} pieces of data. We found that the model accurately decided to predict whether there would be a clean sheet or not {count/len(y)*100}% of the time. The actual probability accuracy was a loss (MSE) of {mse} (RMSE: {mse**0.5}), and a MAE of {mae}")
 
 
 '''testNames = list(set(df["name"]))
