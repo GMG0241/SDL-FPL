@@ -8,6 +8,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.chrome.options import Options
 from webdriver_manager.chrome import ChromeDriverManager
+import time
 
 # Step 1: Scrape the initial page for links
 def scrape_links(url):
@@ -30,7 +31,7 @@ def extract_goal_info(urls):
 
     # Set up Selenium WebDriver
     options = Options()
-    options.add_argument('--headless')  # Run headless Chrome
+    #options.add_argument('--headless')  # Run headless Chrome
     driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()), options=options)
 
     for url in urls:
@@ -41,7 +42,7 @@ def extract_goal_info(urls):
 
         # Execute the JavaScript
         goal_info = driver.execute_script("""
-            let goalInfo = {"Home": [], "Away": []}
+            let goalInfo = {"Home": [], "Away": [], "homeName":document.getElementsByClassName("jsMatchHomeTeam")[0].children[0].children[1].children[0].children[0].children[0].innerHTML, "awayName":document.getElementsByClassName("jsMatchAwayTeam")[0].children[0].children[1].children[0].children[0].children[0].innerHTML, "matchDay":document.getElementsByClassName("jsmatchday")[0].children[0].innerHTML}
             let tables = document.getElementsByClassName("jsTblVerticalTimeLine");
             for (let i = 0; i < tables.length; i++) {
                 let events = tables[i].children[0].children;
@@ -73,7 +74,7 @@ def extract_goal_info(urls):
         """)
 
         goal_data.append(goal_info)
-
+        time.sleep(1)
     driver.quit()
     return goal_data
 
