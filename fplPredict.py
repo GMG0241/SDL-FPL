@@ -15,7 +15,7 @@ from mlxtend.frequent_patterns import apriori, association_rules
 from mlxtend.preprocessing import TransactionEncoder
 import matplotlib.pyplot as plt
 
-FILE = r"C:\Users\gabeg\Documents\Uni Work\Strategic Leadership\merged_gw.csv"
+FILE = r"C:\Users\gabeg\Documents\Uni Work\Strategic Leadership\FPL Code\merged_gw.csv"
 WAIT_TIME = 1 #seconds
 MY_ABBRV_TO_DATA = {"CHE":"Chelsea",
                     "EVE":"Everton",
@@ -324,7 +324,7 @@ def getTestSequence(unsplitArray: np.ndarray, testArray: np.ndarray):
         indexes.append(unsplitArray.index(item))
     return indexes
 
-def trainModelCS(X,y):
+def trainModelCS(X,y, graph=False):
 
     X = np.array(X)
     y = np.array(y)
@@ -358,22 +358,23 @@ def trainModelCS(X,y):
     model.save_weights(f"fpl_wdl_model_cs.weights.h5")'''
     MARGIN_OF_ERROR = 0.1
     model_CS.load_weights(f"fpl_wdl_model_cs.weights.h5")
-    return model_CS, indexes
-    predictions = model_CS.predict(xTest)
-    count = 0
-    boxWhiskersInput = []
-    for i, prediction in enumerate(predictions):
-        if abs(prediction[0] - yTest[i]) <= MARGIN_OF_ERROR:
-            count += 1
-        boxWhiskersInput.append(prediction[0] - yTest[i])
-    print(count/len(predictions))
+    if graph:
+        predictions = model_CS.predict(xTest)
+        count = 0
+        boxWhiskersInput = []
+        for i, prediction in enumerate(predictions):
+            if abs(prediction[0] - yTest[i]) <= MARGIN_OF_ERROR:
+                count += 1
+            boxWhiskersInput.append(prediction[0] - yTest[i])
+        print(count/len(predictions))
 
-    plt.boxplot(boxWhiskersInput, vert=False)
-    plt.title("Boxplot of 'Model Predicted Clean Sheet - Actual Clean Sheet Probability'")
-    plt.xlabel("Probability difference between model prediction and actual clean sheet probabilities")
-    plt.vlines([0],0.925,1.074, label="Target Value", colors=["r"])
-    plt.legend()
-    plt.show()
+        plt.boxplot(boxWhiskersInput, vert=False)
+        plt.title("Boxplot of 'Model Predicted Clean Sheet - Actual Clean Sheet Probability'")
+        plt.xlabel("Probability difference between model prediction and actual clean sheet probabilities")
+        plt.vlines([0],0.925,1.074, label="Target Value", colors=["r"])
+        plt.legend()
+        plt.show()
+    return model_CS, indexes
 
 def buildInputsPG(playerNames, df):
     ROLLING_SIZE_PG = 11
@@ -616,10 +617,10 @@ def monteCarlo(df, modelInfos: dict, numIterations=10000, iterOutputNumber=0,loa
 
     return cs, pg
 
-def percentages(percs, graph=False):
+def percentages(percs, graph=False, title=""):
     
     if graph:
-        plt.title("Histogram of the percentage chance of an event occuring")
+        plt.title(f"Histogram of the percentage chance of {title} occuring")
         plt.hist(percs,10,density=True)
         plt.show()
     avgVal = sum(percs)/len(percs)
@@ -629,7 +630,7 @@ def percentages(percs, graph=False):
     return res.confidence_interval
 
 def assistsApriori(assistDf:pd.DataFrame):
-    teams = set(assistDf["Home Team"])
+    teams = set(list(assistDf["Home Team"])+list(assistDf["Away Team"]))
     teamRules = {}
     total = 0
     for team in teams:
@@ -650,7 +651,15 @@ def assistsApriori(assistDf:pd.DataFrame):
         te = TransactionEncoder()
         teArray = te.fit(l).transform(l)
         encodedDf = pd.DataFrame(teArray,columns=te.columns_)
+        if len(l) == 0:
+            print(f"Warning, team {team} has no scorer/assists")
+            print(df)
+            continue
         frequentItems = apriori(encodedDf, min_support=2/len(l), use_colnames=True)
+        if len(frequentItems) == 0:
+            print(f"Warning, team {team} has been skipped due to not having enough frequent items")
+            total += len(l)
+            continue
         rules = association_rules(frequentItems, metric="confidence", min_threshold=0.1)
         rules = rules[(rules["antecedents"].apply(lambda row: len(list(row)[0]) > 0))] #remove rules where there is no scorer
         rules = rules.rename(columns={"antecedents":"scorer","consequents":"assister"})
@@ -661,6 +670,47 @@ def assistsApriori(assistDf:pd.DataFrame):
         raise Exception(f"Expected {len(assistDf)} total goals but actually used {total} goals")
     
     return teamRules
+
+def predictAssist(aprioriAssists, playerDf, pgModel):
+    players2425 = set(playerDf.loc[(playerDf["GW"] <= 38),"name"])
+    players2526 = set(playerDf.loc[(playerDf["GW"] > 38),"name"])
+    acceptableNames = players2526.union(players2425.intersection(players2526))
+    playerDf = playerDf[playerDf["name"].isin(acceptableNames)].reset_index(drop=True)
+    players = set(playerDf["name"])
+    X, y, indexVal = buildInputsPG(players,playerDf)
+    pgModelPredictions = pgModel.predict(np.array(X))
+    gameWeekPredictions = {}
+    playerCounter = {}
+    print(len(acceptableNames))
+    print(acceptableNames)
+    print(len(X))
+    print(len(playerDf))
+    count = 0
+    for i, result in enumerate(pgModelPredictions):
+        player = indexVal[i]["name"]
+        print(player)
+        gw = playerCounter.get(player,0)
+        currentAssistsApriori = aprioriAssists[gw]
+        #print(currentAssistsApriori.keys())
+
+        if modelInterpret("pg",result):
+            count += 1
+            teamName = playerDf[playerDf["name"] == player]["team"].iloc[0].replace("Brighton","Brighton & Hove Albion").replace("Man Utd","Manchester United").replace("Man City","Manchester City").replace("Wolverhampton","Wolverhampton Wanderers").replace("Bournemouth","AFC Bournemouth").replace("Tottenham","Tottenham Hotspur").replace("AVL","Aston Villa").replace("Newcastle","Newcastle United").replace("West Ham","West Ham United").replace("MUN","Manchester United").replace("CRY","Crystal Palace").replace("BRE","Brentford").replace("Nott'm Forest", "Nottingham Forest").replace("Wolves","Wolverhampton Wanderers").replace("Leeds", "Leeds United").replace("Spurs","Tottenham Hotspur")
+            if teamName == "Ipswich" or teamName == "Southampton" or teamName == "Leicester":
+                continue
+            rules = currentAssistsApriori[teamName]["rules"]
+            candidates = rules[rules["scorer"] == player]
+            if len(candidates) == 0:
+                predictedAssister = rules.sort_values(by="consequent support", ascending=False).iloc[0]["assister"]
+            else:
+                predictedAssister = candidates.sort_values(by="confidence", ascending=False).iloc[0]["assister"]
+            existing = gameWeekPredictions.get(gw, [])
+            existing.append(predictedAssister)
+            gameWeekPredictions[gw] = existing
+        playerCounter[player] = gw+1
+    print(count, len(pgModelPredictions))
+    return gameWeekPredictions
+
 #sanitise2425Df()
 
 df = pd.read_csv("sanitised_gws.csv")
@@ -678,9 +728,41 @@ dfCombined = pd.concat([df.copy(),df2526],axis=0).reset_index()
 
 assistDf2425 = pd.read_excel("Soccer-Stats-Premier-League-2024-2025_20250526.xlsx",sheet_name="PlaysExport")
 assistDf2425 = assistDf2425.drop_duplicates(subset=["Play Description"])
+assistDf2425["GW"] = assistDf2425.apply(lambda row: row["no"] // 10 + 1, axis=1)
 assistDf2425["assists"] = assistDf2425.apply(lambda row: re.sub(rf"Goal\! .*? \d+, .*? \d+\. (.*?\s?.*?) \((.*?)\).*?\.(?:\sAssisted by (.*?)(?:[\.]|Goal.*|\s[a-z].*))?(?:Goal awarded following VAR Review.)?",r"\1_\3_\2",row["Play Description"]) if "Goal!" in row["Play Description"] else None, axis=1)
 assistDf2425 = assistDf2425[~assistDf2425["assists"].isnull()]
-print(len(assistDf2425))
+
+with open("2526Assists.json","r") as f:
+    assistObj2526 = json.load(f)
+    for fixture in assistObj2526:
+        fixture["homeName"] = fixture["homeName"].replace("Brighton","Brighton & Hove Albion").replace("Man Utd","Manchester United").replace("Man City","Manchester City").replace("Wolverhampton","Wolverhampton Wanderers").replace("Bournemouth","AFC Bournemouth").replace("Tottenham","Tottenham Hotspur").replace("AVL","Aston Villa").replace("Newcastle","Newcastle United").replace("West Ham","West Ham United").replace("MUN","Manchester United").replace("CRY","Crystal Palace").replace("BRE","Brentford")
+        fixture["awayName"] = fixture["awayName"].replace("Brighton","Brighton & Hove Albion").replace("Man Utd","Manchester United").replace("Man City","Manchester City").replace("Wolverhampton","Wolverhampton Wanderers").replace("Bournemouth","AFC Bournemouth").replace("Tottenham","Tottenham Hotspur").replace("AVL","Aston Villa").replace("Newcastle","Newcastle United").replace("West Ham","West Ham United").replace("MUN","Manchester United").replace("CRY","Crystal Palace").replace("BRE","Brentford")
+assistDf2526 = {"Home Team":[],"Away Team":[],"assists":[], "GW":[]}
+for fixture in assistObj2526:
+    for assist in fixture["Home"]:
+        assistDf2526["Home Team"].append(fixture["homeName"])
+        assistDf2526["Away Team"].append(fixture["awayName"])
+        assistDf2526["GW"].append(int(fixture["matchDay"].split(" ")[-1])+38)
+        assistDf2526["assists"].append(f"{assist["goal"]}_{assist["assist"]}_{fixture["homeName"]}")
+    for assist in fixture["Away"]:
+        assistDf2526["Home Team"].append(fixture["homeName"])
+        assistDf2526["Away Team"].append(fixture["awayName"])
+        assistDf2526["GW"].append(int(fixture["matchDay"].split(" ")[-1])+38)
+        assistDf2526["assists"].append(f"{assist["goal"]}_{assist["assist"]}_{fixture["awayName"]}")
+
+assistDf2526 = pd.DataFrame(assistDf2526)
+assistDf2425 = assistDf2425[["Home Team","Away Team","assists","GW"]]
+assistDfCombined = pd.concat([assistDf2425,assistDf2526],ignore_index=True)
+
+
+ASSIST_SLICE_NUMBER = 38
+assistDfs = []
+for i in range(max(assistDfCombined["GW"])-ASSIST_SLICE_NUMBER+1):
+    slicedDf = assistDfCombined[(assistDfCombined["GW"] > i) & (assistDfCombined["GW"] <= i+ASSIST_SLICE_NUMBER)]
+    assistDfs.append(assistsApriori(slicedDf))
+
+
+exit()
 '''goals = {}
 DELIMITER = "___"
 for i in range(len(assistDf2425)):
@@ -696,7 +778,7 @@ for fixture in goals:
 
 teamRules = assistsApriori(assistDf2425)
 
-SCRAPED_GAMES = r"C:\Users\gabeg\Documents\Accurate xG\OptaScrape\xgDataScraped_pl.txt"
+SCRAPED_GAMES = r"C:\Users\gabeg\Documents\Uni Work\Strategic Leadership\FPL Code\xgDataScraped_pl.txt"
 gameStats = []
 with open(SCRAPED_GAMES,"r", encoding="UTF-8") as f:
     for line in f.readlines():
@@ -742,8 +824,8 @@ gameStats = sorted(gameStats,key=lambda obj: dt.strptime(obj["date"],"%b %d, %Y"
 csPercs = sum([[matchObj["distribution"]["homeXG"][0],matchObj["distribution"]["awayXG"][0]] for matchObj in gameStats],[])
 pgPercs = sum([[1 - playerObj[0] for playerObj in matchObj["distribution"]["playerData"].values()] for matchObj in gameStats], [])
 
-csIntervals = percentages(csPercs)
-pgIntervals = percentages(pgPercs)
+csIntervals = percentages(csPercs,False,title="Clean Sheets")
+pgIntervals = percentages(pgPercs,False,title="player Goals")
 
 X_CS, y_CS, indexLookup_CS = buildInputsCS(df,gameStats)
 print(len(X_CS))
@@ -752,13 +834,13 @@ for array in X_CS:
     if len(array) != length:
         print(len(array), length, array)
         length = len(array)
-model_CS, indexes_CS = trainModelCS(X_CS,y_CS)
+model_CS, indexes_CS = trainModelCS(X_CS,y_CS,False)
 
 
 playerNames = set(df["name"])
 X_PG, y_PG, indexLookup_PG = buildInputsPG(playerNames, df)
 
-model_PG, indexes_PG = trainModelPG(X_PG,y_PG)
+model_PG, indexes_PG = trainModelPG(X_PG,y_PG,False)
 NUM_CARLO_ITERS = 10000
 cs, pg = monteCarlo(df,{"cs":{"model":model_CS,"indexes":indexes_CS,"indexLookup":indexLookup_CS,"X":X_CS},"pg":{"model":model_PG,"indexes":indexes_PG,"indexLookup":indexLookup_PG,"X":X_PG}},NUM_CARLO_ITERS,max(int(NUM_CARLO_ITERS/100),1), True)
 
@@ -770,7 +852,7 @@ print(f"The player goals model was simulated and the percentage of the players t
 #determine how well the pg model does at predicting clean sheets vs the cs model
 #for each player in the team, calculate their goal scoring chance, and their assist chance
 
-validateDf = dfCombined[dfCombined["GW"] >= 29].copy()
+validateDf = dfCombined[dfCombined["GW"] >= 29].copy() #25/26 data
 
 X_validate_pg, y_validate_pg, indexLookup_validate_pg = buildInputsPG(set(validateDf["name"]), validateDf)
 y = model_PG.predict(np.array(X_validate_pg))
@@ -780,7 +862,7 @@ count = 0
 print(indexLookup_validate_pg[0])
 for i,prediction in enumerate(y):
     prediction = prediction[0]
-    if modelInterpret("pg",prediction) == modelInterpret("pg",y_validate_pg[i]):
+    if modelInterpret("pg",prediction) == round(y_validate_pg[i]):
         count += 1
     absoluteError += abs(prediction - y_validate_pg[i])
     squaredError += (prediction - y_validate_pg[i])**2
@@ -795,7 +877,7 @@ squaredError = 0
 count = 0
 for i,prediction in enumerate(y):
     prediction = prediction[0]
-    if modelInterpret("cs",prediction) == modelInterpret("cs",y_validate_cs[i]):
+    if modelInterpret("cs",prediction) == round(y_validate_cs[i]):
         count += 1
     absoluteError += abs(prediction - y_validate_cs[i])
     squaredError += (prediction - y_validate_cs[i])**2
@@ -803,6 +885,11 @@ mae = absoluteError/len(y)
 mse = squaredError/len(y)
 print(f"We validated our CS model on {len(y)} pieces of data. We found that the model accurately decided to predict whether there would be a clean sheet or not {count/len(y)*100}% of the time. The actual probability accuracy was a loss (MSE) of {mse} (RMSE: {mse**0.5}), and a MAE of {mae}")
 
+'''gwPredicts = predictAssist(assistDfs,validateDf,model_PG)
+for gw, predicts in gwPredicts.items():
+    assists = assistDf2526[assistDf2526["GW"] == gw]
+    print(assists)
+    print(predicts)'''
 
 '''testNames = list(set(df["name"]))
 
